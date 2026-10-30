@@ -279,7 +279,7 @@ function renderCatalog() {
   if (favorites || good) $("watchlist-types").innerHTML = [
     ["all", "Все"], ["film", "Фильмы"], ["series", "Сериалы"],
   ].map(([type, label]) => `<button type="button" class="chip ${type === watchlistType ? "active" : ""}" data-watchlist-type="${type}" aria-pressed="${type === watchlistType}">${label}</button>`).join("");
-  $("profile-sync").hidden = !good && !favorites;
+  $("profile-sync").hidden = false;
   $("catalog-sort-control").hidden = false;
   $("papich-score-control").hidden = collection || filter !== "papich";
   const min = Number($("papich-min-score").value);
@@ -1471,7 +1471,7 @@ async function init() {
     if (!manuallyPaused.has(current()?.rank)) restorePlayback();
   }, { passive: true });
   // Start both requests together; do not reveal a stale local catalog before the profile merge.
-  const initialProfile = fetch("/api/profile", { signal: AbortSignal.timeout(3500), credentials: "same-origin" });
+  const initialProfile = ProfileSync.request({ signal: AbortSignal.timeout(3500) });
   initialProfile.catch(() => {});
   const savedPapichMin = Number(storage.getItem("dc-papich-min-score"));
   $("papich-min-score").value =
@@ -1841,7 +1841,10 @@ async function init() {
     }
     navigate(route(), false);
   };
+  ProfileSync.mount(cloudProfile);
   await cloudProfile.start(initialProfile);
+  setInterval(() => { if (!document.hidden) cloudProfile.ready ? cloudProfile.pull() : (ProfileSync.config() && cloudProfile.start()); }, 15000);
+  window.addEventListener("focus", () => { if (ProfileSync.config()) cloudProfile.ready ? cloudProfile.pull() : cloudProfile.start(); });
   engine.freezeRecommendations();
   applySound();
   navigate(route(), false);

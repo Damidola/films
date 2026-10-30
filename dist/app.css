@@ -1484,3 +1484,18 @@ body.booting > :not(#app-loading) { visibility: hidden !important; }
   .watched-feedback svg { width: 18px; height: 18px; }
   .feed-tools .smallbtn { min-height: 32px; padding: 5px 8px; }
 }
+.sync-dialog { width: min(460px, calc(100vw - 28px)); max-height: 90dvh; padding: 20px; border: 1px solid var(--line); border-radius: 14px; background: var(--surface); color: var(--white); }
+.sync-dialog::backdrop { background: #000a; }
+.sync-dialog form { display: grid; gap: 14px; }
+.sync-dialog p { margin: 0; font-size: 13px; color: var(--muted); }
+.sync-heading { display: flex; justify-content: space-between; align-items: center; }
+.sync-heading h2 { font-size: 20px; }
+.sync-heading button { font-size: 26px; }
+.sync-dialog label { display: grid; gap: 6px; font-size: 13px; }
+.sync-dialog input:not([hidden]), .sync-dialog textarea { width: 100%; padding: 10px; background: var(--bg); border: 1px solid var(--line); border-radius: 7px; color: var(--white); font: inherit; }
+.sync-dialog details { font-size: 13px; }
+.sync-dialog details > *:not(summary) { margin-top: 12px; }
+.sync-buttons { display: flex; gap: 8px; flex-wrap: wrap; }
+.sync-buttons button, .sync-import { border: 1px solid var(--line); border-radius: 7px; padding: 10px 12px; cursor: pointer; font-size: 12px; background: var(--raised); }
+.sync-dialog hr { border: 0; border-top: 1px solid var(--line); width: 100%; }
+.profile-sync[role="button"]:hover { color: var(--accent); text-decoration: underline; }

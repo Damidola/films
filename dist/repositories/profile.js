@@ -37,13 +37,13 @@
     }
     status(text) {
       const box = document.getElementById("profile-sync");
-      if (box) box.textContent = text;
+      if (box) box.textContent = root.ProfileSync && !root.ProfileSync.config() ? "Только этот браузер · Настроить синхронизацию" : text;
     }
     async request(options) {
       const controller = new AbortController(),
-        timer = setTimeout(() => controller.abort(), 5000);
+        timer = setTimeout(() => controller.abort(), 10000);
       try {
-        return await this.fetchFn("/api/profile", {
+        return await (root.ProfileSync ? root.ProfileSync.request.bind(root.ProfileSync) : (options) => this.fetchFn("/api/profile", options))({
           ...options,
           signal: controller.signal,
           credentials: "same-origin",
@@ -115,6 +115,17 @@
         this.status("Нет связи · сохранено локально");
       }
     }
+    async pull() {
+      if (!this.ready || this.inFlight) return;
+      if (this.dirty) await this.flush();
+      try {
+        const response = await this.request();
+        if (!response.ok) throw Error("profile-read");
+        const data = await response.json();
+        if (!Array.isArray(data.records)) throw Error("profile-schema");
+        if (this.merge(data.records)) this.onRemote();
+      } catch { this.status("Нет связи · сохранено локально"); }
+    }
     changed() {
       if (!this.ready) return;
       const fingerprint = JSON.stringify(this.records());
@@ -122,7 +133,7 @@
       this.dirty = true;
       this.status("Сохраняю отметки…");
       clearTimeout(this.timer);
-      this.timer = setTimeout(() => this.flush(), 400);
+      this.timer = setTimeout(() => this.flush(), 1200);
     }
     async flush() {
       if (!this.ready || this.inFlight || !this.dirty) return;
@@ -139,6 +150,8 @@
           keepalive: true,
         });
         if (!response.ok) throw Error("profile-write");
+        const result = await response.json();
+        if (Array.isArray(result.records) && this.merge(result.records)) this.onRemote();
         this.lastSent = fingerprint;
         this.status("Отметки синхронизированы");
       } catch {
