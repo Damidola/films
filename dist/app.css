@@ -1422,28 +1422,36 @@ body.booting > :not(#app-loading) { visibility: hidden !important; }
 .original-title { color: #a5a5a0; font-size: 12px; line-height: 1.35; font-weight: 400; overflow-wrap: anywhere; margin: 0; }
 .feed-title .original-title { font-size: 13px; }
 
-/* Desktop uses a compact top navigation; the bottom dock is for touch screens. */
+/* Desktop sidebar; phones keep the bottom navigation. */
 @media (min-width: 1000px) {
-  body:not(.is-feed) { grid-template-rows: 64px minmax(0, 1fr); }
-  body > header, body.is-feed > header {
-    display: flex; height: 64px; width: 100%; max-width: 1080px;
-    margin: 0 auto; padding: 0 20px;
+  body:not(.is-feed) {
+    grid-template-rows: minmax(0, 1fr); padding-left: 210px;
   }
+  body > header, body.is-feed > header {
+    position: fixed; display: flex; align-items: center;
+    top: 0; left: 0; width: 210px; height: 90px;
+    margin: 0; padding: 0 20px; z-index: 21;
+    background: var(--bg);
+  }
+  .brand { font-size: 12px; }
   body > header > .tiny { display: none; }
   html body:not(.is-feed) > .nav, html body.is-feed > .nav {
-    position: fixed; top: 8px; bottom: auto; left: auto;
-    right: max(20px, calc((100vw - 1080px) / 2 + 20px));
-    width: min(600px, calc(100vw - 350px)); height: 48px;
-    display: flex; justify-content: flex-end; gap: 6px;
-    padding: 0; border: 0;
+    position: fixed; top: 0; bottom: 0; left: 0; right: auto;
+    width: 210px; height: 100dvh; display: flex; flex-direction: column;
+    justify-content: flex-start; gap: 8px; padding: 100px 12px 20px;
+    border: 0; border-right: 1px solid var(--line);
   }
-  .nav a { flex-direction: row; gap: 8px; padding: 10px 16px; font-size: 13px; border-radius: 8px; }
-  .nav svg { width: 20px; height: 20px; }
+  .nav a {
+    flex-direction: row; justify-content: flex-start; flex: 0 0 auto;
+    gap: 12px; padding: 14px 12px; min-height: 48px;
+    font-size: 13px; border-radius: 8px;
+  }
+  .nav svg { width: 21px; height: 21px; }
   .nav a:hover, .nav a.active { background: var(--surface); }
   body:not(.is-feed) > .catalog {
-    grid-row: 2; scrollbar-width: thin; scrollbar-color: var(--line) transparent;
-    padding-bottom: 24px;
+    grid-row: 1; max-width: 1400px; padding: 28px 32px;
+    scrollbar-width: thin; scrollbar-color: var(--line) transparent;
   }
-  body.is-feed > .feed { inset: 64px 0 0; }
+  body.is-feed > .feed { inset: 0 0 0 210px; }
   .toast { bottom: 24px; }
 }
