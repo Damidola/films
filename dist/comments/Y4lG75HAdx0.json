@@ -1,0 +1,21 @@
+{
+  "videoId": "Y4lG75HAdx0",
+  "videoTitle": "The Girlfriend Experience Trailer | Season 1",
+  "videoChannel": "Stan Australia",
+  "videoUrl": "https://www.youtube.com/watch?v=Y4lG75HAdx0",
+  "fetchedAt": "2026-10-16T18:55:32+00:00",
+  "source": "https://www.youtube-nocookie.com/youtubei/v1/next",
+  "sourceType": "youtube-direct",
+  "order": "top",
+  "status": "ok",
+  "total": 0,
+  "comments": [],
+  "evidence": {
+    "initialSha256": "a0e4d1464380d4ee2fd6fa24dc8a52ec311b12a2a77f934f6cd53d22197c752d",
+    "continuationSha256": "807124ca18fb2ffb854cb2dae156f7b6722b2ecbce98dea37c5b9ee3ee51bf38",
+    "requests": 2,
+    "cookies": false,
+    "authentication": false,
+    "datePrecision": "YouTube returns relative publishedTime; no exact timestamp is invented."
+  }
+}

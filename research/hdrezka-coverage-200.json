@@ -1,0 +1,49 @@
+{
+  "checkedAt": "2026-10-19T14:39:30.208Z",
+  "target": 200,
+  "withReviews": 200,
+  "withTwenty": 195,
+  "shorterThreads": [
+    {
+      "workId": 298,
+      "title": "Party Down",
+      "status": "ok",
+      "count": 16,
+      "cached": true,
+      "url": "https://hdrezka.me/series/comedy/13144-mastera-vecherinok-2009.html"
+    },
+    {
+      "workId": 319,
+      "title": "The Other Two",
+      "status": "ok",
+      "count": 11,
+      "cached": true,
+      "url": "https://hdrezka.me/series/comedy/29762-drugie-dvoe-2019-latest.html"
+    },
+    {
+      "workId": 355,
+      "title": "World's Greatest Dad",
+      "status": "ok",
+      "count": 13,
+      "cached": true,
+      "url": "https://hdrezka.me/films/comedy/7256-samyy-luchshiy-papa-2009.html"
+    },
+    {
+      "workId": 356,
+      "title": "Death to Smoochy",
+      "status": "ok",
+      "count": 13,
+      "cached": true,
+      "url": "https://hdrezka.me/films/thriller/10118-ubit-smuchi-2002.html"
+    },
+    {
+      "workId": 476,
+      "title": "Happyish",
+      "status": "ok",
+      "count": 16,
+      "cached": true,
+      "url": "https://hdrezka.me/series/drama/8148-tipa-schaste-2015.html"
+    }
+  ],
+  "missing": []
+}

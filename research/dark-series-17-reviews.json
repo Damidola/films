@@ -1,0 +1,162 @@
+{
+  "checkedAt": "2026-10-21T08:31:29.601Z",
+  "target": 17,
+  "processed": 17,
+  "withTwenty": 15,
+  "blocked": false,
+  "items": [
+    {
+      "workId": 202,
+      "title": "Lilyhammer",
+      "status": "ok",
+      "count": 20,
+      "url": "https://hdrezka.me/series/drama/1950-lillehammer-2012.html",
+      "basis": "exact-original-title-year",
+      "allAvailable": false
+    },
+    {
+      "workId": 591,
+      "title": "Guilt",
+      "status": "ok",
+      "count": 20,
+      "url": "https://hdrezka.me/series/thriller/32653-vina-2019.html",
+      "basis": "exact-original-title-year",
+      "allAvailable": false
+    },
+    {
+      "workId": 593,
+      "title": "Shut Eye",
+      "status": "ok",
+      "count": 20,
+      "url": "https://hdrezka.me/series/drama/22947-yasnovidec-2016.html",
+      "basis": "exact-original-title-year",
+      "allAvailable": false
+    },
+    {
+      "workId": 594,
+      "title": "Florida Man",
+      "status": "ok",
+      "count": 20,
+      "url": "https://hdrezka.me/series/detective/56171-chelovek-iz-floridy-2023.html",
+      "basis": "exact-original-title-year",
+      "allAvailable": false
+    },
+    {
+      "workId": 595,
+      "title": "The Sticky",
+      "status": "ok",
+      "count": 20,
+      "url": "https://hdrezka.me/series/comedy/75634-lipuchka-2024-latest.html",
+      "basis": "exact-original-title-year",
+      "allAvailable": false
+    },
+    {
+      "workId": 596,
+      "title": "Norsemen",
+      "status": "ok",
+      "count": 20,
+      "url": "https://hdrezka.me/series/comedy/28510-severyane-2016.html",
+      "basis": "exact-original-title-year",
+      "allAvailable": false
+    },
+    {
+      "workId": 597,
+      "title": "Entourage",
+      "status": "ok",
+      "count": 20,
+      "url": "https://hdrezka.me/series/comedy/1853-krasavcy-2004.html",
+      "basis": "exact-original-title-year",
+      "allAvailable": false
+    },
+    {
+      "workId": 598,
+      "title": "American Dad!",
+      "status": "ok",
+      "count": 20,
+      "url": "https://hdrezka.me/cartoons/comedy/1844-amerikanskiy-papasha-2005-latest.html",
+      "basis": "exact-original-title-year",
+      "allAvailable": false
+    },
+    {
+      "workId": 599,
+      "title": "My Name Is Earl",
+      "status": "ok",
+      "count": 20,
+      "url": "https://hdrezka.me/series/comedy/1902-menya-zovut-erl-2005.html",
+      "basis": "exact-original-title-year",
+      "allAvailable": false
+    },
+    {
+      "workId": 600,
+      "title": "Disenchantment",
+      "status": "ok",
+      "count": 20,
+      "url": "https://hdrezka.me/cartoons/fantasy/28231-razocharovanie-2018.html",
+      "basis": "exact-original-title-year",
+      "allAvailable": false
+    },
+    {
+      "workId": 601,
+      "title": "Fugget About It",
+      "status": "ok",
+      "count": 7,
+      "url": "https://hdrezka.me/cartoons/comedy/19115-dazhe-ne-dumay-2012.html",
+      "basis": "exact-original-title-year",
+      "allAvailable": true
+    },
+    {
+      "workId": 602,
+      "title": "The Boondocks",
+      "status": "ok",
+      "count": 20,
+      "url": "https://hdrezka.me/cartoons/action/7967-getto-2005.html",
+      "basis": "exact-original-title-year",
+      "allAvailable": false
+    },
+    {
+      "workId": 603,
+      "title": "Mike Tyson Mysteries",
+      "status": "ok",
+      "count": 13,
+      "url": "https://hdrezka.me/cartoons/fiction/29255-tayny-mayka-taysona-2014.html",
+      "basis": "exact-original-title-year",
+      "allAvailable": true
+    },
+    {
+      "workId": 604,
+      "title": "Love, Death & Robots",
+      "status": "ok",
+      "count": 20,
+      "url": "https://hdrezka.me/cartoons/fiction/30299-lyubov-smert-i-roboty-2019-latest.html",
+      "basis": "exact-original-title-year",
+      "allAvailable": false
+    },
+    {
+      "workId": 605,
+      "title": "Black Mirror",
+      "status": "ok",
+      "count": 20,
+      "url": "https://hdrezka.me/series/fiction/77-chernoe-zerkalo-2011-latest.html",
+      "basis": "exact-original-title-year",
+      "allAvailable": false
+    },
+    {
+      "workId": 606,
+      "title": "Dave",
+      "status": "ok",
+      "count": 20,
+      "url": "https://hdrezka.me/series/comedy/33874-deyv-2020.html",
+      "basis": "exact-original-title-year",
+      "allAvailable": false
+    },
+    {
+      "workId": 607,
+      "title": "Louie",
+      "status": "ok",
+      "count": 20,
+      "url": "https://hdrezka.me/series/comedy/1945-lui-2010.html",
+      "basis": "exact-original-title-year",
+      "allAvailable": false
+    }
+  ]
+}

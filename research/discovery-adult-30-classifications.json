@@ -1,0 +1,766 @@
+{
+  "Domina": {
+    "search": "https://www.bbfc.co.uk/search?q=Domina",
+    "checkedAt": "2026-10-19T09:41:14.385139+00:00",
+    "results": []
+  },
+  "The Tudors": {
+    "search": "https://www.bbfc.co.uk/search?q=The%20Tudors",
+    "checkedAt": "2026-10-19T09:41:14.617746+00:00",
+    "results": [
+      {
+        "_id": "68420c1972dc993174681758",
+        "id": "Q29sbGVjdGlvbjpWWC00NzAxMjU=",
+        "dataType": "release",
+        "classification": "15",
+        "imageUrl": null,
+        "title": "The Tudors (2007)",
+        "type": "TV Show",
+        "date": null,
+        "shortFormInsight": "Contains strong bloody violence and sexualised nudity",
+        "slug": "/release/the-tudors-q29sbgvjdglvbjpwwc00nzaxmju",
+        "sell": null
+      }
+    ]
+  },
+  "Borgia": {
+    "search": "https://www.bbfc.co.uk/search?q=Borgia",
+    "checkedAt": "2026-10-19T09:41:14.615079+00:00",
+    "results": [
+      {
+        "_id": "68420c2572dc9931746821f4",
+        "id": "Q29sbGVjdGlvbjpWWC00NjU1OTk=",
+        "dataType": "release",
+        "classification": "18",
+        "imageUrl": null,
+        "title": "Borgia (2011)",
+        "type": "TV Show",
+        "date": null,
+        "shortFormInsight": "strong bloody violence, sex, strong language",
+        "slug": "/release/borgia-q29sbgvjdglvbjpwwc00nju1otk",
+        "sell": null
+      }
+    ]
+  },
+  "Versailles": {
+    "search": "https://www.bbfc.co.uk/search?q=Versailles",
+    "checkedAt": "2026-10-19T09:41:14.300049+00:00",
+    "results": [
+      {
+        "_id": "68421e4372dc9931746ecff1",
+        "id": "Q29sbGVjdGlvbjpWWC0yMzA2MzI=",
+        "dataType": "release",
+        "classification": "15",
+        "imageUrl": null,
+        "title": "Versailles (2015)",
+        "type": "TV Show",
+        "date": null,
+        "shortFormInsight": "strong sex, bloody violence, nudity",
+        "slug": "/release/versailles-q29sbgvjdglvbjpwwc0ymza2mzi",
+        "sell": null
+      }
+    ]
+  },
+  "The Pillars of the Earth": {
+    "search": "https://www.bbfc.co.uk/search?q=The%20Pillars%20of%20the%20Earth",
+    "checkedAt": "2026-10-19T09:41:14.302133+00:00",
+    "results": [
+      {
+        "_id": "68420d1172dc99317468ab4e",
+        "id": "Q29sbGVjdGlvbjpWWC00MjUwMTM=",
+        "dataType": "release",
+        "classification": "15",
+        "imageUrl": null,
+        "title": "The Pillars Of The Earth (2010)",
+        "type": "TV Show",
+        "date": null,
+        "shortFormInsight": "Contains strong language, once very strong, sex and bloody violence",
+        "slug": "/release/the-pillars-of-the-earth-q29sbgvjdglvbjpwwc00mjuwmtm",
+        "sell": null
+      }
+    ]
+  },
+  "The Serpent Queen": {
+    "search": "https://www.bbfc.co.uk/search?q=The%20Serpent%20Queen",
+    "checkedAt": "2026-10-19T09:41:14.427796+00:00",
+    "results": [
+      {
+        "_id": "6842077272dc99317466315a",
+        "id": "Q29sbGVjdGlvbjpWWC0xMDA2NDg5",
+        "dataType": "release",
+        "classification": "15",
+        "imageUrl": null,
+        "title": "The Serpent Queen (2022)",
+        "type": "TV Show",
+        "date": null,
+        "shortFormInsight": null,
+        "slug": "/release/the-serpent-queen-q29sbgvjdglvbjpwwc0xmda2ndg5",
+        "sell": null
+      }
+    ]
+  },
+  "The White Queen": {
+    "search": "https://www.bbfc.co.uk/search?q=The%20White%20Queen",
+    "checkedAt": "2026-10-19T09:41:15.074158+00:00",
+    "results": [
+      {
+        "_id": "68420c0172dc99317467f177",
+        "id": "Q29sbGVjdGlvbjpWWC00Nzc5MjY=",
+        "dataType": "release",
+        "classification": "15",
+        "imageUrl": null,
+        "title": "The White Queen (2013)",
+        "type": "TV Show",
+        "date": null,
+        "shortFormInsight": "Contains sexualised nudity and sexual violence",
+        "slug": "/release/the-white-queen-q29sbgvjdglvbjpwwc00nzc5mjy",
+        "sell": null
+      }
+    ]
+  },
+  "The White Princess": {
+    "search": "https://www.bbfc.co.uk/search?q=The%20White%20Princess",
+    "checkedAt": "2026-10-19T09:41:15.075302+00:00",
+    "results": [
+      {
+        "_id": "68420bdd72dc99317467d0fa",
+        "id": "Q29sbGVjdGlvbjpWWC00ODg2NjM=",
+        "dataType": "release",
+        "classification": "15",
+        "imageUrl": null,
+        "title": "The White Princess (2017)",
+        "type": "TV Show",
+        "date": null,
+        "shortFormInsight": "moderate violence, brief bloody image",
+        "slug": "/release/the-white-princess-q29sbgvjdglvbjpwwc00odg2njm",
+        "sell": null
+      }
+    ]
+  },
+  "Succession": {
+    "search": "https://www.bbfc.co.uk/search?q=Succession",
+    "checkedAt": "2026-10-19T09:41:14.783358+00:00",
+    "results": [
+      {
+        "_id": "68420bf772dc99317467e96f",
+        "id": "Q29sbGVjdGlvbjpWWC00ODAxODc=",
+        "dataType": "release",
+        "classification": "15",
+        "imageUrl": "https://darkroom.bbfc.co.uk/150/https://m.media-amazon.com/images/M/MV5BZDE0ODVlYjktNjJiMC00ODk4LWIwNTktMWRhZmZiOGFhYmUwXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_FMjpg_UX1000_.jpg:846eff856063cb990845ba8274f98b64",
+        "title": "Succession (2018)",
+        "type": "TV Show",
+        "date": null,
+        "shortFormInsight": "strong language, sex, sex references, drug misuse",
+        "slug": "/release/succession-q29sbgvjdglvbjpwwc00odaxodc",
+        "sell": null
+      }
+    ]
+  },
+  "Yellowstone": {
+    "search": "https://www.bbfc.co.uk/search?q=Yellowstone",
+    "checkedAt": "2026-10-19T09:41:14.871158+00:00",
+    "results": []
+  },
+  "1923": {
+    "search": "https://www.bbfc.co.uk/search?q=1923",
+    "checkedAt": "2026-10-19T09:41:14.936752+00:00",
+    "results": [
+      {
+        "_id": "6842073472dc9931746614de",
+        "id": "Q29sbGVjdGlvbjpWWC0xMDA5MzUz",
+        "dataType": "release",
+        "classification": "PG",
+        "imageUrl": null,
+        "title": "1923 (2022)",
+        "type": "Trailer",
+        "date": "2022-12-15T13:13:13.000Z",
+        "shortFormInsight": null,
+        "slug": "/release/1923-q29sbgvjdglvbjpwwc0xmda5mzuz",
+        "sell": null
+      }
+    ]
+  },
+  "Mayor of Kingstown": {
+    "search": "https://www.bbfc.co.uk/search?q=Mayor%20of%20Kingstown",
+    "checkedAt": "2026-10-19T09:41:14.950558+00:00",
+    "results": []
+  },
+  "Landman": {
+    "search": "https://www.bbfc.co.uk/search?q=Landman",
+    "checkedAt": "2026-10-19T09:41:15.076442+00:00",
+    "results": []
+  },
+  "Escape at Dannemora": {
+    "search": "https://www.bbfc.co.uk/search?q=Escape%20at%20Dannemora",
+    "checkedAt": "2026-10-19T09:41:16.174556+00:00",
+    "results": [
+      {
+        "_id": "68421e3e72dc9931746ece12",
+        "id": "Q29sbGVjdGlvbjpWWC0yMzA4Nzc=",
+        "dataType": "release",
+        "classification": "15",
+        "imageUrl": null,
+        "title": "Escape At Dannemora (2018)",
+        "type": "TV Show",
+        "date": null,
+        "shortFormInsight": "very strong language, strong sex, violence, gory images, drug misuse",
+        "slug": "/release/escape-at-dannemora-q29sbgvjdglvbjpwwc0ymza4nzc",
+        "sell": null
+      }
+    ]
+  },
+  "The Night Of": {
+    "search": "https://www.bbfc.co.uk/search?q=The%20Night%20Of",
+    "checkedAt": "2026-10-19T09:41:16.306280+00:00",
+    "results": []
+  },
+  "The Night Manager": {
+    "search": "https://www.bbfc.co.uk/search?q=The%20Night%20Manager",
+    "checkedAt": "2026-10-19T09:41:16.255877+00:00",
+    "results": [
+      {
+        "_id": "68420f6172dc99317469e655",
+        "id": "Q29sbGVjdGlvbjpWWC0zODgzOTY=",
+        "dataType": "release",
+        "classification": "15",
+        "imageUrl": null,
+        "title": "The Night Manager (2016)",
+        "type": "TV Show",
+        "date": null,
+        "shortFormInsight": "strong violence, sex, gory images",
+        "slug": "/release/the-night-manager-q29sbgvjdglvbjpwwc0zodgzoty",
+        "sell": null
+      }
+    ]
+  },
+  "Magic City": {
+    "search": "https://www.bbfc.co.uk/search?q=Magic%20City",
+    "checkedAt": "2026-10-19T09:41:16.484113+00:00",
+    "results": [
+      {
+        "_id": "68420c0972dc99317468040d",
+        "id": "Q29sbGVjdGlvbjpWWC00NzU3NjE=",
+        "dataType": "release",
+        "classification": "18",
+        "imageUrl": null,
+        "title": "Magic City (2012)",
+        "type": "TV Show",
+        "date": null,
+        "shortFormInsight": "Contains strong language, sex and bloody violence",
+        "slug": "/release/magic-city-q29sbgvjdglvbjpwwc00nzu3nje",
+        "sell": null
+      }
+    ]
+  },
+  "McMafia": {
+    "search": "https://www.bbfc.co.uk/search?q=McMafia",
+    "checkedAt": "2026-10-19T09:41:15.600753+00:00",
+    "results": []
+  },
+  "Tin Star": {
+    "search": "https://www.bbfc.co.uk/search?q=Tin%20Star",
+    "checkedAt": "2026-10-19T09:41:16.043100+00:00",
+    "results": [
+      {
+        "_id": "68421e5472dc9931746ed9c4",
+        "id": "Q29sbGVjdGlvbjpWWC0yMjk4MDg=",
+        "dataType": "release",
+        "classification": "18",
+        "imageUrl": null,
+        "title": "Tin Star (2017)",
+        "type": "TV Show",
+        "date": null,
+        "shortFormInsight": "strong violence, very strong language",
+        "slug": "/release/tin-star-q29sbgvjdglvbjpwwc0ymjk4mdg",
+        "sell": null
+      }
+    ]
+  },
+  "Fortitude": {
+    "search": "https://www.bbfc.co.uk/search?q=Fortitude",
+    "checkedAt": "2026-10-19T09:41:16.239847+00:00",
+    "results": [
+      {
+        "_id": "68420bf772dc99317467e774",
+        "id": "Q29sbGVjdGlvbjpWWC00ODEyODk=",
+        "dataType": "release",
+        "classification": "18",
+        "imageUrl": null,
+        "title": "Fortitude (2015)",
+        "type": "TV Show",
+        "date": null,
+        "shortFormInsight": "strong language, gore",
+        "slug": "/release/fortitude-q29sbgvjdglvbjpwwc00odeyodk",
+        "sell": null
+      }
+    ]
+  },
+  "American Rust": {
+    "search": "https://www.bbfc.co.uk/search?q=American%20Rust",
+    "checkedAt": "2026-10-19T09:41:16.630772+00:00",
+    "results": []
+  },
+  "Hap and Leonard": {
+    "search": "https://www.bbfc.co.uk/search?q=Hap%20and%20Leonard",
+    "checkedAt": "2026-10-19T09:41:16.474420+00:00",
+    "results": []
+  },
+  "Mr. & Mrs. Smith": {
+    "search": "https://www.bbfc.co.uk/search?q=Mr.%20%26%20Mrs.%20Smith",
+    "checkedAt": "2026-10-19T09:41:17.118514+00:00",
+    "results": [
+      {
+        "_id": "6842066872dc99317465b66a",
+        "id": "Q29sbGVjdGlvbjpWWC0xMDE4ODky",
+        "dataType": "release",
+        "classification": "15",
+        "imageUrl": null,
+        "title": "Mr. & Mrs. Smith (2024)",
+        "type": "TV Show",
+        "date": null,
+        "shortFormInsight": null,
+        "slug": "/release/mr-mrs-smith-q29sbgvjdglvbjpwwc0xmde4odky",
+        "sell": null
+      }
+    ]
+  },
+  "Love & Death": {
+    "search": "https://www.bbfc.co.uk/search?q=Love%20%26%20Death",
+    "checkedAt": "2026-10-19T09:41:19.886484+00:00",
+    "results": [
+      {
+        "_id": "69c2fb9c4b03e79837651e8a",
+        "id": "Q29sbGVjdGlvbjpWWC0xMTE0NTY1",
+        "dataType": "release",
+        "classification": "15",
+        "imageUrl": null,
+        "title": "Love & Death (2023)",
+        "type": "TV Show",
+        "date": null,
+        "shortFormInsight": "injury detail, threat, sex",
+        "slug": "/release/love-death-q29sbgvjdglvbjpwwc0xmte0nty1",
+        "sell": null
+      }
+    ]
+  },
+  "Gaslit": {
+    "search": "https://www.bbfc.co.uk/search?q=Gaslit",
+    "checkedAt": "2026-10-19T09:41:16.627612+00:00",
+    "results": []
+  },
+  "White House Plumbers": {
+    "search": "https://www.bbfc.co.uk/search?q=White%20House%20Plumbers",
+    "checkedAt": "2026-10-19T09:41:17.671301+00:00",
+    "results": [
+      {
+        "_id": "69c2fb774b03e798376505d7",
+        "id": "Q29sbGVjdGlvbjpWWC0xMTE1NjEz",
+        "dataType": "release",
+        "classification": "15",
+        "imageUrl": null,
+        "title": "White House Plumbers (2023)",
+        "type": "TV Show",
+        "date": null,
+        "shortFormInsight": "language",
+        "slug": "/release/white-house-plumbers-q29sbgvjdglvbjpwwc0xmte1njez",
+        "sell": null
+      }
+    ]
+  },
+  "Landscapers": {
+    "search": "https://www.bbfc.co.uk/search?q=Landscapers",
+    "checkedAt": "2026-10-19T09:41:16.773702+00:00",
+    "results": []
+  },
+  "Dead Ringers": {
+    "search": "https://www.bbfc.co.uk/search?q=Dead%20Ringers",
+    "checkedAt": "2026-10-19T09:41:17.540733+00:00",
+    "results": [
+      {
+        "_id": "684206e872dc99317465f1f0",
+        "id": "Q29sbGVjdGlvbjpWWC0xMDEyNzMx",
+        "dataType": "release",
+        "classification": "15",
+        "imageUrl": null,
+        "title": "Dead Ringers (2023)",
+        "type": "TV Show",
+        "date": null,
+        "shortFormInsight": null,
+        "slug": "/release/dead-ringers-q29sbgvjdglvbjpwwc0xmdeynzmx",
+        "sell": null
+      }
+    ]
+  },
+  "Interview with the Vampire": {
+    "search": "https://www.bbfc.co.uk/search?q=Interview%20with%20the%20Vampire",
+    "checkedAt": "2026-10-19T09:41:19.473450+00:00",
+    "results": [
+      {
+        "_id": "684206aa72dc99317465d2ab",
+        "id": "Q29sbGVjdGlvbjpWWC0xMDE1NTk3",
+        "dataType": "release",
+        "classification": "18",
+        "imageUrl": null,
+        "title": "Interview With The Vampire (2022)",
+        "type": "TV Show",
+        "date": null,
+        "shortFormInsight": null,
+        "slug": "/release/interview-with-the-vampire-q29sbgvjdglvbjpwwc0xmde1ntk3",
+        "sell": null
+      }
+    ]
+  },
+  "Hunters": {
+    "search": "https://www.bbfc.co.uk/search?q=Hunters",
+    "checkedAt": "2026-10-19T09:41:17.538023+00:00",
+    "results": [
+      {
+        "_id": "6842080472dc9931746660a8",
+        "id": "Q29sbGVjdGlvbjpWWC0xMDAxOTE2",
+        "dataType": "release",
+        "classification": "15",
+        "imageUrl": null,
+        "title": "Hunters (2020)",
+        "type": "Film",
+        "date": null,
+        "shortFormInsight": "strong bloody images, violence",
+        "slug": "/release/hunters-q29sbgvjdglvbjpwwc0xmdaxote2",
+        "sell": null
+      }
+    ]
+  },
+  "The English": {
+    "search": "https://www.bbfc.co.uk/search?q=The%20English",
+    "checkedAt": "2026-10-19T09:41:17.673143+00:00",
+    "results": []
+  },
+  "The Son": {
+    "search": "https://www.bbfc.co.uk/search?q=The%20Son",
+    "checkedAt": "2026-10-19T09:41:18.137579+00:00",
+    "results": []
+  },
+  "Strange Angel": {
+    "search": "https://www.bbfc.co.uk/search?q=Strange%20Angel",
+    "checkedAt": "2026-10-19T09:41:18.498315+00:00",
+    "results": []
+  },
+  "Ray Donovan": {
+    "search": "https://www.bbfc.co.uk/search?q=Ray%20Donovan",
+    "checkedAt": "2026-10-19T09:41:18.267376+00:00",
+    "results": [
+      {
+        "_id": "68420b3672dc993174675f7b",
+        "id": "Q29sbGVjdGlvbjpWWC00OTg2OTc=",
+        "dataType": "release",
+        "classification": "15",
+        "imageUrl": null,
+        "title": "Ray Donovan (2013)",
+        "type": "TV Show",
+        "date": null,
+        "shortFormInsight": "strong violence, gore, language, sex, nudity",
+        "slug": "/release/ray-donovan-q29sbgvjdglvbjpwwc00otg2otc",
+        "sell": null
+      }
+    ]
+  },
+  "Godfather of Harlem": {
+    "search": "https://www.bbfc.co.uk/search?q=Godfather%20of%20Harlem",
+    "checkedAt": "2026-10-19T09:41:18.175373+00:00",
+    "results": []
+  },
+  "Animal Control": {
+    "search": "https://www.bbfc.co.uk/search?q=Animal%20Control",
+    "checkedAt": "2026-10-19T09:41:18.606935+00:00",
+    "results": []
+  },
+  "Filth": {
+    "search": "https://www.bbfc.co.uk/search?q=Filth",
+    "checkedAt": "2026-10-19T09:41:18.506090+00:00",
+    "results": [
+      {
+        "_id": "68420fdb72dc9931746a1e74",
+        "id": "Q29sbGVjdGlvbjpWWC0zNzk4NTQ=",
+        "dataType": "release",
+        "classification": "18",
+        "imageUrl": "https://darkroom.bbfc.co.uk/150/https://m.media-amazon.com/images/M/MV5BMjE2NTgyMzM0NV5BMl5BanBnXkFtZTgwNzkwNDE1MzE@._V1_.jpg:ae1254f49deaa74d700d6e059bdd9b6a",
+        "title": "Filth (2013)",
+        "type": "Film",
+        "date": null,
+        "shortFormInsight": "Contains very strong language, sex and hard drug use",
+        "slug": "/release/filth-q29sbgvjdglvbjpwwc0znzk4ntq",
+        "sell": null
+      }
+    ]
+  },
+  "The Wolf of Wall Street": {
+    "search": "https://www.bbfc.co.uk/search?q=The%20Wolf%20of%20Wall%20Street",
+    "checkedAt": "2026-10-19T09:41:19.711721+00:00",
+    "results": [
+      {
+        "_id": "68420f1b72dc99317469c4be",
+        "id": "Q29sbGVjdGlvbjpWWC0zOTI1OTQ=",
+        "dataType": "release",
+        "classification": "18",
+        "imageUrl": null,
+        "title": "The Wolf Of Wall Street (2013)",
+        "type": "Film",
+        "date": null,
+        "shortFormInsight": "very strong language, strong sex, hard drug use",
+        "slug": "/release/the-wolf-of-wall-street-q29sbgvjdglvbjpwwc0zoti1otq",
+        "sell": null
+      }
+    ]
+  },
+  "The Big Short": {
+    "search": "https://www.bbfc.co.uk/search?q=The%20Big%20Short",
+    "checkedAt": "2026-10-19T09:41:19.963601+00:00",
+    "results": [
+      {
+        "_id": "68420efe72dc99317469b7c3",
+        "id": "Q29sbGVjdGlvbjpWWC0zOTQxMzE=",
+        "dataType": "release",
+        "classification": "15",
+        "imageUrl": "https://darkroom.bbfc.co.uk/150/https://m.media-amazon.com/images/M/MV5BNDc4MThhN2EtZjMzNC00ZDJmLThiZTgtNThlY2UxZWMzNjdkXkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_.jpg:268f88b4175fef3f63d947797361bfcb",
+        "title": "The Big Short (2015)",
+        "type": "Film",
+        "date": null,
+        "shortFormInsight": "strong language, sexualised nudity",
+        "slug": "/release/the-big-short-q29sbgvjdglvbjpwwc0zotqxmze",
+        "sell": null
+      }
+    ]
+  },
+  "Killer Joe": {
+    "search": "https://www.bbfc.co.uk/search?q=Killer%20Joe",
+    "checkedAt": "2026-10-19T09:41:19.805675+00:00",
+    "results": [
+      {
+        "_id": "68420cb172dc993174687bea",
+        "id": "Q29sbGVjdGlvbjpWWC00MzExMTk=",
+        "dataType": "release",
+        "classification": "18",
+        "imageUrl": "https://darkroom.bbfc.co.uk/150/https://m.media-amazon.com/images/M/MV5BN2JhZDlmY2MtOWM4Yi00ODNlLWI4NjItOTY4MjEyYzQ0ZGI2XkEyXkFqcGdeQXVyNTQzOTc3MTI@._V1_.jpg:d2d4105c26c512996f88cb4618a520dc",
+        "title": "Killer Joe (2011)",
+        "type": "Film",
+        "date": null,
+        "shortFormInsight": "Contains strong bloody and sadistic violence and sexual threat",
+        "slug": "/release/killer-joe-q29sbgvjdglvbjpwwc00mzexmtk",
+        "sell": null
+      }
+    ]
+  },
+  "Sexy Beast": {
+    "search": "https://www.bbfc.co.uk/search?q=Sexy%20Beast",
+    "checkedAt": "2026-10-19T09:41:19.483489+00:00",
+    "results": [
+      {
+        "_id": "684214d072dc9931746c0e60",
+        "id": "Q29sbGVjdGlvbjpWWC0zMTY0MTI=",
+        "dataType": "release",
+        "classification": "18",
+        "imageUrl": "https://darkroom.bbfc.co.uk/150/https://m.media-amazon.com/images/M/MV5BNTNlODAwMTUtNGJjZS00NDI0LWE3YWYtZGUzYzZiOGMyNmJkXkEyXkFqcGdeQXVyNzI1NzMxNzM@._V1_.jpg:3f578629bb9498be2be162ebb42d5495",
+        "title": "Sexy Beast (2000)",
+        "type": "Film",
+        "date": "2021-07-01T12:00:00.000Z",
+        "shortFormInsight": "very strong language, strong violence",
+        "slug": "/release/sexy-beast-q29sbgvjdglvbjpwwc0zmty0mti",
+        "sell": null
+      }
+    ]
+  },
+  "Layer Cake": {
+    "search": "https://www.bbfc.co.uk/search?q=Layer%20Cake",
+    "checkedAt": "2026-10-19T09:41:19.807066+00:00",
+    "results": [
+      {
+        "_id": "68420e4d72dc993174695457",
+        "id": "Q29sbGVjdGlvbjpWWC00MDQ4MDI=",
+        "dataType": "release",
+        "classification": "15",
+        "imageUrl": "https://darkroom.bbfc.co.uk/150/https://m.media-amazon.com/images/M/MV5BMTI5MTE1OTAzOV5BMl5BanBnXkFtZTcwNDc2OTgyMQ@@._V1_.jpg:7a3bd280c3a10012c79c3c17074a5fa5",
+        "title": "Layer Cake (2004)",
+        "type": "Film",
+        "date": null,
+        "shortFormInsight": "Contains strong language, drug use and violence",
+        "slug": "/release/layer-cake-q29sbgvjdglvbjpwwc00mdq4mdi",
+        "sell": null
+      }
+    ]
+  },
+  "Trance": {
+    "search": "https://www.bbfc.co.uk/search?q=Trance",
+    "checkedAt": "2026-10-19T09:41:19.883396+00:00",
+    "results": [
+      {
+        "_id": "68420c1f72dc993174681a87",
+        "id": "Q29sbGVjdGlvbjpWWC00NjkwNzM=",
+        "dataType": "release",
+        "classification": "15",
+        "imageUrl": "https://darkroom.bbfc.co.uk/150/https://m.media-amazon.com/images/M/MV5BMjMzNjU1MTg5NF5BMl5BanBnXkFtZTcwMTExMTcwOQ@@._V1_.jpg:cd7a05f89960f666a9a25f439925711a",
+        "title": "Trance (2013)",
+        "type": "Film",
+        "date": null,
+        "shortFormInsight": "Contains strong bloody violence, gore, sex, nudity and strong language",
+        "slug": "/release/trance-q29sbgvjdglvbjpwwc00njkwnzm",
+        "sell": null
+      }
+    ]
+  },
+  "The Favourite": {
+    "search": "https://www.bbfc.co.uk/search?q=The%20Favourite",
+    "checkedAt": "2026-10-19T09:41:20.146603+00:00",
+    "results": [
+      {
+        "_id": "68420bf072dc99317467e56c",
+        "id": "Q29sbGVjdGlvbjpWWC00ODMwNTQ=",
+        "dataType": "release",
+        "classification": "15",
+        "imageUrl": "https://film-cdn.moviexchange.com/api/cdn/release/0843e39e-3b3d-44dc-9b42-17010a148516/media/Poster?width=150",
+        "title": "The Favourite (2018)",
+        "type": "Film",
+        "date": null,
+        "shortFormInsight": "very strong language, strong sex",
+        "slug": "/release/the-favourite-q29sbgvjdglvbjpwwc00odmwntq",
+        "sell": null
+      }
+    ]
+  },
+  "Kinds of Kindness": {
+    "search": "https://www.bbfc.co.uk/search?q=Kinds%20of%20Kindness",
+    "checkedAt": "2026-10-19T09:41:20.404317+00:00",
+    "results": [
+      {
+        "_id": "6842064d72dc99317465ac09",
+        "id": "Q29sbGVjdGlvbjpWWC0xMDIwMDY3",
+        "dataType": "release",
+        "classification": "18",
+        "imageUrl": "https://film-cdn.moviexchange.com/api/cdn/release/ea5c960b-419f-4641-b55d-5c46a4c697b3/media/Poster?width=150",
+        "title": "Kinds Of Kindness (2024)",
+        "type": "Film",
+        "date": null,
+        "shortFormInsight": "sexual violence, brief strong sex",
+        "slug": "/release/kinds-of-kindness-q29sbgvjdglvbjpwwc0xmdiwmdy3",
+        "sell": null
+      }
+    ]
+  },
+  "Babylon": {
+    "search": "https://www.bbfc.co.uk/search?q=Babylon",
+    "checkedAt": "2026-10-19T09:41:20.237600+00:00",
+    "results": [
+      {
+        "_id": "6842075972dc99317466252f",
+        "id": "Q29sbGVjdGlvbjpWWC0xMDA3NjIy",
+        "dataType": "release",
+        "classification": "18",
+        "imageUrl": "https://film-cdn.moviexchange.com/api/cdn/release/4d8577a1-6416-49ad-89eb-2419ce620fe3/media/Poster?width=150",
+        "title": "Babylon (2022)",
+        "type": "Film",
+        "date": null,
+        "shortFormInsight": "strong sex, nudity, drug misuse",
+        "slug": "/release/babylon-q29sbgvjdglvbjpwwc0xmda3njiy",
+        "sell": null
+      }
+    ]
+  },
+  "Triangle of Sadness": {
+    "search": "https://www.bbfc.co.uk/search?q=Triangle%20of%20Sadness",
+    "checkedAt": "2026-10-19T09:41:20.296196+00:00",
+    "results": [
+      {
+        "_id": "6842076672dc993174662abb",
+        "id": "Q29sbGVjdGlvbjpWWC0xMDA3MTEy",
+        "dataType": "release",
+        "classification": "15",
+        "imageUrl": "https://film-cdn.moviexchange.com/api/cdn/release/d47220c8-03b0-4385-bbbd-c087429f01fb/media/Poster?width=150",
+        "title": "Triangle Of Sadness (2022)",
+        "type": "Film",
+        "date": null,
+        "shortFormInsight": "strong language, crude humour, brief sex",
+        "slug": "/release/triangle-of-sadness-q29sbgvjdglvbjpwwc0xmda3mtey",
+        "sell": null
+      }
+    ]
+  },
+  "Possessor": {
+    "search": "https://www.bbfc.co.uk/search?q=Possessor",
+    "checkedAt": "2026-10-19T09:41:20.316566+00:00",
+    "results": [
+      {
+        "_id": "68420a9c72dc9931746745f8",
+        "id": "Q29sbGVjdGlvbjpWWC01MDc2MjA=",
+        "dataType": "release",
+        "classification": "18",
+        "imageUrl": "https://film-cdn.moviexchange.com/api/cdn/release/90613ace-6d25-49fe-91d5-d2d8d25d0edb/media/Poster?width=150",
+        "title": "Possessor (2020)",
+        "type": "Film",
+        "date": null,
+        "shortFormInsight": "strong gory violence, nudity",
+        "slug": "/release/possessor-q29sbgvjdglvbjpwwc01mdc2mja",
+        "sell": null
+      }
+    ]
+  },
+  "Ex Machina": {
+    "search": "https://www.bbfc.co.uk/search?q=Ex%20Machina",
+    "checkedAt": "2026-10-19T09:41:20.406716+00:00",
+    "results": []
+  },
+  "Under the Skin": {
+    "search": "https://www.bbfc.co.uk/search?q=Under%20the%20Skin",
+    "checkedAt": "2026-10-19T09:41:20.765498+00:00",
+    "results": [
+      {
+        "_id": "68420f1172dc99317469c064",
+        "id": "Q29sbGVjdGlvbjpWWC0zOTMxODM=",
+        "dataType": "release",
+        "classification": "15",
+        "imageUrl": "https://darkroom.bbfc.co.uk/150/https://m.media-amazon.com/images/M/MV5BMTU1MDEwMDg4Nl5BMl5BanBnXkFtZTgwOTk3NTcxMTE@._V1_.jpg:ffed6f41e7e2d72a07e58a442b919341",
+        "title": "Under The Skin (2013)",
+        "type": "Film",
+        "date": null,
+        "shortFormInsight": "infrequent strong sex, frequent nudity",
+        "slug": "/release/under-the-skin-q29sbgvjdglvbjpwwc0zotmxodm",
+        "sell": null
+      }
+    ]
+  },
+  "American Hustle": {
+    "search": "https://www.bbfc.co.uk/search?q=American%20Hustle",
+    "checkedAt": "2026-10-19T09:41:20.855726+00:00",
+    "results": [
+      {
+        "_id": "6842101b72dc9931746a3cbb",
+        "id": "Q29sbGVjdGlvbjpWWC0zNzYzMTg=",
+        "dataType": "release",
+        "classification": "15",
+        "imageUrl": "https://darkroom.bbfc.co.uk/150/https://m.media-amazon.com/images/M/MV5BMmM4YzJjZGMtNjQxMy00NjdlLWJjYTItZWZkYzdhOTdhNzFiXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg:628d082185f81bd8115fe405e0a4213b",
+        "title": "American Hustle (2013)",
+        "type": "Film",
+        "date": null,
+        "shortFormInsight": "strong language",
+        "slug": "/release/american-hustle-q29sbgvjdglvbjpwwc0znzyzmtg",
+        "sell": null
+      }
+    ]
+  },
+  "Bad Times at the El Royale": {
+    "search": "https://www.bbfc.co.uk/search?q=Bad%20Times%20at%20the%20El%20Royale",
+    "checkedAt": "2026-10-19T09:41:21.448664+00:00",
+    "results": [
+      {
+        "_id": "68421e4372dc9931746ed0c9",
+        "id": "Q29sbGVjdGlvbjpWWC0yMzA2NDg=",
+        "dataType": "release",
+        "classification": "15",
+        "imageUrl": "https://film-cdn.moviexchange.com/api/cdn/release/c567ad40-3351-402c-9318-7d408e290b38/media/Poster?width=150",
+        "title": "Bad Times At The El Royale (2018)",
+        "type": "Film",
+        "date": null,
+        "shortFormInsight": "strong violence, threat, language",
+        "slug": "/release/bad-times-at-the-el-royale-q29sbgvjdglvbjpwwc0ymza2ndg",
+        "sell": null
+      }
+    ]
+  }
+}

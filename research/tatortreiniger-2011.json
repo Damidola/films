@@ -1,0 +1,337 @@
+{
+  "record": {
+    "rank": 608,
+    "title": "Der Tatortreiniger",
+    "ru": "Чистильщик",
+    "year": 2011,
+    "type": "series",
+    "kind": "Сериал",
+    "imdb": "tt2147995",
+    "kpurl": "https://www.kinopoisk.ru/series/1008217/",
+    "kp": 7.5,
+    "score": 8.5,
+    "kpRaw": 7.473,
+    "kpSource": "https://rating.kinopoisk.ru/1008217.xml",
+    "scoreSource": "https://rating.kinopoisk.ru/1008217.xml",
+    "kpVerifiedAt": "2026-10-21T14:18:29.266799+00:00",
+    "rezka": "https://hdrezka.me/series/comedy/22960-chistilschik-2012.html",
+    "kinogo": "https://uakinogo.io/serialy/41894-chistilschik.html",
+    "image": "assets/library-608.webp",
+    "productionCountries": [
+      "DE"
+    ],
+    "runtime": 28,
+    "seriesStats": {
+      "seasons": 7,
+      "episodes": 31,
+      "episodesPerSeason": 4.43,
+      "episodeMinutes": 28.39,
+      "seasonEpisodes": [
+        {
+          "season": 1,
+          "episodes": 4
+        },
+        {
+          "season": 2,
+          "episodes": 5
+        },
+        {
+          "season": 3,
+          "episodes": 4
+        },
+        {
+          "season": 4,
+          "episodes": 5
+        },
+        {
+          "season": 5,
+          "episodes": 6
+        },
+        {
+          "season": 6,
+          "episodes": 3
+        },
+        {
+          "season": 7,
+          "episodes": 4
+        }
+      ],
+      "totalMinutes": 880,
+      "ongoing": false,
+      "source": "https://www.tvmaze.com/shows/5613/der-tatortreiniger",
+      "checkedAt": "2026-10-21T14:18:29.266799+00:00"
+    },
+    "trailer": {
+      "videoId": "03VSyV0iFSU",
+      "url": "https://www.youtube.com/watch?v=03VSyV0iFSU",
+      "title": "Crime Scene Cleaner - Season 1 Trailer",
+      "channel": "MHz Choice",
+      "kind": "trailer",
+      "duration": 54,
+      "language": "de",
+      "subtitles": "en",
+      "note": "Немецкий оригинал · английские субтитры",
+      "languageBasis": "MHz Choice official English-subtitled release trailer",
+      "maxHeight": 1080,
+      "verifiedAt": "2026-10-21T14:15:36.512671+00:00",
+      "availability": {
+        "embed": true,
+        "regions": [
+          "UA"
+        ],
+        "checkedAt": "2026-10-21T14:15:36.512671+00:00",
+        "source": "YouTube public player metadata"
+      }
+    },
+    "trailerAlternates": [
+      {
+        "videoId": "LJjHBivx9sg",
+        "url": "https://www.youtube.com/watch?v=LJjHBivx9sg",
+        "title": "Crime Scene Cleaner - Season 2 Trailer",
+        "channel": "MHz Choice",
+        "kind": "trailer",
+        "duration": 58,
+        "language": "de",
+        "subtitles": "en",
+        "note": "Немецкий оригинал · английские субтитры",
+        "languageBasis": "MHz Choice official English-subtitled release trailer",
+        "maxHeight": 1080,
+        "verifiedAt": "2026-10-21T14:15:36.512671+00:00",
+        "availability": {
+          "embed": true,
+          "regions": [
+            "UA"
+          ],
+          "checkedAt": "2026-10-21T14:15:36.512671+00:00",
+          "source": "YouTube public player metadata"
+        }
+      }
+    ],
+    "tags": [
+      "Чёрный юмор",
+      "Сухой юмор",
+      "Диалоги",
+      "Абсурд",
+      "Сатира",
+      "Камерная история",
+      "Криминал"
+    ],
+    "syn": "Гамбургский уборщик Хайко «Шотти» Шотте приезжает на места преступлений, когда полиция уже закончила работу. Пока он отмывает кровь и приводит помещение в порядок, рядом оказываются родственники погибших, случайные знакомые и очень странные хозяева. Обычная рабочая смена превращается в спор о морали, отношениях, религии или человеческой глупости. Почти каждая серия — самостоятельная история, в которой мрачная обстановка сталкивается с приземлённым здравым смыслом Шотти.",
+    "editorialWhy": "Здесь смерть и бытовой абсурд постоянно соседствуют с сухими шутками. Юмор вырастает из разговоров, нелепых убеждений и лицемерия собеседников Шотти; главный герой отвечает на это прямотой и очень земной логикой.",
+    "caveat": "Камерный и разговорный сериал: значительно меньше экшена, чем в «Кровавом четверге».",
+    "candidatePool": true,
+    "addedFrom": "user-request-tatortreiniger",
+    "source": "https://www.tvmaze.com/shows/5613/der-tatortreiniger"
+  },
+  "tvmaze": {
+    "id": 5613,
+    "url": "https://www.tvmaze.com/shows/5613/der-tatortreiniger",
+    "name": "Der Tatortreiniger",
+    "type": "Scripted",
+    "language": "German",
+    "genres": [
+      "Comedy"
+    ],
+    "status": "Ended",
+    "runtime": 30,
+    "averageRuntime": 28,
+    "premiered": "2011-12-22",
+    "ended": "2018-12-19",
+    "officialSite": "http://www.ndr.de/fernsehen/sendungen/der_tatortreiniger/Der-Tatortreiniger,dertatortreiniger119.html",
+    "schedule": {
+      "time": "",
+      "days": [
+        "Tuesday",
+        "Wednesday"
+      ]
+    },
+    "rating": {
+      "average": 7
+    },
+    "weight": 88,
+    "network": {
+      "id": 398,
+      "name": "NDR",
+      "country": {
+        "name": "Germany",
+        "code": "DE",
+        "timezone": "Europe/Busingen"
+      },
+      "officialSite": null
+    },
+    "webChannel": null,
+    "dvdCountry": null,
+    "externals": {
+      "tvrage": null,
+      "thetvdb": 289561,
+      "imdb": "tt2147995"
+    },
+    "image": {
+      "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/22/56665.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/22/56665.jpg"
+    },
+    "summary": "Heiko \"Schotty\" Schotte is a man whose work begins where others pass in horror: he's a contract cleaner, sent to sanitize crime scenes after the police have finished their investigations. An everyman who loves football, fast cars and good beer, Schotty frequently encounters friends, family and acquaintances of the deceased who have a much less pragmatic approach to death than he does. But in the end, no matter the scope of the crime or the size of the mess, Schotty is there to clean it all up!",
+    "updated": 1776197263,
+    "_links": {
+      "self": {
+        "href": "https://api.tvmaze.com/shows/5613"
+      },
+      "previousepisode": {
+        "href": "https://api.tvmaze.com/episodes/1577760",
+        "name": "Einunddreißig"
+      }
+    }
+  },
+  "providerSchema": {
+    "@context": "https://schema.org",
+    "@type": "TVEpisode",
+    "url": "https://uakinogo.io/serialy/41894-chistilschik.html",
+    "image": "https://uakinogo.io/uploads/posts/2021-03/1616458486-629085883.jpg",
+    "name": "Чистильщик (1-7 сезон)",
+    "alternateName": "Der Tatortreiniger",
+    "headline": "Чистильщик (1-7 сезон)",
+    "alternativeHeadline": "Der Tatortreiniger",
+    "inLanguage": "ru",
+    "description": "\"Шотти\" занимается профессией, которую многие находят отталкивающей: он очищает помещения от последствий преступлений, когда следователи уже завершили работу. Он сталкивается с чем-то, что заставляет большинство отворачиваться от ужаса, но его задача – вернуть помещение в первоначальное состояние. Хотя мотивы, лежащие в основе этих трагических событий, не являются главным фокусом сюжета, сложные отношения между Шотти и окружающими – семья, друзья, даже убийцы, и иногда духи павших – это то, что приковывает особое внимание. Пока Шотти скрупулезно укладывает остатки трагедий в свои контейнеры, зная их как «Баночки Ужасов», его собеседники изо всех сил пытаются справиться с горечью утраты, сталкиваясь со своими размышлениями о жизни и смерти. Шотти, хотя и предстает перед нами простым человеком, не может избежать саморефлексии о собственном счастье и месте в жизни, продолжая свой путь к новому вызову и следующему месту преступления.",
+    "dateCreated": "2011",
+    "isAccessibleForFree": true,
+    "isFamilyFriendly": true,
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "worstRating": 1,
+      "bestRating": 5,
+      "ratingCount": "7",
+      "ratingValue": "4.1"
+    },
+    "genre": [
+      "криминал",
+      "комедия"
+    ],
+    "actor": [
+      {
+        "@type": "Person",
+        "name": "Бьярне Медел"
+      },
+      {
+        "@type": "Person",
+        "name": "Пир Мартини"
+      },
+      {
+        "@type": "Person",
+        "name": "Йорг Позе"
+      },
+      {
+        "@type": "Person",
+        "name": "Юля Бёве"
+      },
+      {
+        "@type": "Person",
+        "name": "Чарли Хюбнер"
+      },
+      {
+        "@type": "Person",
+        "name": "Бастиан Райбер"
+      },
+      {
+        "@type": "Person",
+        "name": "Ян Петер Кампвирт"
+      },
+      {
+        "@type": "Person",
+        "name": "Оли Шульц"
+      },
+      {
+        "@type": "Person",
+        "name": "Бернд Мосс"
+      },
+      {
+        "@type": "Person",
+        "name": "Беттина Стуки"
+      }
+    ],
+    "director": [
+      {
+        "@type": "Person",
+        "name": "Арни Фельдхузен"
+      }
+    ],
+    "countryOfOrigin": [
+      {
+        "@type": "Country",
+        "name": "Германия"
+      }
+    ],
+    "partOfSeason": "1-7 сезон",
+    "episodeNumber": "1-4 серия",
+    "duration": "PT26M",
+    "video": {
+      "@type": "VideoObject",
+      "thumbnailUrl": "https://uakinogo.io/uploads/posts/2021-03/1616458486-629085883.jpg",
+      "description": "\"Шотти\" занимается профессией, которую многие находят отталкивающей: он очищает помещения от последствий преступлений, когда следователи уже завершили работу. Он сталкивается с чем-то, что заставляет большинство отворачиваться от ужаса, но его задача – вернуть помещение в первоначальное состояние. Хотя мотивы, лежащие в основе этих трагических событий, не являются главным фокусом сюжета, сложные отношения между Шотти и окружающими – семья, друзья, даже убийцы, и иногда духи павших – это то, что приковывает особое внимание. Пока Шотти скрупулезно укладывает остатки трагедий в свои контейнеры, зная их как «Баночки Ужасов», его собеседники изо всех сил пытаются справиться с горечью утраты, сталкиваясь со своими размышлениями о жизни и смерти. Шотти, хотя и предстает перед нами простым человеком, не может избежать саморефлексии о собственном счастье и месте в жизни, продолжая свой путь к новому вызову и следующему месту преступления.",
+      "name": "Чистильщик",
+      "uploadDate": "2021-03-24T03:39:37+02:00",
+      "datePublished": "2021-03-24T03:39:37+02:00",
+      "dateCreated": "2021-03-24T03:39:37+02:00",
+      "embedUrl": "https://cinemar.cc/embed/47202/+YjUwMmQ0NzFkMjc5ZWQzNDdiZjFlZWEzYzEwZmY4YjIxOTE3NTk1NjQ2MGUwMzA2NTYwMjA1MTU0NzE0NWM0NzQzM2QwZjU1NDc1ZjQzMDc1MjA5MDk1MjQ0MTQ0MDVhMGQ0NjQ0MTA1ZTE2NDI1MDBmNWI1OTU2MDIwYjFkNWQ1ODQwNGExMzBjMTU0MzA5NDEwODAwNDg1ZjBlNGMwMzU1MDMxZTA2NWQxNjFiMTMwMzQwNTg0YzE1NDYwOTAxMWI0MDAzNDkxNTBjMTM1NjQxMGIwMTUxNWYwYTU0MDM1MTAyMDMwNDQ4MTY1ZjU4MDA1NzU2NWQ0NzVlNTU1NTViMTEwMzFkNDcwZDA4NTcwNjUwNTQzOTEwNTcwYjUxMDcxNzBhNTQwNTU4NDQ1NDQ4MTA1YzQzM2ExMzViNWQ0MzA3NDQwYjAzMDQwZDQwMDY0Yw==",
+      "url": "https://uakinogo.io/serialy/41894-chistilschik.html",
+      "isFamilyFriendly": true,
+      "playerType": "HTML5",
+      "width": 1280,
+      "height": 720,
+      "videoQuality": "high",
+      "inLanguage": "ru",
+      "thumbnail": {
+        "@type": "ImageObject",
+        "url": "https://uakinogo.io/uploads/posts/2021-03/1616458486-629085883.jpg"
+      },
+      "duration": "PT26M"
+    }
+  },
+  "trailers": [
+    {
+      "videoId": "03VSyV0iFSU",
+      "url": "https://www.youtube.com/watch?v=03VSyV0iFSU",
+      "title": "Crime Scene Cleaner - Season 1 Trailer",
+      "channel": "MHz Choice",
+      "kind": "trailer",
+      "duration": 54,
+      "language": "de",
+      "subtitles": "en",
+      "note": "Немецкий оригинал · английские субтитры",
+      "languageBasis": "MHz Choice official English-subtitled release trailer",
+      "maxHeight": 1080,
+      "verifiedAt": "2026-10-21T14:15:36.512671+00:00",
+      "availability": {
+        "embed": true,
+        "regions": [
+          "UA"
+        ],
+        "checkedAt": "2026-10-21T14:15:36.512671+00:00",
+        "source": "YouTube public player metadata"
+      }
+    },
+    {
+      "videoId": "LJjHBivx9sg",
+      "url": "https://www.youtube.com/watch?v=LJjHBivx9sg",
+      "title": "Crime Scene Cleaner - Season 2 Trailer",
+      "channel": "MHz Choice",
+      "kind": "trailer",
+      "duration": 58,
+      "language": "de",
+      "subtitles": "en",
+      "note": "Немецкий оригинал · английские субтитры",
+      "languageBasis": "MHz Choice official English-subtitled release trailer",
+      "maxHeight": 1080,
+      "verifiedAt": "2026-10-21T14:15:36.512671+00:00",
+      "availability": {
+        "embed": true,
+        "regions": [
+          "UA"
+        ],
+        "checkedAt": "2026-10-21T14:15:36.512671+00:00",
+        "source": "YouTube public player metadata"
+      }
+    }
+  ],
+  "addedTo": "watchlist"
+}

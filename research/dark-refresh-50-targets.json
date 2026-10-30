@@ -1,0 +1,542 @@
+[
+  {
+    "title": "Sprung",
+    "year": 2022,
+    "type": "series",
+    "group": "crime"
+  },
+  {
+    "title": "Big Time in Hollywood, FL",
+    "year": 2015,
+    "type": "series",
+    "group": "crime"
+  },
+  {
+    "title": "Jean-Claude Van Johnson",
+    "year": 2016,
+    "type": "series",
+    "group": "action"
+  },
+  {
+    "title": "The Wrong Mans",
+    "year": 2013,
+    "type": "series",
+    "group": "crime"
+  },
+  {
+    "title": "A Touch of Cloth",
+    "year": 2012,
+    "type": "series",
+    "group": "crime"
+  },
+  {
+    "title": "Hitmen",
+    "year": 2020,
+    "type": "series",
+    "group": "crime"
+  },
+  {
+    "title": "MacGruber",
+    "year": 2021,
+    "type": "series",
+    "group": "action"
+  },
+  {
+    "title": "White Gold",
+    "year": 2017,
+    "type": "series",
+    "group": "con"
+  },
+  {
+    "title": "Sick Note",
+    "year": 2017,
+    "type": "series",
+    "group": "crime"
+  },
+  {
+    "title": "Sliced",
+    "year": 2019,
+    "type": "series",
+    "group": "farce"
+  },
+  {
+    "title": "Plebs",
+    "year": 2013,
+    "type": "series",
+    "group": "farce"
+  },
+  {
+    "title": "No Heroics",
+    "year": 2008,
+    "type": "series",
+    "group": "farce"
+  },
+  {
+    "title": "The Job",
+    "year": 2001,
+    "type": "series",
+    "group": "crime"
+  },
+  {
+    "title": "Testees",
+    "year": 2008,
+    "type": "series",
+    "group": "farce"
+  },
+  {
+    "title": "The Unusuals",
+    "year": 2009,
+    "type": "series",
+    "group": "crime"
+  },
+  {
+    "title": "Catterick",
+    "year": 2004,
+    "type": "series",
+    "group": "crime"
+  },
+  {
+    "title": "The Cleaner",
+    "year": 2021,
+    "type": "series",
+    "group": "crime"
+  },
+  {
+    "title": "Captain Fall",
+    "year": 2023,
+    "type": "series",
+    "group": "animated"
+  },
+  {
+    "title": "Dicktown",
+    "year": 2020,
+    "type": "series",
+    "group": "animated"
+  },
+  {
+    "title": "SuperMansion",
+    "year": 2015,
+    "type": "series",
+    "group": "animated"
+  },
+  {
+    "title": "Jeff & Some Aliens",
+    "year": 2017,
+    "type": "series",
+    "group": "animated"
+  },
+  {
+    "title": "Unsupervised",
+    "year": 2012,
+    "type": "series",
+    "group": "animated"
+  },
+  {
+    "title": "Doomlands",
+    "year": 2022,
+    "type": "series",
+    "group": "animated"
+  },
+  {
+    "title": "The Freak Brothers",
+    "year": 2021,
+    "type": "series",
+    "group": "animated"
+  },
+  {
+    "title": "People of Earth",
+    "year": 2016,
+    "type": "series",
+    "group": "farce"
+  },
+  {
+    "title": "BrainDead",
+    "year": 2016,
+    "type": "series",
+    "group": "satire"
+  },
+  {
+    "title": "Ted",
+    "year": 2024,
+    "type": "series",
+    "group": "farce"
+  },
+  {
+    "title": "Bounty Hunters",
+    "year": 2017,
+    "type": "series",
+    "group": "crime"
+  },
+  {
+    "title": "Nirvanna the Band the Show",
+    "year": 2017,
+    "type": "series",
+    "group": "mock"
+  },
+  {
+    "title": "Paul T. Goldman",
+    "year": 2023,
+    "type": "series",
+    "group": "mock"
+  },
+  {
+    "title": "Players",
+    "year": 2022,
+    "type": "series",
+    "group": "mock"
+  },
+  {
+    "title": "Trial & Error",
+    "year": 2017,
+    "type": "series",
+    "group": "crime"
+  },
+  {
+    "title": "Murder in Successville",
+    "year": 2015,
+    "type": "series",
+    "group": "crime"
+  },
+  {
+    "title": "Swedish Dicks",
+    "year": 2016,
+    "type": "series",
+    "group": "crime"
+  },
+  {
+    "title": "Hap and Leonard",
+    "year": 2016,
+    "type": "series",
+    "group": "crime"
+  },
+  {
+    "title": "The Young Offenders",
+    "year": 2018,
+    "type": "series",
+    "group": "crime"
+  },
+  {
+    "title": "Deadbeat",
+    "year": 2014,
+    "type": "series",
+    "group": "farce"
+  },
+  {
+    "title": "Timewasters",
+    "year": 2017,
+    "type": "series",
+    "group": "farce"
+  },
+  {
+    "title": "A Very English Scandal",
+    "year": 2018,
+    "type": "series",
+    "group": "crime"
+  },
+  {
+    "title": "The Young Offenders",
+    "year": 2016,
+    "type": "film",
+    "group": "crime"
+  },
+  {
+    "title": "Lucky Number Slevin",
+    "year": 2006,
+    "type": "film",
+    "group": "crime"
+  },
+  {
+    "title": "Smokin' Aces",
+    "year": 2006,
+    "type": "film",
+    "group": "crime"
+  },
+  {
+    "title": "The Ice Harvest",
+    "year": 2005,
+    "type": "film",
+    "group": "crime"
+  },
+  {
+    "title": "The Big White",
+    "year": 2005,
+    "type": "film",
+    "group": "crime"
+  },
+  {
+    "title": "Big Nothing",
+    "year": 2006,
+    "type": "film",
+    "group": "crime"
+  },
+  {
+    "title": "Small Town Crime",
+    "year": 2017,
+    "type": "film",
+    "group": "crime"
+  },
+  {
+    "title": "The Hitman's Bodyguard",
+    "year": 2017,
+    "type": "film",
+    "group": "action"
+  },
+  {
+    "title": "Hitman's Wife's Bodyguard",
+    "year": 2021,
+    "type": "film",
+    "group": "action"
+  },
+  {
+    "title": "Kill Your Friends",
+    "year": 2015,
+    "type": "film",
+    "group": "crime"
+  },
+  {
+    "title": "How to Rob a Bank",
+    "year": 2007,
+    "type": "film",
+    "group": "crime"
+  },
+  {
+    "title": "Flypaper",
+    "year": 2011,
+    "type": "film",
+    "group": "crime"
+  },
+  {
+    "title": "Get the Gringo",
+    "year": 2012,
+    "type": "film",
+    "group": "crime"
+  },
+  {
+    "title": "Free Fire",
+    "year": 2016,
+    "type": "film",
+    "group": "crime"
+  },
+  {
+    "title": "Copshop",
+    "year": 2021,
+    "type": "film",
+    "group": "crime"
+  },
+  {
+    "title": "The Matador",
+    "year": 2005,
+    "type": "film",
+    "group": "crime"
+  },
+  {
+    "title": "Keeping Mum",
+    "year": 2005,
+    "type": "film",
+    "group": "crime"
+  },
+  {
+    "title": "Novocaine",
+    "year": 2025,
+    "type": "film",
+    "group": "action"
+  },
+  {
+    "title": "The Whole Nine Yards",
+    "year": 2000,
+    "type": "film",
+    "group": "crime"
+  },
+  {
+    "title": "Bandits",
+    "year": 2001,
+    "type": "film",
+    "group": "crime"
+  },
+  {
+    "title": "The Baker",
+    "year": 2007,
+    "type": "film",
+    "group": "crime"
+  },
+  {
+    "title": "The Last Time",
+    "year": 2006,
+    "type": "film",
+    "group": "con"
+  },
+  {
+    "title": "Middle Men",
+    "year": 2009,
+    "type": "film",
+    "group": "crime"
+  },
+  {
+    "title": "American Animals",
+    "year": 2018,
+    "type": "film",
+    "group": "crime"
+  },
+  {
+    "title": "Pain & Gain",
+    "year": 2013,
+    "type": "film",
+    "group": "crime"
+  },
+  {
+    "title": "The Informant!",
+    "year": 2009,
+    "type": "film",
+    "group": "con"
+  },
+  {
+    "title": "Villains",
+    "year": 2019,
+    "type": "film",
+    "group": "crime"
+  },
+  {
+    "title": "I Don't Feel at Home in This World Anymore",
+    "year": 2017,
+    "type": "film",
+    "group": "crime"
+  },
+  {
+    "title": "A Simple Favor",
+    "year": 2018,
+    "type": "film",
+    "group": "crime"
+  },
+  {
+    "title": "Bad Words",
+    "year": 2013,
+    "type": "film",
+    "group": "farce"
+  },
+  {
+    "title": "Buffaloed",
+    "year": 2019,
+    "type": "film",
+    "group": "con"
+  },
+  {
+    "title": "Queenpins",
+    "year": 2021,
+    "type": "film",
+    "group": "con"
+  },
+  {
+    "title": "Guns Akimbo",
+    "year": 2019,
+    "type": "film",
+    "group": "action"
+  },
+  {
+    "title": "The Family",
+    "year": 2013,
+    "type": "film",
+    "group": "crime"
+  },
+  {
+    "title": "Stuck",
+    "year": 2007,
+    "type": "film",
+    "group": "crime"
+  },
+  {
+    "title": "Confessions of a Dangerous Mind",
+    "year": 2002,
+    "type": "film",
+    "group": "crime"
+  },
+  {
+    "title": "Matchstick Men",
+    "year": 2003,
+    "type": "film",
+    "group": "con"
+  },
+  {
+    "title": "The Ladykillers",
+    "year": 2004,
+    "type": "film",
+    "group": "crime"
+  },
+  {
+    "title": "Welcome to Collinwood",
+    "year": 2002,
+    "type": "film",
+    "group": "crime"
+  },
+  {
+    "title": "Dom Hemingway",
+    "year": 2013,
+    "type": "film",
+    "group": "crime"
+  },
+  {
+    "title": "The Bank Job",
+    "year": 2008,
+    "type": "film",
+    "group": "crime"
+  },
+  {
+    "title": "Logan Lucky",
+    "year": 2017,
+    "type": "film",
+    "group": "crime"
+  },
+  {
+    "title": "The Brothers Bloom",
+    "year": 2008,
+    "type": "film",
+    "group": "con"
+  },
+  {
+    "title": "Dumb Money",
+    "year": 2023,
+    "type": "film",
+    "group": "con"
+  },
+  {
+    "title": "The Polka King",
+    "year": 2017,
+    "type": "film",
+    "group": "con"
+  },
+  {
+    "title": "Bernie",
+    "year": 2011,
+    "type": "film",
+    "group": "crime"
+  },
+  {
+    "title": "Mystery Team",
+    "year": 2009,
+    "type": "film",
+    "group": "crime"
+  },
+  {
+    "title": "Dog Bites Man",
+    "year": 2006,
+    "type": "series",
+    "group": "mock"
+  },
+  {
+    "title": "Jon Benjamin Has a Van",
+    "year": 2011,
+    "type": "series",
+    "group": "mock"
+  },
+  {
+    "title": "Review with Myles Barlow",
+    "year": 2008,
+    "type": "series",
+    "group": "mock"
+  },
+  {
+    "title": "Snuff Box",
+    "year": 2006,
+    "type": "series",
+    "group": "farce"
+  }
+]

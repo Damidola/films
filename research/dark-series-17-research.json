@@ -1,0 +1,4453 @@
+{
+  "Year of the Rabbit|2019|series": {
+    "title": "Year of the Rabbit",
+    "year": 2019,
+    "type": "series",
+    "group": "crime",
+    "checkedAt": "2026-10-20T19:51:12.486024+00:00",
+    "error": "exact-provider-work-not-found"
+  },
+  "Rescue Me|2004|series": {
+    "title": "Rescue Me",
+    "year": 2004,
+    "type": "series",
+    "group": "crime",
+    "checkedAt": "2026-10-20T19:51:12.486024+00:00",
+    "error": "exact-provider-work-not-found"
+  },
+  "Blunt Talk|2015|series": {
+    "title": "Blunt Talk",
+    "year": 2015,
+    "type": "series",
+    "group": "crime",
+    "checkedAt": "2026-10-20T19:51:12.486024+00:00",
+    "error": "exact-provider-work-not-found"
+  },
+  "Terriers|2010|series": {
+    "title": "Terriers",
+    "year": 2010,
+    "type": "series",
+    "group": "crime",
+    "checkedAt": "2026-10-20T19:51:12.486024+00:00",
+    "error": "exact-provider-work-not-found"
+  },
+  "Norsemen|2016|series": {
+    "title": "Norsemen",
+    "year": 2016,
+    "type": "series",
+    "group": "crime",
+    "checkedAt": "2026-10-20T19:51:12.486024+00:00",
+    "work": {
+      "@context": "https://schema.org",
+      "@id": "https://hdrezka.asia/serialy/vikingane-2016#content",
+      "@type": "TVSeries",
+      "actor": [
+        {
+          "@type": "Person",
+          "name": "Йон Эйгарден",
+          "url": "https://hdrezka.asia/actor/yon-eygarden/"
+        },
+        {
+          "@type": "Person",
+          "name": "Тронд Фауса Аурвааг",
+          "url": "https://hdrezka.asia/actor/trond-fausa-aurvaag/"
+        },
+        {
+          "@type": "Person",
+          "name": "Нильс Йорген Каалстад",
+          "url": "https://hdrezka.asia/actor/nils-yorgen-kaalstad/"
+        },
+        {
+          "@type": "Person",
+          "name": "Миккель Братт Сильсет",
+          "url": "https://hdrezka.asia/actor/mikkel-bratt-silset/"
+        },
+        {
+          "@type": "Person",
+          "name": "Бьорн Мирен",
+          "url": "https://hdrezka.asia/actor/born-miren/"
+        },
+        {
+          "@type": "Person",
+          "name": "Коре Конради",
+          "url": "https://hdrezka.asia/actor/kore-konradi/"
+        },
+        {
+          "@type": "Person",
+          "name": "Ёйстейн Мартинсен",
+          "url": "https://hdrezka.asia/actor/yoysteyn-martinsen/"
+        },
+        {
+          "@type": "Person",
+          "name": "Мариан Саастад Оттесен",
+          "url": "https://hdrezka.asia/actor/marian-saastad-ottesen/"
+        },
+        {
+          "@type": "Person",
+          "name": "Силье Торп",
+          "url": "https://hdrezka.asia/actor/sile-torp/"
+        },
+        {
+          "@type": "Person",
+          "name": "Кристин Риис",
+          "url": "https://hdrezka.asia/actor/kristin-riis/"
+        }
+      ],
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": "10",
+        "name": "КиноПоиск",
+        "ratingCount": 3211,
+        "ratingValue": "6.9",
+        "worstRating": "1"
+      },
+      "alternateName": "Norsemen",
+      "containsSeason": [
+        {
+          "@type": "TVSeason",
+          "name": "1 сезон",
+          "seasonNumber": 1,
+          "url": "https://hdrezka.asia/serialy/vikingane-2016/season/1"
+        }
+      ],
+      "countryOfOrigin": [
+        {
+          "@type": "Country",
+          "name": "Норвегия"
+        }
+      ],
+      "datePublished": "2016",
+      "description": "Действие сериала разворачивается в 790 году н.э. в вымышленном норвежском поселке Нурхейм, куда из очередного набега возвращается к женам и детям дружина викингов. Среди родных фьордов их ждут не т...",
+      "genre": [
+        "История",
+        "Комедия"
+      ],
+      "identifier": [
+        {
+          "@type": "PropertyValue",
+          "propertyID": "КиноПоиск",
+          "value": 1142539
+        },
+        {
+          "@type": "PropertyValue",
+          "propertyID": "IMDb",
+          "value": "tt5905354"
+        }
+      ],
+      "image": [
+        "https://hdrezka.asia/media/backdrops/vikingane-2016.webp?v=2cbb3f83d2268149",
+        "https://hdrezka.asia/media/posters/vikingane-2016.webp?v=a7d78a02608c041a"
+      ],
+      "inLanguage": "ru",
+      "name": "Северяне (1 сезон)",
+      "numberOfSeasons": 1,
+      "potentialAction": {
+        "@type": "WatchAction",
+        "target": "https://hdrezka.asia/serialy/vikingane-2016#watch"
+      },
+      "sameAs": [
+        "https://www.kinopoisk.ru/film/1142539/",
+        "https://www.imdb.com/title/tt5905354/"
+      ],
+      "url": "https://hdrezka.asia/serialy/vikingane-2016"
+    },
+    "rezka": "https://hdrezka.asia/serialy/vikingane-2016",
+    "kpId": "1142539",
+    "imdb": "tt5905354",
+    "kp": 6.823,
+    "kpVotes": 4048,
+    "score": 7.7,
+    "scoreVotes": 23000,
+    "kinogo": "https://kinogo.lifestyle/serialy/vikingane-2016",
+    "error": "exact-tvmaze-series-not-found",
+    "seriesStats": {
+      "seasons": 3,
+      "episodes": 18,
+      "episodesPerSeason": 6.0,
+      "episodeMinutes": 30.0,
+      "totalMinutes": 540,
+      "ongoing": false,
+      "source": "https://www.tvmaze.com/shows/20974/vikingane",
+      "checkedAt": "2026-10-21T08:27:56.030128+00:00",
+      "seasonEpisodes": [
+        {
+          "season": 1,
+          "episodes": 6
+        },
+        {
+          "season": 2,
+          "episodes": 6
+        },
+        {
+          "season": 3,
+          "episodes": 6
+        }
+      ]
+    },
+    "trailers": [
+      {
+        "videoId": "JWRg5ykfsXQ",
+        "url": "https://www.youtube.com/watch?v=JWRg5ykfsXQ",
+        "title": "Norsemen - Season 2 Trailer (English)",
+        "channel": "What's on Netflix",
+        "kind": "trailer",
+        "duration": 86,
+        "language": "en",
+        "languageBasis": "English automatic speech transcript",
+        "maxHeight": 968,
+        "verifiedAt": "2026-10-21T08:27:56.030128+00:00",
+        "availability": {
+          "embed": true,
+          "regions": [
+            "UA",
+            "RU"
+          ],
+          "checkedAt": "2026-10-21T08:27:56.030128+00:00",
+          "source": "YouTube public player metadata"
+        }
+      },
+      {
+        "videoId": "Hw00cjwaPec",
+        "url": "https://www.youtube.com/watch?v=Hw00cjwaPec",
+        "title": "Norsemen (Vikingane) Season 3 Official Netflix HD Trailer",
+        "channel": "ERiKC3000",
+        "kind": "trailer",
+        "duration": 86,
+        "language": "en",
+        "languageBasis": "English automatic speech transcript",
+        "maxHeight": 720,
+        "verifiedAt": "2026-10-21T08:27:56.030128+00:00",
+        "availability": {
+          "embed": true,
+          "regions": [
+            "UA",
+            "RU"
+          ],
+          "checkedAt": "2026-10-21T08:27:56.030128+00:00",
+          "source": "YouTube public player metadata"
+        }
+      }
+    ],
+    "complete": true
+  },
+  "Ill Behaviour|2017|series": {
+    "title": "Ill Behaviour",
+    "year": 2017,
+    "type": "series",
+    "group": "crime",
+    "checkedAt": "2026-10-20T19:51:12.486024+00:00",
+    "error": "exact-provider-work-not-found"
+  },
+  "Stag|2016|series": {
+    "title": "Stag",
+    "year": 2016,
+    "type": "series",
+    "group": "crime",
+    "checkedAt": "2026-10-20T19:51:12.486024+00:00",
+    "error": "exact-provider-work-not-found"
+  },
+  "Guilt|2019|series": {
+    "title": "Guilt",
+    "year": 2019,
+    "type": "series",
+    "group": "crime",
+    "checkedAt": "2026-10-20T19:51:12.486024+00:00",
+    "work": {
+      "@context": "https://schema.org",
+      "@id": "https://hdrezka.asia/serialy/guilt-2019#content",
+      "@type": "TVSeries",
+      "actor": [
+        {
+          "@type": "Person",
+          "name": "Джейми Сивес",
+          "url": "https://hdrezka.asia/actor/djeymi-sives/"
+        },
+        {
+          "@type": "Person",
+          "name": "Иман Эллиотт",
+          "url": "https://hdrezka.asia/actor/iman-elliott/"
+        },
+        {
+          "@type": "Person",
+          "name": "Филлис Логан",
+          "url": "https://hdrezka.asia/actor/fillis-logan/"
+        },
+        {
+          "@type": "Person",
+          "name": "Марк Боннар",
+          "url": "https://hdrezka.asia/actor/mark-bonnar/"
+        },
+        {
+          "@type": "Person",
+          "name": "Рут Брэдли",
+          "url": "https://hdrezka.asia/actor/rut-bredli/"
+        },
+        {
+          "@type": "Person",
+          "name": "Стюарт Боуман",
+          "url": "https://hdrezka.asia/actor/styuart-bouman/"
+        },
+        {
+          "@type": "Person",
+          "name": "Элли Хаддингтон",
+          "url": "https://hdrezka.asia/actor/elli-xaddington/"
+        },
+        {
+          "@type": "Person",
+          "name": "Генри Петтигрю",
+          "url": "https://hdrezka.asia/actor/genri-pettigryu/"
+        },
+        {
+          "@type": "Person",
+          "name": "Грег МакХью",
+          "url": "https://hdrezka.asia/actor/greg-makxyu/"
+        },
+        {
+          "@type": "Person",
+          "name": "Сара Викерз",
+          "url": "https://hdrezka.asia/actor/sara-vikerz/"
+        }
+      ],
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": "10",
+        "name": "КиноПоиск",
+        "ratingCount": 6445,
+        "ratingValue": "7.2",
+        "worstRating": "1"
+      },
+      "alternateName": "Guilt",
+      "containsSeason": [
+        {
+          "@type": "TVSeason",
+          "name": "1 сезон",
+          "seasonNumber": 1,
+          "url": "https://hdrezka.asia/serialy/guilt-2019/season/1"
+        },
+        {
+          "@type": "TVSeason",
+          "name": "2 сезон",
+          "seasonNumber": 2,
+          "url": "https://hdrezka.asia/serialy/guilt-2019/season/2"
+        },
+        {
+          "@type": "TVSeason",
+          "name": "3 сезон",
+          "seasonNumber": 3,
+          "url": "https://hdrezka.asia/serialy/guilt-2019/season/3"
+        }
+      ],
+      "countryOfOrigin": [
+        {
+          "@type": "Country",
+          "name": "Великобритания"
+        }
+      ],
+      "datePublished": "2019",
+      "description": "Два брата случайно сбивают старика. Несмотря на то, что они заметают следы, их жизни начинают рушиться, когда соседи и родственники покойника начинают сомневаться в том, как он умер.",
+      "genre": [
+        "Драма",
+        "Комедия",
+        "Криминал",
+        "Триллер"
+      ],
+      "identifier": [
+        {
+          "@type": "PropertyValue",
+          "propertyID": "КиноПоиск",
+          "value": 1245533
+        },
+        {
+          "@type": "PropertyValue",
+          "propertyID": "IMDb",
+          "value": "tt9644058"
+        }
+      ],
+      "image": [
+        "https://hdrezka.asia/media/backdrops/guilt-2019.webp?v=e1f9e2259bfcd908",
+        "https://hdrezka.asia/media/posters/guilt-2019.webp?v=441f2873611aff2e"
+      ],
+      "inLanguage": "ru",
+      "name": "Вина (1-3 сезон)",
+      "numberOfSeasons": 3,
+      "potentialAction": {
+        "@type": "WatchAction",
+        "target": "https://hdrezka.asia/serialy/guilt-2019#watch"
+      },
+      "sameAs": [
+        "https://www.kinopoisk.ru/film/1245533/",
+        "https://www.imdb.com/title/tt9644058/"
+      ],
+      "url": "https://hdrezka.asia/serialy/guilt-2019"
+    },
+    "rezka": "https://hdrezka.asia/serialy/guilt-2019",
+    "kpId": "1245533",
+    "imdb": "tt9644058",
+    "kp": 7.205,
+    "kpVotes": 6531,
+    "score": 7.4,
+    "scoreVotes": 6100,
+    "kinogo": "https://kinogo.lifestyle/serialy/guilt-2019",
+    "seriesStats": {
+      "seasons": 3,
+      "episodes": 12,
+      "episodesPerSeason": 4.0,
+      "episodeMinutes": 58.9,
+      "totalMinutes": 707,
+      "ongoing": false,
+      "source": "https://www.tvmaze.com/shows/44273/guilt",
+      "checkedAt": "2026-10-20T19:51:12.486024+00:00",
+      "seasonEpisodes": [
+        {
+          "season": 1,
+          "episodes": 4
+        },
+        {
+          "season": 2,
+          "episodes": 4
+        },
+        {
+          "season": 3,
+          "episodes": 4
+        }
+      ]
+    },
+    "trailers": [
+      {
+        "videoId": "2nwyKe-8VxI",
+        "url": "https://www.youtube.com/watch?v=2nwyKe-8VxI",
+        "title": "Guilt | Watch the Trailer | BBC Scotland",
+        "channel": "BBC Scotland",
+        "kind": "trailer",
+        "duration": 91,
+        "language": "en",
+        "languageBasis": "English automatic speech transcript",
+        "maxHeight": 1080,
+        "verifiedAt": "2026-10-20T19:51:12.486024+00:00",
+        "availability": {
+          "embed": true,
+          "regions": [
+            "UA",
+            "RU"
+          ],
+          "checkedAt": "2026-10-20T19:51:12.486024+00:00",
+          "source": "YouTube public player metadata"
+        }
+      }
+    ],
+    "complete": true
+  },
+  "Lilyhammer|2012|series": {
+    "title": "Lilyhammer",
+    "year": 2012,
+    "type": "series",
+    "group": "crime",
+    "checkedAt": "2026-10-20T19:51:12.486024+00:00",
+    "work": {
+      "@context": "https://schema.org",
+      "@id": "https://hdrezka.asia/serialy/lilyhammer-2012#content",
+      "@type": "TVSeries",
+      "actor": [
+        {
+          "@type": "Person",
+          "name": "Фритьов Сохейм",
+          "url": "https://hdrezka.asia/actor/fritov-soxeym/"
+        },
+        {
+          "@type": "Person",
+          "name": "Тронд Фауса Аурвааг",
+          "url": "https://hdrezka.asia/actor/trond-fausa-aurvaag/"
+        },
+        {
+          "@type": "Person",
+          "name": "Нильс Йорген Каалстад",
+          "url": "https://hdrezka.asia/actor/nils-yorgen-kaalstad/"
+        },
+        {
+          "@type": "Person",
+          "name": "Роберт Скйэрстад",
+          "url": "https://hdrezka.asia/actor/robert-skyerstad/"
+        },
+        {
+          "@type": "Person",
+          "name": "Стивен Ван Зандт",
+          "url": "https://hdrezka.asia/actor/stiv-van-zandt/"
+        },
+        {
+          "@type": "Person",
+          "name": "Энн Кригсволл",
+          "url": "https://hdrezka.asia/actor/enn-krigsvoll/"
+        },
+        {
+          "@type": "Person",
+          "name": "Мариан Саастад Оттесен",
+          "url": "https://hdrezka.asia/actor/marian-saastad-ottesen/"
+        },
+        {
+          "@type": "Person",
+          "name": "Стейнар Саген",
+          "url": "https://hdrezka.asia/actor/steynar-sagen/"
+        },
+        {
+          "@type": "Person",
+          "name": "Томми Карлсен",
+          "url": "https://hdrezka.asia/actor/tommi-karlsen/"
+        },
+        {
+          "@type": "Person",
+          "name": "Микаэль Акснес-Персон",
+          "url": "https://hdrezka.asia/actor/mikael-aksnes-person/"
+        }
+      ],
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": "10",
+        "name": "КиноПоиск",
+        "ratingCount": 16678,
+        "ratingValue": "7.8",
+        "worstRating": "1"
+      },
+      "alternateName": "Lilyhammer",
+      "containsSeason": [
+        {
+          "@type": "TVSeason",
+          "name": "1 сезон",
+          "seasonNumber": 1,
+          "url": "https://hdrezka.asia/serialy/lilyhammer-2012/season/1"
+        },
+        {
+          "@type": "TVSeason",
+          "name": "2 сезон",
+          "seasonNumber": 2,
+          "url": "https://hdrezka.asia/serialy/lilyhammer-2012/season/2"
+        },
+        {
+          "@type": "TVSeason",
+          "name": "3 сезон",
+          "seasonNumber": 3,
+          "url": "https://hdrezka.asia/serialy/lilyhammer-2012/season/3"
+        }
+      ],
+      "countryOfOrigin": [
+        {
+          "@type": "Country",
+          "name": "Норвегия"
+        },
+        {
+          "@type": "Country",
+          "name": "США"
+        }
+      ],
+      "datePublished": "2012",
+      "description": "Тальяно сдал своего босса федералам, и теперь, в рамках программы по защите свидетелей, он переезжает в Лиллехаммер, небольшой норвежский городок, когда-то приютивший зимние олимпийские игры. Сам Ф...",
+      "genre": [
+        "Драма",
+        "Комедия",
+        "Криминал"
+      ],
+      "identifier": [
+        {
+          "@type": "PropertyValue",
+          "propertyID": "КиноПоиск",
+          "value": 665654
+        },
+        {
+          "@type": "PropertyValue",
+          "propertyID": "IMDb",
+          "value": "tt1958961"
+        }
+      ],
+      "image": [
+        "https://hdrezka.asia/media/backdrops/lilyhammer-2012.webp?v=51c6934835e43daf",
+        "https://hdrezka.asia/media/posters/lilyhammer-2012.webp?v=065c41b416525157"
+      ],
+      "inLanguage": "ru",
+      "name": "Лиллехаммер (1-3 сезон)",
+      "numberOfSeasons": 3,
+      "potentialAction": {
+        "@type": "WatchAction",
+        "target": "https://hdrezka.asia/serialy/lilyhammer-2012#watch"
+      },
+      "sameAs": [
+        "https://www.kinopoisk.ru/film/665654/",
+        "https://www.imdb.com/title/tt1958961/"
+      ],
+      "url": "https://hdrezka.asia/serialy/lilyhammer-2012"
+    },
+    "rezka": "https://hdrezka.asia/serialy/lilyhammer-2012",
+    "kpId": "665654",
+    "imdb": "tt1958961",
+    "kp": 7.779,
+    "kpVotes": 16752,
+    "score": 7.9,
+    "scoreVotes": 34000,
+    "kinogo": "https://kinogo.lifestyle/serialy/lilyhammer-2012",
+    "seriesStats": {
+      "seasons": 3,
+      "episodes": 24,
+      "episodesPerSeason": 8.0,
+      "episodeMinutes": 45.2,
+      "totalMinutes": 1085,
+      "ongoing": false,
+      "source": "https://www.tvmaze.com/shows/708/lilyhammer",
+      "checkedAt": "2026-10-20T19:51:12.486024+00:00",
+      "seasonEpisodes": [
+        {
+          "season": 1,
+          "episodes": 8
+        },
+        {
+          "season": 2,
+          "episodes": 8
+        },
+        {
+          "season": 3,
+          "episodes": 8
+        }
+      ]
+    },
+    "trailers": [
+      {
+        "videoId": "RknOi6nUD4o",
+        "url": "https://www.youtube.com/watch?v=RknOi6nUD4o",
+        "title": "Lilyhammer 2012 Trailer",
+        "channel": "Vodu Trailers",
+        "kind": "trailer",
+        "duration": 166,
+        "language": "en",
+        "languageBasis": "English automatic speech transcript",
+        "maxHeight": 720,
+        "verifiedAt": "2026-10-20T19:51:12.486024+00:00",
+        "availability": {
+          "embed": true,
+          "regions": [
+            "UA",
+            "RU"
+          ],
+          "checkedAt": "2026-10-20T19:51:12.486024+00:00",
+          "source": "YouTube public player metadata"
+        }
+      }
+    ],
+    "complete": true
+  },
+  "Shut Eye|2016|series": {
+    "title": "Shut Eye",
+    "year": 2016,
+    "type": "series",
+    "group": "crime",
+    "checkedAt": "2026-10-20T19:51:12.486024+00:00",
+    "work": {
+      "@context": "https://schema.org",
+      "@id": "https://hdrezka.asia/serialy/shut-eye-2016#content",
+      "@type": "TVSeries",
+      "actor": [
+        {
+          "@type": "Person",
+          "name": "Изабелла Росселлини",
+          "url": "https://hdrezka.asia/actor/izabella-rossellini/"
+        },
+        {
+          "@type": "Person",
+          "name": "Джеффри Донован",
+          "url": "https://hdrezka.asia/actor/djeffri-donovan/"
+        },
+        {
+          "@type": "Person",
+          "name": "Эммануэль Шрики",
+          "url": "https://hdrezka.asia/actor/emmanuel-shriki/"
+        },
+        {
+          "@type": "Person",
+          "name": "Энгус Сэмпсон",
+          "url": "https://hdrezka.asia/actor/engus-sempson/"
+        },
+        {
+          "@type": "Person",
+          "name": "Дэвид Зайас",
+          "url": "https://hdrezka.asia/actor/devid-zayas/"
+        },
+        {
+          "@type": "Person",
+          "name": "КаДи Стрикленд",
+          "url": "https://hdrezka.asia/actor/kadi-striklend/"
+        },
+        {
+          "@type": "Person",
+          "name": "Сьюзэн Миснер",
+          "url": "https://hdrezka.asia/actor/syuzen-misner/"
+        },
+        {
+          "@type": "Person",
+          "name": "Дилан Шмид",
+          "url": "https://hdrezka.asia/actor/dilan-shmid/"
+        },
+        {
+          "@type": "Person",
+          "name": "Лайла Ализаде",
+          "url": "https://hdrezka.asia/actor/layla-alizade/"
+        },
+        {
+          "@type": "Person",
+          "name": "Хавана Гуппи",
+          "url": "https://hdrezka.asia/actor/xavana-guppi/"
+        }
+      ],
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": "10",
+        "name": "КиноПоиск",
+        "ratingCount": 1909,
+        "ratingValue": "6.7",
+        "worstRating": "1"
+      },
+      "alternateName": "Shut Eye",
+      "containsSeason": [
+        {
+          "@type": "TVSeason",
+          "name": "1 сезон",
+          "seasonNumber": 1,
+          "url": "https://hdrezka.asia/serialy/shut-eye-2016/season/1"
+        },
+        {
+          "@type": "TVSeason",
+          "name": "2 сезон",
+          "seasonNumber": 2,
+          "url": "https://hdrezka.asia/serialy/shut-eye-2016/season/2"
+        }
+      ],
+      "countryOfOrigin": [
+        {
+          "@type": "Country",
+          "name": "США"
+        }
+      ],
+      "datePublished": "2016",
+      "description": "История о деятельности экстрасенсов и контролирующего их преступного синдиката. В центре внимания — рассерженный представитель этого мира, у которого внезапно появляются видения.",
+      "genre": [
+        "Драма",
+        "Криминал",
+        "Фэнтези"
+      ],
+      "identifier": [
+        {
+          "@type": "PropertyValue",
+          "propertyID": "КиноПоиск",
+          "value": 983079
+        },
+        {
+          "@type": "PropertyValue",
+          "propertyID": "IMDb",
+          "value": "tt5520392"
+        }
+      ],
+      "image": [
+        "https://hdrezka.asia/media/backdrops/shut-eye-2016.webp?v=907993a7378c5cea",
+        "https://hdrezka.asia/media/posters/shut-eye-2016.webp?v=465e133de28cbebc"
+      ],
+      "inLanguage": "ru",
+      "name": "Ясновидец (1-2 сезон)",
+      "numberOfSeasons": 2,
+      "potentialAction": {
+        "@type": "WatchAction",
+        "target": "https://hdrezka.asia/serialy/shut-eye-2016#watch"
+      },
+      "sameAs": [
+        "https://www.kinopoisk.ru/film/983079/",
+        "https://www.imdb.com/title/tt5520392/"
+      ],
+      "url": "https://hdrezka.asia/serialy/shut-eye-2016"
+    },
+    "rezka": "https://hdrezka.asia/serialy/shut-eye-2016",
+    "kpId": "983079",
+    "imdb": "tt5520392",
+    "kp": 6.727,
+    "kpVotes": 1970,
+    "score": 7.2,
+    "scoreVotes": 4200,
+    "kinogo": "https://kinogo.lifestyle/serialy/shut-eye-2016",
+    "seriesStats": {
+      "seasons": 2,
+      "episodes": 20,
+      "episodesPerSeason": 10.0,
+      "episodeMinutes": 56.0,
+      "totalMinutes": 1121,
+      "ongoing": false,
+      "source": "https://www.tvmaze.com/shows/11400/shut-eye",
+      "checkedAt": "2026-10-20T19:51:12.486024+00:00",
+      "seasonEpisodes": [
+        {
+          "season": 1,
+          "episodes": 10
+        },
+        {
+          "season": 2,
+          "episodes": 10
+        }
+      ]
+    },
+    "trailers": [
+      {
+        "videoId": "x4u7QYjR4ZE",
+        "url": "https://www.youtube.com/watch?v=x4u7QYjR4ZE",
+        "title": "SHUT EYE Season 1 TRAILER (2016) New Hulu Series",
+        "channel": "Series Trailer MP",
+        "kind": "trailer",
+        "duration": 108,
+        "language": "en",
+        "languageBasis": "English automatic speech transcript",
+        "maxHeight": 1080,
+        "verifiedAt": "2026-10-20T19:51:12.486024+00:00",
+        "availability": {
+          "embed": true,
+          "regions": [
+            "UA",
+            "RU"
+          ],
+          "checkedAt": "2026-10-20T19:51:12.486024+00:00",
+          "source": "YouTube public player metadata"
+        }
+      }
+    ],
+    "complete": true
+  },
+  "Florida Man|2023|series": {
+    "title": "Florida Man",
+    "year": 2023,
+    "type": "series",
+    "group": "crime",
+    "checkedAt": "2026-10-20T19:51:12.486024+00:00",
+    "work": {
+      "@context": "https://schema.org",
+      "@id": "https://hdrezka.asia/serialy/florida-man-2023#content",
+      "@type": "TVSeries",
+      "actor": [
+        {
+          "@type": "Person",
+          "name": "Кларк Грегг",
+          "url": "https://hdrezka.asia/actor/klark-gregg/"
+        },
+        {
+          "@type": "Person",
+          "name": "Энтони ЛаПалья",
+          "url": "https://hdrezka.asia/actor/entoni-lapalya/"
+        },
+        {
+          "@type": "Person",
+          "name": "Эдгар Рамирес",
+          "url": "https://hdrezka.asia/actor/edgar-ramires/"
+        },
+        {
+          "@type": "Person",
+          "name": "Эмори Коэн",
+          "url": "https://hdrezka.asia/actor/emori-koen/"
+        },
+        {
+          "@type": "Person",
+          "name": "Эбби Ли",
+          "url": "https://hdrezka.asia/actor/ebbi-li/"
+        },
+        {
+          "@type": "Person",
+          "name": "Леонард Эрл Хауз",
+          "url": "https://hdrezka.asia/actor/leonard-erl-xauz/"
+        },
+        {
+          "@type": "Person",
+          "name": "Лекс Скотт Дэвис",
+          "url": "https://hdrezka.asia/actor/leks-skott-devis/"
+        },
+        {
+          "@type": "Person",
+          "name": "Лорен Бульоли",
+          "url": "https://hdrezka.asia/actor/loren-buloli/"
+        },
+        {
+          "@type": "Person",
+          "name": "Отмара Марреро",
+          "url": "https://hdrezka.asia/actor/otmara-marrero/"
+        },
+        {
+          "@type": "Person",
+          "name": "Исайя Джонсон",
+          "url": "https://hdrezka.asia/actor/isayya-djonson/"
+        }
+      ],
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": "10",
+        "name": "КиноПоиск",
+        "ratingCount": 2159,
+        "ratingValue": "6.7",
+        "worstRating": "1"
+      },
+      "alternateName": "Florida Man",
+      "containsSeason": [
+        {
+          "@type": "TVSeason",
+          "name": "1 сезон",
+          "seasonNumber": 1,
+          "url": "https://hdrezka.asia/serialy/florida-man-2023/season/1"
+        }
+      ],
+      "countryOfOrigin": [
+        {
+          "@type": "Country",
+          "name": "США"
+        }
+      ],
+      "datePublished": "2023",
+      "description": "В обмен на списание долга бывший полицейский Майк Валентайн нехотя отправляется в родную Флориду, чтобы отыскать сбежавшую подружку гангстера. По прибытии Майка затягивает в водоворот местных крими...",
+      "genre": [
+        "Детектив",
+        "Драма",
+        "Комедия",
+        "Криминал",
+        "Триллер"
+      ],
+      "identifier": [
+        {
+          "@type": "PropertyValue",
+          "propertyID": "КиноПоиск",
+          "value": 4541492
+        },
+        {
+          "@type": "PropertyValue",
+          "propertyID": "IMDb",
+          "value": "tt14509130"
+        }
+      ],
+      "image": [
+        "https://hdrezka.asia/media/backdrops/florida-man-2023.webp?v=f19f6025330d4ce2",
+        "https://hdrezka.asia/media/posters/florida-man-2023.webp?v=dda813e296e96844"
+      ],
+      "inLanguage": "ru",
+      "name": "Человек из Флориды (1 сезон)",
+      "numberOfSeasons": 1,
+      "potentialAction": {
+        "@type": "WatchAction",
+        "target": "https://hdrezka.asia/serialy/florida-man-2023#watch"
+      },
+      "sameAs": [
+        "https://www.kinopoisk.ru/film/4541492/",
+        "https://www.imdb.com/title/tt14509130/"
+      ],
+      "url": "https://hdrezka.asia/serialy/florida-man-2023"
+    },
+    "rezka": "https://hdrezka.asia/serialy/florida-man-2023",
+    "kpId": "4541492",
+    "imdb": "tt14509130",
+    "kp": 6.72,
+    "kpVotes": 2162,
+    "score": 6.7,
+    "scoreVotes": 13000,
+    "kinogo": "https://kinogo.lifestyle/serialy/florida-man-2023",
+    "seriesStats": {
+      "seasons": 1,
+      "episodes": 7,
+      "episodesPerSeason": 7.0,
+      "episodeMinutes": 45.4,
+      "totalMinutes": 318,
+      "ongoing": false,
+      "source": "https://www.tvmaze.com/shows/54841/florida-man",
+      "checkedAt": "2026-10-20T19:51:12.486024+00:00",
+      "seasonEpisodes": [
+        {
+          "season": 1,
+          "episodes": 7
+        }
+      ]
+    },
+    "trailers": [
+      {
+        "videoId": "eSI0dFReUPE",
+        "url": "https://www.youtube.com/watch?v=eSI0dFReUPE",
+        "title": "Florida Man | Official Trailer | Netflix | Edgar Ramirez |  April,2023",
+        "channel": "Entertainment Forever",
+        "kind": "trailer",
+        "duration": 162,
+        "language": "en",
+        "languageBasis": "English captions or original-language publisher trailer",
+        "maxHeight": 1080,
+        "verifiedAt": "2026-10-21T08:26:57.435910+00:00",
+        "availability": {
+          "embed": true,
+          "regions": [
+            "UA",
+            "RU"
+          ],
+          "checkedAt": "2026-10-21T08:26:57.435910+00:00",
+          "source": "YouTube public player metadata"
+        }
+      },
+      {
+        "videoId": "OW8Y2jnO86E",
+        "url": "https://www.youtube.com/watch?v=OW8Y2jnO86E",
+        "title": "Florida Man Season 1 Trailer",
+        "channel": "Rotten Tomatoes TV",
+        "kind": "trailer",
+        "duration": 156,
+        "language": "en",
+        "languageBasis": "English automatic speech transcript",
+        "maxHeight": 1080,
+        "verifiedAt": "2026-10-21T08:26:57.435910+00:00",
+        "availability": {
+          "embed": true,
+          "regions": [
+            "UA",
+            "RU"
+          ],
+          "checkedAt": "2026-10-21T08:26:57.435910+00:00",
+          "source": "YouTube public player metadata"
+        }
+      }
+    ],
+    "complete": true
+  },
+  "The Sticky|2024|series": {
+    "title": "The Sticky",
+    "year": 2024,
+    "type": "series",
+    "group": "crime",
+    "checkedAt": "2026-10-20T19:51:12.486024+00:00",
+    "work": {
+      "@context": "https://schema.org",
+      "@id": "https://hdrezka.asia/serialy/the-sticky-2024#content",
+      "@type": "TVSeries",
+      "actor": [
+        {
+          "@type": "Person",
+          "name": "Марго Мартиндейл",
+          "url": "https://hdrezka.asia/actor/margo-martindeyl/"
+        },
+        {
+          "@type": "Person",
+          "name": "Крис Диамантопулос",
+          "url": "https://hdrezka.asia/actor/kris-diamantopulos/"
+        },
+        {
+          "@type": "Person",
+          "name": "Марк О’Брайен",
+          "url": "https://hdrezka.asia/actor/mark-obrayen/"
+        },
+        {
+          "@type": "Person",
+          "name": "Мишель Перрон",
+          "url": "https://hdrezka.asia/actor/mishel-perron/"
+        },
+        {
+          "@type": "Person",
+          "name": "Сюзанн Клеман",
+          "url": "https://hdrezka.asia/actor/syuzann-kleman/"
+        },
+        {
+          "@type": "Person",
+          "name": "Ги Надон",
+          "url": "https://hdrezka.asia/actor/gi-nadon/"
+        },
+        {
+          "@type": "Person",
+          "name": "Гийом Кир",
+          "url": "https://hdrezka.asia/actor/giyom-kir/"
+        },
+        {
+          "@type": "Person",
+          "name": "Гита Миллер",
+          "url": "https://hdrezka.asia/actor/gita-miller/"
+        },
+        {
+          "@type": "Person",
+          "name": "Джозеф Беллероуз",
+          "url": "https://hdrezka.asia/actor/djozef-bellerouz/"
+        },
+        {
+          "@type": "Person",
+          "name": "Микаель Гуэн",
+          "url": "https://hdrezka.asia/actor/mikael-guen/"
+        }
+      ],
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": "10",
+        "name": "КиноПоиск",
+        "ratingCount": 1441,
+        "ratingValue": "6.7",
+        "worstRating": "1"
+      },
+      "alternateName": "The Sticky",
+      "containsSeason": [
+        {
+          "@type": "TVSeason",
+          "name": "1 сезон",
+          "seasonNumber": 1,
+          "url": "https://hdrezka.asia/serialy/the-sticky-2024/season/1"
+        }
+      ],
+      "countryOfOrigin": [
+        {
+          "@type": "Country",
+          "name": "Канада"
+        }
+      ],
+      "datePublished": "2024",
+      "description": "Фермерша Рут Лэндри занимается производством кленового сиропа. Когда из-за бюрократии она может потерять все, что у неё есть, Рут объединяется с бостонским гангстером и канадским охранником, чтобы ...",
+      "genre": [
+        "Комедия",
+        "Криминал"
+      ],
+      "identifier": [
+        {
+          "@type": "PropertyValue",
+          "propertyID": "КиноПоиск",
+          "value": 5495674
+        },
+        {
+          "@type": "PropertyValue",
+          "propertyID": "IMDb",
+          "value": "tt19636984"
+        }
+      ],
+      "image": [
+        "https://hdrezka.asia/media/backdrops/the-sticky-2024.webp?v=20b3e4e16c1e7dc0",
+        "https://hdrezka.asia/media/posters/the-sticky-2024.webp?v=9f83f99eed047d89"
+      ],
+      "inLanguage": "ru",
+      "name": "Липучка (1 сезон)",
+      "numberOfSeasons": 1,
+      "potentialAction": {
+        "@type": "WatchAction",
+        "target": "https://hdrezka.asia/serialy/the-sticky-2024#watch"
+      },
+      "sameAs": [
+        "https://www.kinopoisk.ru/film/5495674/",
+        "https://www.imdb.com/title/tt19636984/"
+      ],
+      "url": "https://hdrezka.asia/serialy/the-sticky-2024"
+    },
+    "rezka": "https://hdrezka.asia/serialy/the-sticky-2024",
+    "kpId": "5495674",
+    "imdb": "tt19636984",
+    "kp": 6.744,
+    "kpVotes": 1441,
+    "score": 7.0,
+    "scoreVotes": 6100,
+    "kinogo": "https://kinogo.lifestyle/serialy/the-sticky-2024",
+    "seriesStats": {
+      "seasons": 1,
+      "episodes": 6,
+      "episodesPerSeason": 6.0,
+      "episodeMinutes": 28.7,
+      "totalMinutes": 172,
+      "ongoing": false,
+      "source": "https://www.tvmaze.com/shows/61617/the-sticky",
+      "checkedAt": "2026-10-20T19:51:12.486024+00:00",
+      "seasonEpisodes": [
+        {
+          "season": 1,
+          "episodes": 6
+        }
+      ]
+    },
+    "trailers": [
+      {
+        "videoId": "hvjIKMb5oSc",
+        "url": "https://www.youtube.com/watch?v=hvjIKMb5oSc",
+        "title": "The Sticky - Official Trailer | Prime Video",
+        "channel": "Prime Video",
+        "kind": "trailer",
+        "duration": 124,
+        "language": "en",
+        "languageBasis": "English captions or original-language publisher trailer",
+        "maxHeight": 1080,
+        "verifiedAt": "2026-10-20T19:51:12.486024+00:00",
+        "availability": {
+          "embed": true,
+          "regions": [
+            "UA",
+            "RU"
+          ],
+          "checkedAt": "2026-10-20T19:51:12.486024+00:00",
+          "source": "YouTube public player metadata"
+        }
+      }
+    ],
+    "complete": true
+  },
+  "Quacks|2017|series": {
+    "title": "Quacks",
+    "year": 2017,
+    "type": "series",
+    "group": "crime",
+    "checkedAt": "2026-10-20T19:51:12.486024+00:00",
+    "error": "exact-provider-work-not-found"
+  },
+  "Two Weeks to Live|2020|series": {
+    "title": "Two Weeks to Live",
+    "year": 2020,
+    "type": "series",
+    "group": "crime",
+    "checkedAt": "2026-10-20T19:52:50.711039+00:00",
+    "error": "HTTP Error 503: Service Unavailable"
+  },
+  "Deadbeat|2014|series": {
+    "title": "Deadbeat",
+    "year": 2014,
+    "type": "series",
+    "group": "crime",
+    "checkedAt": "2026-10-20T19:51:12.486024+00:00",
+    "error": "exact-provider-work-not-found"
+  },
+  "Angie Tribeca|2016|series": {
+    "title": "Angie Tribeca",
+    "year": 2016,
+    "type": "series",
+    "group": "crime",
+    "checkedAt": "2026-10-20T19:52:50.711039+00:00",
+    "error": "HTTP Error 503: Service Unavailable"
+  },
+  "Medical Police|2020|series": {
+    "title": "Medical Police",
+    "year": 2020,
+    "type": "series",
+    "group": "crime",
+    "checkedAt": "2026-10-20T19:52:50.711039+00:00",
+    "error": "HTTP Error 503: Service Unavailable"
+  },
+  "Man Down|2013|series": {
+    "title": "Man Down",
+    "year": 2013,
+    "type": "series",
+    "group": "crime",
+    "checkedAt": "2026-10-20T19:51:12.486024+00:00",
+    "error": "exact-provider-work-not-found"
+  },
+  "Saxondale|2006|series": {
+    "title": "Saxondale",
+    "year": 2006,
+    "type": "series",
+    "group": "crime",
+    "checkedAt": "2026-10-20T19:51:12.486024+00:00",
+    "error": "exact-provider-work-not-found"
+  },
+  "No Good Deed|2024|series": {
+    "title": "No Good Deed",
+    "year": 2024,
+    "type": "series",
+    "group": "crime",
+    "checkedAt": "2026-10-20T19:52:50.711039+00:00",
+    "error": "HTTP Error 503: Service Unavailable"
+  },
+  "Siblings|2014|series": {
+    "title": "Siblings",
+    "year": 2014,
+    "type": "series",
+    "group": "crime",
+    "checkedAt": "2026-10-20T19:51:12.486024+00:00",
+    "error": "exact-provider-work-not-found"
+  },
+  "Backstrom|2015|series": {
+    "title": "Backstrom",
+    "year": 2015,
+    "type": "series",
+    "group": "crime",
+    "checkedAt": "2026-10-20T19:52:50.711039+00:00",
+    "error": "HTTP Error 503: Service Unavailable"
+  },
+  "Back|2017|series": {
+    "title": "Back",
+    "year": 2017,
+    "type": "series",
+    "group": "crime",
+    "checkedAt": "2026-10-20T19:51:12.486024+00:00",
+    "error": "exact-provider-work-not-found"
+  },
+  "Super Science Friends|2015|series": {
+    "title": "Super Science Friends",
+    "year": 2015,
+    "type": "series",
+    "group": "crime",
+    "checkedAt": "2026-10-20T19:51:12.486024+00:00",
+    "error": "exact-provider-work-not-found"
+  },
+  "The Freak Brothers|2021|series": {
+    "title": "The Freak Brothers",
+    "year": 2021,
+    "type": "series",
+    "group": "crime",
+    "checkedAt": "2026-10-20T19:51:12.486024+00:00",
+    "error": "exact-provider-work-not-found"
+  },
+  "Players|2022|series": {
+    "title": "Players",
+    "year": 2022,
+    "type": "series",
+    "group": "crime",
+    "checkedAt": "2026-10-20T19:51:12.486024+00:00",
+    "error": "exact-provider-work-not-found"
+  },
+  "Imposters|2017|series": {
+    "title": "Imposters",
+    "year": 2017,
+    "type": "series",
+    "group": "crime",
+    "checkedAt": "2026-10-20T19:52:50.711039+00:00",
+    "error": "HTTP Error 503: Service Unavailable"
+  },
+  "Swedish Dicks|2016|series": {
+    "title": "Swedish Dicks",
+    "year": 2016,
+    "type": "series",
+    "group": "crime",
+    "checkedAt": "2026-10-20T19:51:12.486024+00:00",
+    "error": "exact-provider-work-not-found"
+  },
+  "Review with Myles Barlow|2008|series": {
+    "title": "Review with Myles Barlow",
+    "year": 2008,
+    "type": "series",
+    "group": "crime",
+    "checkedAt": "2026-10-20T19:51:12.486024+00:00",
+    "error": "exact-provider-work-not-found"
+  },
+  "BrainDead|2016|series": {
+    "title": "BrainDead",
+    "year": 2016,
+    "type": "series",
+    "group": "crime",
+    "checkedAt": "2026-10-20T19:52:50.711039+00:00",
+    "error": "HTTP Error 503: Service Unavailable"
+  },
+  "Exploding Kittens|2024|series": {
+    "title": "Exploding Kittens",
+    "year": 2024,
+    "type": "series",
+    "group": "crime",
+    "checkedAt": "2026-10-20T19:52:50.711039+00:00",
+    "error": "HTTP Error 503: Service Unavailable"
+  },
+  "Crossing Swords|2020|series": {
+    "title": "Crossing Swords",
+    "year": 2020,
+    "type": "series",
+    "group": "crime",
+    "checkedAt": "2026-10-20T19:52:50.711039+00:00",
+    "error": "HTTP Error 503: Service Unavailable"
+  },
+  "Legit|2013|series": {
+    "title": "Legit",
+    "year": 2013,
+    "type": "series",
+    "group": "crime",
+    "checkedAt": "2026-10-20T19:54:35.484583+00:00",
+    "error": "exact-provider-work-not-found"
+  },
+  "Reno 911!|2003|series": {
+    "title": "Reno 911!",
+    "year": 2003,
+    "type": "series",
+    "group": "crime",
+    "checkedAt": "2026-10-20T19:54:35.484583+00:00",
+    "error": "exact-provider-work-not-found"
+  },
+  "Entourage|2004|series": {
+    "title": "Entourage",
+    "year": 2004,
+    "type": "series",
+    "group": "crime",
+    "checkedAt": "2026-10-20T19:54:35.484583+00:00",
+    "work": {
+      "@context": "https://schema.org",
+      "@id": "https://hdrezka.asia/serialy/entourage-2004#content",
+      "@type": "TVSeries",
+      "actor": [
+        {
+          "@type": "Person",
+          "name": "Джереми Пивен",
+          "url": "https://hdrezka.asia/actor/djeremi-piven/"
+        },
+        {
+          "@type": "Person",
+          "name": "Деби Мейзар",
+          "url": "https://hdrezka.asia/actor/debi-meyzar/"
+        },
+        {
+          "@type": "Person",
+          "name": "Эммануэль Шрики",
+          "url": "https://hdrezka.asia/actor/emmanuel-shriki/"
+        },
+        {
+          "@type": "Person",
+          "name": "Кевин Диллон",
+          "url": "https://hdrezka.asia/actor/kevin-dillon/"
+        },
+        {
+          "@type": "Person",
+          "name": "Риз Койро",
+          "url": "https://hdrezka.asia/actor/riz-koyro/"
+        },
+        {
+          "@type": "Person",
+          "name": "Кевин Коннолли",
+          "url": "https://hdrezka.asia/actor/kevin-konnolli/"
+        },
+        {
+          "@type": "Person",
+          "name": "Джерри Феррара",
+          "url": "https://hdrezka.asia/actor/djerri-ferrara/"
+        },
+        {
+          "@type": "Person",
+          "name": "Перри Ривз",
+          "url": "https://hdrezka.asia/actor/perri-rivz/"
+        },
+        {
+          "@type": "Person",
+          "name": "Эдриан Гренье",
+          "url": "https://hdrezka.asia/actor/edrian-grene/"
+        },
+        {
+          "@type": "Person",
+          "name": "Рекс Ли",
+          "url": "https://hdrezka.asia/actor/reks-li/"
+        }
+      ],
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": "10",
+        "name": "КиноПоиск",
+        "ratingCount": 25600,
+        "ratingValue": "8.3",
+        "worstRating": "1"
+      },
+      "alternateName": "Entourage",
+      "containsSeason": [
+        {
+          "@type": "TVSeason",
+          "name": "1 сезон",
+          "seasonNumber": 1,
+          "url": "https://hdrezka.asia/serialy/entourage-2004/season/1"
+        },
+        {
+          "@type": "TVSeason",
+          "name": "2 сезон",
+          "seasonNumber": 2,
+          "url": "https://hdrezka.asia/serialy/entourage-2004/season/2"
+        },
+        {
+          "@type": "TVSeason",
+          "name": "3 сезон",
+          "seasonNumber": 3,
+          "url": "https://hdrezka.asia/serialy/entourage-2004/season/3"
+        },
+        {
+          "@type": "TVSeason",
+          "name": "4 сезон",
+          "seasonNumber": 4,
+          "url": "https://hdrezka.asia/serialy/entourage-2004/season/4"
+        },
+        {
+          "@type": "TVSeason",
+          "name": "5 сезон",
+          "seasonNumber": 5,
+          "url": "https://hdrezka.asia/serialy/entourage-2004/season/5"
+        },
+        {
+          "@type": "TVSeason",
+          "name": "6 сезон",
+          "seasonNumber": 6,
+          "url": "https://hdrezka.asia/serialy/entourage-2004/season/6"
+        },
+        {
+          "@type": "TVSeason",
+          "name": "7 сезон",
+          "seasonNumber": 7,
+          "url": "https://hdrezka.asia/serialy/entourage-2004/season/7"
+        },
+        {
+          "@type": "TVSeason",
+          "name": "8 сезон",
+          "seasonNumber": 8,
+          "url": "https://hdrezka.asia/serialy/entourage-2004/season/8"
+        }
+      ],
+      "countryOfOrigin": [
+        {
+          "@type": "Country",
+          "name": "США"
+        }
+      ],
+      "datePublished": "2004",
+      "description": "Перед нами история восхождения в Голливуде Винсента Чейза – молодого и многообещающего актера из Нью-Йорка. В его ближайшее окружение входят: лучший друг и по совместительству менеджер Эрик Мёрфи, ...",
+      "genre": [
+        "Драма",
+        "Комедия"
+      ],
+      "identifier": [
+        {
+          "@type": "PropertyValue",
+          "propertyID": "КиноПоиск",
+          "value": 277548
+        },
+        {
+          "@type": "PropertyValue",
+          "propertyID": "IMDb",
+          "value": "tt0387199"
+        }
+      ],
+      "image": [
+        "https://hdrezka.asia/media/backdrops/entourage-2004.webp?v=7e137f69e03627d6",
+        "https://hdrezka.asia/media/posters/entourage-2004.webp?v=c6126bf90e9fe0cb"
+      ],
+      "inLanguage": "ru",
+      "name": "Красавцы (1-8 сезон)",
+      "numberOfSeasons": 8,
+      "potentialAction": {
+        "@type": "WatchAction",
+        "target": "https://hdrezka.asia/serialy/entourage-2004#watch"
+      },
+      "sameAs": [
+        "https://www.kinopoisk.ru/film/277548/",
+        "https://www.imdb.com/title/tt0387199/"
+      ],
+      "url": "https://hdrezka.asia/serialy/entourage-2004"
+    },
+    "rezka": "https://hdrezka.asia/serialy/entourage-2004",
+    "kpId": "277548",
+    "imdb": "tt0387199",
+    "kp": 8.297,
+    "kpVotes": 25884,
+    "score": 8.4,
+    "scoreVotes": 183000,
+    "kinogo": "https://kinogo.lifestyle/serialy/entourage-2004",
+    "seriesStats": {
+      "seasons": 8,
+      "episodes": 96,
+      "episodesPerSeason": 12.0,
+      "episodeMinutes": 30.0,
+      "totalMinutes": 2880,
+      "ongoing": false,
+      "source": "https://www.tvmaze.com/shows/559/entourage",
+      "checkedAt": "2026-10-20T19:54:35.484583+00:00",
+      "seasonEpisodes": [
+        {
+          "season": 1,
+          "episodes": 8
+        },
+        {
+          "season": 2,
+          "episodes": 14
+        },
+        {
+          "season": 3,
+          "episodes": 20
+        },
+        {
+          "season": 4,
+          "episodes": 12
+        },
+        {
+          "season": 5,
+          "episodes": 12
+        },
+        {
+          "season": 6,
+          "episodes": 12
+        },
+        {
+          "season": 7,
+          "episodes": 10
+        },
+        {
+          "season": 8,
+          "episodes": 8
+        }
+      ]
+    },
+    "trailers": [
+      {
+        "videoId": "6YcEFaJ1NVk",
+        "url": "https://www.youtube.com/watch?v=6YcEFaJ1NVk",
+        "title": "Entourage - The Complete Series: Catch Up Trailer - Official HBO UK",
+        "channel": "HBO UK",
+        "kind": "trailer",
+        "duration": 87,
+        "language": "en",
+        "languageBasis": "English automatic speech transcript",
+        "maxHeight": 1080,
+        "verifiedAt": "2026-10-21T08:26:57.435910+00:00",
+        "availability": {
+          "embed": true,
+          "regions": [
+            "UA",
+            "RU"
+          ],
+          "checkedAt": "2026-10-21T08:26:57.435910+00:00",
+          "source": "YouTube public player metadata"
+        }
+      }
+    ],
+    "complete": true
+  },
+  "American Dad!|2005|series": {
+    "title": "American Dad!",
+    "year": 2005,
+    "type": "series",
+    "group": "animated",
+    "checkedAt": "2026-10-20T19:54:35.484583+00:00",
+    "work": {
+      "@context": "https://schema.org",
+      "@id": "https://hdrezka.asia/multserialy/american-dad-2005#content",
+      "@type": "TVSeries",
+      "actor": [
+        {
+          "@type": "Person",
+          "name": "Ди Брэдли Бейкер",
+          "url": "https://hdrezka.asia/actor/di-bredli-beyker/"
+        },
+        {
+          "@type": "Person",
+          "name": "Кевин Майкл Ричардсон",
+          "url": "https://hdrezka.asia/actor/kevin-maykl-richardson/"
+        },
+        {
+          "@type": "Person",
+          "name": "Патрик Стюарт",
+          "url": "https://hdrezka.asia/actor/patrik-styuart/"
+        },
+        {
+          "@type": "Person",
+          "name": "Кертис Армстронг",
+          "url": "https://hdrezka.asia/actor/kertis-armstrong/"
+        },
+        {
+          "@type": "Person",
+          "name": "Сет Макфарлейн",
+          "url": "https://hdrezka.asia/actor/set-makfarleyn/"
+        },
+        {
+          "@type": "Person",
+          "name": "Эдди Кэй Томас",
+          "url": "https://hdrezka.asia/actor/eddi-key-tomas/"
+        },
+        {
+          "@type": "Person",
+          "name": "Джефф Фишер",
+          "url": "https://hdrezka.asia/actor/djeff-fisher/"
+        },
+        {
+          "@type": "Person",
+          "name": "Скотт Граймз",
+          "url": "https://hdrezka.asia/actor/skott-graymz/"
+        },
+        {
+          "@type": "Person",
+          "name": "Уэнди Шаал",
+          "url": "https://hdrezka.asia/actor/uendi-shaal/"
+        },
+        {
+          "@type": "Person",
+          "name": "Рэйчел Макфарлейн",
+          "url": "https://hdrezka.asia/actor/reychel-makfarleyn/"
+        }
+      ],
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": "10",
+        "name": "КиноПоиск",
+        "ratingCount": 112019,
+        "ratingValue": "7.3",
+        "worstRating": "1"
+      },
+      "alternateName": "American Dad!",
+      "containsSeason": [
+        {
+          "@type": "TVSeason",
+          "name": "1 сезон",
+          "seasonNumber": 1,
+          "url": "https://hdrezka.asia/multserialy/american-dad-2005/season/1"
+        },
+        {
+          "@type": "TVSeason",
+          "name": "2 сезон",
+          "seasonNumber": 2,
+          "url": "https://hdrezka.asia/multserialy/american-dad-2005/season/2"
+        },
+        {
+          "@type": "TVSeason",
+          "name": "3 сезон",
+          "seasonNumber": 3,
+          "url": "https://hdrezka.asia/multserialy/american-dad-2005/season/3"
+        },
+        {
+          "@type": "TVSeason",
+          "name": "4 сезон",
+          "seasonNumber": 4,
+          "url": "https://hdrezka.asia/multserialy/american-dad-2005/season/4"
+        },
+        {
+          "@type": "TVSeason",
+          "name": "5 сезон",
+          "seasonNumber": 5,
+          "url": "https://hdrezka.asia/multserialy/american-dad-2005/season/5"
+        },
+        {
+          "@type": "TVSeason",
+          "name": "6 сезон",
+          "seasonNumber": 6,
+          "url": "https://hdrezka.asia/multserialy/american-dad-2005/season/6"
+        },
+        {
+          "@type": "TVSeason",
+          "name": "7 сезон",
+          "seasonNumber": 7,
+          "url": "https://hdrezka.asia/multserialy/american-dad-2005/season/7"
+        },
+        {
+          "@type": "TVSeason",
+          "name": "8 сезон",
+          "seasonNumber": 8,
+          "url": "https://hdrezka.asia/multserialy/american-dad-2005/season/8"
+        },
+        {
+          "@type": "TVSeason",
+          "name": "9 сезон",
+          "seasonNumber": 9,
+          "url": "https://hdrezka.asia/multserialy/american-dad-2005/season/9"
+        },
+        {
+          "@type": "TVSeason",
+          "name": "10 сезон",
+          "seasonNumber": 10,
+          "url": "https://hdrezka.asia/multserialy/american-dad-2005/season/10"
+        },
+        {
+          "@type": "TVSeason",
+          "name": "11 сезон",
+          "seasonNumber": 11,
+          "url": "https://hdrezka.asia/multserialy/american-dad-2005/season/11"
+        },
+        {
+          "@type": "TVSeason",
+          "name": "12 сезон",
+          "seasonNumber": 12,
+          "url": "https://hdrezka.asia/multserialy/american-dad-2005/season/12"
+        },
+        {
+          "@type": "TVSeason",
+          "name": "13 сезон",
+          "seasonNumber": 13,
+          "url": "https://hdrezka.asia/multserialy/american-dad-2005/season/13"
+        },
+        {
+          "@type": "TVSeason",
+          "name": "14 сезон",
+          "seasonNumber": 14,
+          "url": "https://hdrezka.asia/multserialy/american-dad-2005/season/14"
+        },
+        {
+          "@type": "TVSeason",
+          "name": "15 сезон",
+          "seasonNumber": 15,
+          "url": "https://hdrezka.asia/multserialy/american-dad-2005/season/15"
+        },
+        {
+          "@type": "TVSeason",
+          "name": "16 сезон",
+          "seasonNumber": 16,
+          "url": "https://hdrezka.asia/multserialy/american-dad-2005/season/16"
+        },
+        {
+          "@type": "TVSeason",
+          "name": "17 сезон",
+          "seasonNumber": 17,
+          "url": "https://hdrezka.asia/multserialy/american-dad-2005/season/17"
+        },
+        {
+          "@type": "TVSeason",
+          "name": "18 сезон",
+          "seasonNumber": 18,
+          "url": "https://hdrezka.asia/multserialy/american-dad-2005/season/18"
+        },
+        {
+          "@type": "TVSeason",
+          "name": "19 сезон",
+          "seasonNumber": 19,
+          "url": "https://hdrezka.asia/multserialy/american-dad-2005/season/19"
+        },
+        {
+          "@type": "TVSeason",
+          "name": "20 сезон",
+          "seasonNumber": 20,
+          "url": "https://hdrezka.asia/multserialy/american-dad-2005/season/20"
+        },
+        {
+          "@type": "TVSeason",
+          "name": "21 сезон",
+          "seasonNumber": 21,
+          "url": "https://hdrezka.asia/multserialy/american-dad-2005/season/21"
+        },
+        {
+          "@type": "TVSeason",
+          "name": "22 сезон",
+          "seasonNumber": 22,
+          "url": "https://hdrezka.asia/multserialy/american-dad-2005/season/22"
+        }
+      ],
+      "countryOfOrigin": [
+        {
+          "@type": "Country",
+          "name": "США"
+        }
+      ],
+      "datePublished": "2005",
+      "description": "Сюжет мультсериала разворачивается вокруг семьи Смитов. Папа Стэн — агент ЦРУ и республиканец до мозга костей, силен телом, но глуп разумом. Имеет мужественнейший подбородок и всегда выглаженный ко...",
+      "genre": [
+        "Комедия"
+      ],
+      "identifier": [
+        {
+          "@type": "PropertyValue",
+          "propertyID": "КиноПоиск",
+          "value": 258054
+        },
+        {
+          "@type": "PropertyValue",
+          "propertyID": "IMDb",
+          "value": "tt0397306"
+        }
+      ],
+      "image": [
+        "https://hdrezka.asia/media/backdrops/american-dad-2005.webp?v=893e0a0cb571f881",
+        "https://hdrezka.asia/media/posters/american-dad-2005.webp?v=679565ee0534d14b"
+      ],
+      "inLanguage": "ru",
+      "name": "Американский папаша (1-22 сезон)",
+      "numberOfSeasons": 22,
+      "potentialAction": {
+        "@type": "WatchAction",
+        "target": "https://hdrezka.asia/multserialy/american-dad-2005#watch"
+      },
+      "sameAs": [
+        "https://www.kinopoisk.ru/film/258054/",
+        "https://www.imdb.com/title/tt0397306/"
+      ],
+      "url": "https://hdrezka.asia/multserialy/american-dad-2005"
+    },
+    "rezka": "https://hdrezka.asia/multserialy/american-dad-2005",
+    "kpId": "258054",
+    "imdb": "tt0397306",
+    "kp": 7.282,
+    "kpVotes": 112219,
+    "score": 7.4,
+    "scoreVotes": 144000,
+    "kinogo": "https://kinogo.lifestyle/multserialy/american-dad-2005",
+    "seriesStats": {
+      "seasons": 21,
+      "episodes": 401,
+      "episodesPerSeason": 19.1,
+      "episodeMinutes": 30.0,
+      "totalMinutes": 12030,
+      "ongoing": true,
+      "source": "https://www.tvmaze.com/shows/215/american-dad",
+      "checkedAt": "2026-10-20T19:54:35.484583+00:00",
+      "seasonEpisodes": [
+        {
+          "season": 1,
+          "episodes": 23
+        },
+        {
+          "season": 2,
+          "episodes": 19
+        },
+        {
+          "season": 3,
+          "episodes": 16
+        },
+        {
+          "season": 4,
+          "episodes": 20
+        },
+        {
+          "season": 5,
+          "episodes": 18
+        },
+        {
+          "season": 6,
+          "episodes": 19
+        },
+        {
+          "season": 7,
+          "episodes": 18
+        },
+        {
+          "season": 8,
+          "episodes": 19
+        },
+        {
+          "season": 9,
+          "episodes": 20
+        },
+        {
+          "season": 10,
+          "episodes": 3
+        },
+        {
+          "season": 11,
+          "episodes": 15
+        },
+        {
+          "season": 12,
+          "episodes": 22
+        },
+        {
+          "season": 13,
+          "episodes": 22
+        },
+        {
+          "season": 14,
+          "episodes": 22
+        },
+        {
+          "season": 15,
+          "episodes": 20
+        },
+        {
+          "season": 16,
+          "episodes": 24
+        },
+        {
+          "season": 17,
+          "episodes": 22
+        },
+        {
+          "season": 18,
+          "episodes": 22
+        },
+        {
+          "season": 19,
+          "episodes": 22
+        },
+        {
+          "season": 20,
+          "episodes": 22
+        },
+        {
+          "season": 21,
+          "episodes": 13
+        }
+      ]
+    },
+    "trailers": [
+      {
+        "videoId": "apr31MFjg08",
+        "url": "https://www.youtube.com/watch?v=apr31MFjg08",
+        "title": "American Dad: Season 10 | Official Trailer | TBS",
+        "channel": "TBS",
+        "kind": "trailer",
+        "duration": 87,
+        "language": "en",
+        "languageBasis": "English automatic speech transcript",
+        "maxHeight": 1080,
+        "verifiedAt": "2026-10-20T19:54:35.484583+00:00",
+        "availability": {
+          "embed": true,
+          "regions": [
+            "UA",
+            "RU"
+          ],
+          "checkedAt": "2026-10-20T19:54:35.484583+00:00",
+          "source": "YouTube public player metadata"
+        }
+      },
+      {
+        "videoId": "WNU_NOeVhlU",
+        "url": "https://www.youtube.com/watch?v=WNU_NOeVhlU",
+        "title": "American Dad: Promo | TBS",
+        "channel": "TBS",
+        "kind": "trailer",
+        "duration": 54,
+        "language": "en",
+        "languageBasis": "English automatic speech transcript",
+        "maxHeight": 1080,
+        "verifiedAt": "2026-10-20T19:54:35.484583+00:00",
+        "availability": {
+          "embed": true,
+          "regions": [
+            "UA",
+            "RU"
+          ],
+          "checkedAt": "2026-10-20T19:54:35.484583+00:00",
+          "source": "YouTube public player metadata"
+        }
+      }
+    ],
+    "complete": true
+  },
+  "Blue Mountain State|2010|series": {
+    "title": "Blue Mountain State",
+    "year": 2010,
+    "type": "series",
+    "group": "crime",
+    "checkedAt": "2026-10-20T19:54:35.484583+00:00",
+    "work": {
+      "@context": "https://schema.org",
+      "@id": "https://hdrezka.asia/serialy/blue-mountain-state-2010#content",
+      "@type": "TVSeries",
+      "actor": [
+        {
+          "@type": "Person",
+          "name": "Дениз Ричардс",
+          "url": "https://hdrezka.asia/actor/deniz-richards/"
+        },
+        {
+          "@type": "Person",
+          "name": "Алан Ричсон",
+          "url": "https://hdrezka.asia/actor/alan-richson/"
+        },
+        {
+          "@type": "Person",
+          "name": "Кваси Сонгуи",
+          "url": "https://hdrezka.asia/actor/kvasi-songui/"
+        },
+        {
+          "@type": "Person",
+          "name": "Омари Ньютон",
+          "url": "https://hdrezka.asia/actor/omari-nyuton/"
+        },
+        {
+          "@type": "Person",
+          "name": "Джеймс Кейд",
+          "url": "https://hdrezka.asia/actor/djeyms-keyd/"
+        },
+        {
+          "@type": "Person",
+          "name": "Дэрин Брукс",
+          "url": "https://hdrezka.asia/actor/derin-bruks/"
+        },
+        {
+          "@type": "Person",
+          "name": "Крис Романо",
+          "url": "https://hdrezka.asia/actor/kris-romano/"
+        },
+        {
+          "@type": "Person",
+          "name": "Роб Рамсей",
+          "url": "https://hdrezka.asia/actor/rob-ramsey/"
+        },
+        {
+          "@type": "Person",
+          "name": "Эд Маринаро",
+          "url": "https://hdrezka.asia/actor/ed-marinaro/"
+        },
+        {
+          "@type": "Person",
+          "name": "Карл Дорсин",
+          "url": "https://hdrezka.asia/actor/karl-dorsin/"
+        }
+      ],
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": "10",
+        "name": "КиноПоиск",
+        "ratingCount": 20694,
+        "ratingValue": "8.0",
+        "worstRating": "1"
+      },
+      "alternateName": "Blue Mountain State",
+      "containsSeason": [
+        {
+          "@type": "TVSeason",
+          "name": "1 сезон",
+          "seasonNumber": 1,
+          "url": "https://hdrezka.asia/serialy/blue-mountain-state-2010/season/1"
+        },
+        {
+          "@type": "TVSeason",
+          "name": "2 сезон",
+          "seasonNumber": 2,
+          "url": "https://hdrezka.asia/serialy/blue-mountain-state-2010/season/2"
+        },
+        {
+          "@type": "TVSeason",
+          "name": "3 сезон",
+          "seasonNumber": 3,
+          "url": "https://hdrezka.asia/serialy/blue-mountain-state-2010/season/3"
+        }
+      ],
+      "countryOfOrigin": [
+        {
+          "@type": "Country",
+          "name": "Канада"
+        },
+        {
+          "@type": "Country",
+          "name": "США"
+        }
+      ],
+      "datePublished": "2010",
+      "description": "Три парня поступили в университет, который уделяет большое внимание американскому футболу. Троица должна быстро адаптироваться к новой жизни, совмещая футбол, девушек, занятия и безостановочные гул...",
+      "genre": [
+        "Комедия",
+        "Спорт"
+      ],
+      "identifier": [
+        {
+          "@type": "PropertyValue",
+          "propertyID": "КиноПоиск",
+          "value": 490346
+        },
+        {
+          "@type": "PropertyValue",
+          "propertyID": "IMDb",
+          "value": "tt1344204"
+        }
+      ],
+      "image": [
+        "https://hdrezka.asia/media/backdrops/blue-mountain-state-2010.webp?v=16bd0f5db99ab886",
+        "https://hdrezka.asia/media/posters/blue-mountain-state-2010.webp?v=05f730893171def1"
+      ],
+      "inLanguage": "ru",
+      "name": "Реальные пацаны (1-3 сезон)",
+      "numberOfSeasons": 3,
+      "potentialAction": {
+        "@type": "WatchAction",
+        "target": "https://hdrezka.asia/serialy/blue-mountain-state-2010#watch"
+      },
+      "sameAs": [
+        "https://www.kinopoisk.ru/film/490346/",
+        "https://www.imdb.com/title/tt1344204/"
+      ],
+      "url": "https://hdrezka.asia/serialy/blue-mountain-state-2010"
+    },
+    "rezka": "https://hdrezka.asia/serialy/blue-mountain-state-2010",
+    "kpId": "490346",
+    "imdb": "tt1344204",
+    "kp": 8.005,
+    "kpVotes": 21541,
+    "score": 8.3,
+    "scoreVotes": 64000,
+    "kinogo": "https://kinogo.lifestyle/serialy/blue-mountain-state-2010",
+    "seriesStats": {
+      "seasons": 3,
+      "episodes": 39,
+      "episodesPerSeason": 13.0,
+      "episodeMinutes": 30.0,
+      "totalMinutes": 1170,
+      "ongoing": false,
+      "source": "https://www.tvmaze.com/shows/730/blue-mountain-state",
+      "checkedAt": "2026-10-20T19:54:35.484583+00:00",
+      "seasonEpisodes": [
+        {
+          "season": 1,
+          "episodes": 13
+        },
+        {
+          "season": 2,
+          "episodes": 13
+        },
+        {
+          "season": 3,
+          "episodes": 13
+        }
+      ]
+    },
+    "trailers": [],
+    "complete": false
+  },
+  "My Name Is Earl|2005|series": {
+    "title": "My Name Is Earl",
+    "year": 2005,
+    "type": "series",
+    "group": "crime",
+    "checkedAt": "2026-10-20T19:54:35.484583+00:00",
+    "work": {
+      "@context": "https://schema.org",
+      "@id": "https://hdrezka.asia/serialy/my-name-is-earl-2005#content",
+      "@type": "TVSeries",
+      "actor": [
+        {
+          "@type": "Person",
+          "name": "Джейсон Ли",
+          "url": "https://hdrezka.asia/actor/djeyson-li/"
+        },
+        {
+          "@type": "Person",
+          "name": "Итан Сапли",
+          "url": "https://hdrezka.asia/actor/itan-sapli/"
+        },
+        {
+          "@type": "Person",
+          "name": "Дейл Дикки",
+          "url": "https://hdrezka.asia/actor/deyl-dikki/"
+        },
+        {
+          "@type": "Person",
+          "name": "Джейми Прессли",
+          "url": "https://hdrezka.asia/actor/djeymi-pressli/"
+        },
+        {
+          "@type": "Person",
+          "name": "Грегг Бинкли",
+          "url": "https://hdrezka.asia/actor/gregg-binkli/"
+        },
+        {
+          "@type": "Person",
+          "name": "Надин Веласкес",
+          "url": "https://hdrezka.asia/actor/nadin-velaskes/"
+        },
+        {
+          "@type": "Person",
+          "name": "Эдди Стиплз",
+          "url": "https://hdrezka.asia/actor/eddi-stiplz/"
+        },
+        {
+          "@type": "Person",
+          "name": "Ной Кроуфорд",
+          "url": "https://hdrezka.asia/actor/noy-krouford/"
+        },
+        {
+          "@type": "Person",
+          "name": "Луис Т. Мойл",
+          "url": "https://hdrezka.asia/actor/luis-t-moyl/"
+        },
+        {
+          "@type": "Person",
+          "name": "Трей Карлайл",
+          "url": "https://hdrezka.asia/actor/trey-karlayl/"
+        }
+      ],
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": "10",
+        "name": "КиноПоиск",
+        "ratingCount": 31318,
+        "ratingValue": "7.8",
+        "worstRating": "1"
+      },
+      "alternateName": "My Name Is Earl",
+      "containsSeason": [
+        {
+          "@type": "TVSeason",
+          "name": "1 сезон",
+          "seasonNumber": 1,
+          "url": "https://hdrezka.asia/serialy/my-name-is-earl-2005/season/1"
+        },
+        {
+          "@type": "TVSeason",
+          "name": "2 сезон",
+          "seasonNumber": 2,
+          "url": "https://hdrezka.asia/serialy/my-name-is-earl-2005/season/2"
+        },
+        {
+          "@type": "TVSeason",
+          "name": "3 сезон",
+          "seasonNumber": 3,
+          "url": "https://hdrezka.asia/serialy/my-name-is-earl-2005/season/3"
+        },
+        {
+          "@type": "TVSeason",
+          "name": "4 сезон",
+          "seasonNumber": 4,
+          "url": "https://hdrezka.asia/serialy/my-name-is-earl-2005/season/4"
+        }
+      ],
+      "countryOfOrigin": [
+        {
+          "@type": "Country",
+          "name": "США"
+        }
+      ],
+      "datePublished": "2005",
+      "description": "Жизнь Эрла, мелкого проходимца районного масштаба, полна ошибок и неправильных решений. Сразу после выигрыша джек-пота в небольшой лотерее, его сбивает машина, и он теряет выигравший билет. В больн...",
+      "genre": [
+        "Комедия"
+      ],
+      "identifier": [
+        {
+          "@type": "PropertyValue",
+          "propertyID": "КиноПоиск",
+          "value": 259849
+        },
+        {
+          "@type": "PropertyValue",
+          "propertyID": "IMDb",
+          "value": "tt0460091"
+        }
+      ],
+      "image": [
+        "https://hdrezka.asia/media/backdrops/my-name-is-earl-2005.webp?v=5a3b7c99d31d9437",
+        "https://hdrezka.asia/media/posters/my-name-is-earl-2005.webp?v=c08ea94bb3a37c5b"
+      ],
+      "inLanguage": "ru",
+      "name": "Меня зовут Эрл (1-4 сезон)",
+      "numberOfSeasons": 4,
+      "potentialAction": {
+        "@type": "WatchAction",
+        "target": "https://hdrezka.asia/serialy/my-name-is-earl-2005#watch"
+      },
+      "sameAs": [
+        "https://www.kinopoisk.ru/film/259849/",
+        "https://www.imdb.com/title/tt0460091/"
+      ],
+      "url": "https://hdrezka.asia/serialy/my-name-is-earl-2005"
+    },
+    "rezka": "https://hdrezka.asia/serialy/my-name-is-earl-2005",
+    "kpId": "259849",
+    "imdb": "tt0460091",
+    "kp": 7.769,
+    "kpVotes": 31984,
+    "score": 7.8,
+    "scoreVotes": 116000,
+    "kinogo": "https://kinogo.lifestyle/serialy/my-name-is-earl-2005",
+    "seriesStats": {
+      "seasons": 4,
+      "episodes": 96,
+      "episodesPerSeason": 24.0,
+      "episodeMinutes": 30.0,
+      "totalMinutes": 2880,
+      "ongoing": false,
+      "source": "https://www.tvmaze.com/shows/678/my-name-is-earl",
+      "checkedAt": "2026-10-20T19:54:35.484583+00:00",
+      "seasonEpisodes": [
+        {
+          "season": 1,
+          "episodes": 24
+        },
+        {
+          "season": 2,
+          "episodes": 23
+        },
+        {
+          "season": 3,
+          "episodes": 22
+        },
+        {
+          "season": 4,
+          "episodes": 27
+        }
+      ]
+    },
+    "trailers": [
+      {
+        "videoId": "vJ4EenZZJyM",
+        "url": "https://www.youtube.com/watch?v=vJ4EenZZJyM",
+        "title": "My Name Is Earl Season 1 Trailer",
+        "channel": "Mase",
+        "kind": "trailer",
+        "duration": 38,
+        "language": "en",
+        "languageBasis": "English automatic speech transcript",
+        "maxHeight": 720,
+        "verifiedAt": "2026-10-20T19:54:35.484583+00:00",
+        "availability": {
+          "embed": true,
+          "regions": [
+            "UA",
+            "RU"
+          ],
+          "checkedAt": "2026-10-20T19:54:35.484583+00:00",
+          "source": "YouTube public player metadata"
+        }
+      },
+      {
+        "videoId": "KJjIzm5EBdE",
+        "url": "https://www.youtube.com/watch?v=KJjIzm5EBdE",
+        "title": "My Name is Earl TV SHOW Trailer",
+        "channel": "JustinWooz",
+        "kind": "trailer",
+        "duration": 39,
+        "language": "en",
+        "languageBasis": "English automatic speech transcript",
+        "maxHeight": 720,
+        "verifiedAt": "2026-10-20T19:54:35.484583+00:00",
+        "availability": {
+          "embed": true,
+          "regions": [
+            "UA",
+            "RU"
+          ],
+          "checkedAt": "2026-10-20T19:54:35.484583+00:00",
+          "source": "YouTube public player metadata"
+        }
+      }
+    ],
+    "complete": true
+  },
+  "Metalocalypse|2006|series": {
+    "title": "Metalocalypse",
+    "year": 2006,
+    "type": "series",
+    "group": "animated",
+    "checkedAt": "2026-10-20T19:54:35.484583+00:00",
+    "error": "exact-provider-work-not-found"
+  },
+  "Disenchantment|2018|series": {
+    "title": "Disenchantment",
+    "year": 2018,
+    "type": "series",
+    "group": "animated",
+    "checkedAt": "2026-10-20T19:54:35.484583+00:00",
+    "work": {
+      "@context": "https://schema.org",
+      "@id": "https://hdrezka.asia/multserialy/disenchantment-2018#content",
+      "@type": "TVSeries",
+      "actor": [
+        {
+          "@type": "Person",
+          "name": "Джон Ди Маджио",
+          "url": "https://hdrezka.asia/actor/djon-di-madjio/"
+        },
+        {
+          "@type": "Person",
+          "name": "Тресс МакНилл",
+          "url": "https://hdrezka.asia/actor/tress-maknill/"
+        },
+        {
+          "@type": "Person",
+          "name": "Морис ЛаМарш",
+          "url": "https://hdrezka.asia/actor/moris-lamarsh/"
+        },
+        {
+          "@type": "Person",
+          "name": "Дэвид Херман",
+          "url": "https://hdrezka.asia/actor/devid-xerman/"
+        },
+        {
+          "@type": "Person",
+          "name": "Нат Факсон",
+          "url": "https://hdrezka.asia/actor/nat-fakson/"
+        },
+        {
+          "@type": "Person",
+          "name": "Билли Уэст",
+          "url": "https://hdrezka.asia/actor/billi-uest/"
+        },
+        {
+          "@type": "Person",
+          "name": "Эрик Андре",
+          "url": "https://hdrezka.asia/actor/erik-andre/"
+        },
+        {
+          "@type": "Person",
+          "name": "Шэрон Хорган",
+          "url": "https://hdrezka.asia/actor/sheron-xorgan/"
+        },
+        {
+          "@type": "Person",
+          "name": "Эбби Джейкобсон",
+          "url": "https://hdrezka.asia/actor/ebbi-djeykobson/"
+        },
+        {
+          "@type": "Person",
+          "name": "Рич Фулчер",
+          "url": "https://hdrezka.asia/actor/rich-fulcher/"
+        }
+      ],
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": "10",
+        "name": "КиноПоиск",
+        "ratingCount": 51416,
+        "ratingValue": "7.6",
+        "worstRating": "1"
+      },
+      "alternateName": "Disenchantment",
+      "containsSeason": [
+        {
+          "@type": "TVSeason",
+          "name": "1 сезон",
+          "seasonNumber": 1,
+          "url": "https://hdrezka.asia/multserialy/disenchantment-2018/season/1"
+        },
+        {
+          "@type": "TVSeason",
+          "name": "2 сезон",
+          "seasonNumber": 2,
+          "url": "https://hdrezka.asia/multserialy/disenchantment-2018/season/2"
+        },
+        {
+          "@type": "TVSeason",
+          "name": "3 сезон",
+          "seasonNumber": 3,
+          "url": "https://hdrezka.asia/multserialy/disenchantment-2018/season/3"
+        },
+        {
+          "@type": "TVSeason",
+          "name": "4 сезон",
+          "seasonNumber": 4,
+          "url": "https://hdrezka.asia/multserialy/disenchantment-2018/season/4"
+        },
+        {
+          "@type": "TVSeason",
+          "name": "5 сезон",
+          "seasonNumber": 5,
+          "url": "https://hdrezka.asia/multserialy/disenchantment-2018/season/5"
+        }
+      ],
+      "countryOfOrigin": [
+        {
+          "@type": "Country",
+          "name": "США"
+        }
+      ],
+      "datePublished": "2018",
+      "description": "Действие разворачивается в Средневековье в королевстве Дримландия, где живёт юная принцесса-алкоголичка Бин. Отказавшись выходить замуж, Бин отправляется в путешествие по стране в компании эльфа и ...",
+      "genre": [
+        "Комедия",
+        "Приключения",
+        "Фэнтези"
+      ],
+      "identifier": [
+        {
+          "@type": "PropertyValue",
+          "propertyID": "КиноПоиск",
+          "value": 1112702
+        },
+        {
+          "@type": "PropertyValue",
+          "propertyID": "IMDb",
+          "value": "tt5363918"
+        }
+      ],
+      "image": [
+        "https://hdrezka.asia/media/backdrops/disenchantment-2018.webp?v=7bb87f55c2a5354c",
+        "https://hdrezka.asia/media/posters/disenchantment-2018.webp?v=d6e97dabd0bed5d9"
+      ],
+      "inLanguage": "ru",
+      "name": "Разочарование (1-5 сезон)",
+      "numberOfSeasons": 5,
+      "potentialAction": {
+        "@type": "WatchAction",
+        "target": "https://hdrezka.asia/multserialy/disenchantment-2018#watch"
+      },
+      "sameAs": [
+        "https://www.kinopoisk.ru/film/1112702/",
+        "https://www.imdb.com/title/tt5363918/"
+      ],
+      "url": "https://hdrezka.asia/multserialy/disenchantment-2018"
+    },
+    "rezka": "https://hdrezka.asia/multserialy/disenchantment-2018",
+    "kpId": "1112702",
+    "imdb": "tt5363918",
+    "kp": 7.629,
+    "kpVotes": 51890,
+    "score": 7.2,
+    "scoreVotes": 80000,
+    "kinogo": "https://kinogo.lifestyle/multserialy/disenchantment-2018",
+    "seriesStats": {
+      "seasons": 3,
+      "episodes": 50,
+      "episodesPerSeason": 16.7,
+      "episodeMinutes": 27.7,
+      "totalMinutes": 1385,
+      "ongoing": false,
+      "source": "https://www.tvmaze.com/shows/30715/disenchantment",
+      "checkedAt": "2026-10-20T19:54:35.484583+00:00",
+      "seasonEpisodes": [
+        {
+          "season": 1,
+          "episodes": 20
+        },
+        {
+          "season": 2,
+          "episodes": 20
+        },
+        {
+          "season": 3,
+          "episodes": 10
+        }
+      ]
+    },
+    "trailers": [
+      {
+        "videoId": "VUwtPy0PPHM",
+        "url": "https://www.youtube.com/watch?v=VUwtPy0PPHM",
+        "title": "DISENCHANTMENT Trailer (2018) Netflix",
+        "channel": "KinoCheck.com",
+        "kind": "trailer",
+        "duration": 117,
+        "language": "en",
+        "languageBasis": "English automatic speech transcript",
+        "maxHeight": 1080,
+        "verifiedAt": "2026-10-20T19:54:35.484583+00:00",
+        "availability": {
+          "embed": true,
+          "regions": [
+            "UA"
+          ],
+          "checkedAt": "2026-10-20T19:54:35.484583+00:00",
+          "source": "YouTube public player metadata"
+        }
+      },
+      {
+        "videoId": "jGSWVzc7vTQ",
+        "url": "https://www.youtube.com/watch?v=jGSWVzc7vTQ",
+        "title": "Disenchantment Season 1 Comic-Con Trailer | Rotten Tomatoes TV",
+        "channel": "Rotten Tomatoes TV",
+        "kind": "trailer",
+        "duration": 113,
+        "language": "en",
+        "languageBasis": "English automatic speech transcript",
+        "maxHeight": 1080,
+        "verifiedAt": "2026-10-20T19:54:35.484583+00:00",
+        "availability": {
+          "embed": true,
+          "regions": [
+            "UA",
+            "RU"
+          ],
+          "checkedAt": "2026-10-20T19:54:35.484583+00:00",
+          "source": "YouTube public player metadata"
+        }
+      }
+    ],
+    "complete": true
+  },
+  "Fugget About It|2012|series": {
+    "title": "Fugget About It",
+    "year": 2012,
+    "type": "series",
+    "group": "animated",
+    "checkedAt": "2026-10-20T19:54:35.484583+00:00",
+    "work": {
+      "@context": "https://schema.org",
+      "@id": "https://hdrezka.asia/multserialy/fugget-about-it-2012#content",
+      "@type": "TVSeries",
+      "actor": [
+        {
+          "@type": "Person",
+          "name": "Тони Наппо",
+          "url": "https://hdrezka.asia/actor/toni-nappo/"
+        },
+        {
+          "@type": "Person",
+          "name": "Линда Кэш",
+          "url": "https://hdrezka.asia/actor/linda-kesh/"
+        },
+        {
+          "@type": "Person",
+          "name": "Чак Шамата",
+          "url": "https://hdrezka.asia/actor/chak-shamata/"
+        },
+        {
+          "@type": "Person",
+          "name": "Тед Атертон",
+          "url": "https://hdrezka.asia/actor/ted-aterton/"
+        },
+        {
+          "@type": "Person",
+          "name": "Рон Пардо",
+          "url": "https://hdrezka.asia/actor/ron-pardo/"
+        },
+        {
+          "@type": "Person",
+          "name": "Дэнни Смит",
+          "url": "https://hdrezka.asia/actor/denni-smit-2/"
+        },
+        {
+          "@type": "Person",
+          "name": "Дэймон Пападопулос",
+          "url": "https://hdrezka.asia/actor/deymon-papadopulos/"
+        },
+        {
+          "@type": "Person",
+          "name": "Жаклин Пиллон",
+          "url": "https://hdrezka.asia/actor/jaklin-pillon/"
+        },
+        {
+          "@type": "Person",
+          "name": "Шеннон Перро",
+          "url": "https://hdrezka.asia/actor/shennon-perro/"
+        },
+        {
+          "@type": "Person",
+          "name": "Эмили-Клэр Барлоу",
+          "url": "https://hdrezka.asia/actor/emili-kler-barlou/"
+        }
+      ],
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": "10",
+        "name": "КиноПоиск",
+        "ratingCount": 556,
+        "ratingValue": "6.4",
+        "worstRating": "1"
+      },
+      "alternateName": "Fugget About It",
+      "containsSeason": [
+        {
+          "@type": "TVSeason",
+          "name": "1 сезон",
+          "seasonNumber": 1,
+          "url": "https://hdrezka.asia/multserialy/fugget-about-it-2012/season/1"
+        },
+        {
+          "@type": "TVSeason",
+          "name": "2 сезон",
+          "seasonNumber": 2,
+          "url": "https://hdrezka.asia/multserialy/fugget-about-it-2012/season/2"
+        },
+        {
+          "@type": "TVSeason",
+          "name": "3 сезон",
+          "seasonNumber": 3,
+          "url": "https://hdrezka.asia/multserialy/fugget-about-it-2012/season/3"
+        }
+      ],
+      "countryOfOrigin": [
+        {
+          "@type": "Country",
+          "name": "Канада"
+        }
+      ],
+      "datePublished": "2012",
+      "description": "Бывший гангстер Нью-Йорка Джимми Фальконе переезжает со своей семьей в Канаду по программе защиты свидетелей. Отец семейства намерен начать новую, полную спокойствия и семейного счастья жизнь. Его ...",
+      "genre": [
+        "Комедия",
+        "Криминал"
+      ],
+      "identifier": [
+        {
+          "@type": "PropertyValue",
+          "propertyID": "КиноПоиск",
+          "value": 574492
+        },
+        {
+          "@type": "PropertyValue",
+          "propertyID": "IMDb",
+          "value": "tt1799834"
+        }
+      ],
+      "image": [
+        "https://hdrezka.asia/media/backdrops/fugget-about-it-2012.webp?v=833f69ea73a3cf4e",
+        "https://hdrezka.asia/media/posters/fugget-about-it-2012.webp?v=18d2ef36319b2c09"
+      ],
+      "inLanguage": "ru",
+      "name": "Даже не думай! (1-3 сезон)",
+      "numberOfSeasons": 3,
+      "potentialAction": {
+        "@type": "WatchAction",
+        "target": "https://hdrezka.asia/multserialy/fugget-about-it-2012#watch"
+      },
+      "sameAs": [
+        "https://www.kinopoisk.ru/film/574492/",
+        "https://www.imdb.com/title/tt1799834/"
+      ],
+      "url": "https://hdrezka.asia/multserialy/fugget-about-it-2012"
+    },
+    "rezka": "https://hdrezka.asia/multserialy/fugget-about-it-2012",
+    "kpId": "574492",
+    "imdb": "tt1799834",
+    "kp": 6.431,
+    "kpVotes": 576,
+    "score": 6.9,
+    "scoreVotes": 1900,
+    "kinogo": "https://kinogo.lifestyle/multserialy/fugget-about-it-2012",
+    "seriesStats": {
+      "seasons": 3,
+      "episodes": 46,
+      "episodesPerSeason": 15.3,
+      "episodeMinutes": 30.0,
+      "totalMinutes": 1380,
+      "ongoing": false,
+      "source": "https://www.tvmaze.com/shows/5763/fugget-about-it",
+      "checkedAt": "2026-10-20T19:54:35.484583+00:00",
+      "seasonEpisodes": [
+        {
+          "season": 1,
+          "episodes": 13
+        },
+        {
+          "season": 2,
+          "episodes": 13
+        },
+        {
+          "season": 3,
+          "episodes": 20
+        }
+      ]
+    },
+    "trailers": [
+      {
+        "videoId": "kD9aROOTrPU",
+        "url": "https://www.youtube.com/watch?v=kD9aROOTrPU",
+        "title": "Fugget About It - Teaser Trailer | Hulu",
+        "channel": "Hulu",
+        "kind": "trailer",
+        "duration": 59,
+        "language": "en",
+        "languageBasis": "English automatic speech transcript",
+        "maxHeight": 720,
+        "verifiedAt": "2026-10-20T19:54:35.484583+00:00",
+        "availability": {
+          "embed": true,
+          "regions": [
+            "UA",
+            "RU"
+          ],
+          "checkedAt": "2026-10-20T19:54:35.484583+00:00",
+          "source": "YouTube public player metadata"
+        }
+      },
+      {
+        "videoId": "uJ3LznOJVfU",
+        "url": "https://www.youtube.com/watch?v=uJ3LznOJVfU",
+        "title": "Gina and Beaks Reunite! | NEW TRAILER | Fugget About It",
+        "channel": "Fugget About It - 9 Story",
+        "kind": "trailer",
+        "duration": 56,
+        "language": "en",
+        "languageBasis": "English automatic speech transcript",
+        "maxHeight": 1080,
+        "verifiedAt": "2026-10-20T19:54:35.484583+00:00",
+        "availability": {
+          "embed": true,
+          "regions": [
+            "UA",
+            "RU"
+          ],
+          "checkedAt": "2026-10-20T19:54:35.484583+00:00",
+          "source": "YouTube public player metadata"
+        }
+      }
+    ],
+    "complete": true
+  },
+  "Black Dynamite|2012|series": {
+    "title": "Black Dynamite",
+    "year": 2012,
+    "type": "series",
+    "group": "animated",
+    "checkedAt": "2026-10-20T19:54:35.484583+00:00",
+    "error": "exact-provider-work-not-found"
+  },
+  "The Boondocks|2005|series": {
+    "title": "The Boondocks",
+    "year": 2005,
+    "type": "series",
+    "group": "animated",
+    "checkedAt": "2026-10-20T19:54:35.484583+00:00",
+    "work": {
+      "@context": "https://schema.org",
+      "@id": "https://hdrezka.asia/multserialy/the-boondocks-2005#content",
+      "@type": "TVSeries",
+      "actor": [
+        {
+          "@type": "Person",
+          "name": "Кевин Майкл Ричардсон",
+          "url": "https://hdrezka.asia/actor/kevin-maykl-richardson/"
+        },
+        {
+          "@type": "Person",
+          "name": "Кори Бертон",
+          "url": "https://hdrezka.asia/actor/kori-berton/"
+        },
+        {
+          "@type": "Person",
+          "name": "Джим Мескимен",
+          "url": "https://hdrezka.asia/actor/djim-meskimen/"
+        },
+        {
+          "@type": "Person",
+          "name": "Гари Энтони Уильямс",
+          "url": "https://hdrezka.asia/actor/gari-entoni-uilyams/"
+        },
+        {
+          "@type": "Person",
+          "name": "Джилл Тэлли",
+          "url": "https://hdrezka.asia/actor/djill-telli/"
+        },
+        {
+          "@type": "Person",
+          "name": "Реджина Кинг",
+          "url": "https://hdrezka.asia/actor/redjina-king/"
+        },
+        {
+          "@type": "Person",
+          "name": "Седрик Ярбро",
+          "url": "https://hdrezka.asia/actor/sedrik-yarbro/"
+        },
+        {
+          "@type": "Person",
+          "name": "Джон Уизерспун",
+          "url": "https://hdrezka.asia/actor/djon-uizerspun/"
+        },
+        {
+          "@type": "Person",
+          "name": "Гэбби Солейл",
+          "url": "https://hdrezka.asia/actor/gebbi-soleyl/"
+        },
+        {
+          "@type": "Person",
+          "name": "Карл Джонс",
+          "url": "https://hdrezka.asia/actor/karl-djons/"
+        }
+      ],
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": "10",
+        "name": "КиноПоиск",
+        "ratingCount": 16182,
+        "ratingValue": "7.9",
+        "worstRating": "1"
+      },
+      "alternateName": "The Boondocks",
+      "containsSeason": [
+        {
+          "@type": "TVSeason",
+          "name": "4 сезон",
+          "seasonNumber": 4,
+          "url": "https://hdrezka.asia/multserialy/the-boondocks-2005/season/4"
+        }
+      ],
+      "countryOfOrigin": [
+        {
+          "@type": "Country",
+          "name": "Корея Южная"
+        },
+        {
+          "@type": "Country",
+          "name": "США"
+        }
+      ],
+      "datePublished": "2005",
+      "description": "Маргинальная семейка Фрименов переезжает из черного как смоль Южного Чикаго в благополучный белый пригород. Это станет не только источником многочисленных комедийных ситуаций, но и причиной больших...",
+      "genre": [
+        "Боевик",
+        "Драма",
+        "Комедия"
+      ],
+      "identifier": [
+        {
+          "@type": "PropertyValue",
+          "propertyID": "КиноПоиск",
+          "value": 401157
+        },
+        {
+          "@type": "PropertyValue",
+          "propertyID": "IMDb",
+          "value": "tt0373732"
+        }
+      ],
+      "image": [
+        "https://hdrezka.asia/media/backdrops/the-boondocks-2005.webp?v=54d173c8ec508c56",
+        "https://hdrezka.asia/media/posters/the-boondocks-2005.webp?v=9444f1b06d05b4e9"
+      ],
+      "inLanguage": "ru",
+      "name": "Гетто (4 сезон)",
+      "numberOfSeasons": 1,
+      "potentialAction": {
+        "@type": "WatchAction",
+        "target": "https://hdrezka.asia/multserialy/the-boondocks-2005#watch"
+      },
+      "sameAs": [
+        "https://www.kinopoisk.ru/film/401157/",
+        "https://www.imdb.com/title/tt0373732/"
+      ],
+      "url": "https://hdrezka.asia/multserialy/the-boondocks-2005"
+    },
+    "rezka": "https://hdrezka.asia/multserialy/the-boondocks-2005",
+    "kpId": "401157",
+    "imdb": "tt0373732",
+    "kp": 7.882,
+    "kpVotes": 17012,
+    "score": 8.5,
+    "scoreVotes": 41000,
+    "kinogo": "https://kinogo.lifestyle/multserialy/the-boondocks-2005",
+    "seriesStats": {
+      "seasons": 4,
+      "episodes": 55,
+      "episodesPerSeason": 13.8,
+      "episodeMinutes": 30.0,
+      "totalMinutes": 1650,
+      "ongoing": false,
+      "source": "https://www.tvmaze.com/shows/912/the-boondocks",
+      "checkedAt": "2026-10-20T19:54:35.484583+00:00",
+      "seasonEpisodes": [
+        {
+          "season": 1,
+          "episodes": 15
+        },
+        {
+          "season": 2,
+          "episodes": 15
+        },
+        {
+          "season": 3,
+          "episodes": 15
+        },
+        {
+          "season": 4,
+          "episodes": 10
+        }
+      ]
+    },
+    "trailers": [
+      {
+        "videoId": "r6GRGEw7P9I",
+        "url": "https://www.youtube.com/watch?v=r6GRGEw7P9I",
+        "title": "Boondocks Season 4 Official Trailer | Adult Swim",
+        "channel": "Adult Swim",
+        "kind": "trailer",
+        "duration": 105,
+        "language": "en",
+        "languageBasis": "English automatic speech transcript",
+        "maxHeight": 1080,
+        "verifiedAt": "2026-10-20T19:54:35.484583+00:00",
+        "availability": {
+          "embed": true,
+          "regions": [
+            "UA",
+            "RU"
+          ],
+          "checkedAt": "2026-10-20T19:54:35.484583+00:00",
+          "source": "YouTube public player metadata"
+        }
+      }
+    ],
+    "complete": true
+  },
+  "Mike Tyson Mysteries|2014|series": {
+    "title": "Mike Tyson Mysteries",
+    "year": 2014,
+    "type": "series",
+    "group": "animated",
+    "checkedAt": "2026-10-20T19:54:35.484583+00:00",
+    "work": {
+      "@context": "https://schema.org",
+      "@id": "https://hdrezka.asia/multserialy/mike-tyson-mysteries-2014#content",
+      "@type": "TVSeries",
+      "actor": [
+        {
+          "@type": "Person",
+          "name": "Джим Рэш",
+          "url": "https://hdrezka.asia/actor/djim-resh/"
+        },
+        {
+          "@type": "Person",
+          "name": "Майк Тайсон",
+          "url": "https://hdrezka.asia/actor/mayk-tayson/"
+        },
+        {
+          "@type": "Person",
+          "name": "Норм Макдональд",
+          "url": "https://hdrezka.asia/actor/norm-makdonald/"
+        },
+        {
+          "@type": "Person",
+          "name": "Джефф Бергман",
+          "url": "https://hdrezka.asia/actor/djeff-bergman/"
+        },
+        {
+          "@type": "Person",
+          "name": "Дэймон Джонс",
+          "url": "https://hdrezka.asia/actor/deymon-djons/"
+        },
+        {
+          "@type": "Person",
+          "name": "Рэйчел Рамрас",
+          "url": "https://hdrezka.asia/actor/reychel-ramras/"
+        },
+        {
+          "@type": "Person",
+          "name": "Ариан Прайс",
+          "url": "https://hdrezka.asia/actor/arian-prays/"
+        },
+        {
+          "@type": "Person",
+          "name": "Ларри Дорф",
+          "url": "https://hdrezka.asia/actor/larri-dorf/"
+        },
+        {
+          "@type": "Person",
+          "name": "Хью Дэвидсон",
+          "url": "https://hdrezka.asia/actor/xyu-devidson/"
+        },
+        {
+          "@type": "Person",
+          "name": "Чак Дизи",
+          "url": "https://hdrezka.asia/actor/chak-dizi/"
+        }
+      ],
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": "10",
+        "name": "КиноПоиск",
+        "ratingCount": 304,
+        "ratingValue": "7.0",
+        "worstRating": "1"
+      },
+      "alternateName": "Mike Tyson Mysteries",
+      "containsSeason": [
+        {
+          "@type": "TVSeason",
+          "name": "1 сезон",
+          "seasonNumber": 1,
+          "url": "https://hdrezka.asia/multserialy/mike-tyson-mysteries-2014/season/1"
+        }
+      ],
+      "countryOfOrigin": [
+        {
+          "@type": "Country",
+          "name": "США"
+        }
+      ],
+      "datePublished": "2014",
+      "description": "Майк Тайсон расстался со спортом и теперь готов посвятить себя расследованиям самых загадочных происшествий. Боксёру помогает дружная команда: голубь, который когда-то был человеком, приёмная дочь,...",
+      "genre": [
+        "Детектив",
+        "Комедия",
+        "Криминал",
+        "Приключения",
+        "Ужасы",
+        "Фантастика",
+        "Фэнтези"
+      ],
+      "identifier": [
+        {
+          "@type": "PropertyValue",
+          "propertyID": "КиноПоиск",
+          "value": 820492
+        },
+        {
+          "@type": "PropertyValue",
+          "propertyID": "IMDb",
+          "value": "tt3038546"
+        }
+      ],
+      "image": [
+        "https://hdrezka.asia/media/backdrops/mike-tyson-mysteries-2014.webp?v=3d7b8fb4689355e8",
+        "https://hdrezka.asia/media/posters/mike-tyson-mysteries-2014.webp?v=e644176da2bf378f"
+      ],
+      "inLanguage": "ru",
+      "name": "Тайны Майка Тайсона (1 сезон)",
+      "numberOfSeasons": 1,
+      "potentialAction": {
+        "@type": "WatchAction",
+        "target": "https://hdrezka.asia/multserialy/mike-tyson-mysteries-2014#watch"
+      },
+      "sameAs": [
+        "https://www.kinopoisk.ru/film/820492/",
+        "https://www.imdb.com/title/tt3038546/"
+      ],
+      "url": "https://hdrezka.asia/multserialy/mike-tyson-mysteries-2014"
+    },
+    "rezka": "https://hdrezka.asia/multserialy/mike-tyson-mysteries-2014",
+    "kpId": "820492",
+    "imdb": "tt3038546",
+    "kp": 7.02,
+    "kpVotes": 306,
+    "score": 8.2,
+    "scoreVotes": 6200,
+    "kinogo": "https://kinogo.lifestyle/multserialy/mike-tyson-mysteries-2014",
+    "seriesStats": {
+      "seasons": 4,
+      "episodes": 70,
+      "episodesPerSeason": 17.5,
+      "episodeMinutes": 14.4,
+      "totalMinutes": 1010,
+      "ongoing": false,
+      "source": "https://www.tvmaze.com/shows/3135/mike-tyson-mysteries",
+      "checkedAt": "2026-10-20T19:54:35.484583+00:00",
+      "seasonEpisodes": [
+        {
+          "season": 1,
+          "episodes": 10
+        },
+        {
+          "season": 2,
+          "episodes": 20
+        },
+        {
+          "season": 3,
+          "episodes": 20
+        },
+        {
+          "season": 4,
+          "episodes": 20
+        }
+      ]
+    },
+    "trailers": [
+      {
+        "videoId": "oBMEB8fiUlI",
+        "url": "https://www.youtube.com/watch?v=oBMEB8fiUlI",
+        "title": "Mike Tyson Mysteries NYCC Trailer | Mike Tyson Mysteries | Adult Swim",
+        "channel": "Adult Swim",
+        "kind": "trailer",
+        "duration": 143,
+        "language": "en",
+        "languageBasis": "English automatic speech transcript",
+        "maxHeight": 1080,
+        "verifiedAt": "2026-10-20T19:54:35.484583+00:00",
+        "availability": {
+          "embed": true,
+          "regions": [
+            "UA",
+            "RU"
+          ],
+          "checkedAt": "2026-10-20T19:54:35.484583+00:00",
+          "source": "YouTube public player metadata"
+        }
+      },
+      {
+        "videoId": "2TjAYLxs2jY",
+        "url": "https://www.youtube.com/watch?v=2TjAYLxs2jY",
+        "title": "Mike Tyson Mysteries | Season 1 Promo | Get Your Gloves On | Adult Swim Europe",
+        "channel": "Adult Swim Europe",
+        "kind": "trailer",
+        "duration": 46,
+        "language": "en",
+        "languageBasis": "English captions or original-language publisher trailer",
+        "maxHeight": 1080,
+        "verifiedAt": "2026-10-20T19:54:35.484583+00:00",
+        "availability": {
+          "embed": true,
+          "regions": [
+            "UA",
+            "RU"
+          ],
+          "checkedAt": "2026-10-20T19:54:35.484583+00:00",
+          "source": "YouTube public player metadata"
+        }
+      }
+    ],
+    "complete": true
+  },
+  "Moonbeam City|2015|series": {
+    "title": "Moonbeam City",
+    "year": 2015,
+    "type": "series",
+    "group": "animated",
+    "checkedAt": "2026-10-20T19:54:35.484583+00:00",
+    "work": {
+      "@context": "https://schema.org",
+      "@id": "https://hdrezka.asia/multserialy/moonbeam-city-2015#content",
+      "@type": "TVSeries",
+      "actor": [
+        {
+          "@type": "Person",
+          "name": "Карлос Аласраки",
+          "url": "https://hdrezka.asia/actor/karlos-alasraki/"
+        },
+        {
+          "@type": "Person",
+          "name": "Элизабет Бэнкс",
+          "url": "https://hdrezka.asia/actor/elizabet-benks/"
+        },
+        {
+          "@type": "Person",
+          "name": "Уилл Форте",
+          "url": "https://hdrezka.asia/actor/uill-forte/"
+        },
+        {
+          "@type": "Person",
+          "name": "Роб Лоу",
+          "url": "https://hdrezka.asia/actor/rob-lou/"
+        },
+        {
+          "@type": "Person",
+          "name": "Кейт Мара",
+          "url": "https://hdrezka.asia/actor/keyt-mara/"
+        },
+        {
+          "@type": "Person",
+          "name": "Кри Саммер",
+          "url": "https://hdrezka.asia/actor/kri-sammer/"
+        },
+        {
+          "@type": "Person",
+          "name": "Джон О’Харли",
+          "url": "https://hdrezka.asia/actor/djon-oxarli/"
+        },
+        {
+          "@type": "Person",
+          "name": "Томми Блача",
+          "url": "https://hdrezka.asia/actor/tommi-blacha/"
+        },
+        {
+          "@type": "Person",
+          "name": "Райан Перез",
+          "url": "https://hdrezka.asia/actor/rayan-perez/"
+        },
+        {
+          "@type": "Person",
+          "name": "Скотт Гэйрднер",
+          "url": "https://hdrezka.asia/actor/skott-geyrdner/"
+        }
+      ],
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": "10",
+        "name": "КиноПоиск",
+        "ratingCount": 3251,
+        "ratingValue": "7.1",
+        "worstRating": "1"
+      },
+      "alternateName": "Moonbeam City",
+      "containsSeason": [
+        {
+          "@type": "TVSeason",
+          "name": "1 сезон",
+          "seasonNumber": 1,
+          "url": "https://hdrezka.asia/multserialy/moonbeam-city-2015/season/1"
+        }
+      ],
+      "countryOfOrigin": [
+        {
+          "@type": "Country",
+          "name": "США"
+        }
+      ],
+      "datePublished": "2015",
+      "description": "Неоновые огни, зажигательный синти-поп, шутки на взрослые темы и неповторимая атмосфера 1980-х, окунувшись в которую мы будем наблюдать за приключениями детектива Дэззла Новака и шефа полиции Пизза...",
+      "genre": [
+        "Боевик",
+        "Детектив",
+        "Комедия",
+        "Фантастика"
+      ],
+      "identifier": [
+        {
+          "@type": "PropertyValue",
+          "propertyID": "КиноПоиск",
+          "value": 891592
+        },
+        {
+          "@type": "PropertyValue",
+          "propertyID": "IMDb",
+          "value": "tt3906560"
+        }
+      ],
+      "image": [
+        "https://hdrezka.asia/media/backdrops/moonbeam-city-2015.webp?v=ab08f94cb1626b05",
+        "https://hdrezka.asia/media/posters/moonbeam-city-2015.webp?v=23899b5b7896ab24"
+      ],
+      "inLanguage": "ru",
+      "name": "Город лунного луча (1 сезон)",
+      "numberOfSeasons": 1,
+      "potentialAction": {
+        "@type": "WatchAction",
+        "target": "https://hdrezka.asia/multserialy/moonbeam-city-2015#watch"
+      },
+      "sameAs": [
+        "https://www.kinopoisk.ru/film/891592/",
+        "https://www.imdb.com/title/tt3906560/"
+      ],
+      "url": "https://hdrezka.asia/multserialy/moonbeam-city-2015"
+    },
+    "rezka": "https://hdrezka.asia/multserialy/moonbeam-city-2015",
+    "kpId": "891592",
+    "imdb": "tt3906560",
+    "kp": 7.078,
+    "kpVotes": 3297,
+    "score": 6.9,
+    "scoreVotes": 2500,
+    "kinogo": "https://kinogo.lifestyle/multserialy/moonbeam-city-2015",
+    "seriesStats": {
+      "seasons": 1,
+      "episodes": 10,
+      "episodesPerSeason": 10.0,
+      "episodeMinutes": 30.0,
+      "totalMinutes": 300,
+      "ongoing": false,
+      "source": "https://www.tvmaze.com/shows/2754/moonbeam-city",
+      "checkedAt": "2026-10-20T19:54:35.484583+00:00",
+      "seasonEpisodes": [
+        {
+          "season": 1,
+          "episodes": 10
+        }
+      ]
+    },
+    "trailers": [],
+    "error": "English-HD-embeddable-trailer-not-verified"
+  },
+  "The Mick|2017|series": {
+    "title": "The Mick",
+    "year": 2017,
+    "type": "series",
+    "group": "crime",
+    "checkedAt": "2026-10-20T19:54:35.484583+00:00",
+    "error": "exact-provider-work-not-found"
+  },
+  "The Inbetweeners|2008|series": {
+    "title": "The Inbetweeners",
+    "year": 2008,
+    "type": "series",
+    "group": "crime",
+    "checkedAt": "2026-10-20T19:54:35.484583+00:00",
+    "error": "exact-provider-work-not-found"
+  },
+  "Love, Death & Robots|2019|series": {
+    "title": "Love, Death & Robots",
+    "year": 2019,
+    "type": "series",
+    "group": "animated",
+    "checkedAt": "2026-10-20T19:54:35.484583+00:00",
+    "work": {
+      "@context": "https://schema.org",
+      "@id": "https://hdrezka.asia/multserialy/love-death-robots-2019#content",
+      "@type": "TVSeries",
+      "actor": [
+        {
+          "@type": "Person",
+          "name": "Фред Таташиор",
+          "url": "https://hdrezka.asia/actor/fred-tatashior/"
+        },
+        {
+          "@type": "Person",
+          "name": "Нолан Норт",
+          "url": "https://hdrezka.asia/actor/nolan-nort/"
+        },
+        {
+          "@type": "Person",
+          "name": "Крис Парнелл",
+          "url": "https://hdrezka.asia/actor/kris-parnell/"
+        },
+        {
+          "@type": "Person",
+          "name": "Петр Вальчук",
+          "url": "https://hdrezka.asia/actor/petr-valchuk/"
+        },
+        {
+          "@type": "Person",
+          "name": "Джош Бренер",
+          "url": "https://hdrezka.asia/actor/djosh-brener/"
+        },
+        {
+          "@type": "Person",
+          "name": "Скотт Уайт",
+          "url": "https://hdrezka.asia/actor/skott-uayt/"
+        },
+        {
+          "@type": "Person",
+          "name": "Кэйтлин МакКенна",
+          "url": "https://hdrezka.asia/actor/keytlin-makkenna/"
+        },
+        {
+          "@type": "Person",
+          "name": "Ношир Далаль",
+          "url": "https://hdrezka.asia/actor/noshir-dalal/"
+        },
+        {
+          "@type": "Person",
+          "name": "Эмили О’Брайэн",
+          "url": "https://hdrezka.asia/actor/emili-obrayen/"
+        },
+        {
+          "@type": "Person",
+          "name": "Стивен Пэйси",
+          "url": "https://hdrezka.asia/actor/stiven-peysi/"
+        }
+      ],
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": "10",
+        "name": "КиноПоиск",
+        "ratingCount": 338300,
+        "ratingValue": "8.2",
+        "worstRating": "1"
+      },
+      "alternateName": "Love, Death & Robots",
+      "containsSeason": [
+        {
+          "@type": "TVSeason",
+          "name": "1 сезон",
+          "seasonNumber": 1,
+          "url": "https://hdrezka.asia/multserialy/love-death-robots-2019/season/1"
+        },
+        {
+          "@type": "TVSeason",
+          "name": "2 сезон",
+          "seasonNumber": 2,
+          "url": "https://hdrezka.asia/multserialy/love-death-robots-2019/season/2"
+        },
+        {
+          "@type": "TVSeason",
+          "name": "3 сезон",
+          "seasonNumber": 3,
+          "url": "https://hdrezka.asia/multserialy/love-death-robots-2019/season/3"
+        },
+        {
+          "@type": "TVSeason",
+          "name": "4 сезон",
+          "seasonNumber": 4,
+          "url": "https://hdrezka.asia/multserialy/love-death-robots-2019/season/4"
+        }
+      ],
+      "countryOfOrigin": [
+        {
+          "@type": "Country",
+          "name": "США"
+        }
+      ],
+      "datePublished": "2019",
+      "description": "Короткометражные фильмы на фантастические темы.",
+      "genre": [
+        "Боевик",
+        "Комедия",
+        "Криминал",
+        "Триллер",
+        "Ужасы",
+        "Фантастика",
+        "Фэнтези"
+      ],
+      "identifier": [
+        {
+          "@type": "PropertyValue",
+          "propertyID": "КиноПоиск",
+          "value": 1228254
+        },
+        {
+          "@type": "PropertyValue",
+          "propertyID": "IMDb",
+          "value": "tt9561862"
+        }
+      ],
+      "image": [
+        "https://hdrezka.asia/media/backdrops/love-death-robots-2019.webp?v=37010799780b2e44",
+        "https://hdrezka.asia/media/posters/love-death-robots-2019.webp?v=01da16a6a55011d1"
+      ],
+      "inLanguage": "ru",
+      "name": "Любовь. Смерть. Роботы (1-4 сезон)",
+      "numberOfSeasons": 4,
+      "potentialAction": {
+        "@type": "WatchAction",
+        "target": "https://hdrezka.asia/multserialy/love-death-robots-2019#watch"
+      },
+      "sameAs": [
+        "https://www.kinopoisk.ru/film/1228254/",
+        "https://www.imdb.com/title/tt9561862/"
+      ],
+      "url": "https://hdrezka.asia/multserialy/love-death-robots-2019"
+    },
+    "rezka": "https://hdrezka.asia/multserialy/love-death-robots-2019",
+    "kpId": "1228254",
+    "imdb": "tt9561862",
+    "kp": 8.225,
+    "kpVotes": 339245,
+    "score": 8.4,
+    "scoreVotes": 228000,
+    "kinogo": "https://kinogo.lifestyle/multserialy/love-death-robots-2019",
+    "seriesStats": {
+      "seasons": 4,
+      "episodes": 45,
+      "episodesPerSeason": 11.2,
+      "episodeMinutes": 12.8,
+      "totalMinutes": 578,
+      "ongoing": true,
+      "source": "https://www.tvmaze.com/shows/40329/love-death-robots",
+      "checkedAt": "2026-10-20T19:54:35.484583+00:00",
+      "seasonEpisodes": [
+        {
+          "season": 1,
+          "episodes": 18
+        },
+        {
+          "season": 2,
+          "episodes": 8
+        },
+        {
+          "season": 3,
+          "episodes": 9
+        },
+        {
+          "season": 4,
+          "episodes": 10
+        }
+      ]
+    },
+    "trailers": [
+      {
+        "videoId": "wUFwunMKa4E",
+        "url": "https://www.youtube.com/watch?v=wUFwunMKa4E",
+        "title": "LOVE DEATH + ROBOTS | Official Trailer | Netflix",
+        "channel": "Netflix",
+        "kind": "trailer",
+        "duration": 62,
+        "language": "en",
+        "languageBasis": "English captions or original-language publisher trailer",
+        "maxHeight": 1080,
+        "verifiedAt": "2026-10-20T19:54:35.484583+00:00",
+        "availability": {
+          "embed": true,
+          "regions": [
+            "UA",
+            "RU"
+          ],
+          "checkedAt": "2026-10-20T19:54:35.484583+00:00",
+          "source": "YouTube public player metadata"
+        }
+      },
+      {
+        "videoId": "Xj2b0swdpX8",
+        "url": "https://www.youtube.com/watch?v=Xj2b0swdpX8",
+        "title": "LOVE DEATH + ROBOTS VOLUME 3 | Official Trailer | Netflix",
+        "channel": "Netflix",
+        "kind": "trailer",
+        "duration": 120,
+        "language": "en",
+        "languageBasis": "English captions or original-language publisher trailer",
+        "maxHeight": 1080,
+        "verifiedAt": "2026-10-20T19:54:35.484583+00:00",
+        "availability": {
+          "embed": true,
+          "regions": [
+            "UA",
+            "RU"
+          ],
+          "checkedAt": "2026-10-20T19:54:35.484583+00:00",
+          "source": "YouTube public player metadata"
+        }
+      }
+    ],
+    "complete": true
+  },
+  "Tripping the Rift|2004|series": {
+    "title": "Tripping the Rift",
+    "year": 2004,
+    "type": "series",
+    "group": "animated",
+    "checkedAt": "2026-10-20T19:54:35.484583+00:00",
+    "work": {
+      "@context": "https://schema.org",
+      "@id": "https://hdrezka.asia/multserialy/tripping-the-rift-2004#content",
+      "@type": "TVSeries",
+      "actor": [
+        {
+          "@type": "Person",
+          "name": "Стивен Рут",
+          "url": "https://hdrezka.asia/actor/stiven-rut/"
+        },
+        {
+          "@type": "Person",
+          "name": "Морис ЛаМарш",
+          "url": "https://hdrezka.asia/actor/moris-lamarsh/"
+        },
+        {
+          "@type": "Person",
+          "name": "Марк Камачо",
+          "url": "https://hdrezka.asia/actor/mark-kamacho/"
+        },
+        {
+          "@type": "Person",
+          "name": "Рик Джонс",
+          "url": "https://hdrezka.asia/actor/rik-djons/"
+        },
+        {
+          "@type": "Person",
+          "name": "Терренс Скаммелл",
+          "url": "https://hdrezka.asia/actor/terrens-skammell/"
+        },
+        {
+          "@type": "Person",
+          "name": "Гарри Стандджофски",
+          "url": "https://hdrezka.asia/actor/garri-standdjofski/"
+        },
+        {
+          "@type": "Person",
+          "name": "Полин Литтл",
+          "url": "https://hdrezka.asia/actor/polin-littl/"
+        },
+        {
+          "@type": "Person",
+          "name": "Джон Стокер",
+          "url": "https://hdrezka.asia/actor/djon-stoker/"
+        },
+        {
+          "@type": "Person",
+          "name": "Гэйл Гарфинкл",
+          "url": "https://hdrezka.asia/actor/geyl-garfinkl/"
+        },
+        {
+          "@type": "Person",
+          "name": "Джон Мелендес",
+          "url": "https://hdrezka.asia/actor/djon-melendes/"
+        }
+      ],
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": "10",
+        "name": "КиноПоиск",
+        "ratingCount": 4213,
+        "ratingValue": "5.8",
+        "worstRating": "1"
+      },
+      "alternateName": "Tripping the Rift",
+      "containsSeason": [
+        {
+          "@type": "TVSeason",
+          "name": "1 сезон",
+          "seasonNumber": 1,
+          "url": "https://hdrezka.asia/multserialy/tripping-the-rift-2004/season/1"
+        },
+        {
+          "@type": "TVSeason",
+          "name": "2 сезон",
+          "seasonNumber": 2,
+          "url": "https://hdrezka.asia/multserialy/tripping-the-rift-2004/season/2"
+        },
+        {
+          "@type": "TVSeason",
+          "name": "3 сезон",
+          "seasonNumber": 3,
+          "url": "https://hdrezka.asia/multserialy/tripping-the-rift-2004/season/3"
+        }
+      ],
+      "countryOfOrigin": [
+        {
+          "@type": "Country",
+          "name": "Канада"
+        },
+        {
+          "@type": "Country",
+          "name": "США"
+        }
+      ],
+      "datePublished": "2004",
+      "description": "Комические приключения пятерых астронавтов, работающих и живущих на межпланетном корабле.",
+      "genre": [
+        "Комедия",
+        "Фантастика",
+        "Фэнтези"
+      ],
+      "identifier": [
+        {
+          "@type": "PropertyValue",
+          "propertyID": "КиноПоиск",
+          "value": 229647
+        },
+        {
+          "@type": "PropertyValue",
+          "propertyID": "IMDb",
+          "value": "tt0315081"
+        }
+      ],
+      "image": [
+        "https://hdrezka.asia/media/backdrops/tripping-the-rift-2004.webp?v=d33d68e6157eab5f",
+        "https://hdrezka.asia/media/posters/tripping-the-rift-2004.webp?v=344489df5ce12eb1"
+      ],
+      "inLanguage": "ru",
+      "name": "Улетный TRIP (1-3 сезон)",
+      "numberOfSeasons": 3,
+      "potentialAction": {
+        "@type": "WatchAction",
+        "target": "https://hdrezka.asia/multserialy/tripping-the-rift-2004#watch"
+      },
+      "sameAs": [
+        "https://www.kinopoisk.ru/film/229647/",
+        "https://www.imdb.com/title/tt0315081/"
+      ],
+      "url": "https://hdrezka.asia/multserialy/tripping-the-rift-2004"
+    },
+    "rezka": "https://hdrezka.asia/multserialy/tripping-the-rift-2004",
+    "kpId": "229647",
+    "imdb": "tt0315081",
+    "kp": 5.804,
+    "kpVotes": 4258,
+    "score": 6.8,
+    "scoreVotes": 2700,
+    "kinogo": "https://kinogo.lifestyle/multserialy/tripping-the-rift-2004",
+    "seriesStats": {
+      "seasons": 3,
+      "episodes": 39,
+      "episodesPerSeason": 13.0,
+      "episodeMinutes": 30.0,
+      "totalMinutes": 1170,
+      "ongoing": false,
+      "source": "https://www.tvmaze.com/shows/4108/tripping-the-rift",
+      "checkedAt": "2026-10-20T19:54:35.484583+00:00",
+      "seasonEpisodes": [
+        {
+          "season": 1,
+          "episodes": 13
+        },
+        {
+          "season": 2,
+          "episodes": 13
+        },
+        {
+          "season": 3,
+          "episodes": 13
+        }
+      ]
+    },
+    "trailers": [],
+    "error": "English-HD-embeddable-trailer-not-verified"
+  },
+  "Black Mirror|2011|series": {
+    "title": "Black Mirror",
+    "year": 2011,
+    "type": "series",
+    "group": "crime",
+    "checkedAt": "2026-10-20T19:54:35.484583+00:00",
+    "work": {
+      "@context": "https://schema.org",
+      "@id": "https://hdrezka.asia/serialy/black-mirror-2011#content",
+      "@type": "TVSeries",
+      "actor": [
+        {
+          "@type": "Person",
+          "name": "Джесси Племонс",
+          "url": "https://hdrezka.asia/actor/djessi-plemons/"
+        },
+        {
+          "@type": "Person",
+          "name": "Келли Макдоналд",
+          "url": "https://hdrezka.asia/actor/kelli-makdonald/"
+        },
+        {
+          "@type": "Person",
+          "name": "Тоби Кеббелл",
+          "url": "https://hdrezka.asia/actor/tobi-kebbell/"
+        },
+        {
+          "@type": "Person",
+          "name": "Хейли Этвелл",
+          "url": "https://hdrezka.asia/actor/xeyli-etvell/"
+        },
+        {
+          "@type": "Person",
+          "name": "Гугу Эмбата-Ро",
+          "url": "https://hdrezka.asia/actor/gugu-embata-ro/"
+        },
+        {
+          "@type": "Person",
+          "name": "Уайатт Рассел",
+          "url": "https://hdrezka.asia/actor/uayatt-rassel/"
+        },
+        {
+          "@type": "Person",
+          "name": "Брайс Даллас Ховард",
+          "url": "https://hdrezka.asia/actor/brays-dallas-xovard/"
+        },
+        {
+          "@type": "Person",
+          "name": "Дэниэл Калуя",
+          "url": "https://hdrezka.asia/actor/deniel-kaluya/"
+        },
+        {
+          "@type": "Person",
+          "name": "Маккензи Дэвис",
+          "url": "https://hdrezka.asia/actor/makkenzi-devis/"
+        },
+        {
+          "@type": "Person",
+          "name": "Анджана Васан",
+          "url": "https://hdrezka.asia/actor/andjana-vasan/"
+        }
+      ],
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": "10",
+        "name": "КиноПоиск",
+        "ratingCount": 434187,
+        "ratingValue": "8.5",
+        "worstRating": "1"
+      },
+      "alternateName": "Black Mirror",
+      "containsSeason": [
+        {
+          "@type": "TVSeason",
+          "name": "1 сезон",
+          "seasonNumber": 1,
+          "url": "https://hdrezka.asia/serialy/black-mirror-2011/season/1"
+        },
+        {
+          "@type": "TVSeason",
+          "name": "2 сезон",
+          "seasonNumber": 2,
+          "url": "https://hdrezka.asia/serialy/black-mirror-2011/season/2"
+        },
+        {
+          "@type": "TVSeason",
+          "name": "3 сезон",
+          "seasonNumber": 3,
+          "url": "https://hdrezka.asia/serialy/black-mirror-2011/season/3"
+        },
+        {
+          "@type": "TVSeason",
+          "name": "4 сезон",
+          "seasonNumber": 4,
+          "url": "https://hdrezka.asia/serialy/black-mirror-2011/season/4"
+        },
+        {
+          "@type": "TVSeason",
+          "name": "5 сезон",
+          "seasonNumber": 5,
+          "url": "https://hdrezka.asia/serialy/black-mirror-2011/season/5"
+        },
+        {
+          "@type": "TVSeason",
+          "name": "6 сезон",
+          "seasonNumber": 6,
+          "url": "https://hdrezka.asia/serialy/black-mirror-2011/season/6"
+        },
+        {
+          "@type": "TVSeason",
+          "name": "7 сезон",
+          "seasonNumber": 7,
+          "url": "https://hdrezka.asia/serialy/black-mirror-2011/season/7"
+        }
+      ],
+      "countryOfOrigin": [
+        {
+          "@type": "Country",
+          "name": "Великобритания"
+        }
+      ],
+      "datePublished": "2011",
+      "description": "За последние годы технологии всесторонне изменили нашу жизнь, прежде чем мы успели опомниться и усомниться в них. В каждом доме, на каждом столе, на каждой ладони — плазменный телевизор, монитор ко...",
+      "genre": [
+        "Детектив",
+        "Драма",
+        "Триллер",
+        "Ужасы",
+        "Фантастика"
+      ],
+      "identifier": [
+        {
+          "@type": "PropertyValue",
+          "propertyID": "КиноПоиск",
+          "value": 655800
+        },
+        {
+          "@type": "PropertyValue",
+          "propertyID": "IMDb",
+          "value": "tt2085059"
+        }
+      ],
+      "image": [
+        "https://hdrezka.asia/media/backdrops/black-mirror-2011.webp?v=22d5291faa223ba7",
+        "https://hdrezka.asia/media/posters/black-mirror-2011.webp?v=eab122a42dbce12a"
+      ],
+      "inLanguage": "ru",
+      "name": "Чёрное зеркало (1-7 сезон)",
+      "numberOfSeasons": 7,
+      "potentialAction": {
+        "@type": "WatchAction",
+        "target": "https://hdrezka.asia/serialy/black-mirror-2011#watch"
+      },
+      "sameAs": [
+        "https://www.kinopoisk.ru/film/655800/",
+        "https://www.imdb.com/title/tt2085059/"
+      ],
+      "url": "https://hdrezka.asia/serialy/black-mirror-2011"
+    },
+    "rezka": "https://hdrezka.asia/serialy/black-mirror-2011",
+    "kpId": "655800",
+    "imdb": "tt2085059",
+    "kp": 8.458,
+    "kpVotes": 435165,
+    "score": 8.7,
+    "scoreVotes": 733000,
+    "kinogo": "https://kinogo.lifestyle/serialy/black-mirror-2011",
+    "seriesStats": {
+      "seasons": 7,
+      "episodes": 32,
+      "episodesPerSeason": 4.6,
+      "episodeMinutes": 62.3,
+      "totalMinutes": 1995,
+      "ongoing": true,
+      "source": "https://www.tvmaze.com/shows/305/black-mirror",
+      "checkedAt": "2026-10-20T19:54:35.484583+00:00",
+      "seasonEpisodes": [
+        {
+          "season": 1,
+          "episodes": 3
+        },
+        {
+          "season": 2,
+          "episodes": 3
+        },
+        {
+          "season": 3,
+          "episodes": 6
+        },
+        {
+          "season": 4,
+          "episodes": 6
+        },
+        {
+          "season": 5,
+          "episodes": 3
+        },
+        {
+          "season": 6,
+          "episodes": 5
+        },
+        {
+          "season": 7,
+          "episodes": 6
+        }
+      ]
+    },
+    "trailers": [
+      {
+        "videoId": "jROLrhQkK78",
+        "url": "https://www.youtube.com/watch?v=jROLrhQkK78",
+        "title": "Black Mirror trailer",
+        "channel": "UFets",
+        "kind": "trailer",
+        "duration": 150,
+        "language": "en",
+        "languageBasis": "English automatic speech transcript",
+        "maxHeight": 1080,
+        "verifiedAt": "2026-10-20T19:54:35.484583+00:00",
+        "availability": {
+          "embed": true,
+          "regions": [
+            "UA",
+            "RU"
+          ],
+          "checkedAt": "2026-10-20T19:54:35.484583+00:00",
+          "source": "YouTube public player metadata"
+        }
+      },
+      {
+        "videoId": "yef_HfQoBd8",
+        "url": "https://www.youtube.com/watch?v=yef_HfQoBd8",
+        "title": "Black Mirror - Arkangel | Official Trailer [HD] | Netflix",
+        "channel": "Netflix",
+        "kind": "trailer",
+        "duration": 55,
+        "language": "en",
+        "languageBasis": "English captions or original-language publisher trailer",
+        "maxHeight": 1080,
+        "verifiedAt": "2026-10-20T19:54:35.484583+00:00",
+        "availability": {
+          "embed": true,
+          "regions": [
+            "UA",
+            "RU"
+          ],
+          "checkedAt": "2026-10-20T19:54:35.484583+00:00",
+          "source": "YouTube public player metadata"
+        }
+      }
+    ],
+    "complete": true
+  },
+  "Better Off Ted|2009|series": {
+    "title": "Better Off Ted",
+    "year": 2009,
+    "type": "series",
+    "group": "crime",
+    "checkedAt": "2026-10-20T19:54:35.484583+00:00",
+    "error": "exact-provider-work-not-found"
+  },
+  "Dave|2020|series": {
+    "title": "Dave",
+    "year": 2020,
+    "type": "series",
+    "group": "crime",
+    "checkedAt": "2026-10-20T19:54:35.484583+00:00",
+    "work": {
+      "@context": "https://schema.org",
+      "@id": "https://hdrezka.asia/serialy/dave-2020#content",
+      "@type": "TVSeries",
+      "actor": [
+        {
+          "@type": "Person",
+          "name": "Дэвид Пэймер",
+          "url": "https://hdrezka.asia/actor/devid-peymer/"
+        },
+        {
+          "@type": "Person",
+          "name": "Хлоя Беннет",
+          "url": "https://hdrezka.asia/actor/xloya-bennet/"
+        },
+        {
+          "@type": "Person",
+          "name": "Эндрю Сантино",
+          "url": "https://hdrezka.asia/actor/endryu-santino/"
+        },
+        {
+          "@type": "Person",
+          "name": "Джина Хехт",
+          "url": "https://hdrezka.asia/actor/djina-xext/"
+        },
+        {
+          "@type": "Person",
+          "name": "Трэвис Беннетт",
+          "url": "https://hdrezka.asia/actor/trevis-bennett/"
+        },
+        {
+          "@type": "Person",
+          "name": "ГаТа",
+          "url": "https://hdrezka.asia/actor/gata/"
+        },
+        {
+          "@type": "Person",
+          "name": "Кристин Ко",
+          "url": "https://hdrezka.asia/actor/kristin-ko/"
+        },
+        {
+          "@type": "Person",
+          "name": "Тейлор Мисяк",
+          "url": "https://hdrezka.asia/actor/teylor-misyak/"
+        },
+        {
+          "@type": "Person",
+          "name": "Бенни Бланко",
+          "url": "https://hdrezka.asia/actor/benni-blanko/"
+        },
+        {
+          "@type": "Person",
+          "name": "Дэйв Бёрд",
+          "url": "https://hdrezka.asia/actor/deyv-byord/"
+        }
+      ],
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": "10",
+        "name": "КиноПоиск",
+        "ratingCount": 1103,
+        "ratingValue": "6.9",
+        "worstRating": "1"
+      },
+      "alternateName": "Dave",
+      "containsSeason": [
+        {
+          "@type": "TVSeason",
+          "name": "1 сезон",
+          "seasonNumber": 1,
+          "url": "https://hdrezka.asia/serialy/dave-2020/season/1"
+        },
+        {
+          "@type": "TVSeason",
+          "name": "3 сезон",
+          "seasonNumber": 3,
+          "url": "https://hdrezka.asia/serialy/dave-2020/season/3"
+        }
+      ],
+      "countryOfOrigin": [
+        {
+          "@type": "Country",
+          "name": "США"
+        }
+      ],
+      "datePublished": "2020",
+      "description": "Невротик Дэйв искренне убеждён, что ему суждено стать величайшим рэпером всех времен.",
+      "genre": [
+        "Комедия",
+        "Музыка"
+      ],
+      "identifier": [
+        {
+          "@type": "PropertyValue",
+          "propertyID": "КиноПоиск",
+          "value": 1245489
+        },
+        {
+          "@type": "PropertyValue",
+          "propertyID": "IMDb",
+          "value": "tt8531222"
+        }
+      ],
+      "image": [
+        "https://hdrezka.asia/media/backdrops/dave-2020.webp?v=21decd0c30507e6e",
+        "https://hdrezka.asia/media/posters/dave-2020.webp?v=9194293ecf960f5d"
+      ],
+      "inLanguage": "ru",
+      "name": "Дэйв (1-3 сезон)",
+      "numberOfSeasons": 2,
+      "potentialAction": {
+        "@type": "WatchAction",
+        "target": "https://hdrezka.asia/serialy/dave-2020#watch"
+      },
+      "sameAs": [
+        "https://www.kinopoisk.ru/film/1245489/",
+        "https://www.imdb.com/title/tt8531222/"
+      ],
+      "url": "https://hdrezka.asia/serialy/dave-2020"
+    },
+    "rezka": "https://hdrezka.asia/serialy/dave-2020",
+    "kpId": "1245489",
+    "imdb": "tt8531222",
+    "kp": 6.891,
+    "kpVotes": 1107,
+    "score": 8.2,
+    "scoreVotes": 28000,
+    "kinogo": "https://kinogo.lifestyle/serialy/dave-2020",
+    "seriesStats": {
+      "seasons": 3,
+      "episodes": 30,
+      "episodesPerSeason": 10.0,
+      "episodeMinutes": 29.9,
+      "totalMinutes": 896,
+      "ongoing": false,
+      "source": "https://www.tvmaze.com/shows/45563/dave",
+      "checkedAt": "2026-10-20T19:54:35.484583+00:00",
+      "seasonEpisodes": [
+        {
+          "season": 1,
+          "episodes": 10
+        },
+        {
+          "season": 2,
+          "episodes": 10
+        },
+        {
+          "season": 3,
+          "episodes": 10
+        }
+      ]
+    },
+    "trailers": [
+      {
+        "videoId": "G89ndiYkmSs",
+        "url": "https://www.youtube.com/watch?v=G89ndiYkmSs",
+        "title": "Dave Season 1 Trailer | Rotten Tomatoes TV",
+        "channel": "Rotten Tomatoes TV",
+        "kind": "trailer",
+        "duration": 147,
+        "language": "en",
+        "languageBasis": "English automatic speech transcript",
+        "maxHeight": 1080,
+        "verifiedAt": "2026-10-20T19:54:35.484583+00:00",
+        "availability": {
+          "embed": true,
+          "regions": [
+            "UA",
+            "RU"
+          ],
+          "checkedAt": "2026-10-20T19:54:35.484583+00:00",
+          "source": "YouTube public player metadata"
+        }
+      },
+      {
+        "videoId": "YbDkWQKF_fY",
+        "url": "https://www.youtube.com/watch?v=YbDkWQKF_fY",
+        "title": "Dave: Trailer | BBC Trailers",
+        "channel": "BBC Trailers",
+        "kind": "trailer",
+        "duration": 73,
+        "language": "en",
+        "languageBasis": "English automatic speech transcript",
+        "maxHeight": 1080,
+        "verifiedAt": "2026-10-20T19:54:35.484583+00:00",
+        "availability": {
+          "embed": true,
+          "regions": [
+            "UA",
+            "RU"
+          ],
+          "checkedAt": "2026-10-20T19:54:35.484583+00:00",
+          "source": "YouTube public player metadata"
+        }
+      }
+    ],
+    "complete": true
+  },
+  "Louie|2010|series": {
+    "title": "Louie",
+    "year": 2010,
+    "type": "series",
+    "group": "crime",
+    "checkedAt": "2026-10-20T19:54:35.484583+00:00",
+    "work": {
+      "@context": "https://schema.org",
+      "@id": "https://hdrezka.asia/serialy/louie-2010#content",
+      "@type": "TVSeries",
+      "actor": [
+        {
+          "@type": "Person",
+          "name": "Памела Адлон",
+          "url": "https://hdrezka.asia/actor/pamela-adlon/"
+        },
+        {
+          "@type": "Person",
+          "name": "Луи С.К.",
+          "url": "https://hdrezka.asia/actor/lui-s-k/"
+        },
+        {
+          "@type": "Person",
+          "name": "Урсула Паркер",
+          "url": "https://hdrezka.asia/actor/ursula-parker/"
+        },
+        {
+          "@type": "Person",
+          "name": "Тодд Бэрри",
+          "url": "https://hdrezka.asia/actor/todd-berri-2/"
+        },
+        {
+          "@type": "Person",
+          "name": "Сьюзэн Келечи Уотсон",
+          "url": "https://hdrezka.asia/actor/syuzen-kelechi-uotson/"
+        },
+        {
+          "@type": "Person",
+          "name": "Дианна Мастед",
+          "url": "https://hdrezka.asia/actor/dianna-masted/"
+        },
+        {
+          "@type": "Person",
+          "name": "Scott Reyns",
+          "url": "https://hdrezka.asia/actor/scott-reyns/"
+        },
+        {
+          "@type": "Person",
+          "name": "Steve Fabricant",
+          "url": "https://hdrezka.asia/actor/steve-fabricant/"
+        },
+        {
+          "@type": "Person",
+          "name": "Ник Ди Паоло",
+          "url": "https://hdrezka.asia/actor/nik-di-paolo/"
+        },
+        {
+          "@type": "Person",
+          "name": "Хэдли Дилэйни",
+          "url": "https://hdrezka.asia/actor/xedli-dileyni/"
+        }
+      ],
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": "10",
+        "name": "КиноПоиск",
+        "ratingCount": 7196,
+        "ratingValue": "7.9",
+        "worstRating": "1"
+      },
+      "alternateName": "Louie",
+      "containsSeason": [
+        {
+          "@type": "TVSeason",
+          "name": "1 сезон",
+          "seasonNumber": 1,
+          "url": "https://hdrezka.asia/serialy/louie-2010/season/1"
+        },
+        {
+          "@type": "TVSeason",
+          "name": "2 сезон",
+          "seasonNumber": 2,
+          "url": "https://hdrezka.asia/serialy/louie-2010/season/2"
+        },
+        {
+          "@type": "TVSeason",
+          "name": "3 сезон",
+          "seasonNumber": 3,
+          "url": "https://hdrezka.asia/serialy/louie-2010/season/3"
+        },
+        {
+          "@type": "TVSeason",
+          "name": "4 сезон",
+          "seasonNumber": 4,
+          "url": "https://hdrezka.asia/serialy/louie-2010/season/4"
+        },
+        {
+          "@type": "TVSeason",
+          "name": "5 сезон",
+          "seasonNumber": 5,
+          "url": "https://hdrezka.asia/serialy/louie-2010/season/5"
+        }
+      ],
+      "countryOfOrigin": [
+        {
+          "@type": "Country",
+          "name": "США"
+        }
+      ],
+      "datePublished": "2010",
+      "description": "Рассказ об успешном комике разговорного жанра из Нью-Йорка, который недавно стал отцом-одиночкой, однако успевает не только растить двух дочерей, но и ходить на свидания.",
+      "genre": [
+        "Драма",
+        "Комедия"
+      ],
+      "identifier": [
+        {
+          "@type": "PropertyValue",
+          "propertyID": "КиноПоиск",
+          "value": 505736
+        },
+        {
+          "@type": "PropertyValue",
+          "propertyID": "IMDb",
+          "value": "tt1492966"
+        }
+      ],
+      "image": [
+        "https://hdrezka.asia/media/backdrops/louie-2010.webp?v=744129b4755be65a",
+        "https://hdrezka.asia/media/posters/louie-2010.webp?v=cccc1a8a91951700"
+      ],
+      "inLanguage": "ru",
+      "name": "Луи (1-5 сезон)",
+      "numberOfSeasons": 5,
+      "potentialAction": {
+        "@type": "WatchAction",
+        "target": "https://hdrezka.asia/serialy/louie-2010#watch"
+      },
+      "sameAs": [
+        "https://www.kinopoisk.ru/film/505736/",
+        "https://www.imdb.com/title/tt1492966/"
+      ],
+      "url": "https://hdrezka.asia/serialy/louie-2010"
+    },
+    "rezka": "https://hdrezka.asia/serialy/louie-2010",
+    "kpId": "505736",
+    "imdb": "tt1492966",
+    "kp": 7.896,
+    "kpVotes": 7362,
+    "score": 8.5,
+    "scoreVotes": 85000,
+    "kinogo": "https://kinogo.lifestyle/serialy/louie-2010",
+    "seriesStats": {
+      "seasons": 5,
+      "episodes": 61,
+      "episodesPerSeason": 12.2,
+      "episodeMinutes": 30.0,
+      "totalMinutes": 1830,
+      "ongoing": false,
+      "source": "https://www.tvmaze.com/shows/342/louie",
+      "checkedAt": "2026-10-20T19:54:35.484583+00:00",
+      "seasonEpisodes": [
+        {
+          "season": 1,
+          "episodes": 13
+        },
+        {
+          "season": 2,
+          "episodes": 13
+        },
+        {
+          "season": 3,
+          "episodes": 13
+        },
+        {
+          "season": 4,
+          "episodes": 14
+        },
+        {
+          "season": 5,
+          "episodes": 8
+        }
+      ]
+    },
+    "trailers": [
+      {
+        "videoId": "fOpleaafK5U",
+        "url": "https://www.youtube.com/watch?v=fOpleaafK5U",
+        "title": "FX - Louie - Promo (2012)",
+        "channel": "Nicky Robinson",
+        "kind": "trailer",
+        "duration": 31,
+        "language": "en",
+        "languageBasis": "English automatic speech transcript",
+        "maxHeight": 720,
+        "verifiedAt": "2026-10-21T08:26:57.435910+00:00",
+        "availability": {
+          "embed": true,
+          "regions": [
+            "UA",
+            "RU"
+          ],
+          "checkedAt": "2026-10-21T08:26:57.435910+00:00",
+          "source": "YouTube public player metadata"
+        }
+      }
+    ],
+    "complete": true
+  }
+}

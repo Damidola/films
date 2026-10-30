@@ -1,0 +1,62 @@
+{
+  "work": {
+    "title": "Original title",
+    "ru": "Русское название",
+    "year": 2020,
+    "type": "series",
+    "kind": "Сериал",
+    "score": 8.0,
+    "kp": 7.5,
+    "imdb": "tt0000000",
+    "kpurl": "https://www.kinopoisk.ru/series/123456/",
+    "kpSource": "https://rating.kinopoisk.ru/123456.xml",
+    "image": "assets/library-NEW.webp",
+    "runtime": 30,
+    "seriesStats": {
+      "seasons": 2,
+      "episodes": 16,
+      "episodesPerSeason": 8,
+      "episodeMinutes": 30,
+      "totalMinutes": 480,
+      "source": "https://www.tvmaze.com/shows/123/example"
+    },
+    "productionCountries": ["US"],
+    "trailer": {
+      "videoId": "abcdefghijk",
+      "url": "https://www.youtube.com/watch?v=abcdefghijk",
+      "title": "Official Trailer",
+      "channel": "Official channel",
+      "language": "en",
+      "maxHeight": 1080,
+      "verifiedAt": "2026-01-01T00:00:00Z",
+      "availability": {"embed": true, "regions": ["UA"]}
+    },
+    "syn": "Фактический краткий синопсис.",
+    "editorialWhy": "Конкретная связь с отмеченными пользователем произведениями.",
+    "caveat": "Что может не понравиться.",
+    "source": "https://www.tvmaze.com/shows/123/example"
+  },
+  "providers": {
+    "kinogo": {
+      "url": "https://uakinogo.io/serialy/123-example.html",
+      "basis": "original-title-year-player",
+      "matchedOriginalTitle": "Original title",
+      "matchedTitle": "Русское название",
+      "matchedYear": "2020",
+      "schemaType": "TVEpisode",
+      "pageHasPlayer": true,
+      "checkedAt": "2026-01-01T00:00:00Z"
+    }
+  },
+  "reviewSource": {
+    "kpId": "123456",
+    "url": "https://hdrezka.me/series/example.html",
+    "basis": "exact-original-title-year",
+    "matchedTitle": "Original title",
+    "matchedYear": 2020,
+    "sourceYear": 2020,
+    "checkedAt": "2026-01-01T00:00:00Z"
+  },
+  "reviews": null,
+  "planned": true
+}

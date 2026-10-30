@@ -1,0 +1,295 @@
+{
+  "record": {
+    "rank": 609,
+    "title": "The Twilight Zone",
+    "ru": "Сумеречная зона",
+    "type": "series",
+    "kind": "Сериал",
+    "year": 1959,
+    "imdb": "tt0052520",
+    "kpurl": "https://www.kinopoisk.ru/series/229159/",
+    "score": 9.0,
+    "kp": 8.3,
+    "kpRaw": 8.311,
+    "kpSource": "https://rating.kinopoisk.ru/229159.xml",
+    "scoreSource": "https://rating.kinopoisk.ru/229159.xml",
+    "kpVerifiedAt": "2026-10-21T14:27:15.541082+00:00",
+    "rezka": "https://hdrezka.me/series/horror/17090-sumerechnaya-zona-1959.html",
+    "kinogo": "https://uakinogo.io/serialy/36691-sumerechnaja-zona.html",
+    "image": "assets/library-609.webp",
+    "runtime": 33,
+    "seriesStats": {
+      "seasons": 5,
+      "episodes": 156,
+      "episodesPerSeason": 31.2,
+      "episodeMinutes": 33.46,
+      "seasonEpisodes": [
+        {
+          "season": 1,
+          "episodes": 36
+        },
+        {
+          "season": 2,
+          "episodes": 29
+        },
+        {
+          "season": 3,
+          "episodes": 37
+        },
+        {
+          "season": 4,
+          "episodes": 18
+        },
+        {
+          "season": 5,
+          "episodes": 36
+        }
+      ],
+      "totalMinutes": 5220,
+      "ongoing": false,
+      "source": "https://www.tvmaze.com/shows/787/the-twilight-zone",
+      "checkedAt": "2026-10-21T14:27:15.541082+00:00"
+    },
+    "productionCountries": [
+      "US"
+    ],
+    "trailer": {
+      "videoId": "zGQdYDru3B8",
+      "url": "https://www.youtube.com/watch?v=zGQdYDru3B8",
+      "title": "CBS - The Twilight Zone Promo - 1959",
+      "channel": "Sloan's TV Airchive",
+      "kind": "series-promo",
+      "duration": 69,
+      "language": "en",
+      "languageBasis": "Archival CBS promo for Rod Serling original black-and-white series",
+      "note": "Архивный проморолик оригинального сериала 1959 года",
+      "maxHeight": 480,
+      "verifiedAt": "2026-10-21T14:26:12.295712+00:00",
+      "availability": {
+        "embed": true,
+        "regions": [
+          "UA"
+        ],
+        "checkedAt": "2026-10-21T14:26:12.295712+00:00",
+        "source": "YouTube public player metadata"
+      }
+    },
+    "trailerAlternates": [
+      {
+        "videoId": "5tROD5Bko_E",
+        "url": "https://www.youtube.com/watch?v=5tROD5Bko_E",
+        "title": "1960s   Twilight Zone Promo",
+        "channel": "raoul duke",
+        "kind": "series-promo",
+        "duration": 63,
+        "language": "en",
+        "languageBasis": "Archival CBS promo for Rod Serling original black-and-white series",
+        "note": "Архивный проморолик оригинального сериала 1959 года",
+        "maxHeight": 360,
+        "verifiedAt": "2026-10-21T14:26:12.295712+00:00",
+        "availability": {
+          "embed": true,
+          "regions": [
+            "UA"
+          ],
+          "checkedAt": "2026-10-21T14:26:12.295712+00:00",
+          "source": "YouTube public player metadata"
+        }
+      }
+    ],
+    "syn": "Оригинальная чёрно-белая антология Рода Серлинга, выходившая с 1959 по 1964 год. В каждой серии — новые герои и самостоятельная история: обычная жизненная ситуация постепенно выходит за пределы привычного мира. Фантастика, мистика и психологический триллер помогают говорить о страхах, предрассудках, одиночестве и человеческой жадности. Часто смысл происходящего переворачивается в последней сцене. Серии можно смотреть по отдельности.",
+    "tags": [
+      "Антология",
+      "Фантастика",
+      "Мистика",
+      "Ирония",
+      "Сатира",
+      "Повороты сюжета",
+      "Психологический триллер"
+    ],
+    "editorialWhy": "Самостоятельные истории с мрачной иронией, моральными ловушками и неожиданной развязкой. Фантастическая ситуация здесь часто служит способом высмеять человеческую глупость или показать изнанку привычного поведения.",
+    "caveat": "Это оригинал 1959 года: чёрно-белая съёмка и неторопливая подача. В карточке — исторический проморолик CBS, а не трейлер современного перезапуска.",
+    "candidatePool": true,
+    "addedFrom": "user-request-twilight-zone-1959",
+    "source": "https://www.tvmaze.com/shows/787/the-twilight-zone"
+  },
+  "show": {
+    "id": 787,
+    "url": "https://www.tvmaze.com/shows/787/the-twilight-zone",
+    "name": "The Twilight Zone",
+    "type": "Scripted",
+    "language": "English",
+    "genres": [
+      "Science-Fiction",
+      "Mystery",
+      "Supernatural"
+    ],
+    "status": "Ended",
+    "runtime": 30,
+    "averageRuntime": 33,
+    "premiered": "1959-10-02",
+    "ended": "1964-06-19",
+    "officialSite": null,
+    "schedule": {
+      "time": "22:00",
+      "days": [
+        "Friday"
+      ]
+    },
+    "rating": {
+      "average": 8.9
+    },
+    "weight": 98,
+    "network": {
+      "id": 2,
+      "name": "CBS",
+      "country": {
+        "name": "United States",
+        "code": "US",
+        "timezone": "America/New_York"
+      },
+      "officialSite": "https://www.cbs.com/"
+    },
+    "webChannel": null,
+    "dvdCountry": null,
+    "externals": {
+      "tvrage": 6258,
+      "thetvdb": 73587,
+      "imdb": "tt0052520"
+    },
+    "image": {
+      "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/398/996733.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/398/996733.jpg"
+    },
+    "summary": "<p>A groundbreaking series by Rod Serling, this half-hour anthology featured tales of the strange, the macabre, and the unusual. Some were science fiction, some were supernatural, and some defied easy categorization.This five-season series is best known for its twist endings. Many of the stories were written by Serling himself, others were crafted by Richard Matheson, Charles Beaumont, Earl Hammer Jr. and Ray Bradbury.</p>",
+    "updated": 1789216988,
+    "_links": {
+      "self": {
+        "href": "https://api.tvmaze.com/shows/787"
+      },
+      "previousepisode": {
+        "href": "https://api.tvmaze.com/episodes/69751",
+        "name": "The Bewitchin' Pool"
+      }
+    }
+  },
+  "providerSchema": {
+    "@context": "https://schema.org",
+    "@type": "TVEpisode",
+    "url": "https://uakinogo.io/serialy/36691-sumerechnaja-zona.html",
+    "image": "https://uakinogo.io/uploads/posts/2021-03/1615664344-1347588990.jpg",
+    "name": "Сумеречная зона (1-5 сезон)",
+    "alternateName": "The Twilight Zone",
+    "headline": "Сумеречная зона (1-5 сезон)",
+    "alternativeHeadline": "The Twilight Zone",
+    "inLanguage": "ru",
+    "description": "Вас ждет путешествие в удивительный мир, где грани возможного ограничены только мощью вашего воображения. Мир, где взаимопереплетаются странные образы и невероятные звуки, воплощающиеся в уникальное измерение ума. Здесь каждый эпизод приоткрывает завесу над уникальной историей, будь то фантастика, предстательская тайна, захватывающий триллер или жуткие сюжеты ужаса. \"Сумеречная зона\" представляет собой целую серию независимых рассказов, где каждый сценарий призван удивить и заставить вас по-новому взглянуть на повседневные вещи.",
+    "dateCreated": "1959",
+    "isAccessibleForFree": true,
+    "isFamilyFriendly": true,
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "worstRating": 1,
+      "bestRating": 5,
+      "ratingCount": "26",
+      "ratingValue": "3.9"
+    },
+    "genre": [
+      "Ужасы",
+      "Фантастика",
+      "Фэнтези",
+      "Детектив",
+      "Триллер",
+      "Зарубежный"
+    ],
+    "actor": [
+      {
+        "@type": "Person",
+        "name": "Род Серлинг"
+      },
+      {
+        "@type": "Person",
+        "name": "Роберт МакКорд"
+      },
+      {
+        "@type": "Person",
+        "name": "Джей Оверхолтс"
+      },
+      {
+        "@type": "Person",
+        "name": "Вон Тейлор"
+      },
+      {
+        "@type": "Person",
+        "name": "Дэвид Армстронг"
+      },
+      {
+        "@type": "Person",
+        "name": "Джеймс Терли"
+      },
+      {
+        "@type": "Person",
+        "name": "Джек Клагмен"
+      },
+      {
+        "@type": "Person",
+        "name": "Бёрджесс Мередит"
+      },
+      {
+        "@type": "Person",
+        "name": "Джон Андерсон"
+      },
+      {
+        "@type": "Person",
+        "name": "Дж. Пэт О&#039;Мэлли"
+      }
+    ],
+    "director": [
+      {
+        "@type": "Person",
+        "name": "Джон Брам"
+      },
+      {
+        "@type": "Person",
+        "name": "Дуглас Хэйс"
+      },
+      {
+        "@type": "Person",
+        "name": "Базз Кьюлик"
+      }
+    ],
+    "countryOfOrigin": [
+      {
+        "@type": "Country",
+        "name": "США"
+      }
+    ],
+    "partOfSeason": "1-5 сезон",
+    "episodeNumber": "1-36 серия",
+    "duration": "PT22M",
+    "video": {
+      "@type": "VideoObject",
+      "thumbnailUrl": "https://uakinogo.io/uploads/posts/2021-03/1615664344-1347588990.jpg",
+      "description": "Вас ждет путешествие в удивительный мир, где грани возможного ограничены только мощью вашего воображения. Мир, где взаимопереплетаются странные образы и невероятные звуки, воплощающиеся в уникальное измерение ума. Здесь каждый эпизод приоткрывает завесу над уникальной историей, будь то фантастика, предстательская тайна, захватывающий триллер или жуткие сюжеты ужаса. \"Сумеречная зона\" представляет собой целую серию независимых рассказов, где каждый сценарий призван удивить и заставить вас по-новому взглянуть на повседневные вещи.",
+      "name": "Сумеречная зона",
+      "uploadDate": "2021-03-20T23:18:39+02:00",
+      "datePublished": "2021-03-20T23:18:39+02:00",
+      "dateCreated": "2021-03-20T23:18:39+02:00",
+      "embedUrl": "https://cinemar.cc/embed/96693/+MTQ5M2IzMWY5ODk2ZTRkYTg0MzUxOWRkZjE2NDgwOGE0YTE2NTA1NzQwMDkwODUwMGYwMTBhMWE0NzQ0MGIxMjRjNmI1YTUxMTMwMzQ2NTc1MDA3MGYwNTFhMWMxYTA5NWU0NzRkMTE1ODExNDQwNzUyNTE1NzU5MDI1YjRhMDg1NzE2MWYxNzU4NDk0NjVlNDQwODA2MWEwMTA2MTY1MDA2MDIxNzA3NWIxMTFkNDQ1ZTRhNTY0MzE1MTY1ZTU0MTQxNjU2NGQ0MTUwMTYwMTQ0MGIwNzAzMDEwMjBlNTAwNTA3MGEwNzRlMTE1OTBmNWQ1ZDU4NTI0NzBlMDIwMDU0NDc1NjE5MTM1MTBkMDAwMzUwNTI2YjRlNWY1MTAyNTQxNjAzNTUwMzVmNDIwMzE1MWE1MjRjM2E0MzBjMDg0YzUxMTEwZjU3NTgwODE3MDM0Yw==",
+      "url": "https://uakinogo.io/serialy/36691-sumerechnaja-zona.html",
+      "isFamilyFriendly": true,
+      "playerType": "HTML5",
+      "width": 1280,
+      "height": 720,
+      "videoQuality": "high",
+      "inLanguage": "ru",
+      "thumbnail": {
+        "@type": "ImageObject",
+        "url": "https://uakinogo.io/uploads/posts/2021-03/1615664344-1347588990.jpg"
+      },
+      "duration": "PT22M"
+    }
+  },
+  "addedTo": "watchlist",
+  "requestedEdition": "black-and-white original"
+}

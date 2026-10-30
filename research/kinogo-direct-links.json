@@ -1,0 +1,4902 @@
+[
+  {
+    "rank": 1,
+    "kinogo": "https://uakinogo.io/serialy/36642-korporacija.html",
+    "matchedBy": "detail-original-title+search-year",
+    "query": "https://uakinogo.io/index.php?do=search&subaction=search&story=Corporate",
+    "evidence": {
+      "url": "https://uakinogo.io/serialy/36642-korporacija.html",
+      "title": "Корпорация (1-3 сезон)",
+      "original": "Корпорация",
+      "years": [
+        "2018"
+      ]
+    },
+    "verifiedOriginal": [
+      "Corporate",
+      "Corporate"
+    ],
+    "checked": true
+  },
+  {
+    "rank": 2,
+    "kinogo": "https://uakinogo.io/multserialy/41633-zhizn-i-prikljuchenija-tima.html",
+    "matchedBy": "Russian+year",
+    "query": "https://uakinogo.io/index.php?do=search&subaction=search&story=The%20Life%20%26%20Times%20of%20Tim",
+    "evidence": {
+      "url": "https://uakinogo.io/multserialy/41633-zhizn-i-prikljuchenija-tima.html",
+      "title": "Жизнь и приключения Тима (1-3 сезон)",
+      "original": "Жизнь и приключения Тима",
+      "years": [
+        "2008"
+      ]
+    },
+    "checked": true,
+    "detailNames": [
+      "The Life &amp; Times of Tim",
+      "The Life &amp; Times of Tim"
+    ]
+  },
+  {
+    "rank": 3,
+    "query": "https://uakinogo.io/index.php?do=search&subaction=search&story=How%20To%20with%20John%20Wilson",
+    "candidates": [
+      {
+        "url": "https://uakinogo.io/serialy/72774-poleznye-sovety-ot-dzhona-uilsona.html",
+        "title": "Полезные советы от Джона Уилсона (1-3 сезон)",
+        "original": "Полезные советы от Джона Уилсона",
+        "years": [
+          "2020"
+        ]
+      }
+    ],
+    "title": "How To with John Wilson",
+    "kinogo": "https://uakinogo.io/serialy/72774-poleznye-sovety-ot-dzhona-uilsona.html",
+    "verifiedOriginal": [
+      "How to with John Wilson",
+      "How to with John Wilson"
+    ],
+    "matchedBy": "detail-original-title+search-year",
+    "checked": true
+  },
+  {
+    "rank": 4,
+    "kinogo": "https://uakinogo.io/multserialy/32727-38-obezjan.html",
+    "matchedBy": "detail-original-title+search-year",
+    "query": "https://uakinogo.io/index.php?do=search&subaction=search&story=Monkey%20Dust",
+    "evidence": {
+      "url": "https://uakinogo.io/multserialy/32727-38-obezjan.html",
+      "title": "38 обезьян (1-3 сезон)",
+      "original": "38 обезьян",
+      "years": [
+        "2003"
+      ]
+    },
+    "verifiedOriginal": [
+      "Monkey Dust",
+      "Monkey Dust"
+    ],
+    "checked": true
+  },
+  {
+    "rank": 5,
+    "kinogo": "https://uakinogo.io/serialy/43187-psihovill.html",
+    "matchedBy": "detail-original-title+search-year",
+    "query": "https://uakinogo.io/index.php?do=search&subaction=search&story=Psychoville",
+    "evidence": {
+      "url": "https://uakinogo.io/serialy/43187-psihovill.html",
+      "title": "Психовилль (1-2 сезон)",
+      "original": "Психовилль",
+      "years": [
+        "2009"
+      ]
+    },
+    "verifiedOriginal": [
+      "Psychoville",
+      "Psychoville"
+    ],
+    "checked": true
+  },
+  {
+    "rank": 6,
+    "kinogo": "https://uakinogo.io/serialy/70908-byt-prisjazhnym.html",
+    "matchedBy": "detail-original-title+search-year",
+    "query": "https://uakinogo.io/index.php?do=search&subaction=search&story=Jury%20Duty",
+    "evidence": {
+      "url": "https://uakinogo.io/serialy/70908-byt-prisjazhnym.html",
+      "title": "Быть присяжным (1-2 сезон)",
+      "original": "Быть присяжным",
+      "years": [
+        "2023"
+      ]
+    },
+    "verifiedOriginal": [
+      "Jury Duty",
+      "Jury Duty"
+    ],
+    "checked": true
+  },
+  {
+    "rank": 7,
+    "kinogo": "https://uakinogo.io/serialy/36743-patriot.html",
+    "matchedBy": "detail-original-title+search-year",
+    "query": "https://uakinogo.io/index.php?do=search&subaction=search&story=Patriot",
+    "evidence": {
+      "url": "https://uakinogo.io/serialy/36743-patriot.html",
+      "title": "Патриот (1-2 сезон)",
+      "original": "Патриот",
+      "years": [
+        "2015"
+      ]
+    },
+    "verifiedOriginal": [
+      "Patriot",
+      "Patriot"
+    ],
+    "checked": true
+  },
+  {
+    "rank": 8,
+    "kinogo": "https://uakinogo.io/serialy/113439-kompanija-bossov.html",
+    "matchedBy": "detail-original-title+search-year",
+    "query": "https://uakinogo.io/index.php?do=search&subaction=search&story=The%20Chair%20Company",
+    "evidence": {
+      "url": "https://uakinogo.io/serialy/113439-kompanija-bossov.html",
+      "title": "Компания боссов (1 сезон)",
+      "original": "Компания боссов",
+      "years": [
+        "2025"
+      ]
+    },
+    "verifiedOriginal": [
+      "The Chair Company",
+      "The Chair Company"
+    ],
+    "checked": true
+  },
+  {
+    "rank": 9,
+    "kinogo": "https://uakinogo.io/serialy/51520-prokljatie.html",
+    "matchedBy": "detail-original-title+search-year",
+    "query": "https://uakinogo.io/index.php?do=search&subaction=search&story=The%20Curse",
+    "evidence": {
+      "url": "https://uakinogo.io/serialy/51520-prokljatie.html",
+      "title": "Проклятие (1 сезон)",
+      "original": "Проклятие",
+      "years": [
+        "2023"
+      ]
+    },
+    "verifiedOriginal": [
+      "The Curse",
+      "The Curse"
+    ],
+    "checked": true
+  },
+  {
+    "rank": 10,
+    "kinogo": "https://uakinogo.io/serialy/35546-stjen-protiv-sil-zla.html",
+    "matchedBy": "detail-original-title+search-year",
+    "query": "https://uakinogo.io/index.php?do=search&subaction=search&story=Stan%20Against%20Evil",
+    "evidence": {
+      "url": "https://uakinogo.io/serialy/35546-stjen-protiv-sil-zla.html",
+      "title": "Стэн против сил зла (1-3 сезон)",
+      "original": "Стэн против сил зла",
+      "years": [
+        "2016"
+      ]
+    },
+    "verifiedOriginal": [
+      "Stan Against Evil",
+      "Stan Against Evil"
+    ],
+    "checked": true
+  },
+  {
+    "rank": 11,
+    "kinogo": "https://uakinogo.io/serialy/51693-bukmeker.html",
+    "matchedBy": "detail-original-title+search-year",
+    "query": "https://uakinogo.io/index.php?do=search&subaction=search&story=Bookie",
+    "evidence": {
+      "url": "https://uakinogo.io/serialy/51693-bukmeker.html",
+      "title": "Букмекер (1-2 сезон)",
+      "original": "Букмекер",
+      "years": [
+        "2023"
+      ]
+    },
+    "verifiedOriginal": [
+      "Bookie",
+      "Bookie"
+    ],
+    "checked": true
+  },
+  {
+    "rank": 12,
+    "query": "https://uakinogo.io/index.php?do=search&subaction=search&story=Common%20Side%20Effects",
+    "candidates": [
+      {
+        "url": "https://uakinogo.io/multserialy/107230-obychnye-pobochki.html",
+        "title": "Обычные побочки (1 сезон)",
+        "original": "Обычные побочки",
+        "years": [
+          "2024"
+        ]
+      }
+    ],
+    "title": "Common Side Effects",
+    "kinogo": "https://uakinogo.io/multserialy/107230-obychnye-pobochki.html",
+    "matchedBy": "detail-original-title",
+    "verifiedOriginal": [
+      "Common Side Effects",
+      "Common Side Effects",
+      "Common Side Effects"
+    ],
+    "providerYears": [
+      "2024"
+    ],
+    "queries": [
+      "https://uakinogo.io/index.php?do=search&subaction=search&story=%D0%A7%D0%B0%D1%81%D1%82%D1%8B%D0%B5%20%D0%BF%D0%BE%D0%B1%D0%BE%D1%87%D0%BD%D1%8B%D0%B5%20%D1%8F%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F"
+    ],
+    "checked": true
+  },
+  {
+    "rank": 13,
+    "kinogo": "https://uakinogo.io/multserialy/98571-desjatiletnij-tom.html",
+    "matchedBy": "detail-original-title+search-year",
+    "query": "https://uakinogo.io/index.php?do=search&subaction=search&story=Ten%20Year%20Old%20Tom",
+    "evidence": {
+      "url": "https://uakinogo.io/multserialy/98571-desjatiletnij-tom.html",
+      "title": "Десятилетний Том (1-2 сезон)",
+      "original": "Десятилетний Том",
+      "years": [
+        "2021"
+      ]
+    },
+    "verifiedOriginal": [
+      "Ten Year Old Tom",
+      "Ten Year Old Tom"
+    ],
+    "checked": true
+  },
+  {
+    "rank": 14,
+    "query": "https://uakinogo.io/index.php?do=search&subaction=search&story=Smiling%20Friends",
+    "candidates": [
+      {
+        "url": "https://uakinogo.io/multserialy/73163-smiling-friends.html",
+        "title": "Улыбающиеся друзья (1-3 сезон)",
+        "original": "Улыбающиеся друзья",
+        "years": [
+          "2020"
+        ]
+      }
+    ],
+    "title": "Smiling Friends",
+    "moreCandidates": [
+      {
+        "url": "https://uakinogo.io/multserialy/73163-smiling-friends.html",
+        "title": "Улыбающиеся друзья (1-3 сезон)",
+        "original": "Улыбающиеся друзья",
+        "years": [
+          "2020"
+        ]
+      }
+    ],
+    "queries": [
+      "https://uakinogo.io/index.php?do=search&subaction=search&story=%D0%97%D0%B0%D0%B4%D0%BE%D1%80%D0%BD%D1%8B%D0%B5%20%D0%B4%D1%80%D1%83%D0%B7%D1%8C%D1%8F"
+    ],
+    "kinogo": "https://uakinogo.io/multserialy/73163-smiling-friends.html",
+    "matchedBy": "exact English slug + series year + known Russian alias",
+    "checked": true
+  },
+  {
+    "rank": 15,
+    "query": "https://uakinogo.io/index.php?do=search&subaction=search&story=I%20Think%20You%20Should%20Leave%20with%20Tim%20Robinson",
+    "candidates": [
+      {
+        "url": "https://uakinogo.io/serialy/30176-i-think-you-should-leave-with-tim-robinson.html",
+        "title": "Думаю вам стоит уйти с Тимом Робинсоном (1-2 сезон)",
+        "original": "Думаю вам стоит уйти с Тимом Робинсоном",
+        "years": [
+          "2019"
+        ]
+      }
+    ],
+    "title": "I Think You Should Leave with Tim Robinson",
+    "kinogo": "https://uakinogo.io/serialy/30176-i-think-you-should-leave-with-tim-robinson.html",
+    "verifiedOriginal": [
+      "I Think You Should Leave with Tim Robinson",
+      "I Think You Should Leave with Tim Robinson"
+    ],
+    "matchedBy": "detail-original-title+search-year",
+    "checked": true
+  },
+  {
+    "rank": 16,
+    "query": "https://uakinogo.io/index.php?do=search&subaction=search&story=Murder%20Mindfully",
+    "candidates": [],
+    "title": "Murder Mindfully",
+    "kinogo": "https://uakinogo.io/serialy/105576-ubivat-osoznanno.html",
+    "matchedBy": "detail-original-title",
+    "verifiedOriginal": [
+      "Achtsam Morden",
+      "Achtsam Morden",
+      "Achtsam Morden"
+    ],
+    "providerYears": [
+      "2024"
+    ],
+    "queries": [
+      "https://uakinogo.io/index.php?do=search&subaction=search&story=%D0%A3%D0%B1%D0%B8%D0%B2%D0%B0%D1%82%D1%8C%20%D0%BE%D1%81%D0%BE%D0%B7%D0%BD%D0%B0%D0%BD%D0%BD%D0%BE",
+      "https://uakinogo.io/index.php?do=search&subaction=search&story=Achtsam%20Morden"
+    ],
+    "checked": true
+  },
+  {
+    "rank": 17,
+    "kinogo": "https://uakinogo.io/serialy/36612-v-poiske.html",
+    "matchedBy": "detail-original-title+search-year",
+    "query": "https://uakinogo.io/index.php?do=search&subaction=search&story=Search%20Party",
+    "evidence": {
+      "url": "https://uakinogo.io/serialy/36612-v-poiske.html",
+      "title": "В поиске (1-5 сезон)",
+      "original": "В поиске",
+      "years": [
+        "2016"
+      ]
+    },
+    "verifiedOriginal": [
+      "Search Party",
+      "Search Party"
+    ],
+    "checked": true
+  },
+  {
+    "rank": 18,
+    "query": "https://uakinogo.io/index.php?do=search&subaction=search&story=Such%20Brave%20Girls",
+    "candidates": [
+      {
+        "url": "https://uakinogo.io/serialy/105394-jeti-hrabrye-devochki.html",
+        "title": "Эти храбрые девочки (1-2 сезон)",
+        "original": "Эти храбрые девочки",
+        "years": [
+          "2023"
+        ]
+      }
+    ],
+    "title": "Such Brave Girls",
+    "kinogo": "https://uakinogo.io/serialy/105394-jeti-hrabrye-devochki.html",
+    "verifiedOriginal": [
+      "Such Brave Girls",
+      "Such Brave Girls"
+    ],
+    "matchedBy": "detail-original-title+search-year",
+    "checked": true
+  },
+  {
+    "rank": 19,
+    "kinogo": "https://uakinogo.io/serialy/40626-vozvraschenie.html",
+    "matchedBy": "detail-original-title+search-year",
+    "query": "https://uakinogo.io/index.php?do=search&subaction=search&story=The%20Comeback",
+    "evidence": {
+      "url": "https://uakinogo.io/serialy/40626-vozvraschenie.html",
+      "title": "Возвращение (1-3 сезон)",
+      "original": "Возвращение",
+      "years": [
+        "2005"
+      ]
+    },
+    "verifiedOriginal": [
+      "The Comeback",
+      "The Comeback"
+    ],
+    "checked": true
+  },
+  {
+    "rank": 20,
+    "kinogo": "https://uakinogo.io/serialy/35967-amerikanskij-vandal.html",
+    "matchedBy": "detail-original-title+search-year",
+    "query": "https://uakinogo.io/index.php?do=search&subaction=search&story=American%20Vandal",
+    "evidence": {
+      "url": "https://uakinogo.io/serialy/35967-amerikanskij-vandal.html",
+      "title": "Американский вандал (1-2 сезон)",
+      "original": "Американский вандал",
+      "years": [
+        "2017"
+      ]
+    },
+    "verifiedOriginal": [
+      "American Vandal",
+      "American Vandal"
+    ],
+    "checked": true
+  },
+  {
+    "rank": 21,
+    "query": "https://uakinogo.io/index.php?do=search&subaction=search&story=Superjail%21",
+    "candidates": [
+      {
+        "url": "https://uakinogo.io/multserialy/41666-tjurjaga.html",
+        "title": "Тюряга (1-4 сезон)",
+        "original": "Тюряга",
+        "years": [
+          "2007"
+        ]
+      }
+    ],
+    "title": "Superjail!",
+    "kinogo": "https://uakinogo.io/multserialy/41666-tjurjaga.html",
+    "verifiedOriginal": [
+      "Superjail!",
+      "Superjail!"
+    ],
+    "matchedBy": "detail-original-title+search-year",
+    "checked": true
+  },
+  {
+    "rank": 22,
+    "query": "https://uakinogo.io/index.php?do=search&subaction=search&story=Wonder%20Showzen",
+    "candidates": [
+      {
+        "url": "https://uakinogo.io/multserialy/73267-chudoshouzen.html",
+        "title": "Чудошоузен (1-2 сезон)",
+        "original": "Чудошоузен",
+        "years": [
+          "2005"
+        ]
+      }
+    ],
+    "title": "Wonder Showzen",
+    "kinogo": "https://uakinogo.io/multserialy/73267-chudoshouzen.html",
+    "verifiedOriginal": [
+      "Wonder Showzen",
+      "Wonder Showzen"
+    ],
+    "matchedBy": "detail-original-title+search-year",
+    "checked": true
+  },
+  {
+    "rank": 23,
+    "kinogo": "https://uakinogo.io/original/32375-briklberri.html",
+    "matchedBy": "detail-original-title+search-year",
+    "query": "https://uakinogo.io/index.php?do=search&subaction=search&story=Brickleberry",
+    "evidence": {
+      "url": "https://uakinogo.io/original/32375-briklberri.html",
+      "title": "Бриклберри (1-3 сезон)",
+      "original": "Бриклберри",
+      "years": [
+        "2012"
+      ]
+    },
+    "verifiedOriginal": [
+      "Brickleberry",
+      "Brickleberry"
+    ],
+    "checked": true
+  },
+  {
+    "rank": 24,
+    "query": "https://uakinogo.io/index.php?do=search&subaction=search&story=Duckman",
+    "candidates": [
+      {
+        "url": "https://uakinogo.io/multserialy/99082-dakmjen.html",
+        "title": "Дакмэн (1994)",
+        "original": "Дакмэн",
+        "years": [
+          "1994"
+        ]
+      }
+    ],
+    "title": "Duckman",
+    "kinogo": "https://uakinogo.io/multserialy/99082-dakmjen.html",
+    "verifiedOriginal": [
+      "Duckman: Private Dick/Family Man",
+      "Duckman: Private Dick/Family Man"
+    ],
+    "matchedBy": "detail-original-title+search-year",
+    "checked": true
+  },
+  {
+    "rank": 25,
+    "query": "https://uakinogo.io/index.php?do=search&subaction=search&story=Mr.%20Pickles",
+    "candidates": [
+      {
+        "url": "https://uakinogo.io/multserialy/32289-mister-piklz.html",
+        "title": "Мистер Пиклз (1-4 сезон)",
+        "original": "Мистер Пиклз",
+        "years": [
+          "2014"
+        ]
+      }
+    ],
+    "title": "Mr. Pickles",
+    "kinogo": "https://uakinogo.io/multserialy/32289-mister-piklz.html",
+    "matchedBy": "detail-original-title",
+    "verifiedOriginal": [
+      "Mr. Pickles",
+      "Mr. Pickles",
+      "Mr. Pickles"
+    ],
+    "providerYears": [
+      "2014"
+    ],
+    "queries": [
+      "https://uakinogo.io/index.php?do=search&subaction=search&story=%D0%9C%D0%B8%D1%81%D1%82%D0%B5%D1%80%20%D0%9F%D0%B8%D0%BA%D0%BB%D0%B7"
+    ],
+    "checked": true
+  },
+  {
+    "rank": 26,
+    "query": "https://uakinogo.io/index.php?do=search&subaction=search&story=Jam",
+    "candidates": [
+      {
+        "url": "https://uakinogo.io/serialy/40846-jamai-20.html",
+        "title": "Зять 2.0 (1-2 сезон)",
+        "original": "Зять 2.0",
+        "years": [
+          "2019"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/filmy/26527-james-bond.html",
+        "title": "Джеймс Бонд (2015)",
+        "original": "Джеймс Бонд",
+        "years": [
+          "2015"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/serialy/71520-james-may-oh-cook.html",
+        "title": "Джеймс Мэй: О, повар! (1 сезон)",
+        "original": "Джеймс Мэй: О, повар!",
+        "years": [
+          "2020"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/serialy/35621-jamtara-sabka-number-ayega.html",
+        "title": "Джамтара (1 сезон)",
+        "original": "Джамтара",
+        "years": [
+          "2020"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/filmy/63091-nenjam-marappathillai.html",
+        "title": "Сердце не забывает (2021)",
+        "original": "Сердце не забывает",
+        "years": [
+          "2021"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/filmy/51873-spi.html",
+        "title": "Спи (2023)",
+        "original": "Спи",
+        "years": [
+          "2023"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/filmy/115060-dzham.html",
+        "title": "Джам (2017)",
+        "original": "Джам",
+        "years": [
+          "2017"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/filmy/13100-jesse-james-vs-the-black-train.html",
+        "title": "Джесси Джеймс против Черного Поезда (2018)",
+        "original": "Джесси Джеймс против Черного Поезда",
+        "years": [
+          "2018"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/filmy/86784-dzhamun.html",
+        "title": "Джамун (2021)",
+        "original": "Джамун",
+        "years": [
+          "2021"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/filmy/63210-dzhejms.html",
+        "title": "Джеймс (2022)",
+        "original": "Джеймс",
+        "years": [
+          "2022"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/filmy/116706-dzhejms.html",
+        "title": "Джеймс (2008)",
+        "original": "Джеймс",
+        "years": [
+          "2008"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/filmy/583-dzhejmsi.html",
+        "title": "Джеймси (2013)",
+        "original": "Джеймси",
+        "years": [
+          "2013"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/filmy/15574-adzhami.html",
+        "title": "Аджами (2009)",
+        "original": "Аджами",
+        "years": [
+          "2009"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/filmy/15473-dzhamilja.html",
+        "title": "Джамиля (2018)",
+        "original": "Джамиля",
+        "years": [
+          "2018"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/filmy/4026-pravda.html",
+        "title": "Правда (2003)",
+        "original": "Правда",
+        "years": [
+          "2003"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/serialy/33864-dzhejmstaun.html",
+        "title": "Джеймстаун (1-3 сезон)",
+        "original": "Джеймстаун",
+        "years": [
+          "2017"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/filmy/11797-dzhejms-din.html",
+        "title": "Джеймс Дин (2001)",
+        "original": "Джеймс Дин",
+        "years": [
+          "2001"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/filmy/863-dzhejms-uajt.html",
+        "title": "Джеймс Уайт (2015)",
+        "original": "Джеймс Уайт",
+        "years": [
+          "2015"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/filmy/106885-tolko-ne-on.html",
+        "title": "Только не он (2024)",
+        "original": "Только не он",
+        "years": [
+          "2024"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/serialy/59814-ljubimyj-zjat.html",
+        "title": "Любимый зять (1-2 сезон)",
+        "original": "Любимый зять",
+        "years": [
+          "2014"
+        ]
+      }
+    ],
+    "title": "Jam",
+    "moreCandidates": [
+      {
+        "url": "https://uakinogo.io/serialy/40846-jamai-20.html",
+        "title": "Зять 2.0 (1-2 сезон)",
+        "original": "Зять 2.0",
+        "years": [
+          "2019"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/filmy/26527-james-bond.html",
+        "title": "Джеймс Бонд (2015)",
+        "original": "Джеймс Бонд",
+        "years": [
+          "2015"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/serialy/71520-james-may-oh-cook.html",
+        "title": "Джеймс Мэй: О, повар! (1 сезон)",
+        "original": "Джеймс Мэй: О, повар!",
+        "years": [
+          "2020"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/serialy/35621-jamtara-sabka-number-ayega.html",
+        "title": "Джамтара (1 сезон)",
+        "original": "Джамтара",
+        "years": [
+          "2020"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/filmy/63091-nenjam-marappathillai.html",
+        "title": "Сердце не забывает (2021)",
+        "original": "Сердце не забывает",
+        "years": [
+          "2021"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/filmy/51873-spi.html",
+        "title": "Спи (2023)",
+        "original": "Спи",
+        "years": [
+          "2023"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/filmy/115060-dzham.html",
+        "title": "Джам (2017)",
+        "original": "Джам",
+        "years": [
+          "2017"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/filmy/13100-jesse-james-vs-the-black-train.html",
+        "title": "Джесси Джеймс против Черного Поезда (2018)",
+        "original": "Джесси Джеймс против Черного Поезда",
+        "years": [
+          "2018"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/filmy/86784-dzhamun.html",
+        "title": "Джамун (2021)",
+        "original": "Джамун",
+        "years": [
+          "2021"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/filmy/63210-dzhejms.html",
+        "title": "Джеймс (2022)",
+        "original": "Джеймс",
+        "years": [
+          "2022"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/filmy/116706-dzhejms.html",
+        "title": "Джеймс (2008)",
+        "original": "Джеймс",
+        "years": [
+          "2008"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/filmy/583-dzhejmsi.html",
+        "title": "Джеймси (2013)",
+        "original": "Джеймси",
+        "years": [
+          "2013"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/filmy/15574-adzhami.html",
+        "title": "Аджами (2009)",
+        "original": "Аджами",
+        "years": [
+          "2009"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/filmy/15473-dzhamilja.html",
+        "title": "Джамиля (2018)",
+        "original": "Джамиля",
+        "years": [
+          "2018"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/filmy/4026-pravda.html",
+        "title": "Правда (2003)",
+        "original": "Правда",
+        "years": [
+          "2003"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/serialy/33864-dzhejmstaun.html",
+        "title": "Джеймстаун (1-3 сезон)",
+        "original": "Джеймстаун",
+        "years": [
+          "2017"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/filmy/11797-dzhejms-din.html",
+        "title": "Джеймс Дин (2001)",
+        "original": "Джеймс Дин",
+        "years": [
+          "2001"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/filmy/863-dzhejms-uajt.html",
+        "title": "Джеймс Уайт (2015)",
+        "original": "Джеймс Уайт",
+        "years": [
+          "2015"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/filmy/106885-tolko-ne-on.html",
+        "title": "Только не он (2024)",
+        "original": "Только не он",
+        "years": [
+          "2024"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/serialy/59814-ljubimyj-zjat.html",
+        "title": "Любимый зять (1-2 сезон)",
+        "original": "Любимый зять",
+        "years": [
+          "2014"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/filmy/18856-dzhem-i-gologrammy.html",
+        "title": "Джем и голограммы (2015)",
+        "years": [
+          "2015"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/filmy/40571-dzhemini.html",
+        "title": "Джемини (2002)",
+        "years": [
+          "2002"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/serialy/64445-gjuldzhemal.html",
+        "title": "Гюльджемаль (1 сезон)",
+        "years": [
+          "2023"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/filmy/46999-shou-dzhemilja.html",
+        "title": "Шоу Джемиля (2021)",
+        "years": [
+          "2021"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/filmy/1882-sljem-dzhem.html",
+        "title": "Слэм Джем (2017)",
+        "years": [
+          "2017"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/filmy/70783-byt-radzhem-kapurom.html",
+        "title": "Быть Раджем Капуром (2023)",
+        "years": [
+          "2023"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/serialy/33701-pravednye-dzhemstouny.html",
+        "title": "Праведные Джемстоуны (1-4 сезон)",
+        "years": [
+          "2019"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/filmy/4428-ves-jetot-dzhem.html",
+        "title": "Весь этот джем (2015)",
+        "years": [
+          "2015"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/filmy/2682-irlandskij-dzhem.html",
+        "title": "Ирландский джем (2006)",
+        "years": [
+          "2006"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/multfilmy/45234-kosmicheskij-dzhem-novoe-pokolenie.html",
+        "title": "Космический джем: Новое поколение (2021)",
+        "years": [
+          "2021"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/original/24757-kosmicheskij-dzhem.html",
+        "title": "Космический джем (1996)",
+        "years": [
+          "1996"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/filmy/47312-devushka-v-zheltom-dzhempere.html",
+        "title": "Девушка в желтом джемпере (2020)",
+        "years": [
+          "2020"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/multfilmy/66663-junye-titany-vpered-kosmicheskij-dzhem.html",
+        "title": "Юные титаны, вперёд! Космический джем (2021)",
+        "years": [
+          "2021"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/serialy/104118-patrioticheskij-akt-s-hasanom-minhadzhem.html",
+        "title": "Патриотический акт с Хасаном Минхаджем (1-2 сезон)",
+        "years": [
+          "2018"
+        ]
+      }
+    ],
+    "queries": [
+      "https://uakinogo.io/index.php?do=search&subaction=search&story=%D0%94%D0%B6%D0%B5%D0%BC"
+    ],
+    "secondaryQueries": [
+      "https://kinogo.ec/index.php?do=search&subaction=search&story=Jam",
+      "https://kinogo.ec/index.php?do=search&subaction=search&story=%D0%94%D0%B6%D0%B5%D0%BC",
+      "https://kinogo.la/index.php?do=search&subaction=search&story=Jam",
+      "https://kinogo.la/index.php?do=search&subaction=search&story=%D0%94%D0%B6%D0%B5%D0%BC"
+    ]
+  },
+  {
+    "rank": 27,
+    "query": "https://uakinogo.io/index.php?do=search&subaction=search&story=The%20Shivering%20Truth",
+    "candidates": [
+      {
+        "url": "https://uakinogo.io/multserialy/32427-zhutkaja-pravda.html",
+        "title": "Жуткая правда (1-2 сезон)",
+        "original": "Жуткая правда",
+        "years": [
+          "2018"
+        ]
+      }
+    ],
+    "title": "The Shivering Truth",
+    "kinogo": "https://uakinogo.io/multserialy/32427-zhutkaja-pravda.html",
+    "verifiedOriginal": [
+      "The Shivering Truth",
+      "The Shivering Truth"
+    ],
+    "matchedBy": "detail-original-title+search-year",
+    "checked": true
+  },
+  {
+    "rank": 28,
+    "kinogo": "https://uakinogo.io/multserialy/32602-policija-paradajz.html",
+    "matchedBy": "detail-original-title+search-year",
+    "query": "https://uakinogo.io/index.php?do=search&subaction=search&story=Paradise%20PD",
+    "evidence": {
+      "url": "https://uakinogo.io/multserialy/32602-policija-paradajz.html",
+      "title": "Полиция Парадайз (1-4 сезон)",
+      "original": "Полиция Парадайз",
+      "years": [
+        "2018"
+      ]
+    },
+    "verifiedOriginal": [
+      "Paradise PD",
+      "Paradise PD"
+    ],
+    "checked": true
+  },
+  {
+    "rank": 29,
+    "query": "https://uakinogo.io/index.php?do=search&subaction=search&story=Moral%20Orel",
+    "candidates": [
+      {
+        "url": "https://uakinogo.io/multserialy/72580-moralnyj-orel.html",
+        "title": "Моральный Орел (1-3 сезон)",
+        "original": "Моральный Орел",
+        "years": [
+          "2005"
+        ]
+      }
+    ],
+    "title": "Moral Orel",
+    "kinogo": "https://uakinogo.io/multserialy/72580-moralnyj-orel.html",
+    "verifiedOriginal": [
+      "Moral Orel",
+      "Moral Orel"
+    ],
+    "matchedBy": "detail-original-title+search-year",
+    "checked": true
+  },
+  {
+    "rank": 30,
+    "kinogo": "https://uakinogo.io/serialy/37038-kto-est-amerika.html",
+    "matchedBy": "detail-original-title+search-year",
+    "query": "https://uakinogo.io/index.php?do=search&subaction=search&story=Who%20Is%20America%3F",
+    "evidence": {
+      "url": "https://uakinogo.io/serialy/37038-kto-est-amerika.html",
+      "title": "Кто есть Америка? (1 сезон)",
+      "original": "Кто есть Америка?",
+      "years": [
+        "2018"
+      ]
+    },
+    "verifiedOriginal": [
+      "Who Is America?",
+      "Who Is America?"
+    ],
+    "checked": true
+  },
+  {
+    "rank": 31,
+    "query": "https://uakinogo.io/index.php?do=search&subaction=search&story=It%27s%20Always%20Sunny%20in%20Philadelphia",
+    "candidates": [],
+    "title": "It's Always Sunny in Philadelphia",
+    "kinogo": "https://uakinogo.io/serialy/34554-v-filadelfii-vsegda-solnechno.html",
+    "matchedBy": "detail-original-title",
+    "verifiedOriginal": [
+      "It’s Always Sunny in Philadelphia",
+      "It’s Always Sunny in Philadelphia",
+      "It’s Always Sunny in Philadelphia"
+    ],
+    "providerYears": [
+      "2005"
+    ],
+    "queries": [
+      "https://uakinogo.io/index.php?do=search&subaction=search&story=%D0%92%20%D0%A4%D0%B8%D0%BB%D0%B0%D0%B4%D0%B5%D0%BB%D1%8C%D1%84%D0%B8%D0%B8%20%D0%B2%D1%81%D0%B5%D0%B3%D0%B4%D0%B0%20%D1%81%D0%BE%D0%BB%D0%BD%D0%B5%D1%87%D0%BD%D0%BE"
+    ],
+    "checked": true
+  },
+  {
+    "rank": 32,
+    "kinogo": "https://uakinogo.io/serialy/42134-pip-shou.html",
+    "matchedBy": "detail-original-title+search-year",
+    "query": "https://uakinogo.io/index.php?do=search&subaction=search&story=Peep%20Show",
+    "evidence": {
+      "url": "https://uakinogo.io/serialy/42134-pip-shou.html",
+      "title": "Пип шоу (1-9 сезон)",
+      "original": "Пип шоу",
+      "years": [
+        "2003"
+      ]
+    },
+    "verifiedOriginal": [
+      "Peep Show",
+      "Peep Show"
+    ],
+    "checked": true
+  },
+  {
+    "rank": 33,
+    "kinogo": "https://uakinogo.io/serialy/36205-na-dne.html",
+    "matchedBy": "Russian+year",
+    "query": "https://uakinogo.io/index.php?do=search&subaction=search&story=Eastbound%20%26%20Down",
+    "evidence": {
+      "url": "https://uakinogo.io/serialy/36205-na-dne.html",
+      "title": "На дне (1-4 сезон)",
+      "original": "На дне",
+      "years": [
+        "2009"
+      ]
+    },
+    "checked": true,
+    "detailNames": [
+      "Eastbound &amp; Down",
+      "Eastbound &amp; Down"
+    ]
+  },
+  {
+    "rank": 34,
+    "kinogo": "https://uakinogo.io/serialy/37168-zavuchi.html",
+    "matchedBy": "detail-original-title+search-year",
+    "query": "https://uakinogo.io/index.php?do=search&subaction=search&story=Vice%20Principals",
+    "evidence": {
+      "url": "https://uakinogo.io/serialy/37168-zavuchi.html",
+      "title": "Завучи (1-2 сезон)",
+      "original": "Завучи",
+      "years": [
+        "2016"
+      ]
+    },
+    "verifiedOriginal": [
+      "Vice Principals",
+      "Vice Principals"
+    ],
+    "checked": true
+  },
+  {
+    "rank": 35,
+    "kinogo": "https://uakinogo.io/serialy/33701-pravednye-dzhemstouny.html",
+    "matchedBy": "detail-original-title+search-year",
+    "query": "https://uakinogo.io/index.php?do=search&subaction=search&story=The%20Righteous%20Gemstones",
+    "evidence": {
+      "url": "https://uakinogo.io/serialy/33701-pravednye-dzhemstouny.html",
+      "title": "Праведные Джемстоуны (1-4 сезон)",
+      "original": "Праведные Джемстоуны",
+      "years": [
+        "2019"
+      ]
+    },
+    "verifiedOriginal": [
+      "The Righteous Gemstones",
+      "The Righteous Gemstones"
+    ],
+    "checked": true
+  },
+  {
+    "rank": 36,
+    "kinogo": "https://uakinogo.io/serialy/64144-parni-iz-trejlerparka.html",
+    "matchedBy": "detail-original-title+search-year",
+    "query": "https://uakinogo.io/index.php?do=search&subaction=search&story=Trailer%20Park%20Boys",
+    "evidence": {
+      "url": "https://uakinogo.io/serialy/64144-parni-iz-trejlerparka.html",
+      "title": "Парни из Трейлерпарка (1-12 сезон)",
+      "original": "Парни из Трейлерпарка",
+      "years": [
+        "2001"
+      ]
+    },
+    "verifiedOriginal": [
+      "Trailer Park Boys",
+      "Trailer Park Boys"
+    ],
+    "checked": true
+  },
+  {
+    "rank": 37,
+    "kinogo": "https://uakinogo.io/serialy/67218-liga-dzhentlmenov.html",
+    "matchedBy": "detail-original-title+search-year",
+    "query": "https://uakinogo.io/index.php?do=search&subaction=search&story=The%20League%20of%20Gentlemen",
+    "evidence": {
+      "url": "https://uakinogo.io/serialy/67218-liga-dzhentlmenov.html",
+      "title": "Лига джентльменов (1-2 сезон)",
+      "original": "Лига джентльменов",
+      "years": [
+        "1999"
+      ]
+    },
+    "verifiedOriginal": [
+      "The League of Gentlemen",
+      "The League of Gentlemen"
+    ],
+    "checked": true
+  },
+  {
+    "rank": 38,
+    "query": "https://uakinogo.io/index.php?do=search&subaction=search&story=Garth%20Marenghi%27s%20Darkplace",
+    "candidates": [
+      {
+        "url": "https://uakinogo.io/serialy/33554-obitel-tmy-garta-marengi.html",
+        "title": "Обитель тьмы Гарта Маренги (1 сезон)",
+        "original": "Обитель тьмы Гарта Маренги",
+        "years": [
+          "2004"
+        ]
+      }
+    ],
+    "title": "Garth Marenghi's Darkplace",
+    "kinogo": "https://uakinogo.io/serialy/33554-obitel-tmy-garta-marengi.html",
+    "verifiedOriginal": [
+      "Garth Marenghi's Darkplace",
+      "Garth Marenghi's Darkplace"
+    ],
+    "matchedBy": "detail-original-title+search-year",
+    "checked": true
+  },
+  {
+    "rank": 39,
+    "kinogo": "https://uakinogo.io/serialy/40929-guscha-sobytij.html",
+    "matchedBy": "detail-original-title+search-year",
+    "query": "https://uakinogo.io/index.php?do=search&subaction=search&story=The%20Thick%20of%20It",
+    "evidence": {
+      "url": "https://uakinogo.io/serialy/40929-guscha-sobytij.html",
+      "title": "Гуща событий (1-4 сезон)",
+      "original": "Гуща событий",
+      "years": [
+        "2005"
+      ]
+    },
+    "verifiedOriginal": [
+      "The Thick of It",
+      "The Thick of It"
+    ],
+    "checked": true
+  },
+  {
+    "rank": 40,
+    "kinogo": "https://uakinogo.io/serialy/35035-knizhnyj-magazin-bljeka.html",
+    "matchedBy": "detail-original-title+search-year",
+    "query": "https://uakinogo.io/index.php?do=search&subaction=search&story=Black%20Books",
+    "evidence": {
+      "url": "https://uakinogo.io/serialy/35035-knizhnyj-magazin-bljeka.html",
+      "title": "Книжный магазин Блэка (1-3 сезон)",
+      "original": "Книжный магазин Блэка",
+      "years": [
+        "2000"
+      ]
+    },
+    "verifiedOriginal": [
+      "Black Books",
+      "Black Books"
+    ],
+    "checked": true
+  },
+  {
+    "rank": 41,
+    "kinogo": "https://uakinogo.io/serialy/34222-zelenoe-krylo.html",
+    "matchedBy": "detail-original-title+search-year",
+    "query": "https://uakinogo.io/index.php?do=search&subaction=search&story=Green%20Wing",
+    "evidence": {
+      "url": "https://uakinogo.io/serialy/34222-zelenoe-krylo.html",
+      "title": "Зеленое крыло (1-2 сезон)",
+      "original": "Зеленое крыло",
+      "years": [
+        "2004"
+      ]
+    },
+    "verifiedOriginal": [
+      "Green Wing",
+      "Green Wing"
+    ],
+    "checked": true
+  },
+  {
+    "rank": 42,
+    "query": "https://uakinogo.io/index.php?do=search&subaction=search&story=Bottom",
+    "candidates": [
+      {
+        "url": "https://uakinogo.io/filmy/61964-klesh.html",
+        "title": "Клёш (2021)",
+        "original": "Клёш",
+        "years": [
+          "2021"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/filmy/51095-neudachnicy.html",
+        "title": "Неудачницы (2023)",
+        "original": "Неудачницы",
+        "years": [
+          "2023"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/filmy/100444-pozhiratel.html",
+        "title": "Пожиратель (2007)",
+        "original": "Пожиратель",
+        "years": [
+          "2007"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/filmy/88621-padalschiki.html",
+        "title": "Падальщики (2021)",
+        "original": "Падальщики",
+        "years": [
+          "2021"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/filmy/2982-na-dne-mira.html",
+        "title": "На дне мира (2017)",
+        "original": "На дне мира",
+        "years": [
+          "2017"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/filmy/104480-rokbottom.html",
+        "title": "Рокботтом (2024)",
+        "original": "Рокботтом",
+        "years": [
+          "2024"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/filmy/26134-stano.html",
+        "title": "Стэно (2019)",
+        "original": "Стэно",
+        "years": [
+          "2019"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/filmy/103636-rokbottom.html",
+        "title": "Рокботтом (2019)",
+        "original": "Рокботтом",
+        "years": [
+          "2019"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/filmy/79800-stilnye-shtuchki.html",
+        "title": "Стильные штучки (2006)",
+        "original": "Стильные штучки",
+        "years": [
+          "2006"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/filmy/113994-rozgi-ne-zhalet.html",
+        "title": "Розги не жалеть! (1960)",
+        "original": "Розги не жалеть!",
+        "years": [
+          "1960"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/multfilmy/118139-na-samom-dne.html",
+        "title": "На самом дне (2024)",
+        "original": "На самом дне",
+        "years": [
+          "2024"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/filmy/109121-bljuz-oprokinutogo-stakana.html",
+        "title": "Блюз опрокинутого стакана (2022)",
+        "original": "Блюз опрокинутого стакана",
+        "years": [
+          "2022"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/filmy/93393-lodka-so-stekljannym-dnom.html",
+        "title": "Лодка со стеклянным дном (1966)",
+        "original": "Лодка со стеклянным дном",
+        "years": [
+          "1966"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/filmy/93322-puteshestvie-na-dno-morja.html",
+        "title": "Путешествие на дно моря (1961)",
+        "original": "Путешествие на дно моря",
+        "years": [
+          "1961"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/filmy/8750-ma-rejni-mat-bljuza.html",
+        "title": "Ма Рейни: Мать блюза (2020)",
+        "original": "Ма Рейни: Мать блюза",
+        "years": [
+          "2020"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/filmy/75452-kto-pervyj-k-zadnice-prilnet.html",
+        "title": "Кто первый к заднице прильнет (2005)",
+        "original": "Кто первый к заднице прильнет",
+        "years": [
+          "2005"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/filmy/88706-voshozhdenie-sjera-longbottoma.html",
+        "title": "Восхождение сэра Лонгботтома (2021)",
+        "original": "Восхождение сэра Лонгботтома",
+        "years": [
+          "2021"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/multfilmy/98235-gubka-bob-spasti-bikini-bottom-sjendi-chiks.html",
+        "title": "Губка боб: Спасти Бикини-Боттом: Сэнди Чикс (2024)",
+        "original": "Губка боб: Спасти Бикини-Боттом: Сэнди Чикс",
+        "years": [
+          "2024"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/anime/86192-prosypajtes-devochki-nizhe-dna.html",
+        "title": "Просыпайтесь, девочки! Ниже дна (2015)",
+        "original": "Просыпайтесь, девочки! Ниже дна",
+        "years": [
+          "2015"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/multserialy/80411-barashek-shon-prikljuchenija-na-ferme.html",
+        "title": "Барашек Шон: Приключения на ферме (2020)",
+        "original": "Барашек Шон: Приключения на ферме",
+        "years": [
+          "2020"
+        ]
+      }
+    ],
+    "title": "Bottom",
+    "moreCandidates": [
+      {
+        "url": "https://uakinogo.io/filmy/61964-klesh.html",
+        "title": "Клёш (2021)",
+        "original": "Клёш",
+        "years": [
+          "2021"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/filmy/51095-neudachnicy.html",
+        "title": "Неудачницы (2023)",
+        "original": "Неудачницы",
+        "years": [
+          "2023"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/filmy/100444-pozhiratel.html",
+        "title": "Пожиратель (2007)",
+        "original": "Пожиратель",
+        "years": [
+          "2007"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/filmy/88621-padalschiki.html",
+        "title": "Падальщики (2021)",
+        "original": "Падальщики",
+        "years": [
+          "2021"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/filmy/2982-na-dne-mira.html",
+        "title": "На дне мира (2017)",
+        "original": "На дне мира",
+        "years": [
+          "2017"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/filmy/104480-rokbottom.html",
+        "title": "Рокботтом (2024)",
+        "original": "Рокботтом",
+        "years": [
+          "2024"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/filmy/26134-stano.html",
+        "title": "Стэно (2019)",
+        "original": "Стэно",
+        "years": [
+          "2019"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/filmy/103636-rokbottom.html",
+        "title": "Рокботтом (2019)",
+        "original": "Рокботтом",
+        "years": [
+          "2019"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/filmy/79800-stilnye-shtuchki.html",
+        "title": "Стильные штучки (2006)",
+        "original": "Стильные штучки",
+        "years": [
+          "2006"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/filmy/113994-rozgi-ne-zhalet.html",
+        "title": "Розги не жалеть! (1960)",
+        "original": "Розги не жалеть!",
+        "years": [
+          "1960"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/multfilmy/118139-na-samom-dne.html",
+        "title": "На самом дне (2024)",
+        "original": "На самом дне",
+        "years": [
+          "2024"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/filmy/109121-bljuz-oprokinutogo-stakana.html",
+        "title": "Блюз опрокинутого стакана (2022)",
+        "original": "Блюз опрокинутого стакана",
+        "years": [
+          "2022"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/filmy/93393-lodka-so-stekljannym-dnom.html",
+        "title": "Лодка со стеклянным дном (1966)",
+        "original": "Лодка со стеклянным дном",
+        "years": [
+          "1966"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/filmy/93322-puteshestvie-na-dno-morja.html",
+        "title": "Путешествие на дно моря (1961)",
+        "original": "Путешествие на дно моря",
+        "years": [
+          "1961"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/filmy/8750-ma-rejni-mat-bljuza.html",
+        "title": "Ма Рейни: Мать блюза (2020)",
+        "original": "Ма Рейни: Мать блюза",
+        "years": [
+          "2020"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/filmy/75452-kto-pervyj-k-zadnice-prilnet.html",
+        "title": "Кто первый к заднице прильнет (2005)",
+        "original": "Кто первый к заднице прильнет",
+        "years": [
+          "2005"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/filmy/88706-voshozhdenie-sjera-longbottoma.html",
+        "title": "Восхождение сэра Лонгботтома (2021)",
+        "original": "Восхождение сэра Лонгботтома",
+        "years": [
+          "2021"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/multfilmy/98235-gubka-bob-spasti-bikini-bottom-sjendi-chiks.html",
+        "title": "Губка боб: Спасти Бикини-Боттом: Сэнди Чикс (2024)",
+        "original": "Губка боб: Спасти Бикини-Боттом: Сэнди Чикс",
+        "years": [
+          "2024"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/anime/86192-prosypajtes-devochki-nizhe-dna.html",
+        "title": "Просыпайтесь, девочки! Ниже дна (2015)",
+        "original": "Просыпайтесь, девочки! Ниже дна",
+        "years": [
+          "2015"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/multserialy/80411-barashek-shon-prikljuchenija-na-ferme.html",
+        "title": "Барашек Шон: Приключения на ферме (2020)",
+        "original": "Барашек Шон: Приключения на ферме",
+        "years": [
+          "2020"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/serialy/33821-dno.html",
+        "title": "Дно (1 сезон)",
+        "years": [
+          "2018"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/filmy/65254-dno-morja.html",
+        "title": "Дно моря (2003)",
+        "years": [
+          "2003"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/filmy/2377-odnoklassniki.html",
+        "title": "Одноклассники (2010)",
+        "years": [
+          "2010"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/filmy/109919-odno-tseloe.html",
+        "title": "Одно целое (2025)",
+        "years": [
+          "2025"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/filmy/23173-odnoklassniki-2.html",
+        "title": "Одноклассники 2 (2013)",
+        "years": [
+          "2013"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/serialy/50591-odnocentovyj-vor.html",
+        "title": "Одноцентовый вор (1 сезон)",
+        "years": [
+          "2022"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/russkie-serialy/44860-odno-leto-i-vsja-zhizn.html",
+        "title": "Одно лето и вся жизнь (1 сезон)",
+        "years": [
+          "2020"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/serialy/101148-odno-celoe.html",
+        "title": "Одно целое (1 сезон)",
+        "years": [
+          "2024"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/serialy/42020-odnoljuby.html",
+        "title": "Однолюбы (1 сезон)",
+        "years": [
+          "2012"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/filmy/21975-odnoklassnikiru-naclickaj-udachu.html",
+        "title": "Одноклассники.ru: НаCLICKай удачу (2012)",
+        "years": [
+          "2012"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/serialy/116495-odnofamilcy.html",
+        "title": "Однофамильцы (1 сезон)",
+        "years": [
+          "2026"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/filmy/103224-odno-bystroe-dvizhenie.html",
+        "title": "Одно быстрое движение (2024)",
+        "years": [
+          "2024"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/anime/31994-odnoklassniki.html",
+        "title": "Одноклассники (2016)",
+        "years": [
+          "2016"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/serialy/35208-odnoklassniki-smerti.html",
+        "title": "Одноклассники смерти (1 сезон)",
+        "years": [
+          "2020"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/serialy/34568-odnojetazhnaja-amerika.html",
+        "title": "Одноэтажная Америка (1 сезон)",
+        "years": [
+          "2008"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/filmy/7369-odnoklassnicy.html",
+        "title": "Одноклассницы (2016)",
+        "years": [
+          "2016"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/serialy/104624-odnoklassniki-byvshih-ne-byvaet.html",
+        "title": "Одноклассники. Бывших не бывает (1 сезон)",
+        "years": [
+          "2024"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/filmy/1306-odnokomnatnye-sosedi.html",
+        "title": "Однокомнатные соседи (2014)",
+        "years": [
+          "2014"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/filmy/110266-odnonogaya.html",
+        "title": "Одноногая (2024)",
+        "years": [
+          "2024"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/filmy/26154-odnoj-levoj.html",
+        "title": "Одной левой (2015)",
+        "years": [
+          "2015"
+        ]
+      }
+    ],
+    "queries": [
+      "https://uakinogo.io/index.php?do=search&subaction=search&story=%D0%94%D0%BD%D0%BE"
+    ],
+    "secondaryQueries": [
+      "https://kinogo.ec/index.php?do=search&subaction=search&story=Bottom",
+      "https://kinogo.ec/index.php?do=search&subaction=search&story=%D0%94%D0%BD%D0%BE",
+      "https://kinogo.la/index.php?do=search&subaction=search&story=Bottom",
+      "https://kinogo.la/index.php?do=search&subaction=search&story=%D0%94%D0%BD%D0%BE"
+    ]
+  },
+  {
+    "rank": 43,
+    "query": "https://uakinogo.io/index.php?do=search&subaction=search&story=Nighty%20Night",
+    "candidates": [],
+    "title": "Nighty Night",
+    "moreCandidates": [
+      {
+        "url": "https://uakinogo.io/filmy/48971-spokojnoj-nochi-mamochka.html",
+        "title": "Спокойной ночи, мамочка (2022)",
+        "years": [
+          "2022"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/filmy/664-spokojnoj-nochi-mamochka.html",
+        "title": "Спокойной ночи, мамочка (2014)",
+        "years": [
+          "2014"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/filmy/37928-spokojnoj-nochi-mister-tom.html",
+        "title": "Спокойной ночи, мистер Том (1998)",
+        "years": [
+          "1998"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/multfilmy/71714-spokojnoj-nochi-malyshi.html",
+        "title": "Спокойной ночи, малыши! (1981)",
+        "years": [
+          "1981"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/filmy/21988-spokojnoj-nochi-luna.html",
+        "title": "Спокойной ночи, Луна (2011)",
+        "years": [
+          "2011"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/filmy/81659-spokojnoj-nochi-oppi.html",
+        "title": "Спокойной ночи, Оппи (2022)",
+        "years": [
+          "2022"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/filmy/91108-spokojnoj-nochi-sestrichka.html",
+        "title": "Спокойной ночи, сестричка! (1918)",
+        "years": [
+          "1918"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/filmy/13771-spokojnoj-nochi.html",
+        "title": "Спокойной ночи (2007)",
+        "years": [
+          "2007"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/multserialy/52861-spokojnoj-nochi-mir.html",
+        "title": "Спокойной ночи, мир (1 сезон)",
+        "years": [
+          "2023"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/filmy/51458-spokojnoj-nochi-pekin.html",
+        "title": "Спокойной ночи, Пекин (2021)",
+        "years": [
+          "2021"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/filmy/100369-nespokojnoj-nochi.html",
+        "title": "Неспокойной ночи (2023)",
+        "years": [
+          "2023"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/filmy/74078-vsem-spokojnoj-nochi.html",
+        "title": "Всем спокойной ночи (1980)",
+        "years": [
+          "1980"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/filmy/83324-vsem-spokojnoj-nochi.html",
+        "title": "Всем спокойной ночи (2023)",
+        "years": [
+          "2023"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/filmy/12100-tysjachu-raz-spokojnoj-nochi.html",
+        "title": "Тысячу раз «спокойной ночи» (2013)",
+        "years": [
+          "2013"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/filmy/39037-damy-i-gospoda-spokojnoj-nochi.html",
+        "title": "Дамы и господа, спокойной ночи! (1976)",
+        "years": [
+          "1976"
+        ]
+      }
+    ],
+    "queries": [
+      "https://uakinogo.io/index.php?do=search&subaction=search&story=%D0%A1%D0%BF%D0%BE%D0%BA%D0%BE%D0%B9%D0%BD%D0%BE%D0%B9%20%D0%BD%D0%BE%D1%87%D0%B8"
+    ],
+    "secondaryQueries": [
+      "https://kinogo.ec/index.php?do=search&subaction=search&story=Nighty%20Night",
+      "https://kinogo.ec/index.php?do=search&subaction=search&story=%D0%A1%D0%BF%D0%BE%D0%BA%D0%BE%D0%B9%D0%BD%D0%BE%D0%B9%20%D0%BD%D0%BE%D1%87%D0%B8",
+      "https://kinogo.la/index.php?do=search&subaction=search&story=Nighty%20Night",
+      "https://kinogo.la/index.php?do=search&subaction=search&story=%D0%A1%D0%BF%D0%BE%D0%BA%D0%BE%D0%B9%D0%BD%D0%BE%D0%B9%20%D0%BD%D0%BE%D1%87%D0%B8"
+    ]
+  },
+  {
+    "rank": 44,
+    "query": "https://uakinogo.io/index.php?do=search&subaction=search&story=Camping",
+    "candidates": [
+      {
+        "url": "https://uakinogo.io/filmy/69788-camping-trip.html",
+        "title": "Поход (2021)",
+        "original": "Поход",
+        "years": [
+          "2021"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/serialy/35667-kemping.html",
+        "title": "Кемпинг (1 сезон)",
+        "original": "Кемпинг",
+        "years": [
+          "2018"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/filmy/6918-kemping.html",
+        "title": "Кемпинг (2006)",
+        "original": "Кемпинг",
+        "years": [
+          "2006"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/filmy/183-kemping-3.html",
+        "title": "Кемпинг 3 (2016)",
+        "original": "Кемпинг 3",
+        "years": [
+          "2016"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/filmy/65186-kemping-2.html",
+        "title": "Кемпинг 2 (2010)",
+        "original": "Кемпинг 2",
+        "years": [
+          "2010"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/filmy/107966-kjemping-na-ozere.html",
+        "title": "Кэмпинг на озере (2023)",
+        "original": "Кэмпинг на озере",
+        "years": [
+          "2023"
+        ]
+      }
+    ],
+    "title": "Camping",
+    "moreCandidates": [
+      {
+        "url": "https://uakinogo.io/filmy/69788-camping-trip.html",
+        "title": "Поход (2021)",
+        "original": "Поход",
+        "years": [
+          "2021"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/serialy/35667-kemping.html",
+        "title": "Кемпинг (1 сезон)",
+        "original": "Кемпинг",
+        "years": [
+          "2018"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/filmy/6918-kemping.html",
+        "title": "Кемпинг (2006)",
+        "original": "Кемпинг",
+        "years": [
+          "2006"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/filmy/183-kemping-3.html",
+        "title": "Кемпинг 3 (2016)",
+        "original": "Кемпинг 3",
+        "years": [
+          "2016"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/filmy/65186-kemping-2.html",
+        "title": "Кемпинг 2 (2010)",
+        "original": "Кемпинг 2",
+        "years": [
+          "2010"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/filmy/107966-kjemping-na-ozere.html",
+        "title": "Кэмпинг на озере (2023)",
+        "original": "Кэмпинг на озере",
+        "years": [
+          "2023"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/serialy/35667-kemping.html",
+        "title": "Кемпинг (1 сезон)",
+        "years": [
+          "2018"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/filmy/183-kemping-3.html",
+        "title": "Кемпинг 3 (2016)",
+        "years": [
+          "2016"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/filmy/65186-kemping-2.html",
+        "title": "Кемпинг 2 (2010)",
+        "years": [
+          "2010"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/filmy/6918-kemping.html",
+        "title": "Кемпинг (2006)",
+        "years": [
+          "2006"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/anime-serialy/111469-solo-kemping-na-dvoikh.html",
+        "title": "Соло-кемпинг на двоих (1 сезон)",
+        "years": [
+          "2025"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/filmy/21675-bezumnyj-kemping.html",
+        "title": "Безумный кемпинг (2020)",
+        "years": [
+          "2020"
+        ]
+      }
+    ],
+    "queries": [
+      "https://uakinogo.io/index.php?do=search&subaction=search&story=%D0%9A%D0%B5%D0%BC%D0%BF%D0%B8%D0%BD%D0%B3"
+    ],
+    "matchedBy": "secondary exact-Russian-title + detail original + year",
+    "checked": false,
+    "rejectedURL": "https://kinogo.ec/9540--kemping.html",
+    "rejection": "Detail JSON-LD dateCreated is 2018 (US remake), but catalog is UK 2016. Rejected despite sidebar containing 2016."
+  },
+  {
+    "rank": 45,
+    "query": "https://uakinogo.io/index.php?do=search&subaction=search&story=Toast%20of%20London",
+    "candidates": [
+      {
+        "url": "https://uakinogo.io/serialy/64634-tost-iz-londona.html",
+        "title": "Тост из Лондона (1-3 сезон)",
+        "original": "Тост из Лондона",
+        "years": [
+          "2012"
+        ]
+      }
+    ],
+    "title": "Toast of London",
+    "kinogo": "https://uakinogo.io/serialy/64634-tost-iz-londona.html",
+    "matchedBy": "detail-original-title",
+    "verifiedOriginal": [
+      "Toast of London",
+      "Toast of London",
+      "Toast of London"
+    ],
+    "providerYears": [
+      "2012"
+    ],
+    "queries": [
+      "https://uakinogo.io/index.php?do=search&subaction=search&story=%D0%A2%D0%BE%D1%81%D1%82%20%D0%B8%D0%B7%20%D0%9B%D0%BE%D0%BD%D0%B4%D0%BE%D0%BD%D0%B0"
+    ],
+    "checked": true
+  },
+  {
+    "rank": 46,
+    "query": "https://uakinogo.io/index.php?do=search&subaction=search&story=Flowers",
+    "candidates": [
+      {
+        "url": "https://uakinogo.io/filmy/65146-cvety.html",
+        "title": "Цветы (2015)",
+        "original": "Цветы",
+        "years": [
+          "2015"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/filmy/6402-black-flowers.html",
+        "title": "Чёрные цветы / Атомный апокалипсис (2018)",
+        "original": "Чёрные цветы / Атомный апокалипсис",
+        "years": [
+          "2018"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/serialy/33805-flaujersy.html",
+        "title": "Флауэрсы (1-2 сезон)",
+        "original": "Флауэрсы",
+        "years": [
+          "2016"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/filmy/5915-the-october-flowers.html",
+        "title": "Октябрьские цветы (2018)",
+        "original": "Октябрьские цветы",
+        "years": [
+          "2018"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/filmy/89716-cvety-i-med.html",
+        "title": "Цветы и мед (2021)",
+        "original": "Цветы и мед",
+        "years": [
+          "2021"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/filmy/11458-allergic-to-flowers.html",
+        "title": "Allergic to Flowers (2017)",
+        "original": "Allergic to Flowers",
+        "years": [
+          "2017"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/filmy/81023-the-house-of-flowers-the-movie.html",
+        "title": "Дом цветов: Фильм (2021)",
+        "original": "Дом цветов: Фильм",
+        "years": [
+          "2021"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/filmy/3788-cvety-vojny.html",
+        "title": "Цветы войны (2011)",
+        "original": "Цветы войны",
+        "years": [
+          "2011"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/filmy/21718-cvety-na-cherdake.html",
+        "title": "Цветы на чердаке (2013)",
+        "original": "Цветы на чердаке",
+        "years": [
+          "2013"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/filmy/97853-cvety-na-cherdake.html",
+        "title": "Цветы на чердаке (1987)",
+        "original": "Цветы на чердаке",
+        "years": [
+          "1987"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/filmy/21023-slomannye-cvety.html",
+        "title": "Сломанные цветы (2005)",
+        "original": "Сломанные цветы",
+        "years": [
+          "2005"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/filmy/17182-aprelskie-cvety.html",
+        "title": "Апрельские цветы (2017)",
+        "original": "Апрельские цветы",
+        "years": [
+          "2017"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/filmy/27930-dolina-cvetov.html",
+        "title": "Долина цветов (2006)",
+        "original": "Долина цветов",
+        "years": [
+          "2006"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/serialy/87407-vojna-cvetov.html",
+        "title": "Война цветов (2022)",
+        "original": "Война цветов",
+        "years": [
+          "2022"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/filmy/98881-cvety-magnolii.html",
+        "title": "Цветы магнолии (2021)",
+        "original": "Цветы магнолии",
+        "years": [
+          "2021"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/original/48626-cvety-na-cherdake-nachalo.html",
+        "title": "Цветы на чердаке: Начало (1 сезон)",
+        "original": "Цветы на чердаке: Начало",
+        "years": [
+          "2022"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/filmy/37354-spasti-hjerrisona.html",
+        "title": "Спасти Хэррисона (2000)",
+        "original": "Спасти Хэррисона",
+        "years": [
+          "2000"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/filmy/96853-tajnaja-missija.html",
+        "title": "Тайная миссия (1988)",
+        "original": "Тайная миссия",
+        "years": [
+          "1988"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/filmy/39788-sentimentalschina.html",
+        "title": "Сентиментальщина (1919)",
+        "original": "Сентиментальщина",
+        "years": [
+          "1919"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/filmy/6257-raznogo-polja-jagody.html",
+        "title": "Разного поля ягоды (2017)",
+        "original": "Разного поля ягоды",
+        "years": [
+          "2017"
+        ]
+      }
+    ],
+    "title": "Flowers",
+    "kinogo": "https://uakinogo.io/serialy/33805-flaujersy.html",
+    "verifiedOriginal": [
+      "Flowers",
+      "Flowers"
+    ],
+    "matchedBy": "detail-original-title+search-year",
+    "checked": true
+  },
+  {
+    "rank": 47,
+    "query": "https://uakinogo.io/index.php?do=search&subaction=search&story=Cunk%20on%20Earth",
+    "candidates": [
+      {
+        "url": "https://uakinogo.io/serialy/80475-kank-na-zemle.html",
+        "title": "Канк на Земле (1 сезон)",
+        "original": "Канк на Земле",
+        "years": [
+          "2022"
+        ]
+      }
+    ],
+    "title": "Cunk on Earth",
+    "kinogo": "https://uakinogo.io/serialy/80475-kank-na-zemle.html",
+    "verifiedOriginal": [
+      "Cunk on Earth",
+      "Cunk on Earth"
+    ],
+    "matchedBy": "detail-original-title+search-year",
+    "checked": true
+  },
+  {
+    "rank": 48,
+    "query": "https://uakinogo.io/index.php?do=search&subaction=search&story=Cunk%20on%20Britain",
+    "candidates": [],
+    "title": "Cunk on Britain",
+    "moreCandidates": [],
+    "queries": [
+      "https://uakinogo.io/index.php?do=search&subaction=search&story=%D0%9A%D0%B0%D0%BD%D0%BA%20%D0%BE%20%D0%91%D1%80%D0%B8%D1%82%D0%B0%D0%BD%D0%B8%D0%B8"
+    ],
+    "secondaryQueries": [
+      "https://kinogo.ec/index.php?do=search&subaction=search&story=Cunk%20on%20Britain",
+      "https://kinogo.ec/index.php?do=search&subaction=search&story=%D0%9A%D0%B0%D0%BD%D0%BA%20%D0%BE%20%D0%91%D1%80%D0%B8%D1%82%D0%B0%D0%BD%D0%B8%D0%B8",
+      "https://kinogo.la/index.php?do=search&subaction=search&story=Cunk%20on%20Britain",
+      "https://kinogo.la/index.php?do=search&subaction=search&story=%D0%9A%D0%B0%D0%BD%D0%BA%20%D0%BE%20%D0%91%D1%80%D0%B8%D1%82%D0%B0%D0%BD%D0%B8%D0%B8"
+    ]
+  },
+  {
+    "rank": 49,
+    "kinogo": "https://uakinogo.io/serialy/104102-shou-jerika-andre.html",
+    "matchedBy": "detail-original-title+search-year",
+    "query": "https://uakinogo.io/index.php?do=search&subaction=search&story=The%20Eric%20Andre%20Show",
+    "evidence": {
+      "url": "https://uakinogo.io/serialy/104102-shou-jerika-andre.html",
+      "title": "Шоу Эрика Андре (1-5 сезон)",
+      "original": "Шоу Эрика Андре",
+      "years": [
+        "2012"
+      ]
+    },
+    "verifiedOriginal": [
+      "The Eric Andre Show",
+      "The Eric Andre Show"
+    ],
+    "checked": true
+  },
+  {
+    "rank": 50,
+    "query": "https://uakinogo.io/index.php?do=search&subaction=search&story=Da%20Ali%20G%20Show",
+    "candidates": [
+      {
+        "url": "https://uakinogo.io/serialy/30171-ali-dzhi-shou.html",
+        "title": "Али Джи шоу (1-3 сезон)",
+        "original": "Али Джи шоу",
+        "years": [
+          "2000"
+        ]
+      }
+    ],
+    "title": "Da Ali G Show",
+    "kinogo": "https://uakinogo.io/serialy/30171-ali-dzhi-shou.html",
+    "verifiedOriginal": [
+      "Da Ali G Show",
+      "Da Ali G Show"
+    ],
+    "matchedBy": "detail-original-title+search-year",
+    "checked": true
+  },
+  {
+    "rank": 51,
+    "query": "https://uakinogo.io/index.php?do=search&subaction=search&story=Strangers%20with%20Candy",
+    "candidates": [],
+    "title": "Strangers with Candy",
+    "moreCandidates": [],
+    "queries": [
+      "https://uakinogo.io/index.php?do=search&subaction=search&story=%D0%A4%D1%80%D0%B8%D0%B2%D0%BE%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F%20%D0%B6%D0%B8%D0%B7%D0%BD%D1%8C"
+    ],
+    "secondaryQueries": [
+      "https://kinogo.ec/index.php?do=search&subaction=search&story=Strangers%20with%20Candy",
+      "https://kinogo.ec/index.php?do=search&subaction=search&story=%D0%A4%D1%80%D0%B8%D0%B2%D0%BE%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F%20%D0%B6%D0%B8%D0%B7%D0%BD%D1%8C",
+      "https://kinogo.la/index.php?do=search&subaction=search&story=Strangers%20with%20Candy",
+      "https://kinogo.la/index.php?do=search&subaction=search&story=%D0%A4%D1%80%D0%B8%D0%B2%D0%BE%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F%20%D0%B6%D0%B8%D0%B7%D0%BD%D1%8C"
+    ]
+  },
+  {
+    "rank": 52,
+    "query": "https://uakinogo.io/index.php?do=search&subaction=search&story=Childrens%20Hospital",
+    "candidates": [
+      {
+        "url": "https://uakinogo.io/serialy/43095-djeckaja-bolnica.html",
+        "title": "Дэцкая больница (1-5 сезон)",
+        "original": "Дэцкая больница",
+        "years": [
+          "2008"
+        ]
+      }
+    ],
+    "title": "Childrens Hospital",
+    "kinogo": "https://uakinogo.io/serialy/43095-djeckaja-bolnica.html",
+    "verifiedOriginal": [
+      "Childrens Hospital",
+      "Childrens Hospital"
+    ],
+    "matchedBy": "detail-original-title+search-year",
+    "checked": true
+  },
+  {
+    "rank": 53,
+    "query": "https://uakinogo.io/index.php?do=search&subaction=search&story=NTSF%3ASD%3ASUV%3A%3A",
+    "candidates": [],
+    "title": "NTSF:SD:SUV::",
+    "moreCandidates": [],
+    "queries": [
+      "https://uakinogo.io/index.php?do=search&subaction=search&story=%D0%9D%D0%A2%D0%A1%D0%A4%3A%D0%A1%D0%94%3A%D0%92%D0%9D%D0%95%D0%94%D0%9E%D0%A0%D0%9E%D0%96%D0%9D%D0%98%D0%9A"
+    ],
+    "secondaryQueries": [
+      "https://kinogo.ec/index.php?do=search&subaction=search&story=NTSF%3ASD%3ASUV%3A%3A",
+      "https://kinogo.ec/index.php?do=search&subaction=search&story=%D0%9D%D0%A2%D0%A1%D0%A4%3A%D0%A1%D0%94%3A%D0%92%D0%9D%D0%95%D0%94%D0%9E%D0%A0%D0%9E%D0%96%D0%9D%D0%98%D0%9A",
+      "https://kinogo.la/index.php?do=search&subaction=search&story=NTSF%3ASD%3ASUV%3A%3A",
+      "https://kinogo.la/index.php?do=search&subaction=search&story=%D0%9D%D0%A2%D0%A1%D0%A4%3A%D0%A1%D0%94%3A%D0%92%D0%9D%D0%95%D0%94%D0%9E%D0%A0%D0%9E%D0%96%D0%9D%D0%98%D0%9A"
+    ]
+  },
+  {
+    "rank": 54,
+    "query": "https://uakinogo.io/index.php?do=search&subaction=search&story=Delocated",
+    "candidates": [],
+    "title": "Delocated",
+    "moreCandidates": [],
+    "queries": [
+      "https://uakinogo.io/index.php?do=search&subaction=search&story=%D0%94%D0%B5%D0%BB%D0%BE%D0%BA%D0%B5%D0%B9%D1%82%D0%B5%D0%B4"
+    ],
+    "secondaryQueries": [
+      "https://kinogo.ec/index.php?do=search&subaction=search&story=Delocated",
+      "https://kinogo.ec/index.php?do=search&subaction=search&story=%D0%94%D0%B5%D0%BB%D0%BE%D0%BA%D0%B5%D0%B9%D1%82%D0%B5%D0%B4",
+      "https://kinogo.la/index.php?do=search&subaction=search&story=Delocated",
+      "https://kinogo.la/index.php?do=search&subaction=search&story=%D0%94%D0%B5%D0%BB%D0%BE%D0%BA%D0%B5%D0%B9%D1%82%D0%B5%D0%B4"
+    ]
+  },
+  {
+    "rank": 55,
+    "query": "https://uakinogo.io/index.php?do=search&subaction=search&story=Tim%20and%20Eric%20Awesome%20Show%2C%20Great%20Job%21",
+    "candidates": [],
+    "title": "Tim and Eric Awesome Show, Great Job!",
+    "moreCandidates": [],
+    "queries": [
+      "https://uakinogo.io/index.php?do=search&subaction=search&story=%D0%A8%D0%BE%D1%83%20%D0%A2%D0%B8%D0%BC%D0%B0%20%D0%B8%20%D0%AD%D1%80%D0%B8%D0%BA%D0%B0"
+    ],
+    "secondaryQueries": [
+      "https://kinogo.ec/index.php?do=search&subaction=search&story=Tim%20and%20Eric%20Awesome%20Show%2C%20Great%20Job%21",
+      "https://kinogo.ec/index.php?do=search&subaction=search&story=%D0%A8%D0%BE%D1%83%20%D0%A2%D0%B8%D0%BC%D0%B0%20%D0%B8%20%D0%AD%D1%80%D0%B8%D0%BA%D0%B0",
+      "https://kinogo.la/index.php?do=search&subaction=search&story=Tim%20and%20Eric%20Awesome%20Show%2C%20Great%20Job%21",
+      "https://kinogo.la/index.php?do=search&subaction=search&story=%D0%A8%D0%BE%D1%83%20%D0%A2%D0%B8%D0%BC%D0%B0%20%D0%B8%20%D0%AD%D1%80%D0%B8%D0%BA%D0%B0"
+    ]
+  },
+  {
+    "rank": 56,
+    "query": "https://uakinogo.io/index.php?do=search&subaction=search&story=Tim%20and%20Eric%27s%20Bedtime%20Stories",
+    "candidates": [
+      {
+        "url": "https://uakinogo.io/serialy/82432-skazki-na-noch-tima-i-jerika.html",
+        "title": "Сказки на ночь Тима и Эрика (1 сезон)",
+        "original": "Сказки на ночь Тима и Эрика",
+        "years": [
+          "2013"
+        ]
+      }
+    ],
+    "title": "Tim and Eric's Bedtime Stories",
+    "kinogo": "https://uakinogo.io/serialy/82432-skazki-na-noch-tima-i-jerika.html",
+    "verifiedOriginal": [
+      "Tim and Eric's Bedtime Stories",
+      "Tim and Eric's Bedtime Stories"
+    ],
+    "matchedBy": "detail-original-title+search-year",
+    "checked": true
+  },
+  {
+    "rank": 57,
+    "query": "https://uakinogo.io/index.php?do=search&subaction=search&story=On%20Cinema%20at%20the%20Cinema",
+    "candidates": [],
+    "title": "On Cinema at the Cinema",
+    "moreCandidates": [],
+    "queries": [
+      "https://uakinogo.io/index.php?do=search&subaction=search&story=%D0%92%20%D0%BA%D0%B8%D0%BD%D0%BE%20%D1%81%20%D0%A2%D0%B8%D0%BC%D0%BE%D0%BC%20%D0%B8%20%D0%93%D1%80%D0%B5%D0%B3%D0%B3%D0%BE%D0%BC"
+    ],
+    "secondaryQueries": [
+      "https://kinogo.ec/index.php?do=search&subaction=search&story=On%20Cinema%20at%20the%20Cinema",
+      "https://kinogo.ec/index.php?do=search&subaction=search&story=%D0%92%20%D0%BA%D0%B8%D0%BD%D0%BE%20%D1%81%20%D0%A2%D0%B8%D0%BC%D0%BE%D0%BC%20%D0%B8%20%D0%93%D1%80%D0%B5%D0%B3%D0%B3%D0%BE%D0%BC",
+      "https://kinogo.la/index.php?do=search&subaction=search&story=On%20Cinema%20at%20the%20Cinema",
+      "https://kinogo.la/index.php?do=search&subaction=search&story=%D0%92%20%D0%BA%D0%B8%D0%BD%D0%BE%20%D1%81%20%D0%A2%D0%B8%D0%BC%D0%BE%D0%BC%20%D0%B8%20%D0%93%D1%80%D0%B5%D0%B3%D0%B3%D0%BE%D0%BC"
+    ]
+  },
+  {
+    "rank": 58,
+    "kinogo": "https://uakinogo.io/serialy/35052-orlinoe-serdce.html",
+    "matchedBy": "detail-original-title+search-year",
+    "query": "https://uakinogo.io/index.php?do=search&subaction=search&story=Eagleheart",
+    "evidence": {
+      "url": "https://uakinogo.io/serialy/35052-orlinoe-serdce.html",
+      "title": "Орлиное сердце (1-3 сезон)",
+      "original": "Орлиное сердце",
+      "years": [
+        "2011"
+      ]
+    },
+    "verifiedOriginal": [
+      "Eagleheart",
+      "Eagleheart"
+    ],
+    "checked": true
+  },
+  {
+    "rank": 59,
+    "kinogo": "https://uakinogo.io/serialy/34782-uilfred.html",
+    "matchedBy": "detail-original-title+search-year",
+    "query": "https://uakinogo.io/index.php?do=search&subaction=search&story=Wilfred",
+    "evidence": {
+      "url": "https://uakinogo.io/serialy/34782-uilfred.html",
+      "title": "Уилфред (1-4 сезон)",
+      "original": "Уилфред",
+      "years": [
+        "2011"
+      ]
+    },
+    "verifiedOriginal": [
+      "Wilfred",
+      "Wilfred"
+    ],
+    "checked": true
+  },
+  {
+    "rank": 60,
+    "kinogo": "https://uakinogo.io/serialy/32758-muzhchina-ischet-zhenschinu.html",
+    "matchedBy": "detail-original-title+search-year",
+    "query": "https://uakinogo.io/index.php?do=search&subaction=search&story=Man%20Seeking%20Woman",
+    "evidence": {
+      "url": "https://uakinogo.io/serialy/32758-muzhchina-ischet-zhenschinu.html",
+      "title": "Мужчина ищет женщину (1-3 сезон)",
+      "original": "Мужчина ищет женщину",
+      "years": [
+        "2015"
+      ]
+    },
+    "verifiedOriginal": [
+      "Man Seeking Woman",
+      "Man Seeking Woman"
+    ],
+    "checked": true
+  },
+  {
+    "rank": 61,
+    "query": "https://uakinogo.io/index.php?do=search&subaction=search&story=The%20Increasingly%20Poor%20Decisions%20of%20Todd%20Margaret",
+    "candidates": [
+      {
+        "url": "https://uakinogo.io/serialy/41350-rokovye-oshibki-todda-margareta.html",
+        "title": "Роковые ошибки Тодда Маргарета (1-3 сезон)",
+        "original": "Роковые ошибки Тодда Маргарета",
+        "years": [
+          "2009"
+        ]
+      }
+    ],
+    "title": "The Increasingly Poor Decisions of Todd Margaret",
+    "kinogo": "https://uakinogo.io/serialy/41350-rokovye-oshibki-todda-margareta.html",
+    "matchedBy": "detail-original-title",
+    "verifiedOriginal": [
+      "The Increasingly Poor Decisions of Todd Margaret",
+      "The Increasingly Poor Decisions of Todd Margaret",
+      "The Increasingly Poor Decisions of Todd Margaret"
+    ],
+    "providerYears": [
+      "2009"
+    ],
+    "queries": [
+      "https://uakinogo.io/index.php?do=search&subaction=search&story=%D0%92%D1%81%D1%91%20%D0%B1%D0%BE%D0%BB%D0%B5%D0%B5%20%D0%BD%D0%B5%D1%83%D0%B4%D0%B0%D1%87%D0%BD%D1%8B%D0%B5%20%D1%80%D0%B5%D1%88%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%A2%D0%BE%D0%B4%D0%B4%D0%B0%20%D0%9C%D0%B0%D1%80%D0%B3%D0%B0%D1%80%D0%B5%D1%82%D0%B0"
+    ],
+    "checked": true
+  },
+  {
+    "rank": 62,
+    "kinogo": "https://uakinogo.io/serialy/34168-dostat-korotyshku.html",
+    "matchedBy": "detail-original-title+search-year",
+    "query": "https://uakinogo.io/index.php?do=search&subaction=search&story=Get%20Shorty",
+    "evidence": {
+      "url": "https://uakinogo.io/serialy/34168-dostat-korotyshku.html",
+      "title": "Достать коротышку (1-3 сезон)",
+      "original": "Достать коротышку",
+      "years": [
+        "2017"
+      ]
+    },
+    "verifiedOriginal": [
+      "Get Shorty",
+      "Get Shorty"
+    ],
+    "checked": true
+  },
+  {
+    "rank": 63,
+    "kinogo": "https://uakinogo.io/original/36046-hjeppi.html",
+    "matchedBy": "detail-original-title+search-year",
+    "query": "https://uakinogo.io/index.php?do=search&subaction=search&story=Happy%21",
+    "evidence": {
+      "url": "https://uakinogo.io/original/36046-hjeppi.html",
+      "title": "Хэппи (1-2 сезон)",
+      "original": "Хэппи",
+      "years": [
+        "2017"
+      ]
+    },
+    "verifiedOriginal": [
+      "Happy!",
+      "Happy!"
+    ],
+    "checked": true
+  },
+  {
+    "rank": 64,
+    "kinogo": "https://uakinogo.io/serialy/35300-jesh-protiv-zloveschih-mertvecov.html",
+    "matchedBy": "detail-original-title+search-year",
+    "query": "https://uakinogo.io/index.php?do=search&subaction=search&story=Ash%20vs%20Evil%20Dead",
+    "evidence": {
+      "url": "https://uakinogo.io/serialy/35300-jesh-protiv-zloveschih-mertvecov.html",
+      "title": "Эш против Зловещих мертвецов (1-3 сезон)",
+      "original": "Эш против Зловещих мертвецов",
+      "years": [
+        "2015"
+      ]
+    },
+    "verifiedOriginal": [
+      "Ash vs Evil Dead",
+      "Ash vs Evil Dead"
+    ],
+    "checked": true
+  },
+  {
+    "rank": 65,
+    "kinogo": "https://uakinogo.io/serialy/33067-dolina-smerti.html",
+    "matchedBy": "detail-original-title+search-year",
+    "query": "https://uakinogo.io/index.php?do=search&subaction=search&story=Death%20Valley",
+    "evidence": {
+      "url": "https://uakinogo.io/serialy/33067-dolina-smerti.html",
+      "title": "Долина смерти (1 сезон)",
+      "original": "Долина смерти",
+      "years": [
+        "2011"
+      ]
+    },
+    "verifiedOriginal": [
+      "Death Valley",
+      "Death Valley"
+    ],
+    "checked": true
+  },
+  {
+    "rank": 66,
+    "kinogo": "https://uakinogo.io/multserialy/40734-gadkie-amerikancy.html",
+    "matchedBy": "detail-original-title+search-year",
+    "query": "https://uakinogo.io/index.php?do=search&subaction=search&story=Ugly%20Americans",
+    "evidence": {
+      "url": "https://uakinogo.io/multserialy/40734-gadkie-amerikancy.html",
+      "title": "Гадкие американцы (1-2 сезон)",
+      "original": "Гадкие американцы",
+      "years": [
+        "2010"
+      ]
+    },
+    "verifiedOriginal": [
+      "Ugly Americans",
+      "Ugly Americans"
+    ],
+    "checked": true
+  },
+  {
+    "rank": 67,
+    "query": "https://uakinogo.io/index.php?do=search&subaction=search&story=China%2C%20IL",
+    "candidates": [
+      {
+        "url": "https://uakinogo.io/multserialy/41033-kitaj-illinojs.html",
+        "title": "Китай, Иллинойс (1-3 сезон)",
+        "original": "Китай, Иллинойс",
+        "years": [
+          "2008"
+        ]
+      }
+    ],
+    "title": "China, IL",
+    "kinogo": "https://uakinogo.io/multserialy/41033-kitaj-illinojs.html",
+    "matchedBy": "detail-original-title",
+    "verifiedOriginal": [
+      "China, IL",
+      "China, IL",
+      "China, IL"
+    ],
+    "providerYears": [
+      "2008"
+    ],
+    "queries": [
+      "https://uakinogo.io/index.php?do=search&subaction=search&story=%D0%9A%D0%B8%D1%82%D0%B0%D0%B9%2C%20%D0%98%D0%BB%D0%BB%D0%B8%D0%BD%D0%BE%D0%B9%D1%81"
+    ],
+    "checked": true
+  },
+  {
+    "rank": 68,
+    "kinogo": "https://uakinogo.io/multserialy/41116-friski-dingo.html",
+    "matchedBy": "detail-original-title+search-year",
+    "query": "https://uakinogo.io/index.php?do=search&subaction=search&story=Frisky%20Dingo",
+    "evidence": {
+      "url": "https://uakinogo.io/multserialy/41116-friski-dingo.html",
+      "title": "Фриски Динго (1-2 сезон)",
+      "original": "Фриски Динго",
+      "years": [
+        "2006"
+      ]
+    },
+    "verifiedOriginal": [
+      "Frisky Dingo",
+      "Frisky Dingo"
+    ],
+    "checked": true
+  },
+  {
+    "rank": 69,
+    "query": "https://uakinogo.io/index.php?do=search&subaction=search&story=Xavier%3A%20Renegade%20Angel",
+    "candidates": [
+      {
+        "url": "https://uakinogo.io/multserialy/115897-ksaver-angel-izmennik.html",
+        "title": "Ксавьер: Ангел изменник (1-2 сезон)",
+        "original": "Ксавьер: Ангел изменник",
+        "years": [
+          "2007"
+        ]
+      }
+    ],
+    "title": "Xavier: Renegade Angel",
+    "kinogo": "https://uakinogo.io/multserialy/115897-ksaver-angel-izmennik.html",
+    "verifiedOriginal": [
+      "Xavier: Renegade Angel",
+      "Xavier: Renegade Angel"
+    ],
+    "matchedBy": "detail-original-title+search-year",
+    "checked": true
+  },
+  {
+    "rank": 70,
+    "query": "https://uakinogo.io/index.php?do=search&subaction=search&story=Lucy%2C%20the%20Daughter%20of%20the%20Devil",
+    "candidates": [],
+    "title": "Lucy, the Daughter of the Devil",
+    "moreCandidates": [],
+    "queries": [
+      "https://uakinogo.io/index.php?do=search&subaction=search&story=%D0%9B%D1%8E%D1%81%D0%B8%20%E2%80%94%20%D0%B4%D0%BE%D1%87%D1%8C%20%D0%B4%D1%8C%D1%8F%D0%B2%D0%BE%D0%BB%D0%B0"
+    ],
+    "secondaryQueries": [
+      "https://kinogo.ec/index.php?do=search&subaction=search&story=Lucy%2C%20the%20Daughter%20of%20the%20Devil",
+      "https://kinogo.ec/index.php?do=search&subaction=search&story=%D0%9B%D1%8E%D1%81%D0%B8%20%E2%80%94%20%D0%B4%D0%BE%D1%87%D1%8C%20%D0%B4%D1%8C%D1%8F%D0%B2%D0%BE%D0%BB%D0%B0",
+      "https://kinogo.la/index.php?do=search&subaction=search&story=Lucy%2C%20the%20Daughter%20of%20the%20Devil",
+      "https://kinogo.la/index.php?do=search&subaction=search&story=%D0%9B%D1%8E%D1%81%D0%B8%20%E2%80%94%20%D0%B4%D0%BE%D1%87%D1%8C%20%D0%B4%D1%8C%D1%8F%D0%B2%D0%BE%D0%BB%D0%B0"
+    ]
+  },
+  {
+    "rank": 71,
+    "kinogo": "https://uakinogo.io/filmy/6865-chetyre-lva.html",
+    "matchedBy": "detail-original-title+search-year",
+    "query": "https://uakinogo.io/index.php?do=search&subaction=search&story=Four%20Lions",
+    "evidence": {
+      "url": "https://uakinogo.io/filmy/6865-chetyre-lva.html",
+      "title": "Четыре льва (2010)",
+      "original": "Четыре льва",
+      "years": [
+        "2010"
+      ]
+    },
+    "verifiedOriginal": [
+      "Four Lions",
+      "Four Lions"
+    ],
+    "checked": true
+  },
+  {
+    "rank": 72,
+    "kinogo": "https://uakinogo.io/filmy/13060-zalech-na-dno-v-brjugge.html",
+    "matchedBy": "detail-original-title+search-year",
+    "query": "https://uakinogo.io/index.php?do=search&subaction=search&story=In%20Bruges",
+    "evidence": {
+      "url": "https://uakinogo.io/filmy/13060-zalech-na-dno-v-brjugge.html",
+      "title": "Залечь на дно в Брюгге (2008)",
+      "original": "Залечь на дно в Брюгге",
+      "years": [
+        "2008"
+      ]
+    },
+    "verifiedOriginal": [
+      "In Bruges",
+      "In Bruges"
+    ],
+    "checked": true
+  },
+  {
+    "rank": 73,
+    "kinogo": "https://uakinogo.io/filmy/8161-sem-psihopatov.html",
+    "matchedBy": "detail-original-title+search-year",
+    "query": "https://uakinogo.io/index.php?do=search&subaction=search&story=Seven%20Psychopaths",
+    "evidence": {
+      "url": "https://uakinogo.io/filmy/8161-sem-psihopatov.html",
+      "title": "Семь психопатов (2012)",
+      "original": "Семь психопатов",
+      "years": [
+        "2012"
+      ]
+    },
+    "verifiedOriginal": [
+      "Seven Psychopaths",
+      "Seven Psychopaths"
+    ],
+    "checked": true
+  },
+  {
+    "rank": 74,
+    "query": "https://uakinogo.io/index.php?do=search&subaction=search&story=Death%20at%20a%20Funeral",
+    "candidates": [
+      {
+        "url": "https://uakinogo.io/filmy/21987-smert-na-pohoronah.html",
+        "title": "Смерть на похоронах (2010)",
+        "original": "Смерть на похоронах",
+        "years": [
+          "2010"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/filmy/27749-smert-na-pohoronah.html",
+        "title": "Смерть на похоронах (2007)",
+        "original": "Смерть на похоронах",
+        "years": [
+          "2007"
+        ]
+      }
+    ],
+    "title": "Death at a Funeral",
+    "kinogo": "https://uakinogo.io/filmy/27749-smert-na-pohoronah.html",
+    "verifiedOriginal": [
+      "Death at a Funeral",
+      "Death at a Funeral"
+    ],
+    "matchedBy": "detail-original-title+search-year",
+    "checked": true
+  },
+  {
+    "rank": 75,
+    "kinogo": "https://uakinogo.io/filmy/20779-odnazhdy-v-irlandii.html",
+    "matchedBy": "detail-original-title+search-year",
+    "query": "https://uakinogo.io/index.php?do=search&subaction=search&story=The%20Guard",
+    "evidence": {
+      "url": "https://uakinogo.io/filmy/20779-odnazhdy-v-irlandii.html",
+      "title": "Однажды в Ирландии (2011)",
+      "original": "Однажды в Ирландии",
+      "years": [
+        "2011"
+      ]
+    },
+    "verifiedOriginal": [
+      "The Guard",
+      "The Guard"
+    ],
+    "checked": true
+  },
+  {
+    "rank": 76,
+    "kinogo": "https://uakinogo.io/filmy/20840-smert-stalina.html",
+    "matchedBy": "detail-original-title+search-year",
+    "query": "https://uakinogo.io/index.php?do=search&subaction=search&story=The%20Death%20of%20Stalin",
+    "evidence": {
+      "url": "https://uakinogo.io/filmy/20840-smert-stalina.html",
+      "title": "Смерть Сталина (2017)",
+      "original": "Смерть Сталина",
+      "years": [
+        "2017"
+      ]
+    },
+    "verifiedOriginal": [
+      "The Death of Stalin",
+      "The Death of Stalin"
+    ],
+    "checked": true
+  },
+  {
+    "rank": 77,
+    "kinogo": "https://uakinogo.io/filmy/74249-v-petle.html",
+    "matchedBy": "detail-original-title+search-year",
+    "query": "https://uakinogo.io/index.php?do=search&subaction=search&story=In%20the%20Loop",
+    "evidence": {
+      "url": "https://uakinogo.io/filmy/74249-v-petle.html",
+      "title": "В петле (2009)",
+      "original": "В петле",
+      "years": [
+        "2009"
+      ]
+    },
+    "verifiedOriginal": [
+      "In the Loop",
+      "In the Loop"
+    ],
+    "checked": true
+  },
+  {
+    "rank": 78,
+    "kinogo": "https://uakinogo.io/filmy/29841-zdes-kurjat.html",
+    "matchedBy": "detail-original-title+search-year",
+    "query": "https://uakinogo.io/index.php?do=search&subaction=search&story=Thank%20You%20for%20Smoking",
+    "evidence": {
+      "url": "https://uakinogo.io/filmy/29841-zdes-kurjat.html",
+      "title": "Здесь курят (2005)",
+      "original": "Здесь курят",
+      "years": [
+        "2005"
+      ]
+    },
+    "verifiedOriginal": [
+      "Thank You for Smoking",
+      "Thank You for Smoking"
+    ],
+    "checked": true
+  },
+  {
+    "rank": 79,
+    "kinogo": "https://uakinogo.io/filmy/15567-schaste.html",
+    "matchedBy": "detail-original-title+search-year",
+    "query": "https://uakinogo.io/index.php?do=search&subaction=search&story=Happiness",
+    "evidence": {
+      "url": "https://uakinogo.io/filmy/15567-schaste.html",
+      "title": "Счастье (1998)",
+      "original": "Счастье",
+      "years": [
+        "1998"
+      ]
+    },
+    "verifiedOriginal": [
+      "Happiness",
+      "Happiness"
+    ],
+    "checked": true
+  },
+  {
+    "rank": 80,
+    "kinogo": "https://uakinogo.io/filmy/13548-smert-dika-longa.html",
+    "matchedBy": "detail-original-title+search-year",
+    "query": "https://uakinogo.io/index.php?do=search&subaction=search&story=The%20Death%20of%20Dick%20Long",
+    "evidence": {
+      "url": "https://uakinogo.io/filmy/13548-smert-dika-longa.html",
+      "title": "Смерть Дика Лонга (2019)",
+      "original": "Смерть Дика Лонга",
+      "years": [
+        "2019"
+      ]
+    },
+    "verifiedOriginal": [
+      "The Death of Dick Long",
+      "The Death of Dick Long"
+    ],
+    "checked": true
+  },
+  {
+    "rank": 81,
+    "kinogo": "https://uakinogo.io/filmy/20519-iskusstvo-samooborony.html",
+    "matchedBy": "detail-original-title+search-year",
+    "query": "https://uakinogo.io/index.php?do=search&subaction=search&story=The%20Art%20of%20Self-Defense",
+    "evidence": {
+      "url": "https://uakinogo.io/filmy/20519-iskusstvo-samooborony.html",
+      "title": "Искусство самообороны (2019)",
+      "original": "Искусство самообороны",
+      "years": [
+        "2019"
+      ]
+    },
+    "verifiedOriginal": [
+      "The Art of Self-Defense",
+      "The Art of Self-Defense"
+    ],
+    "checked": true
+  },
+  {
+    "rank": 82,
+    "query": "https://uakinogo.io/index.php?do=search&subaction=search&story=Cheap%20Thrills",
+    "candidates": [
+      {
+        "url": "https://uakinogo.io/filmy/27550-deshevyj-trepet.html",
+        "title": "Дешевый трепет (2012)",
+        "original": "Дешевый трепет",
+        "years": [
+          "2012"
+        ]
+      }
+    ],
+    "title": "Cheap Thrills",
+    "kinogo": "https://uakinogo.io/filmy/27550-deshevyj-trepet.html",
+    "matchedBy": "detail-original-title",
+    "verifiedOriginal": [
+      "Cheap Thrills",
+      "Cheap Thrills",
+      "Cheap Thrills"
+    ],
+    "providerYears": [
+      "2012"
+    ],
+    "queries": [
+      "https://uakinogo.io/index.php?do=search&subaction=search&story=%D0%94%D0%B5%D1%88%D1%91%D0%B2%D1%8B%D0%B5%20%D0%BE%D1%81%D1%82%D1%80%D1%8B%D0%B5%20%D0%BE%D1%89%D1%83%D1%89%D0%B5%D0%BD%D0%B8%D1%8F"
+    ],
+    "checked": true
+  },
+  {
+    "rank": 83,
+    "kinogo": "https://uakinogo.io/filmy/22761-raz-dva-tri-umri.html",
+    "matchedBy": "detail-original-title+search-year",
+    "query": "https://uakinogo.io/index.php?do=search&subaction=search&story=Sightseers",
+    "evidence": {
+      "url": "https://uakinogo.io/filmy/22761-raz-dva-tri-umri.html",
+      "title": "Раз! Два! Три! Умри! (2012)",
+      "original": "Раз! Два! Три! Умри!",
+      "years": [
+        "2012"
+      ]
+    },
+    "verifiedOriginal": [
+      "Sightseers",
+      "Sightseers"
+    ],
+    "checked": true
+  },
+  {
+    "rank": 84,
+    "kinogo": "https://uakinogo.io/filmy/9484-golosa.html",
+    "matchedBy": "detail-original-title+search-year",
+    "query": "https://uakinogo.io/index.php?do=search&subaction=search&story=The%20Voices",
+    "evidence": {
+      "url": "https://uakinogo.io/filmy/9484-golosa.html",
+      "title": "Голоса (2014)",
+      "original": "Голоса",
+      "years": [
+        "2014"
+      ]
+    },
+    "verifiedOriginal": [
+      "The Voices",
+      "The Voices"
+    ],
+    "checked": true
+  },
+  {
+    "rank": 85,
+    "kinogo": "https://uakinogo.io/filmy/38570-lobster.html",
+    "matchedBy": "detail-original-title+search-year",
+    "query": "https://uakinogo.io/index.php?do=search&subaction=search&story=The%20Lobster",
+    "evidence": {
+      "url": "https://uakinogo.io/filmy/38570-lobster.html",
+      "title": "Лобстер (2015)",
+      "original": "Лобстер",
+      "years": [
+        "2015"
+      ]
+    },
+    "verifiedOriginal": [
+      "The Lobster",
+      "The Lobster"
+    ],
+    "checked": true
+  },
+  {
+    "rank": 86,
+    "query": "https://uakinogo.io/index.php?do=search&subaction=search&story=Wild%20Tales",
+    "candidates": [
+      {
+        "url": "https://uakinogo.io/serialy/117955-rasskazy-o-zhivotnyh.html",
+        "title": "Рассказы о животных (1 сезон)",
+        "original": "Рассказы о животных",
+        "years": [
+          "2008"
+        ]
+      }
+    ],
+    "title": "Wild Tales",
+    "kinogo": "https://uakinogo.io/filmy/14764-dikie-istorii.html",
+    "matchedBy": "exact-Russian-title+year",
+    "verifiedOriginal": [
+      "Relatos salvajes",
+      "Relatos salvajes",
+      "Relatos salvajes"
+    ],
+    "providerYears": [
+      "2014"
+    ],
+    "queries": [
+      "https://uakinogo.io/index.php?do=search&subaction=search&story=%D0%94%D0%B8%D0%BA%D0%B8%D0%B5%20%D0%B8%D1%81%D1%82%D0%BE%D1%80%D0%B8%D0%B8"
+    ],
+    "checked": true
+  },
+  {
+    "rank": 87,
+    "query": "https://uakinogo.io/index.php?do=search&subaction=search&story=Riders%20of%20Justice",
+    "candidates": [],
+    "title": "Riders of Justice",
+    "kinogo": "https://uakinogo.io/filmy/44744-rycari-spravedlivosti.html",
+    "matchedBy": "exact-Russian-title+year",
+    "verifiedOriginal": [
+      "Retfærdighedens ryttere",
+      "Retfærdighedens ryttere",
+      "Retfærdighedens ryttere"
+    ],
+    "providerYears": [
+      "2020"
+    ],
+    "queries": [
+      "https://uakinogo.io/index.php?do=search&subaction=search&story=%D0%A0%D1%8B%D1%86%D0%B0%D1%80%D0%B8%20%D1%81%D0%BF%D1%80%D0%B0%D0%B2%D0%B5%D0%B4%D0%BB%D0%B8%D0%B2%D0%BE%D1%81%D1%82%D0%B8"
+    ],
+    "checked": true
+  },
+  {
+    "rank": 88,
+    "query": "https://uakinogo.io/index.php?do=search&subaction=search&story=Adam%27s%20Apples",
+    "candidates": [],
+    "title": "Adam's Apples",
+    "kinogo": "https://uakinogo.io/filmy/29196-adamovy-jabloki.html",
+    "matchedBy": "exact-Russian-title+year",
+    "verifiedOriginal": [
+      "Adams æbler",
+      "Adams æbler",
+      "Adams æbler"
+    ],
+    "providerYears": [
+      "2005"
+    ],
+    "queries": [
+      "https://uakinogo.io/index.php?do=search&subaction=search&story=%D0%90%D0%B4%D0%B0%D0%BC%D0%BE%D0%B2%D1%8B%20%D1%8F%D0%B1%D0%BB%D0%BE%D0%BA%D0%B8"
+    ],
+    "checked": true
+  },
+  {
+    "rank": 89,
+    "query": "https://uakinogo.io/index.php?do=search&subaction=search&story=The%20Green%20Butchers",
+    "candidates": [],
+    "title": "The Green Butchers",
+    "kinogo": "https://uakinogo.io/filmy/20957-zelenye-mjasniki.html",
+    "matchedBy": "exact-Russian-title+year",
+    "verifiedOriginal": [
+      "De grønne slagtere",
+      "De grønne slagtere",
+      "De grønne slagtere"
+    ],
+    "providerYears": [
+      "2003"
+    ],
+    "queries": [
+      "https://uakinogo.io/index.php?do=search&subaction=search&story=%D0%97%D0%B5%D0%BB%D1%91%D0%BD%D1%8B%D0%B5%20%D0%BC%D1%8F%D1%81%D0%BD%D0%B8%D0%BA%D0%B8"
+    ],
+    "checked": true
+  },
+  {
+    "rank": 90,
+    "query": "https://uakinogo.io/index.php?do=search&subaction=search&story=Men%20%26%20Chicken",
+    "candidates": [],
+    "title": "Men & Chicken",
+    "kinogo": "https://uakinogo.io/filmy/21305-muzhchiny-i-cypljata.html",
+    "matchedBy": "exact-Russian-title+year",
+    "verifiedOriginal": [
+      "Mænd &amp; høns",
+      "Mænd &amp; høns",
+      "Mænd &amp; høns"
+    ],
+    "providerYears": [
+      "2015"
+    ],
+    "queries": [
+      "https://uakinogo.io/index.php?do=search&subaction=search&story=%D0%9C%D1%83%D0%B6%D1%87%D0%B8%D0%BD%D1%8B%20%D0%B8%20%D1%86%D1%8B%D0%BF%D0%BB%D1%8F%D1%82%D0%B0"
+    ],
+    "checked": true
+  },
+  {
+    "rank": 91,
+    "query": "https://uakinogo.io/index.php?do=search&subaction=search&story=The%20Trip",
+    "candidates": [
+      {
+        "url": "https://uakinogo.io/filmy/70472-the-trip.html",
+        "title": "Трип (2021)",
+        "original": "Трип",
+        "years": [
+          "2021"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/filmy/92723-trip.html",
+        "title": "Трип (1967)",
+        "original": "Трип",
+        "years": [
+          "1967"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/serialy/72348-tripody.html",
+        "title": "Триподы (1-2 сезон)",
+        "original": "Триподы",
+        "years": [
+          "1984"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/filmy/17819-puteshestvie.html",
+        "title": "Путешествие (2010)",
+        "original": "Путешествие",
+        "years": [
+          "2010"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/filmy/97533-trojnoe-jeho.html",
+        "title": "Тройное эхо (1972)",
+        "original": "Тройное эхо",
+        "years": [
+          "1972"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/serialy/33279-puteshestvie.html",
+        "title": "Путешествие (1-4 сезон)",
+        "original": "Путешествие",
+        "years": [
+          "2010"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/filmy/24837-poezdka-v-greciju.html",
+        "title": "Поездка в Грецию (2020)",
+        "original": "Поездка в Грецию",
+        "years": [
+          "2020"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/filmy/6894-poezdka-v-ispaniju.html",
+        "title": "Поездка в Испанию (2017)",
+        "original": "Поездка в Испанию",
+        "years": [
+          "2017"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/filmy/88973-poezdka-v-bauntiful.html",
+        "title": "Поездка в Баунтифул (1985)",
+        "original": "Поездка в Баунтифул",
+        "years": [
+          "1985"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/filmy/12382-malchik-v-polosatoj-pizhame.html",
+        "title": "Мальчик в полосатой пижаме (2008)",
+        "original": "Мальчик в полосатой пижаме",
+        "years": [
+          "2008"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/filmy/106353-batalon-6888.html",
+        "title": "Батальон 6888 (2024)",
+        "original": "Батальон 6888",
+        "years": [
+          "2024"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/filmy/14899-seks-trip.html",
+        "title": "Секс-Трип (2017)",
+        "original": "Секс-Трип",
+        "years": [
+          "2017"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/filmy/1385-prokljatie-moej-materi.html",
+        "title": "Проклятие моей матери (2012)",
+        "original": "Проклятие моей матери",
+        "years": [
+          "2012"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/serialy/99745-polosa.html",
+        "title": "Полоса (1 сезон)",
+        "original": "Полоса",
+        "years": [
+          "2008"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/serialy/34729-studija-60-na-sanset-strip.html",
+        "title": "Студия 60 на Сансет Стрип (1 сезон)",
+        "original": "Студия 60 на Сансет Стрип",
+        "years": [
+          "2006"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/serialy/106778-poezdka.html",
+        "title": "Поездка (1 сезон)",
+        "original": "Поездка",
+        "years": [
+          "2024"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/multfilmy/31392-bolshoe-puteshestvie.html",
+        "title": "Большое путешествие (2019)",
+        "original": "Большое путешествие",
+        "years": [
+          "2019"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/filmy/116084-poslednjaja-poezdka-v-garrisberg.html",
+        "title": "Последняя поездка в Гаррисберг (1984)",
+        "original": "Последняя поездка в Гаррисберг",
+        "years": [
+          "1984"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/filmy/100315-top-gir-idealnoe-puteshestvie-2.html",
+        "title": "Топ Гир: Идеальное путешествие 2 (2014)",
+        "original": "Топ Гир: Идеальное путешествие 2",
+        "years": [
+          "2014"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/filmy/89415-neudachniki-evrotrip.html",
+        "title": "Неудачники: Евротрип (2020)",
+        "original": "Неудачники: Евротрип",
+        "years": [
+          "2020"
+        ]
+      }
+    ],
+    "title": "The Trip",
+    "kinogo": "https://uakinogo.io/filmy/70472-the-trip.html",
+    "verifiedOriginal": [
+      "",
+      "Отсутствует"
+    ],
+    "matchedBy": "detail-original-title+search-year",
+    "checked": true
+  },
+  {
+    "rank": 92,
+    "kinogo": "https://uakinogo.io/filmy/16916-operacija-mertvyj-sneg.html",
+    "matchedBy": "detail-original-title+search-year",
+    "query": "https://uakinogo.io/index.php?do=search&subaction=search&story=Dead%20Snow",
+    "evidence": {
+      "url": "https://uakinogo.io/filmy/16916-operacija-mertvyj-sneg.html",
+      "title": "Операция «Мертвый снег» (2009)",
+      "original": "Операция «Мертвый снег»",
+      "years": [
+        "2009"
+      ]
+    },
+    "verifiedOriginal": [
+      "Dead Snow",
+      "Dead Snow"
+    ],
+    "checked": true
+  },
+  {
+    "rank": 93,
+    "query": "https://uakinogo.io/index.php?do=search&subaction=search&story=Dead%20Snow%202%3A%20Red%20vs.%20Dead",
+    "candidates": [],
+    "title": "Dead Snow 2: Red vs. Dead",
+    "kinogo": "https://uakinogo.io/filmy/334-operacija-mertvyj-sneg-2.html",
+    "matchedBy": "exact-Russian-title+year",
+    "verifiedOriginal": [
+      "Død Snø 2",
+      "Død Snø 2",
+      "Død Snø 2"
+    ],
+    "providerYears": [
+      "2014"
+    ],
+    "queries": [
+      "https://uakinogo.io/index.php?do=search&subaction=search&story=%D0%9E%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D1%8F%20%C2%AB%D0%9C%D1%91%D1%80%D1%82%D0%B2%D1%8B%D0%B9%20%D1%81%D0%BD%D0%B5%D0%B3%C2%BB%202"
+    ],
+    "checked": true
+  },
+  {
+    "rank": 94,
+    "kinogo": "https://uakinogo.io/filmy/21165-realnye-upyri.html",
+    "matchedBy": "detail-original-title+search-year",
+    "query": "https://uakinogo.io/index.php?do=search&subaction=search&story=What%20We%20Do%20in%20the%20Shadows",
+    "evidence": {
+      "url": "https://uakinogo.io/filmy/21165-realnye-upyri.html",
+      "title": "Реальные упыри (2014)",
+      "original": "Реальные упыри",
+      "years": [
+        "2014"
+      ]
+    },
+    "verifiedOriginal": [
+      "What We Do in the Shadows",
+      "What We Do in the Shadows"
+    ],
+    "checked": true
+  },
+  {
+    "rank": 95,
+    "kinogo": "https://uakinogo.io/filmy/13776-privjazannye-k-domu.html",
+    "matchedBy": "detail-original-title+search-year",
+    "query": "https://uakinogo.io/index.php?do=search&subaction=search&story=Housebound",
+    "evidence": {
+      "url": "https://uakinogo.io/filmy/13776-privjazannye-k-domu.html",
+      "title": "Привязанные к дому (2014)",
+      "original": "Привязанные к дому",
+      "years": [
+        "2014"
+      ]
+    },
+    "verifiedOriginal": [
+      "Housebound",
+      "Housebound"
+    ],
+    "checked": true
+  },
+  {
+    "rank": 96,
+    "kinogo": "https://uakinogo.io/filmy/26790-salnyj-dushitel.html",
+    "matchedBy": "detail-original-title+search-year",
+    "query": "https://uakinogo.io/index.php?do=search&subaction=search&story=The%20Greasy%20Strangler",
+    "evidence": {
+      "url": "https://uakinogo.io/filmy/26790-salnyj-dushitel.html",
+      "title": "Сальный душитель (2016)",
+      "original": "Сальный душитель",
+      "years": [
+        "2016"
+      ]
+    },
+    "verifiedOriginal": [
+      "The Greasy Strangler",
+      "The Greasy Strangler"
+    ],
+    "checked": true
+  },
+  {
+    "rank": 97,
+    "kinogo": "https://uakinogo.io/filmy/73675-neposlushnyj-babbi.html",
+    "matchedBy": "detail-original-title+search-year",
+    "query": "https://uakinogo.io/index.php?do=search&subaction=search&story=Bad%20Boy%20Bubby",
+    "evidence": {
+      "url": "https://uakinogo.io/filmy/73675-neposlushnyj-babbi.html",
+      "title": "Непослушный Бабби (1993)",
+      "original": "Непослушный Бабби",
+      "years": [
+        "1993"
+      ]
+    },
+    "verifiedOriginal": [
+      "Bad Boy Bubby",
+      "Bad Boy Bubby"
+    ],
+    "checked": true
+  },
+  {
+    "rank": 98,
+    "kinogo": "https://uakinogo.io/filmy/100069-sotni-bobrov.html",
+    "matchedBy": "detail-original-title+search-year",
+    "query": "https://uakinogo.io/index.php?do=search&subaction=search&story=Hundreds%20of%20Beavers",
+    "evidence": {
+      "url": "https://uakinogo.io/filmy/100069-sotni-bobrov.html",
+      "title": "Сотни бобров (2022)",
+      "original": "Сотни бобров",
+      "years": [
+        "2022"
+      ]
+    },
+    "verifiedOriginal": [
+      "Hundreds of Beavers",
+      "Hundreds of Beavers"
+    ],
+    "checked": true
+  },
+  {
+    "rank": 99,
+    "query": "https://uakinogo.io/index.php?do=search&subaction=search&story=One%20Cut%20of%20the%20Dead",
+    "candidates": [],
+    "title": "One Cut of the Dead",
+    "kinogo": "https://uakinogo.io/filmy/24722-zombi-odnim-planom.html",
+    "matchedBy": "exact-Russian-title+year",
+    "verifiedOriginal": [
+      "Kamera o tomeru na!",
+      "Kamera o tomeru na!",
+      "Kamera o tomeru na!"
+    ],
+    "providerYears": [
+      "2017"
+    ],
+    "queries": [
+      "https://uakinogo.io/index.php?do=search&subaction=search&story=%D0%97%D0%BE%D0%BC%D0%B1%D0%B8%20%D0%BE%D0%B4%D0%BD%D0%B8%D0%BC%20%D0%BF%D0%BB%D0%B0%D0%BD%D0%BE%D0%BC%21"
+    ],
+    "checked": true
+  },
+  {
+    "rank": 100,
+    "kinogo": "https://uakinogo.io/filmy/49103-menju.html",
+    "matchedBy": "detail-original-title+search-year",
+    "query": "https://uakinogo.io/index.php?do=search&subaction=search&story=The%20Menu",
+    "evidence": {
+      "url": "https://uakinogo.io/filmy/49103-menju.html",
+      "title": "Меню (2022)",
+      "original": "Меню",
+      "years": [
+        "2022"
+      ]
+    },
+    "verifiedOriginal": [
+      "The Menu",
+      "The Menu"
+    ],
+    "checked": true
+  },
+  {
+    "rank": 101,
+    "query": "https://uakinogo.io/index.php?do=search&subaction=search&story=Californication",
+    "candidates": [
+      {
+        "url": "https://uakinogo.io/original/33860-bludlivaja-kalifornija.html",
+        "title": "Блудливая Калифорния (1-7 сезон)",
+        "original": "Блудливая Калифорния",
+        "years": [
+          "2007"
+        ]
+      }
+    ],
+    "title": "Californication",
+    "kinogo": "https://uakinogo.io/original/33860-bludlivaja-kalifornija.html",
+    "verifiedOriginal": [
+      "Californication",
+      "Californication"
+    ],
+    "matchedBy": "detail-original-title+search-year",
+    "checked": true
+  },
+  {
+    "rank": 102,
+    "query": "https://uakinogo.io/index.php?do=search&subaction=search&story=Shameless",
+    "candidates": [
+      {
+        "url": "https://uakinogo.io/serialy/37104-besstyzhie.html",
+        "title": "Бесстыжие (1-11 сезон)",
+        "original": "Бесстыжие",
+        "years": [
+          "2011"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/serialy/35328-besstydniki.html",
+        "title": "Бесстыдники (1-11 сезон)",
+        "original": "Бесстыдники",
+        "years": [
+          "2004"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/serialy/65777-besstyzhie-zal-pozora.html",
+        "title": "Бесстыжие: Зал позора (1 сезон)",
+        "original": "Бесстыжие: Зал позора",
+        "years": [
+          "2020"
+        ]
+      }
+    ],
+    "title": "Shameless",
+    "kinogo": "https://uakinogo.io/serialy/37104-besstyzhie.html",
+    "matchedBy": "detail-original-title",
+    "verifiedOriginal": [
+      "Shameless (US)",
+      "Shameless (US)",
+      "Shameless (US)"
+    ],
+    "providerYears": [
+      "2011"
+    ],
+    "queries": [
+      "https://uakinogo.io/index.php?do=search&subaction=search&story=%D0%91%D0%B5%D1%81%D1%81%D1%82%D1%8B%D0%B6%D0%B8%D0%B5"
+    ],
+    "checked": true
+  },
+  {
+    "rank": 103,
+    "query": "https://uakinogo.io/index.php?do=search&subaction=search&story=Banshee",
+    "candidates": [
+      {
+        "url": "https://uakinogo.io/serialy/34144-banshi.html",
+        "title": "Банши (1-4 сезон)",
+        "original": "Банши",
+        "years": [
+          "2013"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/serialy/33855-banshi-predystorija.html",
+        "title": "Банши: Предыстория (1-4 сезон)",
+        "original": "Банши: Предыстория",
+        "years": [
+          "2013"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/filmy/49504-banshi-inisherina.html",
+        "title": "Банши Инишерина (2022)",
+        "original": "Банши Инишерина",
+        "years": [
+          "2022"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/filmy/77419-banshi-muzyka-smerti.html",
+        "title": "Банши: Музыка смерти (2006)",
+        "original": "Банши: Музыка смерти",
+        "years": [
+          "2006"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/filmy/48551-mest-banshi.html",
+        "title": "Месть Банши (2022)",
+        "original": "Месть Банши",
+        "years": [
+          "2022"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/filmy/73444-sekretnyj-jeksperiment.html",
+        "title": "Секретный эксперимент (2012)",
+        "original": "Секретный эксперимент",
+        "years": [
+          "2012"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/filmy/20237-voj-banshi.html",
+        "title": "Вой Банши (2011)",
+        "original": "Вой Банши",
+        "years": [
+          "2011"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/filmy/75134-banshi-istorija-irlandskih-prizrakov.html",
+        "title": "Баньши: история ирландских призраков (2016)",
+        "original": "Баньши: история ирландских призраков",
+        "years": [
+          "2016"
+        ]
+      }
+    ],
+    "title": "Banshee",
+    "kinogo": "https://uakinogo.io/serialy/34144-banshi.html",
+    "verifiedOriginal": [
+      "Banshee",
+      "Banshee"
+    ],
+    "matchedBy": "detail-original-title+search-year",
+    "checked": true
+  },
+  {
+    "rank": 104,
+    "query": "https://uakinogo.io/index.php?do=search&subaction=search&story=Spartacus",
+    "candidates": [
+      {
+        "url": "https://uakinogo.io/filmy/15854-spartak.html",
+        "title": "Спартак (1960)",
+        "original": "Спартак",
+        "years": [
+          "1960"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/serialy/12154-spartak.html",
+        "title": "Спартак (2004)",
+        "original": "Спартак",
+        "years": [
+          "2004"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/serialy/110392-spartak-dom-ashura.html",
+        "title": "Спартак: Дом Ашура (1 сезон)",
+        "original": "Спартак: Дом Ашура",
+        "years": [
+          "2025"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/serialy/33872-spartak-bogi-areny.html",
+        "title": "Спартак: Боги арены (1 сезон)",
+        "original": "Спартак: Боги арены",
+        "years": [
+          "2011"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/serialy/34199-spartak-krov-i-pesok.html",
+        "title": "Спартак: Кровь и песок (1-4 сезон)",
+        "original": "Спартак: Кровь и песок",
+        "years": [
+          "2010"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/filmy/52580-syn-spartaka.html",
+        "title": "Сын Спартака (1962)",
+        "original": "Сын Спартака",
+        "years": [
+          "1962"
+        ]
+      }
+    ],
+    "title": "Spartacus",
+    "kinogo": "https://uakinogo.io/serialy/34199-spartak-krov-i-pesok.html",
+    "verifiedOriginal": [
+      "Spartacus",
+      "Spartacus"
+    ],
+    "matchedBy": "detail-original-title+search-year",
+    "checked": true
+  },
+  {
+    "rank": 105,
+    "query": "https://uakinogo.io/index.php?do=search&subaction=search&story=Black%20Sails",
+    "candidates": [
+      {
+        "url": "https://uakinogo.io/serialy/33306-chernye-parusa.html",
+        "title": "Черные паруса (1-4 сезон)",
+        "original": "Черные паруса",
+        "years": [
+          "2014"
+        ]
+      }
+    ],
+    "title": "Black Sails",
+    "kinogo": "https://uakinogo.io/serialy/33306-chernye-parusa.html",
+    "verifiedOriginal": [
+      "Black Sails",
+      "Black Sails"
+    ],
+    "matchedBy": "detail-original-title+search-year",
+    "checked": true
+  },
+  {
+    "rank": 106,
+    "query": "https://uakinogo.io/index.php?do=search&subaction=search&story=The%20Deuce",
+    "candidates": [
+      {
+        "url": "https://uakinogo.io/serialy/33451-dvojka.html",
+        "title": "Двойка (1-3 сезон)",
+        "original": "Двойка",
+        "years": [
+          "2017"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/filmy/52256-4-dvojki.html",
+        "title": "4 двойки (1975)",
+        "original": "4 двойки",
+        "years": [
+          "1975"
+        ]
+      }
+    ],
+    "title": "The Deuce",
+    "kinogo": "https://uakinogo.io/serialy/33451-dvojka.html",
+    "verifiedOriginal": [
+      "The Deuce",
+      "The Deuce"
+    ],
+    "matchedBy": "detail-original-title+search-year",
+    "checked": true
+  },
+  {
+    "rank": 107,
+    "query": "https://uakinogo.io/index.php?do=search&subaction=search&story=True%20Blood",
+    "candidates": [
+      {
+        "url": "https://uakinogo.io/serialy/34374-nastojaschaja-krov.html",
+        "title": "Настоящая кровь (1-7 сезон)",
+        "original": "Настоящая кровь",
+        "years": [
+          "2008"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/filmy/1134-vampirskaja-saga.html",
+        "title": "Вампирская сага (2012)",
+        "original": "Вампирская сага",
+        "years": [
+          "2012"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/serialy/82370-kaplja-nastojaschej-krovi.html",
+        "title": "Капля настоящей крови (1 сезон)",
+        "original": "Капля настоящей крови",
+        "years": [
+          "2010"
+        ]
+      }
+    ],
+    "title": "True Blood",
+    "kinogo": "https://uakinogo.io/serialy/34374-nastojaschaja-krov.html",
+    "verifiedOriginal": [
+      "True Blood",
+      "True Blood"
+    ],
+    "matchedBy": "detail-original-title+search-year",
+    "checked": true
+  },
+  {
+    "rank": 108,
+    "query": "https://uakinogo.io/index.php?do=search&subaction=search&story=Deadwood",
+    "candidates": [
+      {
+        "url": "https://uakinogo.io/serialy/33641-djedvud.html",
+        "title": "Дэдвуд (1-3 сезон)",
+        "original": "Дэдвуд",
+        "years": [
+          "2004"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/filmy/6263-djedvud.html",
+        "title": "Дэдвуд (2019)",
+        "original": "Дэдвуд",
+        "years": [
+          "2019"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/filmy/1154-once-upon-a-time-in-deadwood.html",
+        "title": "Однажды в Дэдвуде (2019)",
+        "original": "Однажды в Дэдвуде",
+        "years": [
+          "2019"
+        ]
+      }
+    ],
+    "title": "Deadwood",
+    "kinogo": "https://uakinogo.io/serialy/33641-djedvud.html",
+    "verifiedOriginal": [
+      "Deadwood",
+      "Deadwood"
+    ],
+    "matchedBy": "detail-original-title+search-year",
+    "checked": true
+  },
+  {
+    "rank": 109,
+    "query": "https://uakinogo.io/index.php?do=search&subaction=search&story=Rome",
+    "candidates": [
+      {
+        "url": "https://uakinogo.io/filmy/15675-romeo-and-juliet.html",
+        "title": "RSC: Ромео и Джульетта (2018)",
+        "original": "RSC: Ромео и Джульетта",
+        "years": [
+          "2018"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/filmy/25369-moromete-family-on-the-edge-of-time.html",
+        "title": "Семья Моромете: На краю вечности (2018)",
+        "original": "Семья Моромете: На краю вечности",
+        "years": [
+          "2018"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/serialy/36044-rim.html",
+        "title": "Рим (1-2 сезон)",
+        "original": "Рим",
+        "years": [
+          "2005"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/serialy/71651-rim.html",
+        "title": "Рим (1 сезон)",
+        "original": "Рим",
+        "years": [
+          "2014"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/filmy/77594-romeo.html",
+        "title": "Ромео (2011)",
+        "original": "Ромео",
+        "years": [
+          "2011"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/filmy/26746-palindrome.html",
+        "title": "Палиндром (2020)",
+        "original": "Палиндром",
+        "years": [
+          "2020"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/filmy/11020-monochrome.html",
+        "title": "Monochrome (2016)",
+        "original": "Monochrome",
+        "years": [
+          "2016"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/filmy/110335-romeriya.html",
+        "title": "Ромерия (2025)",
+        "original": "Ромерия",
+        "years": [
+          "2025"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/filmy/15088-prometej.html",
+        "title": "Прометей (2012)",
+        "original": "Прометей",
+        "years": [
+          "2012"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/novinki/116535-oromeo.html",
+        "title": "О\\'Ромео (2026)",
+        "original": "О\\'Ромео",
+        "years": [
+          "2026"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/serialy/63323-jeto-ty.html",
+        "title": "Это ты (2022)",
+        "original": "Это ты",
+        "years": [
+          "2022"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/serialy/34464-andromeda.html",
+        "title": "Андромеда (1-5 сезон)",
+        "original": "Андромеда",
+        "years": [
+          "2000"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/serialy/67995-obeschanie.html",
+        "title": "Обещание (1 сезон)",
+        "original": "Обещание",
+        "years": [
+          "2020"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/filmy/90898-andromeda.html",
+        "title": "Андромеда (2022)",
+        "original": "Андромеда",
+        "years": [
+          "2022"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/filmy/16293-obeschanie.html",
+        "title": "Обещание (1996)",
+        "original": "Обещание",
+        "years": [
+          "1996"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/serialy/41841-romeo-i-romeo.html",
+        "title": "Ромео и Ромео (1 сезон)",
+        "original": "Ромео и Ромео",
+        "years": [
+          "2016"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/filmy/51571-manodrom.html",
+        "title": "Манодром (2023)",
+        "original": "Манодром",
+        "years": [
+          "2023"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/filmy/68335-obeschanija.html",
+        "title": "Обещания (2021)",
+        "original": "Обещания",
+        "years": [
+          "2021"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/filmy/73741-teatr-smerti.html",
+        "title": "Театр смерти (2000)",
+        "original": "Театр смерти",
+        "years": [
+          "2000"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/filmy/1362-sila-vody.html",
+        "title": "Сила воды (2019)",
+        "original": "Сила воды",
+        "years": [
+          "2019"
+        ]
+      }
+    ],
+    "title": "Rome",
+    "kinogo": "https://uakinogo.io/serialy/36044-rim.html",
+    "verifiedOriginal": [
+      "Rome",
+      "Rome"
+    ],
+    "matchedBy": "detail-original-title+search-year",
+    "checked": true
+  },
+  {
+    "rank": 110,
+    "query": "https://uakinogo.io/index.php?do=search&subaction=search&story=The%20White%20Lotus",
+    "candidates": [
+      {
+        "url": "https://uakinogo.io/zarubezhnye-serialy/45233-belyj-lotos.html",
+        "title": "Белый лотос (1-3 сезон)",
+        "original": "Белый лотос",
+        "years": [
+          "2021"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/filmy/90291-den-belogo-lotosa.html",
+        "title": "День Белого Лотоса (2022)",
+        "original": "День Белого Лотоса",
+        "years": [
+          "2022"
+        ]
+      }
+    ],
+    "title": "The White Lotus",
+    "kinogo": "https://uakinogo.io/zarubezhnye-serialy/45233-belyj-lotos.html",
+    "verifiedOriginal": [
+      "The White Lotus",
+      "The White Lotus"
+    ],
+    "matchedBy": "detail-original-title+search-year",
+    "checked": true
+  },
+  {
+    "rank": 111,
+    "query": "https://uakinogo.io/index.php?do=search&subaction=search&story=Weeds",
+    "candidates": [
+      {
+        "url": "https://uakinogo.io/serialy/36991-durman.html",
+        "title": "Дурман (1-8 сезон)",
+        "original": "Дурман",
+        "years": [
+          "2005"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/filmy/13760-sornjaki-v-ogne.html",
+        "title": "Сорняки в огне (2016)",
+        "original": "Сорняки в огне",
+        "years": [
+          "2016"
+        ]
+      }
+    ],
+    "title": "Weeds",
+    "kinogo": "https://uakinogo.io/serialy/36991-durman.html",
+    "verifiedOriginal": [
+      "Weeds",
+      "Weeds"
+    ],
+    "matchedBy": "detail-original-title+search-year",
+    "checked": true
+  },
+  {
+    "rank": 112,
+    "query": "https://uakinogo.io/index.php?do=search&subaction=search&story=Hung",
+    "candidates": [
+      {
+        "url": "https://uakinogo.io/filmy/63836-hungama-2.html",
+        "title": "Хунгама 2 (2021)",
+        "original": "Хунгама 2",
+        "years": [
+          "2021"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/serialy/102716-the-hungry-games-alaska-big-bear-challenge.html",
+        "title": "The Hungry Games: Alaska Big Bear Challenge (1 сезон)",
+        "original": "The Hungry Games: Alaska Big Bear Challenge",
+        "years": [
+          "2024"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/filmy/117256-past.html",
+        "title": "Пасть (2026)",
+        "original": "Пасть",
+        "years": [
+          "2026"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/filmy/50131-golod.html",
+        "title": "Голод (2023)",
+        "original": "Голод",
+        "years": [
+          "2023"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/filmy/6146-golod.html",
+        "title": "Голод (2009)",
+        "original": "Голод",
+        "years": [
+          "2009"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/filmy/7485-golod.html",
+        "title": "Голод (2008)",
+        "original": "Голод",
+        "years": [
+          "2008"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/multfilmy/111343-golod.html",
+        "title": "Голод (1974)",
+        "original": "Голод",
+        "years": [
+          "1974"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/filmy/109481-golod.html",
+        "title": "Голод (2025)",
+        "original": "Голод",
+        "years": [
+          "2025"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/filmy/117534-golod.html",
+        "title": "Голод (2003)",
+        "original": "Голод",
+        "years": [
+          "2003"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/serialy/37091-zherebec.html",
+        "title": "Жеребец (1-3 сезон)",
+        "original": "Жеребец",
+        "years": [
+          "2009"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/filmy/56936-zloj-kot.html",
+        "title": "Злой кот (1987)",
+        "original": "Злой кот",
+        "years": [
+          "1987"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/filmy/3265-golod.html",
+        "title": "Голод (1983)",
+        "original": "Голод",
+        "years": [
+          "1983"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/serialy/72182-golod.html",
+        "title": "Голод (1-2 сезон)",
+        "original": "Голод",
+        "years": [
+          "1997"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/filmy/86099-shkaf.html",
+        "title": "Шкаф (2007)",
+        "original": "Шкаф",
+        "years": [
+          "2007"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/filmy/94390-vremja-vedm.html",
+        "title": "Время ведьм (1972)",
+        "original": "Время ведьм",
+        "years": [
+          "1972"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/filmy/17200-golodnye-igry.html",
+        "title": "Голодные игры (2012)",
+        "original": "Голодные игры",
+        "years": [
+          "2012"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/serialy/43555-golodnye-duhi.html",
+        "title": "Голодные духи (1 сезон)",
+        "original": "Голодные духи",
+        "years": [
+          "2019"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/multserialy/32430-athf.html",
+        "title": "Аква Тин Хангер Форс Навсегда (1-11 сезон)",
+        "original": "Аква Тин Хангер Форс Навсегда",
+        "years": [
+          "2000"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/filmy/63626-semja-prizraka.html",
+        "title": "Семя призрака (1983)",
+        "original": "Семя призрака",
+        "years": [
+          "1983"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/filmy/61966-pustye-hlopoty.html",
+        "title": "Пустые хлопоты (2003)",
+        "original": "Пустые хлопоты",
+        "years": [
+          "2003"
+        ]
+      }
+    ],
+    "title": "Hung",
+    "kinogo": "https://uakinogo.io/serialy/37091-zherebec.html",
+    "verifiedOriginal": [
+      "Hung",
+      "Hung"
+    ],
+    "matchedBy": "detail-original-title+search-year",
+    "checked": true
+  },
+  {
+    "rank": 113,
+    "query": "https://uakinogo.io/index.php?do=search&subaction=search&story=The%20Great",
+    "candidates": [
+      {
+        "url": "https://uakinogo.io/filmy/18356-the-great-unwashed.html",
+        "title": "Лесные чудики (2017)",
+        "original": "Лесные чудики",
+        "years": [
+          "2017"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/filmy/17194-the-greatest-gift-ever-given.html",
+        "title": "Самый лучший подарок на Рождество (2020)",
+        "original": "Самый лучший подарок на Рождество",
+        "years": [
+          "2020"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/filmy/109063-bitva.html",
+        "title": "Битва (2011)",
+        "original": "Битва",
+        "years": [
+          "2011"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/filmy/88687-andie-the-great.html",
+        "title": "Andie the Great (2021)",
+        "original": "Andie the Great",
+        "years": [
+          "2021"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/filmy/11843-triumf.html",
+        "title": "Триумф (2005)",
+        "original": "Триумф",
+        "years": [
+          "2005"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/serialy/35632-velikaja.html",
+        "title": "Великая (1-3 сезон)",
+        "original": "Великая",
+        "years": [
+          "2020"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/filmy/49072-za-pivom.html",
+        "title": "За пивом! (2022)",
+        "original": "За пивом!",
+        "years": [
+          "2022"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/filmy/84019-velichajshij.html",
+        "title": "Величайший (1977)",
+        "original": "Величайший",
+        "years": [
+          "1977"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/filmy/100036-luchshie-hity.html",
+        "title": "Лучшие хиты (2024)",
+        "original": "Лучшие хиты",
+        "years": [
+          "2024"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/filmy/7793-velikij-rejd.html",
+        "title": "Великий рейд (2005)",
+        "original": "Великий рейд",
+        "years": [
+          "2005"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/filmy/25370-bolshaja-igra.html",
+        "title": "Большая игра (1979)",
+        "original": "Большая игра",
+        "years": [
+          "1979"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/filmy/5333-samyj-luchshij.html",
+        "title": "Самый лучший (2008)",
+        "original": "Самый лучший",
+        "years": [
+          "2008"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/filmy/45970-bolshaja-igra.html",
+        "title": "Большая игра (2019)",
+        "original": "Большая игра",
+        "years": [
+          "2019"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/filmy/7121-velikaja-stena.html",
+        "title": "Великая стена (2016)",
+        "original": "Великая стена",
+        "years": [
+          "2016"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/filmy/16360-bolshie-gonki.html",
+        "title": "Большие гонки (1965)",
+        "original": "Большие гонки",
+        "years": [
+          "1965"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/multserialy/43284-velikij-sever.html",
+        "title": "Великий Север (1-5 сезон)",
+        "original": "Великий Север",
+        "years": [
+          "2021"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/filmy/9230-bolshoj-pobeg.html",
+        "title": "Большой побег (1963)",
+        "original": "Большой побег",
+        "years": [
+          "1963"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/serialy/68585-bolshoj-pozhar.html",
+        "title": "Большой пожар (1 сезон)",
+        "original": "Большой пожар",
+        "years": [
+          "2014"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/filmy/83986-bolshoj-vals.html",
+        "title": "Большой вальс (1938)",
+        "original": "Большой вальс",
+        "years": [
+          "1938"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/filmy/96533-bolshoj-gabbo.html",
+        "title": "Большой Габбо (1929)",
+        "original": "Большой Габбо",
+        "years": [
+          "1929"
+        ]
+      }
+    ],
+    "title": "The Great",
+    "kinogo": "https://uakinogo.io/serialy/35632-velikaja.html",
+    "verifiedOriginal": [
+      "The Great",
+      "The Great"
+    ],
+    "matchedBy": "detail-original-title+search-year",
+    "checked": true
+  },
+  {
+    "rank": 114,
+    "query": "https://uakinogo.io/index.php?do=search&subaction=search&story=Harlots",
+    "candidates": [
+      {
+        "url": "https://uakinogo.io/serialy/33464-kurtizanki.html",
+        "title": "Куртизанки (1-3 сезон)",
+        "original": "Куртизанки",
+        "years": [
+          "2017"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/filmy/75796-svjaznye-sharlo.html",
+        "title": "Связные Шарло (1984)",
+        "original": "Связные Шарло",
+        "years": [
+          "1984"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/filmy/39273-sharlo-v-ispanii.html",
+        "title": "Шарло в Испании (1972)",
+        "original": "Шарло в Испании",
+        "years": [
+          "1972"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/filmy/6715-sharlo-v-izgnanii.html",
+        "title": "Шарло в изгнании (1979)",
+        "original": "Шарло в изгнании",
+        "years": [
+          "1979"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/filmy/75592-sharlo-protiv-drakuly.html",
+        "title": "Шарло против Дракулы (1980)",
+        "original": "Шарло против Дракулы",
+        "years": [
+          "1980"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/filmy/73758-chetvero-protiv-kardinala.html",
+        "title": "Четверо против кардинала (1974)",
+        "original": "Четверо против кардинала",
+        "years": [
+          "1974"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/filmy/23281-4-mushketera-sharlo.html",
+        "title": "4 мушкетера Шарло (1973)",
+        "original": "4 мушкетера Шарло",
+        "years": [
+          "1973"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/filmy/78236-vozvraschenie-sharlo.html",
+        "title": "Возвращение Шарло (1992)",
+        "original": "Возвращение Шарло",
+        "years": [
+          "1992"
+        ]
+      }
+    ],
+    "title": "Harlots",
+    "kinogo": "https://uakinogo.io/serialy/33464-kurtizanki.html",
+    "verifiedOriginal": [
+      "Harlots",
+      "Harlots"
+    ],
+    "matchedBy": "detail-original-title+search-year",
+    "checked": true
+  },
+  {
+    "rank": 115,
+    "query": "https://uakinogo.io/index.php?do=search&subaction=search&story=The%20Borgias",
+    "candidates": [
+      {
+        "url": "https://uakinogo.io/serialy/33630-bordzhia.html",
+        "title": "Борджиа (1-3 сезон)",
+        "original": "Борджиа",
+        "years": [
+          "2011"
+        ]
+      }
+    ],
+    "title": "The Borgias",
+    "kinogo": "https://uakinogo.io/serialy/33630-bordzhia.html",
+    "verifiedOriginal": [
+      "The Borgias",
+      "The Borgias"
+    ],
+    "matchedBy": "detail-original-title+search-year",
+    "checked": true
+  },
+  {
+    "rank": 116,
+    "query": "https://uakinogo.io/index.php?do=search&subaction=search&story=Boardwalk%20Empire",
+    "candidates": [
+      {
+        "url": "https://uakinogo.io/serialy/35110-podpolnaja-imperija.html",
+        "title": "Подпольная империя (1-5 сезон)",
+        "original": "Подпольная империя",
+        "years": [
+          "2010"
+        ]
+      }
+    ],
+    "title": "Boardwalk Empire",
+    "kinogo": "https://uakinogo.io/serialy/35110-podpolnaja-imperija.html",
+    "verifiedOriginal": [
+      "Boardwalk Empire",
+      "Boardwalk Empire"
+    ],
+    "matchedBy": "detail-original-title+search-year",
+    "checked": true
+  },
+  {
+    "rank": 117,
+    "query": "https://uakinogo.io/index.php?do=search&subaction=search&story=Masters%20of%20Sex",
+    "candidates": [
+      {
+        "url": "https://uakinogo.io/serialy/34599-mastera-seksa.html",
+        "title": "Мастера секса (1-4 сезон)",
+        "original": "Мастера секса",
+        "years": [
+          "2013"
+        ]
+      }
+    ],
+    "title": "Masters of Sex",
+    "kinogo": "https://uakinogo.io/serialy/34599-mastera-seksa.html",
+    "verifiedOriginal": [
+      "Masters of Sex",
+      "Masters of Sex"
+    ],
+    "matchedBy": "detail-original-title+search-year",
+    "checked": true
+  },
+  {
+    "rank": 118,
+    "query": "https://uakinogo.io/index.php?do=search&subaction=search&story=The%20Girlfriend%20Experience",
+    "candidates": [
+      {
+        "url": "https://uakinogo.io/filmy/5664-devushka-po-vyzovu.html",
+        "title": "Девушка по вызову (2009)",
+        "original": "Девушка по вызову",
+        "years": [
+          "2009"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/serialy/35695-devushka-po-vyzovu.html",
+        "title": "Девушка по вызову (1-3 сезон)",
+        "original": "Девушка по вызову",
+        "years": [
+          "2016"
+        ]
+      }
+    ],
+    "title": "The Girlfriend Experience",
+    "kinogo": "https://uakinogo.io/serialy/35695-devushka-po-vyzovu.html",
+    "verifiedOriginal": [
+      "The Girlfriend Experience",
+      "The Girlfriend Experience"
+    ],
+    "matchedBy": "detail-original-title+search-year",
+    "checked": true
+  },
+  {
+    "rank": 119,
+    "query": "https://uakinogo.io/index.php?do=search&subaction=search&story=Secret%20Diary%20of%20a%20Call%20Girl",
+    "candidates": [
+      {
+        "url": "https://uakinogo.io/serialy/36902-tajnyj-dnevnik-devushki-po-vyzovu.html",
+        "title": "Тайный дневник девушки по вызову (1-4 сезон)",
+        "original": "Тайный дневник девушки по вызову",
+        "years": [
+          "2007"
+        ]
+      }
+    ],
+    "title": "Secret Diary of a Call Girl",
+    "kinogo": "https://uakinogo.io/serialy/36902-tajnyj-dnevnik-devushki-po-vyzovu.html",
+    "verifiedOriginal": [
+      "Secret Diary of a Call Girl",
+      "Secret Diary of a Call Girl"
+    ],
+    "matchedBy": "detail-original-title+search-year",
+    "checked": true
+  },
+  {
+    "rank": 120,
+    "query": "https://uakinogo.io/index.php?do=search&subaction=search&story=Vinyl",
+    "candidates": [
+      {
+        "url": "https://uakinogo.io/serialy/36202-vinil.html",
+        "title": "Винил (1 сезон)",
+        "original": "Винил",
+        "years": [
+          "2016"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/filmy/96301-vinilovaja-nacija.html",
+        "title": "Виниловая нация (2020)",
+        "original": "Виниловая нация",
+        "years": [
+          "2020"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/filmy/102087-ubijstvo-na-45-oborotah.html",
+        "title": "Убийство на 45 оборотах (2023)",
+        "original": "Убийство на 45 оборотах",
+        "years": [
+          "2023"
+        ]
+      }
+    ],
+    "title": "Vinyl",
+    "kinogo": "https://uakinogo.io/serialy/36202-vinil.html",
+    "verifiedOriginal": [
+      "Vinyl",
+      "Vinyl"
+    ],
+    "matchedBy": "detail-original-title+search-year",
+    "checked": true
+  },
+  {
+    "rank": 121,
+    "query": "https://uakinogo.io/index.php?do=search&subaction=search&story=American%20Gods",
+    "candidates": [
+      {
+        "url": "https://uakinogo.io/serialy/33798-amerikanskie-bogi.html",
+        "title": "Американские боги (1-3 сезон)",
+        "original": "Американские боги",
+        "years": [
+          "2017"
+        ]
+      }
+    ],
+    "title": "American Gods",
+    "kinogo": "https://uakinogo.io/serialy/33798-amerikanskie-bogi.html",
+    "verifiedOriginal": [
+      "American Gods",
+      "American Gods"
+    ],
+    "matchedBy": "detail-original-title+search-year",
+    "checked": true
+  },
+  {
+    "rank": 122,
+    "query": "https://uakinogo.io/index.php?do=search&subaction=search&story=Westworld",
+    "candidates": [
+      {
+        "url": "https://uakinogo.io/serialy/34178-mir-dikogo-zapada.html",
+        "title": "Мир Дикого Запада (1-4 сезон)",
+        "original": "Мир Дикого Запада",
+        "years": [
+          "2016"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/filmy/28073-mir-dikogo-zapada.html",
+        "title": "Мир Дикого Запада (1973)",
+        "original": "Мир Дикого Запада",
+        "years": [
+          "1973"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/serialy/112454-za-predelami-mira-dikogo-zapada.html",
+        "title": "За пределами Мира Дикого Запада (1 сезон)",
+        "original": "За пределами Мира Дикого Запада",
+        "years": [
+          "1980"
+        ]
+      }
+    ],
+    "title": "Westworld",
+    "kinogo": "https://uakinogo.io/serialy/34178-mir-dikogo-zapada.html",
+    "verifiedOriginal": [
+      "Westworld",
+      "Westworld"
+    ],
+    "matchedBy": "detail-original-title+search-year",
+    "checked": true
+  },
+  {
+    "rank": 123,
+    "query": "https://uakinogo.io/index.php?do=search&subaction=search&story=Penny%20Dreadful",
+    "candidates": [
+      {
+        "url": "https://uakinogo.io/serialy/34489-strashnye-skazki.html",
+        "title": "Страшные сказки (1-3 сезон)",
+        "original": "Страшные сказки",
+        "years": [
+          "2014"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/filmy/26049-koshmarnyj-poputchik.html",
+        "title": "Кошмарный попутчик (2006)",
+        "original": "Кошмарный попутчик",
+        "years": [
+          "2006"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/filmy/25952-kinoteatr-peni-uzhasnoj.html",
+        "title": "Кинотеатр Пени Ужасной (2013)",
+        "original": "Кинотеатр Пени Ужасной",
+        "years": [
+          "2013"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/serialy/37171-strashnye-skazki-gorod-angelov.html",
+        "title": "Страшные сказки: Город ангелов (1 сезон)",
+        "original": "Страшные сказки: Город ангелов",
+        "years": [
+          "2020"
+        ]
+      }
+    ],
+    "title": "Penny Dreadful",
+    "kinogo": "https://uakinogo.io/serialy/34489-strashnye-skazki.html",
+    "verifiedOriginal": [
+      "Penny Dreadful",
+      "Penny Dreadful"
+    ],
+    "matchedBy": "detail-original-title+search-year",
+    "checked": true
+  },
+  {
+    "rank": 124,
+    "query": "https://uakinogo.io/index.php?do=search&subaction=search&story=Minx",
+    "candidates": [
+      {
+        "url": "https://uakinogo.io/original/47997-koketka.html",
+        "title": "Кокетка (1-2 сезон)",
+        "original": "Кокетка",
+        "years": [
+          "2022"
+        ]
+      }
+    ],
+    "title": "Minx",
+    "kinogo": "https://uakinogo.io/original/47997-koketka.html",
+    "verifiedOriginal": [
+      "Minx",
+      "Minx"
+    ],
+    "matchedBy": "detail-original-title+search-year",
+    "checked": true
+  },
+  {
+    "rank": 125,
+    "query": "https://uakinogo.io/index.php?do=search&subaction=search&story=Warrior",
+    "candidates": [
+      {
+        "url": "https://uakinogo.io/filmy/1846-warrior-road.html",
+        "title": "Путь воина (2016)",
+        "original": "Путь воина",
+        "years": [
+          "2016"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/filmy/9678-warrior-pride.html",
+        "title": "Гордость воина (2018)",
+        "original": "Гордость воина",
+        "years": [
+          "2018"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/filmy/63330-the-warriorr.html",
+        "title": "Воин (2022)",
+        "original": "Воин",
+        "years": [
+          "2022"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/serialy/33951-voin.html",
+        "title": "Воин (1-3 сезон)",
+        "original": "Воин",
+        "years": [
+          "2019"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/filmy/10086-voin.html",
+        "title": "Воин (2011)",
+        "original": "Воин",
+        "years": [
+          "2011"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/filmy/16993-pagan-warrior.html",
+        "title": "Воин-язычник (2020)",
+        "original": "Воин-язычник",
+        "years": [
+          "2020"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/filmy/14776-apache-warrior.html",
+        "title": "Воин апачей (2017)",
+        "original": "Воин апачей",
+        "years": [
+          "2017"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/filmy/113577-voin.html",
+        "title": "Воин (2001)",
+        "original": "Воин",
+        "years": [
+          "2001"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/filmy/28435-voiny.html",
+        "title": "Воины (1979)",
+        "original": "Воины",
+        "years": [
+          "1979"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/filmy/52478-duh-voina.html",
+        "title": "Дух воина (1994)",
+        "original": "Дух воина",
+        "years": [
+          "1994"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/filmy/65659-voiny-terra.html",
+        "title": "Воины Терра (2006)",
+        "original": "Воины Терра",
+        "years": [
+          "2006"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/filmy/12361-vrata-voinov.html",
+        "title": "Врата воинов (2016)",
+        "original": "Врата воинов",
+        "years": [
+          "2016"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/filmy/83806-silnyj-voin.html",
+        "title": "Сильный воин (2023)",
+        "original": "Сильный воин",
+        "years": [
+          "2023"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/filmy/64602-voin-savitri.html",
+        "title": "Воин Савитри (2016)",
+        "original": "Воин Савитри",
+        "years": [
+          "2016"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/filmy/640-voin.html",
+        "title": "Воин (2011)",
+        "original": "Воин",
+        "years": [
+          "2011"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/serialy/32978-monahinja-voin.html",
+        "title": "Монахиня-воин (1-2 сезон)",
+        "original": "Монахиня-воин",
+        "years": [
+          "2020"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/filmy/49436-voiny-buduschego.html",
+        "title": "Воины будущего (2022)",
+        "original": "Воины будущего",
+        "years": [
+          "2022"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/filmy/9080-put-voina.html",
+        "title": "Путь воина (2010)",
+        "original": "Путь воина",
+        "years": [
+          "2010"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/filmy/94481-voiny-djun.html",
+        "title": "Воины дюн (1991)",
+        "original": "Воины дюн",
+        "years": [
+          "1991"
+        ]
+      },
+      {
+        "url": "https://uakinogo.io/filmy/13287-serdce-voina.html",
+        "title": "Сердце воина (2011)",
+        "original": "Сердце воина",
+        "years": [
+          "2011"
+        ]
+      }
+    ],
+    "title": "Warrior",
+    "kinogo": "https://uakinogo.io/serialy/33951-voin.html",
+    "verifiedOriginal": [
+      "Warrior",
+      "Warrior"
+    ],
+    "matchedBy": "detail-original-title+search-year",
+    "checked": true
+  }
+]

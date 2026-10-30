@@ -1,0 +1,467 @@
+[
+  {
+    "rank": 71,
+    "title": "Four Lions",
+    "ru": "Четыре льва",
+    "year": 2010,
+    "kind": "Фильм",
+    "type": "film",
+    "tags": [
+      "Терроризм",
+      "Сатира",
+      "Табу"
+    ],
+    "syn": "Компания неумелых радикалов готовит теракт, постоянно спотыкаясь о собственную глупость.",
+    "why": "Боратовская наглость и смертельно нелепые решения.",
+    "caveat": "Юмор соседствует с настоящей трагедией.",
+    "dark": 5,
+    "imdb": "tt1341167",
+    "score": 7.3,
+    "kp": null,
+    "kpurl": null,
+    "image": "assets/new-f-71.jpg",
+    "source": "https://www.imdb.com/title/tt1341167/",
+    "rezka": "https://hdrezka.me/films/drama/3210-chetyre-lva-2010.html",
+    "trailer": {
+      "videoId": "yszKc4m-W9U",
+      "url": "https://www.youtube.com/watch?v=yszKc4m-W9U",
+      "label": "Трейлер",
+      "channel": "Volta Pictures",
+      "vertical": false
+    }
+  },
+  {
+    "rank": 72,
+    "title": "In Bruges",
+    "ru": "Залечь на дно в Брюгге",
+    "year": 2008,
+    "kind": "Фильм",
+    "type": "film",
+    "tags": [
+      "Криминал",
+      "Чёрный юмор",
+      "Диалоги"
+    ],
+    "syn": "Два наёмных убийцы пережидают неприятности в Брюгге, раздражая друг друга и окружающих.",
+    "why": "Ядовитые диалоги и человечные антигерои в духе Mr Inbetween.",
+    "caveat": "Больше меланхолии, чем в Борате.",
+    "dark": 4,
+    "imdb": "tt0780536",
+    "score": 7.9,
+    "kp": null,
+    "kpurl": null,
+    "image": "assets/new-f-72.jpg",
+    "source": "https://www.imdb.com/title/tt0780536/",
+    "rezka": "https://hdrezka.me/films/thriller/5958-zalech-na-dno-v-bryugge-2007.html",
+    "trailer": {
+      "videoId": "96harmMOyiY",
+      "url": "https://www.youtube.com/watch?v=96harmMOyiY",
+      "label": "Трейлер",
+      "channel": "Focus Features",
+      "vertical": false
+    }
+  },
+  {
+    "rank": 73,
+    "title": "Seven Psychopaths",
+    "ru": "Семь психопатов",
+    "year": 2012,
+    "kind": "Фильм",
+    "type": "film",
+    "tags": [
+      "Криминал",
+      "Абсурд",
+      "Мета"
+    ],
+    "syn": "Сценарист оказывается втянут в преступную историю из-за друзей и украденной собаки.",
+    "why": "Цепочка идиотских поступков быстро становится кровавым абсурдом.",
+    "caveat": "История намеренно играет со сценарными условностями.",
+    "dark": 4,
+    "imdb": "tt1931533",
+    "score": 7.1,
+    "kp": 7.3,
+    "kpurl": "https://www.kinopoisk.ru/film/586584/",
+    "image": "assets/new-f-73.jpg",
+    "source": "https://www.imdb.com/title/tt1931533/",
+    "rezka": "https://hdrezka.me/films/comedy/223-sem-psihopatov-2012.html",
+    "trailer": {
+      "videoId": "Jbq4nGObfqA",
+      "url": "https://www.youtube.com/watch?v=Jbq4nGObfqA",
+      "label": "Трейлер",
+      "channel": "CBS Films",
+      "vertical": false
+    }
+  },
+  {
+    "rank": 74,
+    "title": "Death at a Funeral",
+    "ru": "Смерть во время похорон",
+    "year": 2007,
+    "kind": "Фильм",
+    "type": "film",
+    "tags": [
+      "Фарс",
+      "Табу",
+      "Британское"
+    ],
+    "syn": "Британская семья пытается достойно провести похороны, пока церемония рассыпается на скандалы.",
+    "why": "Катастрофические недоразумения напоминают Убойные каникулы.",
+    "caveat": "Именно британский оригинал 2007 года.",
+    "dark": 4,
+    "imdb": "tt0795368",
+    "score": 7.3,
+    "kp": null,
+    "kpurl": null,
+    "image": "assets/new-f-74.jpg",
+    "source": "https://www.imdb.com/title/tt0795368/",
+    "rezka": "https://hdrezka.me/films/comedy/7269-smert-vo-vremya-pohoron-2007.html",
+    "trailer": {
+      "videoId": "W0xtS83sKGg",
+      "url": "https://www.youtube.com/watch?v=W0xtS83sKGg",
+      "label": "Трейлер",
+      "channel": "Rotten Tomatoes Classic Trailers",
+      "vertical": false
+    }
+  },
+  {
+    "rank": 75,
+    "title": "The Guard",
+    "ru": "Однажды в Ирландии",
+    "year": 2011,
+    "kind": "Фильм",
+    "type": "film",
+    "tags": [
+      "Криминал",
+      "Грубый юмор",
+      "Ирландское"
+    ],
+    "syn": "Наглому полицейскому из ирландской глубинки приходится сотрудничать с правильным агентом ФБР.",
+    "why": "Социальные приличия герой нарушает с удовольствием, как персонажи Бората.",
+    "caveat": "Криминальная история с довольно спокойным темпом.",
+    "dark": 4,
+    "imdb": "tt1540133",
+    "score": 7.3,
+    "kp": null,
+    "kpurl": null,
+    "image": "assets/new-f-75.jpg",
+    "source": "https://www.imdb.com/title/tt1540133/",
+    "rezka": "https://hdrezka.me/films/crime/318-odnazhdy-v-irlandii-2011.html",
+    "trailer": {
+      "videoId": "ey9GJC53VQc",
+      "url": "https://www.youtube.com/watch?v=ey9GJC53VQc",
+      "label": "Трейлер",
+      "channel": "Sony Pictures Classics",
+      "vertical": false
+    }
+  },
+  {
+    "rank": 76,
+    "title": "The Death of Stalin",
+    "ru": "Смерть Сталина",
+    "year": 2017,
+    "kind": "Фильм",
+    "type": "film",
+    "tags": [
+      "Сатира",
+      "Политика",
+      "Чёрный юмор"
+    ],
+    "syn": "После смерти диктатора его окружение начинает абсурдную и опасную борьбу за власть.",
+    "why": "Очень злой фарс о трусости и человеческой подлости.",
+    "caveat": "Политическая сатира; жестокость здесь реальна.",
+    "dark": 5,
+    "imdb": "tt4686844",
+    "score": 7.3,
+    "kp": null,
+    "kpurl": null,
+    "image": "assets/new-f-76.jpg",
+    "source": "https://www.imdb.com/title/tt4686844/",
+    "rezka": "https://hdrezka.me/films/comedy/26944-smert-stalina-2017.html",
+    "trailer": {
+      "videoId": "ukJ5dMYx2no",
+      "url": "https://www.youtube.com/watch?v=ukJ5dMYx2no",
+      "label": "Трейлер",
+      "channel": "StudiocanalUK",
+      "vertical": false
+    }
+  },
+  {
+    "rank": 77,
+    "title": "In the Loop",
+    "ru": "В петле",
+    "year": 2009,
+    "kind": "Фильм",
+    "type": "film",
+    "tags": [
+      "Сатира",
+      "Мат",
+      "Британское"
+    ],
+    "syn": "Неосторожная фраза британского министра запускает хаос в дипломатических кабинетах.",
+    "why": "Оскорбления идут очередями, а идиоты управляют серьёзными событиями.",
+    "caveat": "Юмор держится на диалогах и политической бюрократии.",
+    "dark": 4,
+    "imdb": "tt1226774",
+    "score": 7.4,
+    "kp": null,
+    "kpurl": null,
+    "image": "assets/new-f-77.jpg",
+    "source": "https://www.imdb.com/title/tt1226774/",
+    "rezka": "https://hdrezka.me/films/comedy/40479-v-petle-2009.html",
+    "trailer": {
+      "videoId": "dQrqMkCuHqA",
+      "url": "https://www.youtube.com/watch?v=dQrqMkCuHqA",
+      "label": "Трейлер",
+      "channel": "StudiocanalUK",
+      "vertical": false
+    }
+  },
+  {
+    "rank": 78,
+    "title": "Thank You for Smoking",
+    "ru": "Здесь курят",
+    "year": 2005,
+    "kind": "Фильм",
+    "type": "film",
+    "tags": [
+      "Цинизм",
+      "Сатира",
+      "Диалоги"
+    ],
+    "syn": "Табачный лоббист виртуозно продаёт публике сомнительные идеи и воспитывает сына.",
+    "why": "Бесстыдная логика и удовольствие от чужой наглости.",
+    "caveat": "Менее кровавый, более разговорный вариант.",
+    "dark": 3,
+    "imdb": "tt0427944",
+    "score": 7.5,
+    "kp": null,
+    "kpurl": null,
+    "image": "assets/new-f-78.jpg",
+    "source": "https://www.imdb.com/title/tt0427944/",
+    "rezka": "https://hdrezka.me/films/drama/5418-zdes-kuryat-2005.html",
+    "trailer": {
+      "videoId": "s3eeTjK0qZY",
+      "url": "https://www.youtube.com/watch?v=s3eeTjK0qZY",
+      "label": "Трейлер",
+      "channel": "VivalakevinTrailerHD",
+      "vertical": false
+    }
+  },
+  {
+    "rank": 79,
+    "title": "Happiness",
+    "ru": "Счастье",
+    "year": 1998,
+    "kind": "Фильм",
+    "type": "film",
+    "tags": [
+      "Табу",
+      "Дискомфорт",
+      "Чёрный юмор"
+    ],
+    "syn": "Жизни нескольких внешне обычных людей переплетаются в мучительных поисках близости.",
+    "why": "Если нужен юмор, которому действительно тесно в рамках приличия.",
+    "caveat": "Предельно тяжёлые сексуальные темы; вовсе не лёгкая комедия.",
+    "dark": 5,
+    "imdb": "tt0147612",
+    "score": 7.7,
+    "kp": null,
+    "kpurl": null,
+    "image": "assets/new-f-79.jpg",
+    "source": "https://www.imdb.com/title/tt0147612/",
+    "rezka": "https://hdrezka.me/films/comedy/16313-schaste-1998.html",
+    "trailer": {
+      "videoId": "1eOzYczx-Xk",
+      "url": "https://www.youtube.com/watch?v=1eOzYczx-Xk",
+      "label": "Трейлер",
+      "channel": "HD Retro Trailers",
+      "vertical": false
+    }
+  },
+  {
+    "rank": 80,
+    "title": "The Death of Dick Long",
+    "ru": "Смерть Дика Лонга",
+    "year": 2019,
+    "kind": "Фильм",
+    "type": "film",
+    "tags": [
+      "Табу",
+      "Абсурд",
+      "Криминал"
+    ],
+    "syn": "Двое приятелей отчаянно пытаются скрыть обстоятельства смерти друга в маленьком городе.",
+    "why": "Ужасные решения, растущая паника и действительно неприличная тайна.",
+    "caveat": "Лучше не читать подробный сюжет заранее.",
+    "dark": 5,
+    "imdb": "tt9356952",
+    "score": 6.4,
+    "kp": null,
+    "kpurl": null,
+    "image": "assets/new-f-80.jpg",
+    "source": "https://www.imdb.com/title/tt9356952/",
+    "rezka": "https://hdrezka.me/films/drama/32288-smert-dika-longa-2019.html",
+    "trailer": {
+      "videoId": "dGBe8xsWGlo",
+      "url": "https://www.youtube.com/watch?v=dGBe8xsWGlo",
+      "label": "Трейлер",
+      "channel": "A24",
+      "vertical": false
+    }
+  },
+  {
+    "rank": 81,
+    "title": "The Art of Self-Defense",
+    "ru": "Искусство самообороны",
+    "year": 2019,
+    "kind": "Фильм",
+    "type": "film",
+    "tags": [
+      "Абсурд",
+      "Сухой юмор",
+      "Триллер"
+    ],
+    "syn": "Робкий бухгалтер приходит в секцию карате и попадает под влияние странного наставника.",
+    "why": "Серьёзные лица и сломанная логика создают тот самый неловкий абсурд.",
+    "caveat": "Холодная сатира на культ агрессивной мужественности.",
+    "dark": 4,
+    "imdb": "tt7339248",
+    "score": 6.6,
+    "kp": null,
+    "kpurl": null,
+    "image": "assets/new-f-81.jpg",
+    "source": "https://www.imdb.com/title/tt7339248/",
+    "rezka": "https://hdrezka.me/films/drama/32414-iskusstvo-samooborony-2019.html",
+    "trailer": {
+      "videoId": "Td0oBCWO_I4",
+      "url": "https://www.youtube.com/watch?v=Td0oBCWO_I4",
+      "label": "Трейлер",
+      "channel": "Bleecker Street",
+      "vertical": false
+    }
+  },
+  {
+    "rank": 82,
+    "title": "Cheap Thrills",
+    "ru": "Дешёвые острые ощущения",
+    "year": 2013,
+    "kind": "Фильм",
+    "type": "film",
+    "tags": [
+      "Жесть",
+      "Чёрный юмор",
+      "Триллер"
+    ],
+    "syn": "Богатая пара предлагает двум приятелям деньги за всё более безумные задания.",
+    "why": "Эксперимент с человеческими пределами быстро выходит из-под контроля, как в Review.",
+    "caveat": "Кроваво и неприятно; смех постепенно становится нервным.",
+    "dark": 5,
+    "imdb": "tt2389182",
+    "score": 6.7,
+    "kp": null,
+    "kpurl": null,
+    "image": "assets/new-f-82.jpg",
+    "source": "https://www.imdb.com/title/tt2389182/",
+    "rezka": "https://hdrezka.me/films/comedy/5538-deshevyy-trepet-2012.html",
+    "trailer": {
+      "videoId": "cFQppyHlJO0",
+      "url": "https://www.youtube.com/watch?v=cFQppyHlJO0",
+      "label": "Трейлер",
+      "channel": "Arrow Video",
+      "vertical": false
+    }
+  },
+  {
+    "rank": 83,
+    "title": "Sightseers",
+    "ru": "Раз! Два! Три! Умри!",
+    "year": 2012,
+    "kind": "Фильм",
+    "type": "film",
+    "tags": [
+      "Роуд-муви",
+      "Чёрный юмор",
+      "Кровь"
+    ],
+    "syn": "Пара отправляется в путешествие с караваном и крайне своеобразно реагирует на раздражителей.",
+    "why": "Бытовая мелочность сталкивается с нелепым насилием.",
+    "caveat": "Очень британский сухой тон.",
+    "dark": 5,
+    "imdb": "tt2023690",
+    "score": 6.5,
+    "kp": null,
+    "kpurl": null,
+    "image": "assets/new-f-83.jpg",
+    "source": "https://www.imdb.com/title/tt2023690/",
+    "rezka": "https://hdrezka.me/films/comedy/331-raz-dva-tri-umri-2012.html",
+    "trailer": {
+      "videoId": "RQLE6QWleCo",
+      "url": "https://www.youtube.com/watch?v=RQLE6QWleCo",
+      "label": "Трейлер",
+      "channel": "Independent Film Company",
+      "vertical": false
+    }
+  },
+  {
+    "rank": 84,
+    "title": "The Voices",
+    "ru": "Голоса",
+    "year": 2014,
+    "kind": "Фильм",
+    "type": "film",
+    "tags": [
+      "Чёрный юмор",
+      "Хоррор",
+      "Абсурд"
+    ],
+    "syn": "Дружелюбный рабочий обсуждает личную жизнь с котом и собакой, чьи советы сильно расходятся.",
+    "why": "Милый фасад и жуткая изнанка неожиданно меняются местами.",
+    "caveat": "Есть графическое насилие и тяжёлая психическая тема.",
+    "dark": 5,
+    "imdb": "tt1567437",
+    "score": 6.3,
+    "kp": null,
+    "kpurl": null,
+    "image": "assets/new-f-84.jpg",
+    "source": "https://www.imdb.com/title/tt1567437/",
+    "rezka": "https://hdrezka.me/films/thriller/8188-golosa-2014.html",
+    "trailer": {
+      "videoId": "aKp-lDM5fus",
+      "url": "https://www.youtube.com/watch?v=aKp-lDM5fus",
+      "label": "Трейлер",
+      "channel": "Arrow Films",
+      "vertical": false
+    }
+  },
+  {
+    "rank": 85,
+    "title": "The Lobster",
+    "ru": "Лобстер",
+    "year": 2015,
+    "kind": "Фильм",
+    "type": "film",
+    "tags": [
+      "Антиутопия",
+      "Абсурд",
+      "Сухой юмор"
+    ],
+    "syn": "В странном обществе одинокому человеку дают 45 дней на поиск пары.",
+    "why": "Уникальная жестокая логика мира и абсолютно серьёзная подача нелепостей.",
+    "caveat": "Медленный артхаусный ритм.",
+    "dark": 4,
+    "imdb": "tt3464902",
+    "score": 7.1,
+    "kp": null,
+    "kpurl": null,
+    "image": "assets/new-f-85.jpg",
+    "source": "https://www.imdb.com/title/tt3464902/",
+    "rezka": "https://hdrezka.me/films/fiction/17974-lobster-2015.html",
+    "trailer": {
+      "videoId": "LTNZmOJxuAc",
+      "url": "https://www.youtube.com/watch?v=LTNZmOJxuAc",
+      "label": "Трейлер",
+      "channel": "A24",
+      "vertical": false
+    }
+  }
+]

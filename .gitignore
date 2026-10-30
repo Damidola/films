@@ -1,0 +1,20 @@
+*.tar.gz
+*.tsv.gz
+new-page-*.html
+expand-a-progress-*.json
+
+tests/*.png
+
+.site-build/
+
+__pycache__/
+
+node_modules/
+research/review-pages/
+
+# Local build output and archived releases
+.site-build/
+*.tar.gz
+node_modules/
+.env
+.env.*

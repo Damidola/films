@@ -1,0 +1,36 @@
+{
+  "checkedAt": "2026-10-20T19:26:01.813Z",
+  "target": 3,
+  "processed": 3,
+  "withTwenty": 3,
+  "blocked": false,
+  "items": [
+    {
+      "workId": 557,
+      "title": "Bullet Train",
+      "status": "ok",
+      "count": 20,
+      "url": "https://hdrezka.me/films/action/47246-bystree-puli-2022.html",
+      "basis": "exact-original-title-year",
+      "allAvailable": false
+    },
+    {
+      "workId": 566,
+      "title": "Gringo",
+      "status": "ok",
+      "count": 20,
+      "url": "https://hdrezka.me/films/action/27766-opasnyy-biznes-2018.html",
+      "basis": "exact-original-title-year",
+      "allAvailable": false
+    },
+    {
+      "workId": 570,
+      "title": "The Unbearable Weight of Massive Talent",
+      "status": "ok",
+      "count": 20,
+      "url": "https://hdrezka.me/films/action/44983-nevynosimaya-tyazhest-ogromnogo-talanta-2022.html",
+      "basis": "exact-original-title-year",
+      "allAvailable": false
+    }
+  ]
+}

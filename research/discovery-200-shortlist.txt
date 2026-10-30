@@ -1,0 +1,100 @@
+The Franchise|2024|series|Франшиза|satire
+Avenue 5|2020|series|Авеню 5|satire
+Better Off Ted|2009|series|Давай ещё, Тед|satire
+BrainDead|2016|series|Безмозглые|satire
+W1A|2014|series|W1A|satire
+Twenty Twelve|2011|series|Двадцать двенадцать|satire
+Ambassadors|2013|series|Послы|satire
+A Young Doctor's Notebook|2012|series|Записки юного врача|dry
+A.P. Bio|2018|series|Курс биологии|dry
+Review with Myles Barlow|2008|series|Обзор с Майлзом Барлоу|awkward
+Paul T. Goldman|2023|series|Пол Т. Голдман|awkward
+The Joe Schmo Show|2003|series|Шоу Джо Шмо|awkward
+Nirvanna the Band the Show|2017|series|Нирванна: Группа: Шоу|awkward
+Documentary Now!|2015|series|Документалистика сегодня!|satire
+Sherman's Showcase|2019|series|Витрина Шермана|satire
+Portlandia|2011|series|Портландия|satire
+Comedy Bang! Bang!|2012|series|Комедия Бэнг! Бэнг!|weird
+Sprung|2022|series|Побег|crime
+Killing It|2022|series|На полную катушку|satire
+The Outlaws|2021|series|Нарушители|crime
+No Activity|2017|series|Ничего не происходит|crime
+No Activity|2015|series|Ничего не происходит|crime
+Perpetual Grace, LTD|2019|series|Предприятие «Божий дар»|crime
+Deadloch|2023|series|Дэдлок|crime
+Obituary|2023|series|Некролог|crime
+Boat Story|2023|series|История лодки|crime
+Jett|2019|series|Джетт|crime
+Reprisal|2019|series|Возмездие|crime
+Gangs of London|2020|series|Банды Лондона|crime
+Kin|2021|series|Родня|crime
+Love/Hate|2010|series|Любовь/Ненависть|crime
+Brotherhood|2006|series|Братья|crime
+Sneaky Pete|2015|series|Подлый Пит|crime
+Animal Kingdom|2016|series|По волчьим законам|crime
+Good Behavior|2016|series|Хорошее поведение|crime
+Terriers|2010|series|Терьеры|crime
+Bad Monkey|2024|series|Плохая обезьяна|crime
+The Baby|2022|series|Малыш|horror
+Wolf Like Me|2022|series|Волк как я|horror
+Shining Vale|2022|series|Сияющая долина|horror
+Crazyhead|2016|series|Безбашенные|horror
+Truth Seekers|2020|series|Искатели правды|horror
+Deadbeat|2014|series|На службе у дьявола|weird
+Ghosts|2019|series|Призраки|weird
+Ghosts|2021|series|Призраки|weird
+People of Earth|2016|series|Земляне|weird
+The Last Man on Earth|2015|series|Последний человек на Земле|weird
+The Completely Made-Up Adventures of Dick Turpin|2024|series|Вымышленные приключения Дика Турпина|weird
+Another Period|2015|series|Другой период|satire
+Drunk History|2013|series|Пьяная история|satire
+The Windsors|2016|series|Виндзоры|satire
+The Politician|2019|series|Политик|satire
+Blunt Talk|2015|series|Прямой эфир|satire
+Graves|2016|series|Грейвс|satire
+House of Lies|2012|series|Обитель лжи|satire
+The Newsreader|2021|series|Диктор новостей|dry
+Fired on Mars|2023|series|Уволенный на Марсе|animated
+Exploding Kittens|2024|series|Взрывные котята|animated
+Agent Elvis|2023|series|Агент Элвис|animated
+Captain Fall|2023|series|Капитан Фолл|animated
+The Second Best Hospital in the Galaxy|2024|series|Вторая лучшая больница в галактике|animated
+Carol & the End of the World|2023|series|Кэрол и конец света|animated
+Scavengers Reign|2023|series|Царство падальщиков|animated
+Pantheon|2022|series|Пантеон|animated
+The Legend of Vox Machina|2022|series|Легенда о Vox Machina|animated
+Doom Patrol|2019|series|Роковой патруль|weird
+Resident Alien|2021|series|Засланец из космоса|weird
+Future Man|2017|series|Человек будущего|weird
+Happyish|2015|series|Типа счастье|dry
+Flaked|2016|series|С чистого листа|dry
+Brockmire|2017|series|Брокмайр|dry
+The Jim Jefferies Show|2017|series|Шоу Джима Джеффериса|satire
+Legit|2013|series|В норме|dry
+Reno 911!|2003|series|Рино 911|satire
+Detroiters|2017|series|Детройтцы|dry
+Black Monday|2019|series|Чёрный понедельник|satire
+In the Know|2024|series|В курсе|satire
+The Studio|2025|series|Киностудия|satire
+Deli Boys|2025|series|Дели Бойз|crime
+Government Cheese|2025|series|Правительственный сыр|weird
+Common Law|2012|series|Общее дело|crime
+Lodge 49|2018|series|Ложа 49|weird
+Wayward Pines|2015|series|Сосны|weird
+Upright|2019|series|Пианино|dry
+This Is Going to Hurt|2022|series|Будет больно|dry
+The Cleaner|2021|series|Уборщик|dry
+The Job|2001|series|Работа|crime
+Lucky Louie|2006|series|Счастливчик Луи|dry
+Hello Ladies|2013|series|Давай знакомиться|awkward
+Life's Too Short|2011|series|Жизнь так коротка|awkward
+Ill Behaviour|2017|series|Дурное поведение|crime
+Sick Note|2017|series|По болезни|crime
+White Gold|2017|series|Белое золото|satire
+Year of the Rabbit|2019|series|Год кролика|crime
+A Touch of Cloth|2012|series|Прикосновение ткани|crime
+Mandy|2019|series|Мэнди|dry
+Tires|2024|series|Шины|dry
+The Mick|2017|series|Мик|dry
+Santa Clarita Diet|2017|series|Диета из Санта-Клариты|horror
+Hot Fuzz|2007|film|Типа крутые легавые|crime

@@ -1,0 +1,807 @@
+{
+  "checkedAt": "2026-10-19T14:37:46.351Z",
+  "count": 200,
+  "series": 139,
+  "items": [
+    {
+      "rank": 8,
+      "title": "The Chair Company"
+    },
+    {
+      "rank": 11,
+      "title": "Bookie"
+    },
+    {
+      "rank": 82,
+      "title": "Cheap Thrills"
+    },
+    {
+      "rank": 95,
+      "title": "Housebound"
+    },
+    {
+      "rank": 98,
+      "title": "Hundreds of Beavers"
+    },
+    {
+      "rank": 102,
+      "title": "Shameless"
+    },
+    {
+      "rank": 116,
+      "title": "Boardwalk Empire"
+    },
+    {
+      "rank": 141,
+      "title": "Band of Brothers"
+    },
+    {
+      "rank": 147,
+      "title": "House, M.D."
+    },
+    {
+      "rank": 148,
+      "title": "Firefly"
+    },
+    {
+      "rank": 151,
+      "title": "The Shield"
+    },
+    {
+      "rank": 163,
+      "title": "Dexter"
+    },
+    {
+      "rank": 168,
+      "title": "The Wire"
+    },
+    {
+      "rank": 169,
+      "title": "Breaking Bad"
+    },
+    {
+      "rank": 177,
+      "title": "Sons of Anarchy"
+    },
+    {
+      "rank": 204,
+      "title": "Hannibal"
+    },
+    {
+      "rank": 205,
+      "title": "Rick and Morty"
+    },
+    {
+      "rank": 211,
+      "title": "The Terror"
+    },
+    {
+      "rank": 214,
+      "title": "Shôgun"
+    },
+    {
+      "rank": 215,
+      "title": "Mob City"
+    },
+    {
+      "rank": 217,
+      "title": "Fargo"
+    },
+    {
+      "rank": 219,
+      "title": "Quarry"
+    },
+    {
+      "rank": 220,
+      "title": "Bosch"
+    },
+    {
+      "rank": 223,
+      "title": "Gomorrah"
+    },
+    {
+      "rank": 225,
+      "title": "Twin Peaks: The Return"
+    },
+    {
+      "rank": 234,
+      "title": "Mindhunter"
+    },
+    {
+      "rank": 235,
+      "title": "Dirk Gently's Holistic Detective Agency"
+    },
+    {
+      "rank": 236,
+      "title": "Barry"
+    },
+    {
+      "rank": 244,
+      "title": "El Chapo"
+    },
+    {
+      "rank": 248,
+      "title": "The End of the F***ing World"
+    },
+    {
+      "rank": 252,
+      "title": "Invincible"
+    },
+    {
+      "rank": 256,
+      "title": "Chernobyl"
+    },
+    {
+      "rank": 269,
+      "title": "Black Bird"
+    },
+    {
+      "rank": 270,
+      "title": "1883"
+    },
+    {
+      "rank": 280,
+      "title": "MobLand"
+    },
+    {
+      "rank": 281,
+      "title": "Dexter: Resurrection"
+    },
+    {
+      "rank": 285,
+      "title": "Better Call Saul"
+    },
+    {
+      "rank": 286,
+      "title": "Severance"
+    },
+    {
+      "rank": 287,
+      "title": "Beef"
+    },
+    {
+      "rank": 288,
+      "title": "Dead to Me"
+    },
+    {
+      "rank": 289,
+      "title": "Living with Yourself"
+    },
+    {
+      "rank": 291,
+      "title": "After Life"
+    },
+    {
+      "rank": 295,
+      "title": "Veep"
+    },
+    {
+      "rank": 297,
+      "title": "Community"
+    },
+    {
+      "rank": 298,
+      "title": "Party Down"
+    },
+    {
+      "rank": 299,
+      "title": "Silicon Valley"
+    },
+    {
+      "rank": 302,
+      "title": "Detectorists"
+    },
+    {
+      "rank": 303,
+      "title": "Rake"
+    },
+    {
+      "rank": 304,
+      "title": "The Gentlemen"
+    },
+    {
+      "rank": 305,
+      "title": "Brassic"
+    },
+    {
+      "rank": 306,
+      "title": "Mr. Mercedes"
+    },
+    {
+      "rank": 307,
+      "title": "Utopia"
+    },
+    {
+      "rank": 308,
+      "title": "Preacher"
+    },
+    {
+      "rank": 310,
+      "title": "Curb Your Enthusiasm"
+    },
+    {
+      "rank": 312,
+      "title": "Bored to Death"
+    },
+    {
+      "rank": 314,
+      "title": "Kevin Can F**k Himself"
+    },
+    {
+      "rank": 315,
+      "title": "Atlanta"
+    },
+    {
+      "rank": 316,
+      "title": "You're the Worst"
+    },
+    {
+      "rank": 319,
+      "title": "The Other Two"
+    },
+    {
+      "rank": 321,
+      "title": "Wellington Paranormal"
+    },
+    {
+      "rank": 322,
+      "title": "What We Do in the Shadows"
+    },
+    {
+      "rank": 325,
+      "title": "Murderville"
+    },
+    {
+      "rank": 327,
+      "title": "Mrs. Davis"
+    },
+    {
+      "rank": 328,
+      "title": "Fleabag"
+    },
+    {
+      "rank": 329,
+      "title": "Bad Sisters"
+    },
+    {
+      "rank": 330,
+      "title": "Based on a True Story"
+    },
+    {
+      "rank": 331,
+      "title": "Poker Face"
+    },
+    {
+      "rank": 332,
+      "title": "Bodkin"
+    },
+    {
+      "rank": 333,
+      "title": "The Brothers Sun"
+    },
+    {
+      "rank": 334,
+      "title": "Burn After Reading"
+    },
+    {
+      "rank": 335,
+      "title": "The Nice Guys"
+    },
+    {
+      "rank": 336,
+      "title": "Kiss Kiss Bang Bang"
+    },
+    {
+      "rank": 337,
+      "title": "Snatch"
+    },
+    {
+      "rank": 338,
+      "title": "The Gentlemen"
+    },
+    {
+      "rank": 339,
+      "title": "RocknRolla"
+    },
+    {
+      "rank": 340,
+      "title": "The Banshees of Inisherin"
+    },
+    {
+      "rank": 341,
+      "title": "The Grand Budapest Hotel"
+    },
+    {
+      "rank": 343,
+      "title": "Three Billboards Outside Ebbing, Missouri"
+    },
+    {
+      "rank": 346,
+      "title": "A Serious Man"
+    },
+    {
+      "rank": 347,
+      "title": "The Ballad of Buster Scruggs"
+    },
+    {
+      "rank": 349,
+      "title": "Bad Santa"
+    },
+    {
+      "rank": 350,
+      "title": "Super"
+    },
+    {
+      "rank": 351,
+      "title": "Intolerable Cruelty"
+    },
+    {
+      "rank": 352,
+      "title": "God Bless America"
+    },
+    {
+      "rank": 353,
+      "title": "Hail, Caesar!"
+    },
+    {
+      "rank": 354,
+      "title": "Defendor"
+    },
+    {
+      "rank": 355,
+      "title": "World's Greatest Dad"
+    },
+    {
+      "rank": 356,
+      "title": "Death to Smoochy"
+    },
+    {
+      "rank": 357,
+      "title": "Shaun of the Dead"
+    },
+    {
+      "rank": 358,
+      "title": "The World's End"
+    },
+    {
+      "rank": 359,
+      "title": "Scott Pilgrim vs. the World"
+    },
+    {
+      "rank": 361,
+      "title": "Ready or Not"
+    },
+    {
+      "rank": 362,
+      "title": "The Cabin in the Woods"
+    },
+    {
+      "rank": 363,
+      "title": "Zombieland"
+    },
+    {
+      "rank": 369,
+      "title": "Bodies Bodies Bodies"
+    },
+    {
+      "rank": 370,
+      "title": "Mayhem"
+    },
+    {
+      "rank": 371,
+      "title": "American Fiction"
+    },
+    {
+      "rank": 372,
+      "title": "Sorry to Bother You"
+    },
+    {
+      "rank": 373,
+      "title": "The Holdovers"
+    },
+    {
+      "rank": 374,
+      "title": "Sideways"
+    },
+    {
+      "rank": 375,
+      "title": "The Descendants"
+    },
+    {
+      "rank": 377,
+      "title": "Jojo Rabbit"
+    },
+    {
+      "rank": 381,
+      "title": "Ingrid Goes West"
+    },
+    {
+      "rank": 382,
+      "title": "The Disaster Artist"
+    },
+    {
+      "rank": 384,
+      "title": "Good Time"
+    },
+    {
+      "rank": 385,
+      "title": "The Killing of a Sacred Deer"
+    },
+    {
+      "rank": 386,
+      "title": "The Double"
+    },
+    {
+      "rank": 387,
+      "title": "Swiss Army Man"
+    },
+    {
+      "rank": 388,
+      "title": "Enemy"
+    },
+    {
+      "rank": 389,
+      "title": "Game Night"
+    },
+    {
+      "rank": 390,
+      "title": "Palm Springs"
+    },
+    {
+      "rank": 391,
+      "title": "The Kid Detective"
+    },
+    {
+      "rank": 392,
+      "title": "Vengeance"
+    },
+    {
+      "rank": 394,
+      "title": "Confess, Fletch"
+    },
+    {
+      "rank": 395,
+      "title": "BoJack Horseman"
+    },
+    {
+      "rank": 396,
+      "title": "Archer"
+    },
+    {
+      "rank": 397,
+      "title": "Inside Job"
+    },
+    {
+      "rank": 398,
+      "title": "Solar Opposites"
+    },
+    {
+      "rank": 400,
+      "title": "F Is for Family"
+    },
+    {
+      "rank": 403,
+      "title": "Hit-Monkey"
+    },
+    {
+      "rank": 404,
+      "title": "Harley Quinn"
+    },
+    {
+      "rank": 412,
+      "title": "Mary and Max"
+    },
+    {
+      "rank": 428,
+      "title": "The Dictator"
+    },
+    {
+      "rank": 429,
+      "title": "The Brink"
+    },
+    {
+      "rank": 430,
+      "title": "The Franchise"
+    },
+    {
+      "rank": 431,
+      "title": "Avenue 5"
+    },
+    {
+      "rank": 434,
+      "title": "A.P. Bio"
+    },
+    {
+      "rank": 435,
+      "title": "Documentary Now!"
+    },
+    {
+      "rank": 436,
+      "title": "Portlandia"
+    },
+    {
+      "rank": 437,
+      "title": "Killing It"
+    },
+    {
+      "rank": 438,
+      "title": "The Outlaws"
+    },
+    {
+      "rank": 439,
+      "title": "No Activity"
+    },
+    {
+      "rank": 440,
+      "title": "Perpetual Grace, LTD"
+    },
+    {
+      "rank": 441,
+      "title": "Deadloch"
+    },
+    {
+      "rank": 442,
+      "title": "Obituary"
+    },
+    {
+      "rank": 443,
+      "title": "Boat Story"
+    },
+    {
+      "rank": 444,
+      "title": "Jett"
+    },
+    {
+      "rank": 445,
+      "title": "Reprisal"
+    },
+    {
+      "rank": 446,
+      "title": "Gangs of London"
+    },
+    {
+      "rank": 447,
+      "title": "Kin"
+    },
+    {
+      "rank": 448,
+      "title": "Love/Hate"
+    },
+    {
+      "rank": 449,
+      "title": "Sneaky Pete"
+    },
+    {
+      "rank": 450,
+      "title": "Animal Kingdom"
+    },
+    {
+      "rank": 451,
+      "title": "Good Behavior"
+    },
+    {
+      "rank": 452,
+      "title": "Bad Monkey"
+    },
+    {
+      "rank": 453,
+      "title": "The Baby"
+    },
+    {
+      "rank": 454,
+      "title": "Wolf Like Me"
+    },
+    {
+      "rank": 455,
+      "title": "Shining Vale"
+    },
+    {
+      "rank": 457,
+      "title": "Truth Seekers"
+    },
+    {
+      "rank": 462,
+      "title": "The Politician"
+    },
+    {
+      "rank": 463,
+      "title": "House of Lies"
+    },
+    {
+      "rank": 465,
+      "title": "Fired on Mars"
+    },
+    {
+      "rank": 468,
+      "title": "The Second Best Hospital in the Galaxy"
+    },
+    {
+      "rank": 469,
+      "title": "Carol & the End of the World"
+    },
+    {
+      "rank": 470,
+      "title": "Scavengers Reign"
+    },
+    {
+      "rank": 471,
+      "title": "Pantheon"
+    },
+    {
+      "rank": 472,
+      "title": "The Legend of Vox Machina"
+    },
+    {
+      "rank": 473,
+      "title": "Doom Patrol"
+    },
+    {
+      "rank": 474,
+      "title": "Resident Alien"
+    },
+    {
+      "rank": 475,
+      "title": "Future Man"
+    },
+    {
+      "rank": 476,
+      "title": "Happyish"
+    },
+    {
+      "rank": 477,
+      "title": "Brockmire"
+    },
+    {
+      "rank": 478,
+      "title": "Black Monday"
+    },
+    {
+      "rank": 479,
+      "title": "The Studio"
+    },
+    {
+      "rank": 481,
+      "title": "Lodge 49"
+    },
+    {
+      "rank": 482,
+      "title": "Wayward Pines"
+    },
+    {
+      "rank": 483,
+      "title": "Upright"
+    },
+    {
+      "rank": 484,
+      "title": "This Is Going to Hurt"
+    },
+    {
+      "rank": 489,
+      "title": "Santa Clarita Diet"
+    },
+    {
+      "rank": 490,
+      "title": "Hot Fuzz"
+    },
+    {
+      "rank": 491,
+      "title": "Domina"
+    },
+    {
+      "rank": 492,
+      "title": "The Tudors"
+    },
+    {
+      "rank": 493,
+      "title": "Borgia"
+    },
+    {
+      "rank": 494,
+      "title": "Versailles"
+    },
+    {
+      "rank": 497,
+      "title": "The White Queen"
+    },
+    {
+      "rank": 499,
+      "title": "Succession"
+    },
+    {
+      "rank": 500,
+      "title": "Yellowstone"
+    },
+    {
+      "rank": 502,
+      "title": "Mayor of Kingstown"
+    },
+    {
+      "rank": 503,
+      "title": "Landman"
+    },
+    {
+      "rank": 507,
+      "title": "Magic City"
+    },
+    {
+      "rank": 508,
+      "title": "McMafia"
+    },
+    {
+      "rank": 509,
+      "title": "Tin Star"
+    },
+    {
+      "rank": 510,
+      "title": "Fortitude"
+    },
+    {
+      "rank": 514,
+      "title": "Love & Death"
+    },
+    {
+      "rank": 516,
+      "title": "White House Plumbers"
+    },
+    {
+      "rank": 517,
+      "title": "Landscapers"
+    },
+    {
+      "rank": 518,
+      "title": "Dead Ringers"
+    },
+    {
+      "rank": 523,
+      "title": "Strange Angel"
+    },
+    {
+      "rank": 524,
+      "title": "Ray Donovan"
+    },
+    {
+      "rank": 525,
+      "title": "Godfather of Harlem"
+    },
+    {
+      "rank": 527,
+      "title": "Filth"
+    },
+    {
+      "rank": 528,
+      "title": "The Wolf of Wall Street"
+    },
+    {
+      "rank": 529,
+      "title": "The Big Short"
+    },
+    {
+      "rank": 530,
+      "title": "Killer Joe"
+    },
+    {
+      "rank": 533,
+      "title": "Trance"
+    },
+    {
+      "rank": 534,
+      "title": "The Favourite"
+    },
+    {
+      "rank": 535,
+      "title": "Kinds of Kindness"
+    },
+    {
+      "rank": 536,
+      "title": "Babylon"
+    },
+    {
+      "rank": 537,
+      "title": "Triangle of Sadness"
+    },
+    {
+      "rank": 539,
+      "title": "Ex Machina"
+    }
+  ]
+}

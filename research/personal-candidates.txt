@@ -1,0 +1,176 @@
+Fargo|2014|series|Фарго|crime
+Barry|2018|series|Барри|crime
+Better Call Saul|2015|series|Лучше звоните Солу|crime
+Severance|2022|series|Разделение|weird
+Beef|2023|series|Грызня|awkward
+Shrinking|2023|series|Терапия|dry
+Dead to Me|2019|series|Прощай навсегда|crime
+Living with Yourself|2019|series|Жизнь с самим собой|weird
+The End of the F***ing World|2017|series|Конец ***го мира|crime
+After Life|2019|series|Жизнь после смерти|dry
+Derek|2012|series|Дерек|awkward
+Extras|2005|series|Массовка|awkward
+The Office|2005|series|Офис|awkward
+Parks and Recreation|2009|series|Парки и зоны отдыха|awkward
+Community|2009|series|Сообщество|weird
+Arrested Development|2003|series|Замедленное развитие|satire
+Veep|2012|series|Вице-президент|satire
+Silicon Valley|2014|series|Кремниевая долина|satire
+Party Down|2009|series|Мастера вечеринок|awkward
+Better Off Ted|2009|series|Давай ещё, Тед|satire
+Detroiters|2017|series|Детройтцы|awkward
+The Detour|2016|series|В объезд|weird
+People of Earth|2016|series|Земляне|weird
+People Just Do Nothing|2014|series|Люди просто ничего не делают|awkward
+This Country|2017|series|Эта страна|awkward
+This Way Up|2019|series|Вверх дном|dry
+Back|2017|series|Назад|dry
+Detectorists|2014|series|Кладоискатели|dry
+Rake|2010|series|Рейк|dry
+The Gentlemen|2024|series|Джентльмены|crime
+Brassic|2019|series|Голяк|crime
+Mr. Mercedes|2017|series|Мистер Мерседес|crime
+Utopia|2013|series|Утопия|weird
+Dirk Gently's Holistic Detective Agency|2016|series|Детективное агентство Дирка Джентли|weird
+Preacher|2016|series|Проповедник|horror
+Wayne|2019|series|Уэйн|crime
+Curb Your Enthusiasm|2000|series|Умерь свой энтузиазм|awkward
+Enlightened|2011|series|Просветлённая|awkward
+Baskets|2016|series|Баскетс|dry
+Bored to Death|2009|series|Смертельно скучающий|crime
+High Maintenance|2016|series|Кайф с доставкой|dry
+Kevin Can F**k Himself|2021|series|Кевин может пойти на***|satire
+You're the Worst|2014|series|Ты — воплощение порока|dry
+Atlanta|2016|series|Атланта|weird
+Reservation Dogs|2021|series|Псы резервации|dry
+Ramy|2019|series|Рами|awkward
+The Bear|2022|series|Медведь|dry
+Crashing|2017|series|По друзьям|awkward
+Legit|2013|series|В норме|dry
+The Other Two|2019|series|Другие двое|satire
+Los Espookys|2019|series|Лос Страшилкас|weird
+Wellington Paranormal|2018|series|Паранормальный Веллингтон|horror
+What We Do in the Shadows|2019|series|Чем мы заняты в тени|horror
+Our Flag Means Death|2022|series|Наш флаг означает смерть|weird
+Murderville|2022|series|Город убийств|awkward
+The Afterparty|2022|series|Афтепати|crime
+The Resort|2022|series|Курорт|crime
+Mrs. Davis|2023|series|Миссис Дэвис|weird
+Fleabag|2016|series|Дрянь|dry
+Bad Sisters|2022|series|Заговор сестёр Гарви|crime
+Bodkin|2024|series|Бодкин|crime
+Based on a True Story|2023|series|Основано на реальных событиях|crime
+Poker Face|2023|series|Покерфейс|crime
+The Brothers Sun|2024|series|Братья Сунь|crime
+Burn After Reading|2008|film|После прочтения сжечь|crime
+The Nice Guys|2016|film|Славные парни|crime
+Kiss Kiss Bang Bang|2005|film|Поцелуй навылет|crime
+Snatch|2000|film|Большой куш|crime
+RocknRolla|2008|film|Рок-н-рольщик|crime
+The Gentlemen|2019|film|Джентльмены|crime
+The Banshees of Inisherin|2022|film|Банши Инишерина|dry
+Three Billboards Outside Ebbing, Missouri|2017|film|Три билборда на границе Эббинга, Миссури|dry
+The Grand Budapest Hotel|2014|film|Отель «Гранд Будапешт»|weird
+The Royal Tenenbaums|2001|film|Семейка Тененбаум|dry
+The Darjeeling Limited|2007|film|Поезд на Дарджилинг|dry
+Moonrise Kingdom|2012|film|Королевство полной луны|weird
+The French Dispatch|2021|film|Французский вестник|weird
+Asteroid City|2023|film|Город астероидов|weird
+A Serious Man|2009|film|Серьёзный человек|dry
+The Ballad of Buster Scruggs|2018|film|Баллада Бастера Скраггса|crime
+Inside Llewyn Davis|2013|film|Внутри Льюина Дэвиса|dry
+O Brother, Where Art Thou?|2000|film|О, где же ты, брат?|crime
+Hail, Caesar!|2016|film|Да здравствует Цезарь!|satire
+Intolerable Cruelty|2003|film|Невыносимая жестокость|satire
+Bad Santa|2003|film|Плохой Санта|satire
+Super|2010|film|Супер|horror
+God Bless America|2011|film|Боже, благослови Америку|satire
+Defendor|2009|film|ЗащитнеГ|crime
+World's Greatest Dad|2009|film|Самый лучший папа|dry
+Death to Smoochy|2002|film|Убить Смучи|satire
+Shaun of the Dead|2004|film|Зомби по имени Шон|horror
+Hot Fuzz|2007|film|Типа крутые легавые|crime
+The World's End|2013|film|Армагеддец|horror
+Scott Pilgrim vs. the World|2010|film|Скотт Пилигрим против всех|weird
+Attack the Block|2011|film|Чужие на районе|horror
+Ready or Not|2019|film|Я иду искать|horror
+The Cabin in the Woods|2011|film|Хижина в лесу|horror
+Zombieland|2009|film|Добро пожаловать в Zомбилэнд|horror
+The Final Girls|2015|film|Последние девушки|horror
+Freaky|2020|film|Дичь|horror
+Happy Death Day|2017|film|Счастливого дня смерти|horror
+The Babysitter|2017|film|Няня|horror
+Totally Killer|2023|film|Конкретный убийца|horror
+Bodies Bodies Bodies|2022|film|Тела, тела, тела|horror
+Werewolves Within|2021|film|Оборотни внутри|horror
+The Hunt|2020|film|Охота|satire
+The Belko Experiment|2016|film|Эксперимент «Офис»|horror
+Mayhem|2017|film|Эксперимент «Офис» 2|horror
+Sorry to Bother You|2018|film|Простите за беспокойство|satire
+American Fiction|2023|film|Американское чтиво|satire
+The Holdovers|2023|film|Оставленные|dry
+Sideways|2004|film|На обочине|dry
+The Descendants|2011|film|Потомки|dry
+Hunt for the Wilderpeople|2016|film|Охота на дикарей|dry
+Boy|2010|film|Мальчик|dry
+Jojo Rabbit|2019|film|Кролик Джоджо|satire
+Little Miss Sunshine|2006|film|Маленькая мисс Счастье|dry
+Wristcutters: A Love Story|2006|film|Самоубийцы: История любви|weird
+Ingrid Goes West|2017|film|Ингрид едет на Запад|awkward
+The Disaster Artist|2017|film|Горе-творец|awkward
+Brigsby Bear|2017|film|Медведь Бригсби|weird
+Nightcrawler|2014|film|Стрингер|crime
+Good Time|2017|film|Хорошее время|crime
+Uncut Gems|2019|film|Неогранённые алмазы|crime
+The Killing of a Sacred Deer|2017|film|Убийство священного оленя|weird
+The Double|2013|film|Двойник|weird
+Enemy|2013|film|Враг|weird
+Swiss Army Man|2016|film|Человек — швейцарский нож|weird
+Everything Everywhere All at Once|2022|film|Всё везде и сразу|weird
+Palm Springs|2020|film|Зависнуть в Палм-Спрингс|weird
+Game Night|2018|film|Ночные игры|crime
+The Kid Detective|2020|film|Юный детектив|crime
+Vengeance|2022|film|Месть|crime
+Confess, Fletch|2022|film|Признавайся, Флетч|crime
+Weird: The Al Yankovic Story|2022|film|Странный: История Эла Янковича|satire
+BoJack Horseman|2014|series|Конь БоДжек|animated
+Archer|2009|series|Спецагент Арчер|animated
+Inside Job|2021|series|Корпорация «Заговор»|animated
+Solar Opposites|2020|series|Обратная сторона Земли|animated
+F Is for Family|2015|series|С — значит Семья|animated
+Duncanville|2020|series|Дунканвилль|animated
+The Great North|2021|series|Великий Север|animated
+Little Demon|2022|series|Маленький демонический ребёнок|animated
+Captain Fall|2023|series|Капитан Фолл|animated
+Hit-Monkey|2021|series|Хит-Манки|animated
+Harley Quinn|2019|series|Харли Квинн|animated
+Kite Man: Hell Yeah!|2024|series|Воздушный змей: Полный улёт!|animated
+The Venture Bros.|2003|series|Братья Вентура|animated
+Metalocalypse|2006|series|Металлопокалипсис|animated
+Aqua Teen Hunger Force|2000|series|Команда Фастфуд|animated
+Sealab 2021|2000|series|МорЛаб 2021|animated
+Harvey Birdman, Attorney at Law|2000|series|Харви Бёрдман|animated
+Robot Chicken|2005|series|Робоцып|animated
+Robot Dreams|2023|film|Мечты робота|animated
+The Mitchells vs. the Machines|2021|film|Митчеллы против машин|animated
+Puss in Boots: The Last Wish|2022|film|Кот в сапогах 2: Последнее желание|animated
+Nimona|2023|film|Нимона|animated
+Mary and Max|2009|film|Мэри и Макс|animated
+Anomalisa|2015|film|Аномализа|animated
+Isle of Dogs|2018|film|Остров собак|animated
+Fantastic Mr. Fox|2009|film|Бесподобный мистер Фокс|animated
+Junk Head|2017|film|Голова-утиль|animated
+
+Nathan for You|2013|series|Нэйтан спешит на помощь|seed
+Review|2014|series|Обзор|seed
+Loudermilk|2017|series|Лаудермилк|seed
+The Rehearsal|2022|series|Репетиция|seed
+Mr Inbetween|2018|series|Посредник|seed
+Inside No. 9|2014|series|Внутри девятого номера|seed
+Drawn Together|2004|series|Мультреалити|seed
+Family Guy|1999|series|Гриффины|seed
+Gary and His Demons|2018|series|Гэри и его демоны|seed
+Vermin|2018|series|Паразиты|seed
+Borat|2006|film|Борат|seed
+Tucker & Dale vs. Evil|2010|film|Убойные каникулы|seed
+11:14|2003|film|11:14|seed

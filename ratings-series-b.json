@@ -1,0 +1,122 @@
+{
+  "51": {
+    "score": 8.1,
+    "scoreSource": "https://datasets.imdbws.com/title.ratings.tsv.gz",
+    "votes": 7177,
+    "imdb": "tt0194624"
+  },
+  "70": {
+    "score": 7.6,
+    "scoreSource": "https://datasets.imdbws.com/title.ratings.tsv.gz",
+    "votes": 1940,
+    "imdb": "tt0491560"
+  },
+  "68": {
+    "score": 8.1,
+    "scoreSource": "https://datasets.imdbws.com/title.ratings.tsv.gz",
+    "votes": 8028,
+    "imdb": "tt0865409"
+  },
+  "55": {
+    "score": 7.7,
+    "scoreSource": "https://datasets.imdbws.com/title.ratings.tsv.gz",
+    "votes": 12497,
+    "imdb": "tt0912343"
+  },
+  "69": {
+    "score": 8.0,
+    "scoreSource": "https://datasets.imdbws.com/title.ratings.tsv.gz",
+    "votes": 5716,
+    "imdb": "tt1132124"
+  },
+  "54": {
+    "score": 7.5,
+    "scoreSource": "https://datasets.imdbws.com/title.ratings.tsv.gz",
+    "votes": 2692,
+    "imdb": "tt1299729"
+  },
+  "52": {
+    "score": 7.8,
+    "scoreSource": "https://datasets.imdbws.com/title.ratings.tsv.gz",
+    "votes": 8741,
+    "imdb": "tt1325113"
+  },
+  "66": {
+    "score": 7.9,
+    "scoreSource": "https://datasets.imdbws.com/title.ratings.tsv.gz",
+    "votes": 11853,
+    "imdb": "tt1621748"
+  },
+  "61": {
+    "score": 7.5,
+    "scoreSource": "https://datasets.imdbws.com/title.ratings.tsv.gz",
+    "votes": 7318,
+    "imdb": "tt1695989"
+  },
+  "59": {
+    "score": 7.8,
+    "scoreSource": "https://datasets.imdbws.com/title.ratings.tsv.gz",
+    "votes": 45858,
+    "imdb": "tt1703925"
+  },
+  "58": {
+    "score": 7.3,
+    "scoreSource": "https://datasets.imdbws.com/title.ratings.tsv.gz",
+    "votes": 2288,
+    "imdb": "tt1728860"
+  },
+  "53": {
+    "score": 7.3,
+    "scoreSource": "https://datasets.imdbws.com/title.ratings.tsv.gz",
+    "votes": 3549,
+    "imdb": "tt1783495"
+  },
+  "65": {
+    "score": 7.7,
+    "scoreSource": "https://datasets.imdbws.com/title.ratings.tsv.gz",
+    "votes": 5961,
+    "imdb": "tt1835129"
+  },
+  "67": {
+    "score": 7.1,
+    "scoreSource": "https://datasets.imdbws.com/title.ratings.tsv.gz",
+    "votes": 2769,
+    "imdb": "tt2058221"
+  },
+  "63": {
+    "score": 8.1,
+    "scoreSource": "https://datasets.imdbws.com/title.ratings.tsv.gz",
+    "votes": 46210,
+    "imdb": "tt2452242"
+  },
+  "57": {
+    "score": 9.2,
+    "scoreSource": "https://datasets.imdbws.com/title.ratings.tsv.gz",
+    "votes": 1984,
+    "imdb": "tt3204810"
+  },
+  "56": {
+    "score": 7.7,
+    "scoreSource": "https://datasets.imdbws.com/title.ratings.tsv.gz",
+    "votes": 2794,
+    "imdb": "tt3292726"
+  },
+  "64": {
+    "score": 8.4,
+    "scoreSource": "https://datasets.imdbws.com/title.ratings.tsv.gz",
+    "votes": 86959,
+    "imdb": "tt4189022"
+  },
+  "60": {
+    "score": 7.8,
+    "scoreSource": "https://datasets.imdbws.com/title.ratings.tsv.gz",
+    "votes": 11761,
+    "imdb": "tt4189492"
+  },
+  "62": {
+    "score": 8.2,
+    "scoreSource": "https://datasets.imdbws.com/title.ratings.tsv.gz",
+    "votes": 9477,
+    "imdb": "tt5761496"
+  }
+}

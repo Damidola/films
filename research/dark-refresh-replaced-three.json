@@ -1,0 +1,331 @@
+{
+  "items": [
+    {
+      "rank": 557,
+      "title": "Bullet Train",
+      "ru": "Быстрее пули",
+      "type": "film",
+      "year": 2022,
+      "kpurl": "https://www.kinopoisk.ru/film/1392550/",
+      "imdb": "tt12593682",
+      "score": 7.3,
+      "kp": 7.69,
+      "kpVotes": 314051,
+      "scoreSource": "https://rating.kinopoisk.ru/1392550.xml",
+      "kpSource": "https://rating.kinopoisk.ru/1392550.xml",
+      "kpVerifiedAt": "2026-10-20T19:24:31.811597+00:00",
+      "rezka": "https://hdrezka.asia/filmy/bullet-train-2022",
+      "kinogo": "https://kinogo.lifestyle/filmy/bullet-train-2022",
+      "source": "https://hdrezka.asia/filmy/bullet-train-2022",
+      "image": "https://hdrezka.asia/media/posters/bullet-train-2022.webp?v=afec038cd48f0f66",
+      "syn": "Наёмник под кодовым именем Божья Коровка отправляется на новую миссию: вместо заболевшего коллеги он должен сесть в скоростной поезд Токио — Киото, выкрасть чемоданчик и сойти на промежуточной стан...",
+      "tags": [
+        "Боевик",
+        "Комедия",
+        "Криминал",
+        "Чёрный юмор",
+        "Криминальная комедия",
+        "Диалоги",
+        "Цинизм"
+      ],
+      "kind": "Фильм",
+      "editorialWhy": "В одном поезде сталкиваются наёмные убийцы, чужие планы и очень разные характеры. Подходит по чёрным шуткам, криминальным совпадениям, язвительным перепалкам и тому, как небольшая задача превращается в кровавый хаос.",
+      "caveat": "Очень стилизованный и шумный комедийный боевик; реалистичности здесь немного.",
+      "recommendationEvidence": [
+        540,
+        337
+      ],
+      "tasteConnections": {
+        "337": {
+          "reason": "В одном поезде сталкиваются наёмные убийцы, чужие планы и очень разные характеры. Подходит по чёрным шуткам, криминальным совпадениям, язвительным перепалкам и тому, как небольшая задача превращается в кровавый хаос.",
+          "caveat": "Очень стилизованный и шумный комедийный боевик; реалистичности здесь немного."
+        },
+        "540": {
+          "reason": "В одном поезде сталкиваются наёмные убийцы, чужие планы и очень разные характеры. Подходит по чёрным шуткам, криминальным совпадениям, язвительным перепалкам и тому, как небольшая задача превращается в кровавый хаос.",
+          "caveat": "Очень стилизованный и шумный комедийный боевик; реалистичности здесь немного."
+        }
+      },
+      "candidatePool": true,
+      "productionCountries": [
+        "США"
+      ],
+      "trailer": {
+        "videoId": "0IOsk2Vlc4o",
+        "url": "https://www.youtube.com/watch?v=0IOsk2Vlc4o",
+        "title": "BULLET TRAIN - Official Trailer (HD)",
+        "channel": "Sony Pictures Entertainment",
+        "kind": "trailer",
+        "duration": 164,
+        "language": "en",
+        "languageBasis": "English captions or original-language publisher trailer",
+        "maxHeight": 1080,
+        "verifiedAt": "2026-10-20T19:24:31.811597+00:00",
+        "availability": {
+          "embed": true,
+          "regions": [
+            "UA",
+            "RU"
+          ],
+          "checkedAt": "2026-10-20T19:24:31.811597+00:00",
+          "source": "YouTube public player metadata"
+        }
+      },
+      "trailerAlternates": [
+        {
+          "videoId": "EGeJczJvWns",
+          "url": "https://www.youtube.com/watch?v=EGeJczJvWns",
+          "title": "BULLET TRAIN - Official Trailer 2 (HD)",
+          "channel": "Sony Pictures Entertainment",
+          "kind": "trailer",
+          "duration": 159,
+          "language": "en",
+          "languageBasis": "English captions or original-language publisher trailer",
+          "maxHeight": 1080,
+          "verifiedAt": "2026-10-20T19:24:31.811597+00:00",
+          "availability": {
+            "embed": true,
+            "regions": [
+              "UA",
+              "RU"
+            ],
+            "checkedAt": "2026-10-20T19:24:31.811597+00:00",
+            "source": "YouTube public player metadata"
+          }
+        }
+      ],
+      "addedFrom": "dark-humor-50-2026-10-20",
+      "providerVerification": {
+        "rezka": {
+          "url": "https://hdrezka.asia/filmy/bullet-train-2022",
+          "basis": "exact-kinopoisk-id",
+          "checkedAt": "2026-10-20T19:24:31.811597+00:00"
+        },
+        "kinogo": {
+          "url": "https://kinogo.lifestyle/filmy/bullet-train-2022",
+          "basis": "exact-kinopoisk-id",
+          "checkedAt": "2026-10-20T19:25:58.248Z"
+        }
+      },
+      "runtime": 126
+    },
+    {
+      "rank": 566,
+      "title": "Gringo",
+      "ru": "Опасный бизнес",
+      "type": "film",
+      "year": 2018,
+      "kpurl": "https://www.kinopoisk.ru/film/958501/",
+      "imdb": "tt3721964",
+      "score": 6.1,
+      "kp": 6.713,
+      "kpVotes": 56271,
+      "scoreSource": "https://rating.kinopoisk.ru/958501.xml",
+      "kpSource": "https://rating.kinopoisk.ru/958501.xml",
+      "kpVerifiedAt": "2026-10-20T19:24:31.811597+00:00",
+      "rezka": "https://hdrezka.asia/filmy/gringo-2018",
+      "kinogo": "https://kinogo.lifestyle/filmy/gringo-2018",
+      "source": "https://hdrezka.asia/filmy/gringo-2018",
+      "image": "https://hdrezka.asia/media/posters/gringo-2018.webp?v=7b0efb5fbe5c90ef",
+      "syn": "Главный герой – менеджер небольшой фармацевтической компании Гарольд Сойинка. Президентом компании является его старый друг Ричард, который вместе со своим партнёром планирует продать компанию и ос...",
+      "tags": [
+        "Боевик",
+        "Драма",
+        "Комедия",
+        "Криминал",
+        "Чёрный юмор",
+        "Криминальная комедия",
+        "Диалоги",
+        "Цинизм"
+      ],
+      "kind": "Фильм",
+      "editorialWhy": "Человек, который считает себя обычным сотрудником, оказывается между корпоративной аферой и настоящими преступниками. Может зайти по цинизму окружающих, опасным гостям, разным корыстным мотивам и постоянной путанице вокруг обмана.",
+      "caveat": "Криминальная сатира перемежается драмой и экшеном; шутки не идут непрерывно.",
+      "recommendationEvidence": [
+        540,
+        528
+      ],
+      "tasteConnections": {
+        "528": {
+          "reason": "Человек, который считает себя обычным сотрудником, оказывается между корпоративной аферой и настоящими преступниками. Может зайти по цинизму окружающих, опасным гостям, разным корыстным мотивам и постоянной путанице вокруг обмана.",
+          "caveat": "Криминальная сатира перемежается драмой и экшеном; шутки не идут непрерывно."
+        },
+        "540": {
+          "reason": "Человек, который считает себя обычным сотрудником, оказывается между корпоративной аферой и настоящими преступниками. Может зайти по цинизму окружающих, опасным гостям, разным корыстным мотивам и постоянной путанице вокруг обмана.",
+          "caveat": "Криминальная сатира перемежается драмой и экшеном; шутки не идут непрерывно."
+        }
+      },
+      "candidatePool": true,
+      "productionCountries": [
+        "Австралия",
+        "Мексика",
+        "США"
+      ],
+      "trailer": {
+        "videoId": "0joyPQb6UUw",
+        "url": "https://www.youtube.com/watch?v=0joyPQb6UUw",
+        "title": "GRINGO Official Trailer (2018)",
+        "channel": "Movie Trailers Source",
+        "kind": "trailer",
+        "duration": 155,
+        "language": "en",
+        "languageBasis": "English automatic speech transcript",
+        "maxHeight": 1080,
+        "verifiedAt": "2026-10-20T19:24:31.811597+00:00",
+        "availability": {
+          "embed": true,
+          "regions": [
+            "UA",
+            "RU"
+          ],
+          "checkedAt": "2026-10-20T19:24:31.811597+00:00",
+          "source": "YouTube public player metadata"
+        }
+      },
+      "trailerAlternates": [
+        {
+          "videoId": "7-bZLM3I-C0",
+          "url": "https://www.youtube.com/watch?v=7-bZLM3I-C0",
+          "title": "Gringo Trailer #1 (2018) | Moveiclips Trailers",
+          "channel": "Rotten Tomatoes Trailers",
+          "kind": "trailer",
+          "duration": 140,
+          "language": "en",
+          "languageBasis": "English automatic speech transcript",
+          "maxHeight": 1080,
+          "verifiedAt": "2026-10-20T19:24:31.811597+00:00",
+          "availability": {
+            "embed": true,
+            "regions": [
+              "UA",
+              "RU"
+            ],
+            "checkedAt": "2026-10-20T19:24:31.811597+00:00",
+            "source": "YouTube public player metadata"
+          }
+        }
+      ],
+      "addedFrom": "dark-humor-50-2026-10-20",
+      "providerVerification": {
+        "rezka": {
+          "url": "https://hdrezka.asia/filmy/gringo-2018",
+          "basis": "exact-kinopoisk-id",
+          "checkedAt": "2026-10-20T19:24:31.811597+00:00"
+        },
+        "kinogo": {
+          "url": "https://kinogo.lifestyle/filmy/gringo-2018",
+          "basis": "exact-kinopoisk-id",
+          "checkedAt": "2026-10-20T19:25:58.248Z"
+        }
+      },
+      "runtime": 111
+    },
+    {
+      "rank": 570,
+      "title": "The Unbearable Weight of Massive Talent",
+      "ru": "Невыносимая тяжесть огромного таланта",
+      "type": "film",
+      "year": 2022,
+      "kpurl": "https://www.kinopoisk.ru/film/1345617/",
+      "imdb": "tt11291274",
+      "score": 7,
+      "kp": 7.071,
+      "kpVotes": 78657,
+      "scoreSource": "https://rating.kinopoisk.ru/1345617.xml",
+      "kpSource": "https://rating.kinopoisk.ru/1345617.xml",
+      "kpVerifiedAt": "2026-10-20T19:24:31.811597+00:00",
+      "rezka": "https://hdrezka.asia/filmy/the-unbearable-weight-of-massive-talent-2022",
+      "kinogo": "https://kinogo.lifestyle/filmy/the-unbearable-weight-of-massive-talent-2022",
+      "source": "https://hdrezka.asia/filmy/the-unbearable-weight-of-massive-talent-2022",
+      "image": "https://hdrezka.asia/media/posters/the-unbearable-weight-of-massive-talent-2022.webp?v=b780b92ccb99114d",
+      "syn": "Некогда востребованный актёр Николас Кейдж переживает затянувшийся кризис среднего возраста: карьера требует камбэка; бывшая жена и 16-летняя дочь устали от его раздутого эго; отелю, в котором он ж...",
+      "tags": [
+        "Боевик",
+        "Комедия",
+        "Криминал",
+        "Чёрный юмор",
+        "Криминальная комедия",
+        "Диалоги",
+        "Цинизм"
+      ],
+      "kind": "Фильм",
+      "editorialWhy": "Николас Кейдж играет версию самого себя и попадает в криминальную историю благодаря работе актёром. Подходит по самоиронии, конфликту ярких характеров и переходу от смешной жизненной ситуации к опасной авантюре.",
+      "caveat": "Много шуток о кино и актёрской карьере; тон дружелюбнее «Кровавого четверга».",
+      "recommendationEvidence": [
+        382,
+        540
+      ],
+      "tasteConnections": {
+        "382": {
+          "reason": "Николас Кейдж играет версию самого себя и попадает в криминальную историю благодаря работе актёром. Подходит по самоиронии, конфликту ярких характеров и переходу от смешной жизненной ситуации к опасной авантюре.",
+          "caveat": "Много шуток о кино и актёрской карьере; тон дружелюбнее «Кровавого четверга»."
+        },
+        "540": {
+          "reason": "Николас Кейдж играет версию самого себя и попадает в криминальную историю благодаря работе актёром. Подходит по самоиронии, конфликту ярких характеров и переходу от смешной жизненной ситуации к опасной авантюре.",
+          "caveat": "Много шуток о кино и актёрской карьере; тон дружелюбнее «Кровавого четверга»."
+        }
+      },
+      "candidatePool": true,
+      "productionCountries": [
+        "США"
+      ],
+      "trailer": {
+        "videoId": "CKTRbKch2K4",
+        "url": "https://www.youtube.com/watch?v=CKTRbKch2K4",
+        "title": "The Unbearable Weight of Massive Talent (2022 Movie) Official Trailer – Nicolas Cage",
+        "channel": "Lionsgate Movies",
+        "kind": "trailer",
+        "duration": 150,
+        "language": "en",
+        "languageBasis": "English captions or original-language publisher trailer",
+        "maxHeight": 1440,
+        "verifiedAt": "2026-10-20T19:24:31.811597+00:00",
+        "availability": {
+          "embed": true,
+          "regions": [
+            "UA",
+            "RU"
+          ],
+          "checkedAt": "2026-10-20T19:24:31.811597+00:00",
+          "source": "YouTube public player metadata"
+        }
+      },
+      "trailerAlternates": [
+        {
+          "videoId": "x2YHPZMj8r4",
+          "url": "https://www.youtube.com/watch?v=x2YHPZMj8r4",
+          "title": "The Unbearable Weight of Massive Talent (2022 Movie) Official Red Band Trailer – Nicolas Cage",
+          "channel": "Lionsgate Movies",
+          "kind": "trailer",
+          "duration": 171,
+          "language": "en",
+          "languageBasis": "English captions or original-language publisher trailer",
+          "maxHeight": 1440,
+          "verifiedAt": "2026-10-20T19:24:31.811597+00:00",
+          "availability": {
+            "embed": true,
+            "regions": [
+              "UA",
+              "RU"
+            ],
+            "checkedAt": "2026-10-20T19:24:31.811597+00:00",
+            "source": "YouTube public player metadata"
+          }
+        }
+      ],
+      "addedFrom": "dark-humor-50-2026-10-20",
+      "providerVerification": {
+        "rezka": {
+          "url": "https://hdrezka.asia/filmy/the-unbearable-weight-of-massive-talent-2022",
+          "basis": "exact-kinopoisk-id",
+          "checkedAt": "2026-10-20T19:24:31.811597+00:00"
+        },
+        "kinogo": {
+          "url": "https://kinogo.lifestyle/filmy/the-unbearable-weight-of-massive-talent-2022",
+          "basis": "exact-kinopoisk-id",
+          "checkedAt": "2026-10-20T19:25:58.248Z"
+        }
+      },
+      "runtime": 105
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "checkedAt": "2026-10-18T16:38:27.631081+00:00",
+  "added": [
+    {
+      "rank": 428,
+      "title": "The Dictator",
+      "evidence": [
+        422,
+        50,
+        30
+      ],
+      "trailer": {
+        "videoId": "sSKiv57f4vI",
+        "title": "THE DICTATOR - UK TRAILER",
+        "channel": "Paramount Pictures UK",
+        "language": "en",
+        "languageBasis": "Official Paramount Pictures UK trailer for original English-language film",
+        "maxHeight": 1080,
+        "kind": "trailer",
+        "duration": 104,
+        "availability": {
+          "embed": true,
+          "regions": [
+            "UA",
+            "RU"
+          ]
+        },
+        "checkedAt": "2026-10-18T16:35:03.068962+00:00"
+      },
+      "providerVerification": {
+        "rezka": {
+          "basis": "exact-kinopoisk-id",
+          "url": "https://hdrezka.asia/filmy/the-dictator-2012",
+          "checkedAt": "2026-10-18T16:38:27.631081+00:00"
+        },
+        "kinogo": {
+          "basis": "exact-kinopoisk-id",
+          "url": "https://kinogo.lifestyle/filmy/the-dictator-2012",
+          "checkedAt": "2026-10-18T16:38:27.631081+00:00"
+        }
+      }
+    },
+    {
+      "rank": 429,
+      "title": "The Brink",
+      "evidence": [
+        76,
+        30,
+        422
+      ],
+      "trailer": {
+        "videoId": "bi_dMJlFZu8",
+        "title": "The Brink HBO Trailer",
+        "channel": "TV Promo 360",
+        "language": "en",
+        "languageBasis": "English automatic speech transcript",
+        "maxHeight": 720,
+        "kind": "trailer",
+        "duration": 60,
+        "availability": {
+          "embed": true,
+          "regions": [
+            "UA",
+            "RU"
+          ]
+        },
+        "checkedAt": "2026-10-18T16:35:58.196548+00:00"
+      },
+      "providerVerification": {
+        "rezka": {
+          "basis": "exact-kinopoisk-id",
+          "url": "https://hdrezka.asia/serialy/the-brink-2015",
+          "checkedAt": "2026-10-18T16:38:27.631081+00:00"
+        },
+        "kinogo": {
+          "basis": "exact-kinopoisk-id",
+          "url": "https://kinogo.lifestyle/serialy/the-brink-2015",
+          "checkedAt": "2026-10-18T16:38:27.631081+00:00"
+        }
+      }
+    }
+  ],
+  "excludedRecommendations": {
+    "28": "Грубая полицейская анимация; слабее подходит после отказов от «Бриклберри» и «Супертюрьмы».",
+    "80": "Гротескная история с сексуальным табу; недостаточно общего с понравившейся политической сатирой.",
+    "120": "Музыкальная драма, а не чёрная комедия; слабее соответствует после отказов от «Двойки» и «Дедвуда».",
+    "145": "Медицинская мелодрама, совпадение с годнотой слишком общее.",
+    "146": "Длинный мистический процедурал без выраженного сатирического ядра.",
+    "290": "Мягкая сентиментальная комедия; прежние теги «Как у Nathan» обещали слишком много.",
+    "301": "Драма об отношениях; слабое совпадение после отказов от «Таких смелых девушек» и «Белого лотоса».",
+    "311": "Драма о личном кризисе; широкие теги неловкости не доказывают сходство с Nathan for You.",
+    "320": "Автобиографическая драмеди о личной и религиозной жизни; связь с выбранной сатирой слишком общая.",
+    "410": "Семейное фантастическое приключение; слабее подходит к взрослой сатире из годноты."
+  },
+  "note": "Editorial inference from actual synchronized feedback; canonical records and user collections remain intact. No new user ratings created."
+}

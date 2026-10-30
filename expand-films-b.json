@@ -1,0 +1,535 @@
+[
+  {
+    "rank": 86,
+    "title": "Wild Tales",
+    "ru": "Дикие истории",
+    "year": 2014,
+    "kind": "Фильм",
+    "type": "film",
+    "tags": [
+      "Чёрный юмор",
+      "Антология"
+    ],
+    "syn": "Шесть историй о людях, чьё терпение внезапно заканчивается.",
+    "why": "Нарастание катастроф и неожиданные развязки в духе 11:14.",
+    "caveat": "Антология: истории не связаны.",
+    "dark": 4,
+    "imdb": "tt3011894",
+    "score": 8.1,
+    "kp": 7.7,
+    "kpurl": "https://www.kinopoisk.ru/film/775727/",
+    "image": "assets/new-f-86.jpg",
+    "source": "https://www.imdb.com/title/tt3011894/",
+    "rezka": "https://hdrezka.me/films/thriller/8901-dikie-istorii-2014.html",
+    "trailer": {
+      "videoId": "NkW3f2gZX2U",
+      "url": "https://www.youtube.com/watch?v=NkW3f2gZX2U",
+      "label": "Трейлер",
+      "channel": "Warner Bros. Pictures Argentina",
+      "vertical": false,
+      "verification": {
+        "status": "OK",
+        "embed": true,
+        "familySafe": true
+      }
+    },
+    "ratingSources": [
+      "https://www.imdb.com/title/tt3011894/ratings/",
+      "https://www.kinopoisk.ru/name/443464/"
+    ]
+  },
+  {
+    "rank": 87,
+    "title": "Riders of Justice",
+    "ru": "Рыцари справедливости",
+    "year": 2020,
+    "kind": "Фильм",
+    "type": "film",
+    "tags": [
+      "Криминал",
+      "Абсурд"
+    ],
+    "syn": "Военный и компания эксцентричных аналитиков пытаются разобраться в трагическом происшествии.",
+    "why": "Сухие датские диалоги и жестокий абсурд вместо героического пафоса.",
+    "caveat": "Есть серьёзная драма.",
+    "dark": 4,
+    "imdb": "tt11655202",
+    "score": 7.5,
+    "kp": 7.4,
+    "kpurl": "https://www.kinopoisk.ru/film/1345158/",
+    "image": "assets/new-f-87.jpg",
+    "source": "https://www.imdb.com/title/tt11655202/",
+    "rezka": "https://hdrezka.me/films/action/36030-rycari-spravedlivosti-2020.html",
+    "trailer": {
+      "videoId": "j9Okx5teGBQ",
+      "url": "https://www.youtube.com/watch?v=j9Okx5teGBQ",
+      "label": "Трейлер",
+      "channel": "Magnolia Pictures & Magnet Releasing",
+      "vertical": false,
+      "verification": {
+        "status": "OK",
+        "embed": true,
+        "familySafe": true
+      }
+    },
+    "ratingSources": [
+      "https://www.imdb.com/title/tt11655202/ratings/",
+      "https://wink.ru/movies/rytsari-spravedlivosti-year-2020"
+    ]
+  },
+  {
+    "rank": 88,
+    "title": "Adam's Apples",
+    "ru": "Адамовы яблоки",
+    "year": 2005,
+    "kind": "Фильм",
+    "type": "film",
+    "tags": [
+      "Табу",
+      "Датский юмор"
+    ],
+    "syn": "Агрессивный преступник попадает на перевоспитание к невероятно оптимистичному священнику.",
+    "why": "Табу, религия и бедствия превращены в беспощадный фарс.",
+    "caveat": "Очень мрачная трагикомедия.",
+    "dark": 5,
+    "imdb": "tt0418455",
+    "score": 7.7,
+    "kp": null,
+    "kpurl": null,
+    "image": "assets/new-f-88.jpg",
+    "source": "https://www.imdb.com/title/tt0418455/",
+    "rezka": "https://hdrezka.me/films/drama/5593-adamovy-yabloki-2005.html",
+    "trailer": {
+      "videoId": "osS8uOac6Jg",
+      "url": "https://www.youtube.com/watch?v=osS8uOac6Jg",
+      "label": "Трейлер",
+      "channel": "Johanna Schreiber",
+      "vertical": false,
+      "verification": {
+        "status": "OK",
+        "embed": true,
+        "familySafe": true
+      }
+    }
+  },
+  {
+    "rank": 89,
+    "title": "The Green Butchers",
+    "ru": "Зелёные мясники",
+    "year": 2003,
+    "kind": "Фильм",
+    "type": "film",
+    "tags": [
+      "Криминал",
+      "Гротеск"
+    ],
+    "syn": "Два неудачника открывают мясную лавку, где дела принимают странный оборот.",
+    "why": "Чудовищные решения подаются с невозмутимым лицом.",
+    "caveat": "Медленнее и суше Бората.",
+    "dark": 4,
+    "imdb": "tt0342492",
+    "score": 7.2,
+    "kp": null,
+    "kpurl": null,
+    "image": "assets/new-f-89.jpg",
+    "source": "https://www.imdb.com/title/tt0342492/",
+    "rezka": "https://hdrezka.me/films/drama/8306-zelenye-myasniki-2003.html",
+    "trailer": {
+      "videoId": "D-9zg3f0wCs",
+      "url": "https://www.youtube.com/watch?v=D-9zg3f0wCs",
+      "label": "Трейлер",
+      "channel": "AMBI Distribution",
+      "vertical": false,
+      "verification": {
+        "status": "OK",
+        "embed": true,
+        "familySafe": true
+      }
+    }
+  },
+  {
+    "rank": 90,
+    "title": "Men & Chicken",
+    "ru": "Мужчины и цыплята",
+    "year": 2015,
+    "kind": "Фильм",
+    "type": "film",
+    "tags": [
+      "Абсурд",
+      "Гротеск"
+    ],
+    "syn": "Два брата отправляются на остров и знакомятся с крайне необычной роднёй.",
+    "why": "Нелепая жестокость и семейные тайны совершенно без приличий.",
+    "caveat": "Много телесного гротеска.",
+    "dark": 5,
+    "imdb": "tt3877674",
+    "score": 6.7,
+    "kp": null,
+    "kpurl": null,
+    "image": "assets/new-f-90.jpg",
+    "source": "https://www.imdb.com/title/tt3877674/",
+    "rezka": "https://hdrezka.me/films/fiction/10864-muzhchiny-i-cyplyata-2015.html",
+    "trailer": {
+      "videoId": "6tt99FSTynw",
+      "url": "https://www.youtube.com/watch?v=6tt99FSTynw",
+      "label": "Трейлер",
+      "channel": "Drafthouse Films",
+      "vertical": false,
+      "verification": {
+        "status": "OK",
+        "embed": true,
+        "familySafe": true
+      }
+    }
+  },
+  {
+    "rank": 91,
+    "title": "The Trip",
+    "ru": "Поездка",
+    "year": 2021,
+    "kind": "Фильм",
+    "type": "film",
+    "tags": [
+      "Кровавый фарс",
+      "Хоррор"
+    ],
+    "syn": "Супруги едут в лесной домик, каждый со своим опасным планом.",
+    "why": "Кровавая цепная реакция и взаимная ненависть в духе Убойных каникул.",
+    "caveat": "Жестокость и сексуальная угроза.",
+    "dark": 5,
+    "imdb": "tt13109952",
+    "score": 6.9,
+    "kp": null,
+    "kpurl": null,
+    "image": "assets/new-f-91.jpg",
+    "source": "https://www.imdb.com/title/tt13109952/",
+    "rezka": "https://hdrezka.me/films/action/42956-poezdka-2021.html",
+    "trailer": {
+      "videoId": "LC5MwTuEeeg",
+      "url": "https://www.youtube.com/watch?v=LC5MwTuEeeg",
+      "label": "Трейлер",
+      "channel": "Netflix",
+      "vertical": false,
+      "verification": {
+        "status": "OK",
+        "embed": true,
+        "familySafe": true
+      }
+    }
+  },
+  {
+    "rank": 92,
+    "title": "Dead Snow",
+    "ru": "Операция «Мёртвый снег»",
+    "year": 2009,
+    "kind": "Фильм",
+    "type": "film",
+    "tags": [
+      "Зомби",
+      "Кровавый фарс"
+    ],
+    "syn": "Зимний отдых компании друзей нарушают нацистские зомби.",
+    "why": "Нарочито идиотский слэшер с чёрными шутками и кишками.",
+    "caveat": "В начале ближе к обычному хоррору.",
+    "dark": 4,
+    "imdb": "tt1278340",
+    "score": 6.3,
+    "kp": null,
+    "kpurl": null,
+    "image": "assets/new-f-92.jpg",
+    "source": "https://www.imdb.com/title/tt1278340/",
+    "rezka": "https://hdrezka.me/films/thriller/2050-operaciya-mertvyy-sneg-2009.html",
+    "trailer": {
+      "videoId": "K_L_Q6k1JQg",
+      "url": "https://www.youtube.com/watch?v=K_L_Q6k1JQg",
+      "label": "Трейлер",
+      "channel": "TheMovieChanneI",
+      "vertical": false,
+      "verification": {
+        "status": "OK",
+        "embed": true,
+        "familySafe": true
+      }
+    }
+  },
+  {
+    "rank": 93,
+    "title": "Dead Snow 2: Red vs. Dead",
+    "ru": "Операция «Мёртвый снег» 2",
+    "year": 2014,
+    "kind": "Фильм",
+    "type": "film",
+    "tags": [
+      "Зомби",
+      "Беспредел"
+    ],
+    "syn": "Выжившему после встречи с зомби предстоит новая, ещё более нелепая битва.",
+    "why": "Продолжение поднимает беспредел и табуированные гэги на следующий уровень.",
+    "caveat": "Лучше после первого фильма.",
+    "dark": 5,
+    "imdb": "tt2832470",
+    "score": 6.8,
+    "kp": null,
+    "kpurl": null,
+    "image": "assets/new-f-93.jpg",
+    "source": "https://www.imdb.com/title/tt2832470/",
+    "rezka": "https://hdrezka.me/films/action/2051-operaciya-mertvyy-sneg-2-2014.html",
+    "trailer": {
+      "videoId": "npcIxjIKFuQ",
+      "url": "https://www.youtube.com/watch?v=npcIxjIKFuQ",
+      "label": "Трейлер",
+      "channel": "Madman Films",
+      "vertical": false,
+      "verification": {
+        "status": "OK",
+        "embed": true,
+        "familySafe": true
+      }
+    }
+  },
+  {
+    "rank": 94,
+    "title": "What We Do in the Shadows",
+    "ru": "Реальные упыри",
+    "year": 2014,
+    "kind": "Фильм",
+    "type": "film",
+    "tags": [
+      "Мокьюментари",
+      "Вампиры"
+    ],
+    "syn": "Документалисты наблюдают за бытом вампиров, делящих один дом.",
+    "why": "Серьёзная подача абсурда и бытовой кринж рифмуются с Nathan for You.",
+    "caveat": "Мягче по жестокости, чем остальная подборка.",
+    "dark": 3,
+    "imdb": "tt3416742",
+    "score": 7.6,
+    "kp": null,
+    "kpurl": null,
+    "image": "assets/new-f-94.jpg",
+    "source": "https://www.imdb.com/title/tt3416742/",
+    "rezka": "https://hdrezka.me/films/horror/2982-realnye-upyri-2014-latest.html",
+    "trailer": {
+      "videoId": "Cv568AzZ-i8",
+      "url": "https://www.youtube.com/watch?v=Cv568AzZ-i8",
+      "label": "Трейлер",
+      "channel": "DeliciousNecks",
+      "vertical": false,
+      "verification": {
+        "status": "OK",
+        "embed": true,
+        "familySafe": true
+      }
+    }
+  },
+  {
+    "rank": 95,
+    "title": "Housebound",
+    "ru": "Привязанные к дому",
+    "year": 2014,
+    "kind": "Фильм",
+    "type": "film",
+    "tags": [
+      "Хоррор",
+      "Повороты"
+    ],
+    "syn": "Девушка под домашним арестом подозревает, что в материнском доме завелось нечто странное.",
+    "why": "Хоррор сталкивается с бытовым хамством и внезапными поворотами.",
+    "caveat": "Сначала заметно больше хоррора.",
+    "dark": 3,
+    "imdb": "tt3504048",
+    "score": 6.7,
+    "kp": null,
+    "kpurl": null,
+    "image": "assets/new-f-95.jpg",
+    "source": "https://www.imdb.com/title/tt3504048/",
+    "rezka": "https://hdrezka.me/films/thriller/3648-privyazannye-k-domu-2014.html",
+    "trailer": {
+      "videoId": "Ysde4KaFirk",
+      "url": "https://www.youtube.com/watch?v=Ysde4KaFirk",
+      "label": "Трейлер",
+      "channel": "Rotten Tomatoes Indie",
+      "vertical": false,
+      "verification": {
+        "status": "OK",
+        "embed": true,
+        "familySafe": true
+      }
+    }
+  },
+  {
+    "rank": 96,
+    "title": "The Greasy Strangler",
+    "ru": "Сальный душитель",
+    "year": 2016,
+    "kind": "Фильм",
+    "type": "film",
+    "tags": [
+      "Трэш",
+      "Гротеск"
+    ],
+    "syn": "Отец и сын водят сомнительные диско-экскурсии на фоне странных убийств.",
+    "why": "Предельно неприличный трэш и диалоги, от которых становится неловко.",
+    "caveat": "Намеренно мерзкий и очень на любителя.",
+    "dark": 5,
+    "imdb": "tt4381236",
+    "score": 5.8,
+    "kp": null,
+    "kpurl": null,
+    "image": "assets/new-f-96.jpg",
+    "source": "https://www.imdb.com/title/tt4381236/",
+    "rezka": "https://hdrezka.me/films/horror/21580-salnyy-dushitel-2016.html",
+    "trailer": {
+      "videoId": "nwO1DvaMAeU",
+      "url": "https://www.youtube.com/watch?v=nwO1DvaMAeU",
+      "label": "Трейлер",
+      "channel": "Empire Magazine",
+      "vertical": false,
+      "verification": {
+        "status": "OK",
+        "embed": true,
+        "familySafe": true
+      }
+    }
+  },
+  {
+    "rank": 97,
+    "title": "Bad Boy Bubby",
+    "ru": "Непослушный Бабби",
+    "year": 1993,
+    "kind": "Фильм",
+    "type": "film",
+    "tags": [
+      "Табу",
+      "Аутсайдер"
+    ],
+    "syn": "Взрослый мужчина впервые выходит из изоляции и знакомится с внешним миром.",
+    "why": "Совершенно дикий взгляд на общество без привычных фильтров.",
+    "caveat": "Тяжёлое насилие; не лёгкая комедия.",
+    "dark": 5,
+    "imdb": "tt0106341",
+    "score": 7.3,
+    "kp": null,
+    "kpurl": null,
+    "image": "assets/new-f-97.jpg",
+    "source": "https://www.imdb.com/title/tt0106341/",
+    "rezka": "https://hdrezka.me/films/drama/37215-neposlushnyy-babbi-1993.html",
+    "trailer": {
+      "videoId": "_3LbPmFE2HU",
+      "url": "https://www.youtube.com/watch?v=_3LbPmFE2HU",
+      "label": "Трейлер",
+      "channel": "replay",
+      "vertical": false,
+      "verification": {
+        "status": "OK",
+        "embed": true,
+        "familySafe": true
+      }
+    }
+  },
+  {
+    "rank": 98,
+    "title": "Hundreds of Beavers",
+    "ru": "Сотни бобров",
+    "year": 2022,
+    "kind": "Фильм",
+    "type": "film",
+    "tags": [
+      "Абсурд",
+      "Слэпстик"
+    ],
+    "syn": "Неудачливый охотник вступает в масштабную войну с очень организованными бобрами.",
+    "why": "Реальный мир работает по безумной мультяшной логике.",
+    "caveat": "Почти немое кино; меньше мата, больше гэгов.",
+    "dark": 3,
+    "imdb": "tt12818328",
+    "score": 7.5,
+    "kp": null,
+    "kpurl": null,
+    "image": "assets/new-f-98.jpg",
+    "source": "https://www.imdb.com/title/tt12818328/",
+    "rezka": "https://hdrezka.me/films/comedy/69862-sotni-bobrov-2022.html",
+    "trailer": {
+      "videoId": "Dm5XHpQZvek",
+      "url": "https://www.youtube.com/watch?v=Dm5XHpQZvek",
+      "label": "Трейлер",
+      "channel": "Jean Kayak",
+      "vertical": false,
+      "verification": {
+        "status": "OK",
+        "embed": true,
+        "familySafe": true
+      }
+    }
+  },
+  {
+    "rank": 99,
+    "title": "One Cut of the Dead",
+    "ru": "Зомби одним планом!",
+    "year": 2017,
+    "kind": "Фильм",
+    "type": "film",
+    "tags": [
+      "Метаюмор",
+      "Зомби"
+    ],
+    "syn": "Низкобюджетная съёмочная группа снимает зомби-хоррор на заброшенном объекте.",
+    "why": "Изобретательная конструкция вознаграждает терпение неожиданным юмором.",
+    "caveat": "Первые полчаса нужно выдержать.",
+    "dark": 3,
+    "imdb": "tt7914416",
+    "score": 7.6,
+    "kp": null,
+    "kpurl": null,
+    "image": "assets/new-f-99.jpg",
+    "source": "https://www.imdb.com/title/tt7914416/",
+    "rezka": "https://hdrezka.me/films/horror/63507-zombi-odnim-planom-2017.html",
+    "trailer": {
+      "videoId": "4wBImbHqhFk",
+      "url": "https://www.youtube.com/watch?v=4wBImbHqhFk",
+      "label": "Трейлер",
+      "channel": "Shudder",
+      "vertical": false,
+      "verification": {
+        "status": "OK",
+        "embed": true,
+        "familySafe": true
+      }
+    }
+  },
+  {
+    "rank": 100,
+    "title": "The Menu",
+    "ru": "Меню",
+    "year": 2022,
+    "kind": "Фильм",
+    "type": "film",
+    "tags": [
+      "Сатира",
+      "Триллер"
+    ],
+    "syn": "Гости дорогого островного ресторана получают крайне необычный ужин.",
+    "why": "Ядовитая сатира и чёрный юмор на фоне эскалации абсурда.",
+    "caveat": "Больше сатирического триллера, чем шуток.",
+    "dark": 4,
+    "imdb": "tt9764362",
+    "score": 7.1,
+    "kp": null,
+    "kpurl": null,
+    "image": "assets/new-f-100.jpg",
+    "source": "https://www.imdb.com/title/tt9764362/",
+    "rezka": "https://hdrezka.me/films/thriller/52349-menyu-2022.html",
+    "trailer": {
+      "videoId": "C_uTkUGcHv4",
+      "url": "https://www.youtube.com/watch?v=C_uTkUGcHv4",
+      "label": "Трейлер",
+      "channel": "SearchlightPictures",
+      "vertical": false,
+      "verification": {
+        "status": "OK",
+        "embed": true,
+        "familySafe": true
+      }
+    }
+  }
+]

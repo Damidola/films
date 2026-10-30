@@ -1,0 +1,2789 @@
+{
+  "5454686": {
+    "rank": 430,
+    "title": "The Franchise",
+    "ru": "Франшиза",
+    "year": 2024,
+    "type": "series",
+    "kpId": "5454686",
+    "imdb": "tt21614420",
+    "group": "satire",
+    "checkedAt": "2026-10-18T20:52:47.539742+00:00",
+    "score": 6.5,
+    "votes": 6286,
+    "kp": 6.9,
+    "kpVotes": 2950,
+    "kpSource": "https://rating.kinopoisk.ru/5454686.xml",
+    "image": "assets/library-430.webp",
+    "posterSource": "https://hdrezka.asia/media/posters/the-franchise-2024.webp?v=c0efbb3a9f47647e",
+    "seriesStats": {
+      "seasons": 1,
+      "episodes": 8,
+      "episodesPerSeason": 8.0,
+      "episodeMinutes": 30.0,
+      "seasonEpisodes": [
+        {
+          "season": 1,
+          "episodes": 8
+        }
+      ],
+      "ongoing": false,
+      "totalMinutes": 240,
+      "source": "https://www.tvmaze.com/shows/63438/the-franchise",
+      "checkedAt": "2026-10-18T20:52:47.539742+00:00"
+    },
+    "productionCountries": [
+      "US"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "1188597": {
+    "rank": 431,
+    "title": "Avenue 5",
+    "ru": "Авеню 5",
+    "year": 2020,
+    "type": "series",
+    "kpId": "1188597",
+    "imdb": "tt10234362",
+    "group": "satire",
+    "checkedAt": "2026-10-18T20:52:47.539742+00:00",
+    "score": 6.7,
+    "votes": 25714,
+    "kp": 6.9,
+    "kpVotes": 24296,
+    "kpSource": "https://rating.kinopoisk.ru/1188597.xml",
+    "image": "assets/library-431.webp",
+    "posterSource": "https://hdrezka.asia/media/posters/avenue-5-2020.webp?v=6755cd6bbbd858f7",
+    "seriesStats": {
+      "seasons": 2,
+      "episodes": 17,
+      "episodesPerSeason": 8.5,
+      "episodeMinutes": 29.5,
+      "seasonEpisodes": [
+        {
+          "season": 1,
+          "episodes": 9
+        },
+        {
+          "season": 2,
+          "episodes": 8
+        }
+      ],
+      "ongoing": false,
+      "totalMinutes": 502,
+      "source": "https://www.tvmaze.com/shows/32263/avenue-5",
+      "checkedAt": "2026-10-18T20:52:47.539742+00:00"
+    },
+    "productionCountries": [
+      "US"
+    ],
+    "genres": [
+      "Comedy",
+      "Science-Fiction"
+    ]
+  },
+  "968605": {
+    "rank": 432,
+    "title": "BrainDead",
+    "ru": "Безмозглые",
+    "year": 2016,
+    "type": "series",
+    "kpId": "968605",
+    "imdb": "tt4877736",
+    "group": "satire",
+    "checkedAt": "2026-10-18T20:52:47.539742+00:00",
+    "score": 8.0,
+    "votes": 12948,
+    "kp": 7.3,
+    "kpVotes": 5293,
+    "kpSource": "https://rating.kinopoisk.ru/968605.xml",
+    "image": "assets/library-432.webp",
+    "posterSource": "https://hdrezka.asia/media/posters/braindead-2016.webp?v=175559a074e089c9",
+    "seriesStats": {
+      "seasons": 1,
+      "episodes": 13,
+      "episodesPerSeason": 13.0,
+      "episodeMinutes": 60.0,
+      "seasonEpisodes": [
+        {
+          "season": 1,
+          "episodes": 13
+        }
+      ],
+      "ongoing": false,
+      "totalMinutes": 780,
+      "source": "https://www.tvmaze.com/shows/3075/braindead",
+      "checkedAt": "2026-10-18T20:52:47.539742+00:00"
+    },
+    "productionCountries": [
+      "US"
+    ],
+    "genres": [
+      "Drama",
+      "Comedy",
+      "Thriller"
+    ]
+  },
+  "687812": {
+    "rank": 433,
+    "title": "A Young Doctor's Notebook",
+    "ru": "Записки юного врача",
+    "year": 2012,
+    "type": "series",
+    "kpId": "687812",
+    "imdb": "tt2164430",
+    "group": "dry",
+    "checkedAt": "2026-10-18T20:52:47.539742+00:00",
+    "score": 7.7,
+    "votes": 17421,
+    "kp": 7.3,
+    "kpVotes": 61206,
+    "kpSource": "https://rating.kinopoisk.ru/687812.xml",
+    "image": "assets/library-433.webp",
+    "posterSource": "https://hdrezka.asia/media/posters/a-young-doctor-s-notebook-other-stories-2012.webp?v=73bbbda03909c314",
+    "seriesStats": {
+      "seasons": 2,
+      "episodes": 8,
+      "episodesPerSeason": 4.0,
+      "episodeMinutes": 30.0,
+      "seasonEpisodes": [
+        {
+          "season": 1,
+          "episodes": 4
+        },
+        {
+          "season": 2,
+          "episodes": 4
+        }
+      ],
+      "ongoing": false,
+      "totalMinutes": 240,
+      "source": "https://www.tvmaze.com/shows/402/a-young-doctors-notebook",
+      "checkedAt": "2026-10-18T20:52:47.539742+00:00"
+    },
+    "productionCountries": [
+      "GB"
+    ],
+    "genres": [
+      "Drama",
+      "Comedy"
+    ]
+  },
+  "1030256": {
+    "rank": 434,
+    "title": "A.P. Bio",
+    "ru": "Курс биологии",
+    "year": 2018,
+    "type": "series",
+    "kpId": "1030256",
+    "imdb": "tt6461726",
+    "group": "dry",
+    "checkedAt": "2026-10-18T20:52:47.539742+00:00",
+    "score": 7.4,
+    "votes": 22203,
+    "kp": 7.1,
+    "kpVotes": 12896,
+    "kpSource": "https://rating.kinopoisk.ru/1030256.xml",
+    "image": "assets/library-434.webp",
+    "posterSource": "https://hdrezka.asia/media/posters/a-p-bio-2018.webp?v=44a36fa95bc7662f",
+    "seriesStats": {
+      "seasons": 4,
+      "episodes": 42,
+      "episodesPerSeason": 10.5,
+      "episodeMinutes": 27.5,
+      "seasonEpisodes": [
+        {
+          "season": 1,
+          "episodes": 13
+        },
+        {
+          "season": 2,
+          "episodes": 13
+        },
+        {
+          "season": 3,
+          "episodes": 8
+        },
+        {
+          "season": 4,
+          "episodes": 8
+        }
+      ],
+      "ongoing": false,
+      "totalMinutes": 1156,
+      "source": "https://www.tvmaze.com/shows/28039/ap-bio",
+      "checkedAt": "2026-10-18T20:52:47.539742+00:00"
+    },
+    "productionCountries": [
+      "US"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "929049": {
+    "rank": 435,
+    "title": "Documentary Now!",
+    "ru": "Документалистика сегодня!",
+    "year": 2015,
+    "type": "series",
+    "kpId": "929049",
+    "imdb": "tt4677934",
+    "group": "satire",
+    "checkedAt": "2026-10-18T20:52:47.539742+00:00",
+    "score": 8.1,
+    "votes": 8859,
+    "kp": 7.4,
+    "kpVotes": 1174,
+    "kpSource": "https://rating.kinopoisk.ru/929049.xml",
+    "image": "assets/library-435.webp",
+    "posterSource": "https://hdrezka.asia/media/posters/documentary-now-2015.webp?v=6f377147d5ade291",
+    "seriesStats": {
+      "seasons": 4,
+      "episodes": 27,
+      "episodesPerSeason": 6.75,
+      "episodeMinutes": 29.2,
+      "seasonEpisodes": [
+        {
+          "season": 1,
+          "episodes": 7
+        },
+        {
+          "season": 2,
+          "episodes": 7
+        },
+        {
+          "season": 3,
+          "episodes": 7
+        },
+        {
+          "season": 4,
+          "episodes": 6
+        }
+      ],
+      "ongoing": false,
+      "totalMinutes": 789,
+      "source": "https://www.tvmaze.com/shows/2750/documentary-now",
+      "checkedAt": "2026-10-18T20:52:47.539742+00:00"
+    },
+    "productionCountries": [
+      "US"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "574691": {
+    "rank": 436,
+    "title": "Portlandia",
+    "ru": "Портландия",
+    "year": 2011,
+    "type": "series",
+    "kpId": "574691",
+    "imdb": "tt1780441",
+    "group": "satire",
+    "checkedAt": "2026-10-18T20:52:47.539742+00:00",
+    "score": 7.8,
+    "votes": 25157,
+    "kp": 7.1,
+    "kpVotes": 1633,
+    "kpSource": "https://rating.kinopoisk.ru/574691.xml",
+    "image": "assets/library-436.webp",
+    "posterSource": "https://hdrezka.asia/media/posters/portlandia-2011.webp?v=ba4be6a2b97b6a54",
+    "seriesStats": {
+      "seasons": 8,
+      "episodes": 77,
+      "episodesPerSeason": 9.62,
+      "episodeMinutes": 30.0,
+      "seasonEpisodes": [
+        {
+          "season": 1,
+          "episodes": 6
+        },
+        {
+          "season": 2,
+          "episodes": 10
+        },
+        {
+          "season": 3,
+          "episodes": 11
+        },
+        {
+          "season": 4,
+          "episodes": 10
+        },
+        {
+          "season": 5,
+          "episodes": 10
+        },
+        {
+          "season": 6,
+          "episodes": 10
+        },
+        {
+          "season": 7,
+          "episodes": 10
+        },
+        {
+          "season": 8,
+          "episodes": 10
+        }
+      ],
+      "ongoing": false,
+      "totalMinutes": 2310,
+      "source": "https://www.tvmaze.com/shows/376/portlandia",
+      "checkedAt": "2026-10-18T20:52:47.539742+00:00"
+    },
+    "productionCountries": [
+      "US"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "4396536": {
+    "rank": 437,
+    "title": "Killing It",
+    "ru": "На полную катушку",
+    "year": 2022,
+    "type": "series",
+    "kpId": "4396536",
+    "imdb": "tt14129378",
+    "group": "satire",
+    "checkedAt": "2026-10-18T20:52:47.539742+00:00",
+    "score": 7.3,
+    "votes": 5841,
+    "kp": 7.1,
+    "kpVotes": 527,
+    "kpSource": "https://rating.kinopoisk.ru/4396536.xml",
+    "image": "assets/library-437.webp",
+    "posterSource": "https://hdrezka.asia/media/posters/killing-it-2022.webp?v=cf70fe6b05ac0fcc",
+    "seriesStats": {
+      "seasons": 2,
+      "episodes": 18,
+      "episodesPerSeason": 9.0,
+      "episodeMinutes": 30.4,
+      "seasonEpisodes": [
+        {
+          "season": 1,
+          "episodes": 10
+        },
+        {
+          "season": 2,
+          "episodes": 8
+        }
+      ],
+      "ongoing": true,
+      "totalMinutes": 548,
+      "source": "https://www.tvmaze.com/shows/49440/killing-it",
+      "checkedAt": "2026-10-18T20:52:47.539742+00:00"
+    },
+    "productionCountries": [
+      "US"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "1345866": {
+    "rank": 438,
+    "title": "The Outlaws",
+    "ru": "Нарушители",
+    "year": 2021,
+    "type": "series",
+    "kpId": "1345866",
+    "imdb": "tt11646832",
+    "group": "crime",
+    "checkedAt": "2026-10-18T20:52:47.539742+00:00",
+    "score": 7.7,
+    "votes": 20608,
+    "kp": 7.7,
+    "kpVotes": 45111,
+    "kpSource": "https://rating.kinopoisk.ru/1345866.xml",
+    "image": "assets/library-438.webp",
+    "posterSource": "https://hdrezka.asia/media/posters/the-outlaws-2021.webp?v=1e8b7408262af65c",
+    "seriesStats": {
+      "seasons": 3,
+      "episodes": 17,
+      "episodesPerSeason": 5.67,
+      "episodeMinutes": 58.1,
+      "seasonEpisodes": [
+        {
+          "season": 1,
+          "episodes": 6
+        },
+        {
+          "season": 2,
+          "episodes": 6
+        },
+        {
+          "season": 3,
+          "episodes": 5
+        }
+      ],
+      "ongoing": false,
+      "totalMinutes": 987,
+      "source": "https://www.tvmaze.com/shows/45688/the-outlaws",
+      "checkedAt": "2026-10-18T20:52:47.539742+00:00"
+    },
+    "productionCountries": [
+      "GB"
+    ],
+    "genres": [
+      "Drama",
+      "Comedy",
+      "Thriller"
+    ]
+  },
+  "1072991": {
+    "rank": 439,
+    "title": "No Activity",
+    "ru": "Ничего не происходит",
+    "year": 2017,
+    "type": "series",
+    "kpId": "1072991",
+    "imdb": "tt7230846",
+    "group": "crime",
+    "checkedAt": "2026-10-18T20:52:47.539742+00:00",
+    "score": 6.8,
+    "votes": 1748,
+    "kp": 6.5,
+    "kpVotes": 753,
+    "kpSource": "https://rating.kinopoisk.ru/1072991.xml",
+    "image": "assets/library-439.webp",
+    "posterSource": "https://hdrezka.asia/media/posters/no-activity-2017.webp?v=5d19c50bba7490f4",
+    "seriesStats": {
+      "seasons": 4,
+      "episodes": 32,
+      "episodesPerSeason": 8.0,
+      "episodeMinutes": 26.9,
+      "seasonEpisodes": [
+        {
+          "season": 1,
+          "episodes": 8
+        },
+        {
+          "season": 2,
+          "episodes": 8
+        },
+        {
+          "season": 3,
+          "episodes": 8
+        },
+        {
+          "season": 4,
+          "episodes": 8
+        }
+      ],
+      "ongoing": false,
+      "totalMinutes": 862,
+      "source": "https://www.tvmaze.com/shows/30906/no-activity",
+      "checkedAt": "2026-10-18T20:52:47.539742+00:00"
+    },
+    "productionCountries": [],
+    "genres": [
+      "Comedy",
+      "Crime"
+    ]
+  },
+  "1190179": {
+    "rank": 440,
+    "title": "Perpetual Grace, LTD",
+    "ru": "Предприятие «Божий дар»",
+    "year": 2019,
+    "type": "series",
+    "kpId": "1190179",
+    "imdb": "tt8912384",
+    "group": "crime",
+    "checkedAt": "2026-10-18T20:52:47.539742+00:00",
+    "score": 7.6,
+    "votes": 3615,
+    "kp": 7.2,
+    "kpVotes": 7605,
+    "kpSource": "https://rating.kinopoisk.ru/1190179.xml",
+    "image": "assets/library-440.webp",
+    "posterSource": "https://hdrezka.asia/media/posters/perpetual-grace-ltd-2019.webp?v=4114543b3f75208a",
+    "seriesStats": {
+      "seasons": 1,
+      "episodes": 10,
+      "episodesPerSeason": 10.0,
+      "episodeMinutes": 60.0,
+      "seasonEpisodes": [
+        {
+          "season": 1,
+          "episodes": 10
+        }
+      ],
+      "ongoing": false,
+      "totalMinutes": 600,
+      "source": "https://www.tvmaze.com/shows/38454/perpetual-grace-ltd",
+      "checkedAt": "2026-10-18T20:52:47.539742+00:00"
+    },
+    "productionCountries": [
+      "US"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "5082651": {
+    "rank": 441,
+    "title": "Deadloch",
+    "ru": "Дэдлок",
+    "year": 2023,
+    "type": "series",
+    "kpId": "5082651",
+    "imdb": "tt14671678",
+    "group": "crime",
+    "checkedAt": "2026-10-18T20:52:47.539742+00:00",
+    "score": 7.5,
+    "votes": 18717,
+    "kp": 7.3,
+    "kpVotes": 3572,
+    "kpSource": "https://rating.kinopoisk.ru/5082651.xml",
+    "image": "assets/library-441.webp",
+    "posterSource": "https://hdrezka.asia/media/posters/deadloch-2023.webp?v=eb823b6ce0a13142",
+    "seriesStats": {
+      "seasons": 2,
+      "episodes": 14,
+      "episodesPerSeason": 7.0,
+      "episodeMinutes": 54.9,
+      "seasonEpisodes": [
+        {
+          "season": 1,
+          "episodes": 8
+        },
+        {
+          "season": 2,
+          "episodes": 6
+        }
+      ],
+      "ongoing": true,
+      "totalMinutes": 768,
+      "source": "https://www.tvmaze.com/shows/60614/deadloch",
+      "checkedAt": "2026-10-18T20:52:47.539742+00:00"
+    },
+    "productionCountries": [],
+    "genres": [
+      "Comedy",
+      "Crime",
+      "Mystery"
+    ]
+  },
+  "5386110": {
+    "rank": 442,
+    "title": "Obituary",
+    "ru": "Некролог",
+    "year": 2023,
+    "type": "series",
+    "kpId": "5386110",
+    "imdb": "tt23458434",
+    "group": "crime",
+    "checkedAt": "2026-10-18T20:52:47.539742+00:00",
+    "score": 7.0,
+    "votes": 3258,
+    "kp": 6.8,
+    "kpVotes": 628,
+    "kpSource": "https://rating.kinopoisk.ru/5386110.xml",
+    "image": "assets/library-442.webp",
+    "posterSource": "https://hdrezka.asia/media/posters/obituary-2023.webp?v=f49d9d16bf285e1a",
+    "seriesStats": {
+      "seasons": 2,
+      "episodes": 12,
+      "episodesPerSeason": 6.0,
+      "episodeMinutes": 46.8,
+      "seasonEpisodes": [
+        {
+          "season": 1,
+          "episodes": 6
+        },
+        {
+          "season": 2,
+          "episodes": 6
+        }
+      ],
+      "ongoing": true,
+      "totalMinutes": 562,
+      "source": "https://www.tvmaze.com/shows/66285/obituary",
+      "checkedAt": "2026-10-18T20:52:47.539742+00:00"
+    },
+    "productionCountries": [
+      "IE"
+    ],
+    "genres": [
+      "Drama",
+      "Comedy",
+      "Crime"
+    ]
+  },
+  "5418842": {
+    "rank": 443,
+    "title": "Boat Story",
+    "ru": "История лодки",
+    "year": 2023,
+    "type": "series",
+    "kpId": "5418842",
+    "imdb": "tt23729238",
+    "group": "crime",
+    "checkedAt": "2026-10-18T20:52:47.539742+00:00",
+    "score": 7.2,
+    "votes": 4844,
+    "kp": 7.1,
+    "kpVotes": 1245,
+    "kpSource": "https://rating.kinopoisk.ru/5418842.xml",
+    "image": "assets/library-443.webp",
+    "posterSource": "https://hdrezka.asia/media/posters/boat-story-2023.webp?v=40ffa111c95a6a18",
+    "seriesStats": {
+      "seasons": 1,
+      "episodes": 6,
+      "episodesPerSeason": 6.0,
+      "episodeMinutes": 58.0,
+      "seasonEpisodes": [
+        {
+          "season": 1,
+          "episodes": 6
+        }
+      ],
+      "ongoing": false,
+      "totalMinutes": 348,
+      "source": "https://www.tvmaze.com/shows/65702/boat-story",
+      "checkedAt": "2026-10-18T20:52:47.539742+00:00"
+    },
+    "productionCountries": [
+      "GB"
+    ],
+    "genres": [
+      "Action",
+      "Crime",
+      "Thriller"
+    ]
+  },
+  "1195990": {
+    "rank": 444,
+    "title": "Jett",
+    "ru": "Джетт",
+    "year": 2019,
+    "type": "series",
+    "kpId": "1195990",
+    "imdb": "tt8594276",
+    "group": "crime",
+    "checkedAt": "2026-10-18T20:52:47.539742+00:00",
+    "score": 7.4,
+    "votes": 7099,
+    "kp": 7.4,
+    "kpVotes": 6124,
+    "kpSource": "https://rating.kinopoisk.ru/1195990.xml",
+    "image": "assets/library-444.webp",
+    "posterSource": "https://hdrezka.asia/media/posters/jett-2019.webp?v=dc831f4330530f3e",
+    "seriesStats": {
+      "seasons": 1,
+      "episodes": 9,
+      "episodesPerSeason": 9.0,
+      "episodeMinutes": 60.0,
+      "seasonEpisodes": [
+        {
+          "season": 1,
+          "episodes": 9
+        }
+      ],
+      "ongoing": false,
+      "totalMinutes": 540,
+      "source": "https://www.tvmaze.com/shows/36308/jett",
+      "checkedAt": "2026-10-18T20:52:47.539742+00:00"
+    },
+    "productionCountries": [
+      "US"
+    ],
+    "genres": [
+      "Drama",
+      "Action",
+      "Crime"
+    ]
+  },
+  "1181436": {
+    "rank": 445,
+    "title": "Reprisal",
+    "ru": "Возмездие",
+    "year": 2019,
+    "type": "series",
+    "kpId": "1181436",
+    "imdb": "tt8594028",
+    "group": "crime",
+    "checkedAt": "2026-10-18T20:52:47.539742+00:00",
+    "score": 7.4,
+    "votes": 5074,
+    "kp": 7.1,
+    "kpVotes": 2937,
+    "kpSource": "https://rating.kinopoisk.ru/1181436.xml",
+    "image": "assets/library-445.webp",
+    "posterSource": "https://hdrezka.asia/media/posters/reprisal-2019.webp?v=372f4139683f63c2",
+    "seriesStats": {
+      "seasons": 1,
+      "episodes": 10,
+      "episodesPerSeason": 10.0,
+      "episodeMinutes": 54.0,
+      "seasonEpisodes": [
+        {
+          "season": 1,
+          "episodes": 10
+        }
+      ],
+      "ongoing": false,
+      "totalMinutes": 540,
+      "source": "https://www.tvmaze.com/shows/36855/reprisal",
+      "checkedAt": "2026-10-18T20:52:47.539742+00:00"
+    },
+    "productionCountries": [
+      "US"
+    ],
+    "genres": [
+      "Drama",
+      "Action"
+    ]
+  },
+  "1200059": {
+    "rank": 446,
+    "title": "Gangs of London",
+    "ru": "Банды Лондона",
+    "year": 2020,
+    "type": "series",
+    "kpId": "1200059",
+    "imdb": "tt7661390",
+    "group": "crime",
+    "checkedAt": "2026-10-18T20:52:47.539742+00:00",
+    "score": 8.0,
+    "votes": 54462,
+    "kp": 7.6,
+    "kpVotes": 24350,
+    "kpSource": "https://rating.kinopoisk.ru/1200059.xml",
+    "image": "assets/library-446.webp",
+    "posterSource": "https://hdrezka.asia/media/posters/gangs-of-london-2020.webp?v=27afe31eaf7b9b2d",
+    "seriesStats": {
+      "seasons": 3,
+      "episodes": 25,
+      "episodesPerSeason": 8.33,
+      "episodeMinutes": 55.7,
+      "seasonEpisodes": [
+        {
+          "season": 1,
+          "episodes": 9
+        },
+        {
+          "season": 2,
+          "episodes": 8
+        },
+        {
+          "season": 3,
+          "episodes": 8
+        }
+      ],
+      "ongoing": true,
+      "totalMinutes": 1393,
+      "source": "https://www.tvmaze.com/shows/33487/gangs-of-london",
+      "checkedAt": "2026-10-18T20:52:47.539742+00:00"
+    },
+    "productionCountries": [],
+    "genres": [
+      "Drama",
+      "Crime",
+      "Thriller"
+    ]
+  },
+  "2000742": {
+    "rank": 447,
+    "title": "Kin",
+    "ru": "Родня",
+    "year": 2021,
+    "type": "series",
+    "kpId": "2000742",
+    "imdb": "tt13444408",
+    "group": "crime",
+    "checkedAt": "2026-10-18T20:52:47.539742+00:00",
+    "score": 8.0,
+    "votes": 19699,
+    "kp": 7.7,
+    "kpVotes": 11550,
+    "kpSource": "https://rating.kinopoisk.ru/2000742.xml",
+    "image": "assets/library-447.webp",
+    "posterSource": "https://hdrezka.asia/media/posters/kin-2021.webp?v=498ba3794c36746b",
+    "seriesStats": {
+      "seasons": 2,
+      "episodes": 16,
+      "episodesPerSeason": 8.0,
+      "episodeMinutes": 63.8,
+      "seasonEpisodes": [
+        {
+          "season": 1,
+          "episodes": 8
+        },
+        {
+          "season": 2,
+          "episodes": 8
+        }
+      ],
+      "ongoing": true,
+      "totalMinutes": 1021,
+      "source": "https://www.tvmaze.com/shows/53750/kin",
+      "checkedAt": "2026-10-18T20:52:47.539742+00:00"
+    },
+    "productionCountries": [
+      "IE"
+    ],
+    "genres": [
+      "Drama",
+      "Crime"
+    ]
+  },
+  "573562": {
+    "rank": 448,
+    "title": "Love/Hate",
+    "ru": "Любовь/Ненависть",
+    "year": 2010,
+    "type": "series",
+    "kpId": "573562",
+    "imdb": "tt1625724",
+    "group": "crime",
+    "checkedAt": "2026-10-18T20:52:47.539742+00:00",
+    "score": 8.4,
+    "votes": 9991,
+    "kp": 7.6,
+    "kpVotes": 1543,
+    "kpSource": "https://rating.kinopoisk.ru/573562.xml",
+    "image": "assets/library-448.webp",
+    "posterSource": "https://hdrezka.asia/media/posters/love-hate-2010.webp?v=f2244bac274dc02e",
+    "seriesStats": {
+      "seasons": 5,
+      "episodes": 28,
+      "episodesPerSeason": 5.6,
+      "episodeMinutes": 60.0,
+      "seasonEpisodes": [
+        {
+          "season": 1,
+          "episodes": 4
+        },
+        {
+          "season": 2,
+          "episodes": 6
+        },
+        {
+          "season": 3,
+          "episodes": 6
+        },
+        {
+          "season": 4,
+          "episodes": 6
+        },
+        {
+          "season": 5,
+          "episodes": 6
+        }
+      ],
+      "ongoing": false,
+      "totalMinutes": 1680,
+      "source": "https://www.tvmaze.com/shows/2054/lovehate",
+      "checkedAt": "2026-10-18T20:52:47.539742+00:00"
+    },
+    "productionCountries": [
+      "IE"
+    ],
+    "genres": [
+      "Drama",
+      "Crime"
+    ]
+  },
+  "848297": {
+    "rank": 449,
+    "title": "Sneaky Pete",
+    "ru": "Подлый Пит",
+    "year": 2015,
+    "type": "series",
+    "kpId": "848297",
+    "imdb": "tt5011816",
+    "group": "crime",
+    "checkedAt": "2026-10-18T20:52:47.539742+00:00",
+    "score": 8.0,
+    "votes": 49564,
+    "kp": 7.5,
+    "kpVotes": 6891,
+    "kpSource": "https://rating.kinopoisk.ru/848297.xml",
+    "image": "assets/library-449.webp",
+    "posterSource": "https://hdrezka.asia/media/posters/sneaky-pete-2015.webp?v=355ecd668da53d88",
+    "seriesStats": {
+      "seasons": 3,
+      "episodes": 30,
+      "episodesPerSeason": 10.0,
+      "episodeMinutes": 49.2,
+      "seasonEpisodes": [
+        {
+          "season": 1,
+          "episodes": 10
+        },
+        {
+          "season": 2,
+          "episodes": 10
+        },
+        {
+          "season": 3,
+          "episodes": 10
+        }
+      ],
+      "ongoing": false,
+      "totalMinutes": 1477,
+      "source": "https://www.tvmaze.com/shows/2686/sneaky-pete",
+      "checkedAt": "2026-10-18T20:52:47.539742+00:00"
+    },
+    "productionCountries": [],
+    "genres": [
+      "Drama",
+      "Crime"
+    ]
+  },
+  "928372": {
+    "rank": 450,
+    "title": "Animal Kingdom",
+    "ru": "По волчьим законам",
+    "year": 2016,
+    "type": "series",
+    "kpId": "928372",
+    "imdb": "tt5574490",
+    "group": "crime",
+    "checkedAt": "2026-10-18T20:52:47.539742+00:00",
+    "score": 8.2,
+    "votes": 60579,
+    "kp": 8.4,
+    "kpVotes": 84159,
+    "kpSource": "https://rating.kinopoisk.ru/928372.xml",
+    "image": "assets/library-450.webp",
+    "posterSource": "https://hdrezka.asia/media/posters/animal-kingdom-2016.webp?v=e0d82875f7319f28",
+    "seriesStats": {
+      "seasons": 6,
+      "episodes": 75,
+      "episodesPerSeason": 12.5,
+      "episodeMinutes": 60.2,
+      "seasonEpisodes": [
+        {
+          "season": 1,
+          "episodes": 10
+        },
+        {
+          "season": 2,
+          "episodes": 13
+        },
+        {
+          "season": 3,
+          "episodes": 13
+        },
+        {
+          "season": 4,
+          "episodes": 13
+        },
+        {
+          "season": 5,
+          "episodes": 13
+        },
+        {
+          "season": 6,
+          "episodes": 13
+        }
+      ],
+      "ongoing": false,
+      "totalMinutes": 4514,
+      "source": "https://www.tvmaze.com/shows/9993/animal-kingdom",
+      "checkedAt": "2026-10-18T20:52:47.539742+00:00"
+    },
+    "productionCountries": [
+      "US"
+    ],
+    "genres": [
+      "Drama",
+      "Crime"
+    ]
+  },
+  "943358": {
+    "rank": 451,
+    "title": "Good Behavior",
+    "ru": "Хорошее поведение",
+    "year": 2016,
+    "type": "series",
+    "kpId": "943358",
+    "imdb": "tt4855114",
+    "group": "crime",
+    "checkedAt": "2026-10-18T20:52:47.539742+00:00",
+    "score": 8.0,
+    "votes": 12760,
+    "kp": 7.3,
+    "kpVotes": 10952,
+    "kpSource": "https://rating.kinopoisk.ru/943358.xml",
+    "image": "assets/library-451.webp",
+    "posterSource": "https://hdrezka.asia/media/posters/good-behavior-2016.webp?v=17d04b3e88987145",
+    "seriesStats": {
+      "seasons": 2,
+      "episodes": 20,
+      "episodesPerSeason": 10.0,
+      "episodeMinutes": 60.0,
+      "seasonEpisodes": [
+        {
+          "season": 1,
+          "episodes": 10
+        },
+        {
+          "season": 2,
+          "episodes": 10
+        }
+      ],
+      "ongoing": false,
+      "totalMinutes": 1200,
+      "source": "https://www.tvmaze.com/shows/8797/good-behavior",
+      "checkedAt": "2026-10-18T20:52:47.539742+00:00"
+    },
+    "productionCountries": [
+      "US"
+    ],
+    "genres": [
+      "Drama",
+      "Crime"
+    ]
+  },
+  "4527030": {
+    "rank": 452,
+    "title": "Bad Monkey",
+    "ru": "Плохая обезьяна",
+    "year": 2024,
+    "type": "series",
+    "kpId": "4527030",
+    "imdb": "tt15203646",
+    "group": "crime",
+    "checkedAt": "2026-10-18T20:52:47.539742+00:00",
+    "score": 7.4,
+    "votes": 30811,
+    "kp": 7.4,
+    "kpVotes": 9542,
+    "kpSource": "https://rating.kinopoisk.ru/4527030.xml",
+    "image": "assets/library-452.webp",
+    "posterSource": "https://hdrezka.asia/media/posters/bad-monkey-2024.webp?v=51959863e4c6d812",
+    "seriesStats": {
+      "seasons": 1,
+      "episodes": 10,
+      "episodesPerSeason": 10.0,
+      "episodeMinutes": 45.8,
+      "seasonEpisodes": [
+        {
+          "season": 1,
+          "episodes": 10
+        }
+      ],
+      "ongoing": true,
+      "totalMinutes": 458,
+      "source": "https://www.tvmaze.com/shows/56778/bad-monkey",
+      "checkedAt": "2026-10-18T20:52:47.539742+00:00"
+    },
+    "productionCountries": [],
+    "genres": [
+      "Drama",
+      "Comedy",
+      "Crime"
+    ]
+  },
+  "4891365": {
+    "rank": 453,
+    "title": "The Baby",
+    "ru": "Малыш",
+    "year": 2022,
+    "type": "series",
+    "kpId": "4891365",
+    "imdb": "tt12879632",
+    "group": "horror",
+    "checkedAt": "2026-10-18T20:52:47.539742+00:00",
+    "score": 6.3,
+    "votes": 4288,
+    "kp": 6.4,
+    "kpVotes": 3602,
+    "kpSource": "https://rating.kinopoisk.ru/4891365.xml",
+    "image": "assets/library-453.webp",
+    "posterSource": "https://hdrezka.asia/media/posters/the-baby-2022.webp?v=3bd1ef3bd1befe91",
+    "seriesStats": {
+      "seasons": 1,
+      "episodes": 8,
+      "episodesPerSeason": 8.0,
+      "episodeMinutes": 30.4,
+      "seasonEpisodes": [
+        {
+          "season": 1,
+          "episodes": 8
+        }
+      ],
+      "ongoing": false,
+      "totalMinutes": 243,
+      "source": "https://www.tvmaze.com/shows/49671/the-baby",
+      "checkedAt": "2026-10-18T20:52:47.539742+00:00"
+    },
+    "productionCountries": [
+      "US"
+    ],
+    "genres": [
+      "Comedy",
+      "Horror"
+    ]
+  },
+  "4438484": {
+    "rank": 454,
+    "title": "Wolf Like Me",
+    "ru": "Волк как я",
+    "year": 2022,
+    "type": "series",
+    "kpId": "4438484",
+    "imdb": "tt14452228",
+    "group": "horror",
+    "checkedAt": "2026-10-18T20:52:47.539742+00:00",
+    "score": 7.3,
+    "votes": 12567,
+    "kpError": "'utf-8' codec can't decode byte 0x8b in position 1: invalid start byte",
+    "image": "assets/library-454.webp",
+    "posterSource": "https://hdrezka.asia/media/posters/wolf-like-me-2022.webp?v=3c410fd340f32c09",
+    "seriesStats": {
+      "seasons": 2,
+      "episodes": 13,
+      "episodesPerSeason": 6.5,
+      "episodeMinutes": 25.6,
+      "seasonEpisodes": [
+        {
+          "season": 1,
+          "episodes": 6
+        },
+        {
+          "season": 2,
+          "episodes": 7
+        }
+      ],
+      "ongoing": false,
+      "totalMinutes": 333,
+      "source": "https://www.tvmaze.com/shows/55006/wolf-like-me",
+      "checkedAt": "2026-10-18T20:52:47.539742+00:00"
+    },
+    "productionCountries": [
+      "AU"
+    ],
+    "genres": [
+      "Drama",
+      "Romance",
+      "Supernatural"
+    ],
+    "kp": 6.9,
+    "kpVotes": 7651,
+    "kpSource": "https://rating.kinopoisk.ru/4438484.xml"
+  },
+  "1355161": {
+    "rank": 455,
+    "title": "Shining Vale",
+    "ru": "Сияющая долина",
+    "year": 2022,
+    "type": "series",
+    "kpId": "1355161",
+    "imdb": "tt7908756",
+    "group": "horror",
+    "checkedAt": "2026-10-18T20:52:47.539742+00:00",
+    "score": 7.0,
+    "votes": 7790,
+    "kp": 6.6,
+    "kpVotes": 3669,
+    "kpSource": "https://rating.kinopoisk.ru/1355161.xml",
+    "image": "assets/library-455.webp",
+    "posterSource": "https://hdrezka.asia/media/posters/shining-vale-2022.webp?v=8454c6fc8af750b9",
+    "seriesStats": {
+      "seasons": 2,
+      "episodes": 16,
+      "episodesPerSeason": 8.0,
+      "episodeMinutes": 30.6,
+      "seasonEpisodes": [
+        {
+          "season": 1,
+          "episodes": 8
+        },
+        {
+          "season": 2,
+          "episodes": 8
+        }
+      ],
+      "ongoing": false,
+      "totalMinutes": 489,
+      "source": "https://www.tvmaze.com/shows/34316/shining-vale",
+      "checkedAt": "2026-10-18T20:52:47.539742+00:00"
+    },
+    "productionCountries": [
+      "US"
+    ],
+    "genres": [
+      "Comedy",
+      "Horror"
+    ]
+  },
+  "893984": {
+    "rank": 456,
+    "title": "Crazyhead",
+    "ru": "Безбашенные",
+    "year": 2016,
+    "type": "series",
+    "kpId": "893984",
+    "imdb": "tt4106376",
+    "group": "horror",
+    "checkedAt": "2026-10-18T20:52:47.539742+00:00",
+    "score": 5.5,
+    "votes": 12644,
+    "kp": 5.5,
+    "kpVotes": 10859,
+    "kpSource": "https://rating.kinopoisk.ru/893984.xml",
+    "image": "assets/library-456.webp",
+    "posterSource": "https://hdrezka.asia/media/posters/american-renegades-2016.webp?v=b96a1f4ef39ab990",
+    "seriesStats": {
+      "seasons": 1,
+      "episodes": 6,
+      "episodesPerSeason": 6.0,
+      "episodeMinutes": 60.0,
+      "seasonEpisodes": [
+        {
+          "season": 1,
+          "episodes": 6
+        }
+      ],
+      "ongoing": false,
+      "totalMinutes": 360,
+      "source": "https://www.tvmaze.com/shows/20710/crazyhead",
+      "checkedAt": "2026-10-18T20:52:47.539742+00:00"
+    },
+    "productionCountries": [
+      "GB"
+    ],
+    "genres": [
+      "Comedy",
+      "Horror"
+    ]
+  },
+  "1293369": {
+    "rank": 457,
+    "title": "Truth Seekers",
+    "ru": "Искатели правды",
+    "year": 2020,
+    "type": "series",
+    "kpId": "1293369",
+    "imdb": "tt7907922",
+    "group": "horror",
+    "checkedAt": "2026-10-18T20:52:47.539742+00:00",
+    "score": 7.0,
+    "votes": 16478,
+    "kp": 6.3,
+    "kpVotes": 2620,
+    "kpSource": "https://rating.kinopoisk.ru/1293369.xml",
+    "image": "assets/library-457.webp",
+    "posterSource": "https://hdrezka.asia/media/posters/truth-seekers-2020.webp?v=25f86c1c7ad91080",
+    "seriesStats": {
+      "seasons": 1,
+      "episodes": 8,
+      "episodesPerSeason": 8.0,
+      "episodeMinutes": 27.9,
+      "seasonEpisodes": [
+        {
+          "season": 1,
+          "episodes": 8
+        }
+      ],
+      "ongoing": false,
+      "totalMinutes": 223,
+      "source": "https://www.tvmaze.com/shows/43275/truth-seekers",
+      "checkedAt": "2026-10-18T20:52:47.539742+00:00"
+    },
+    "productionCountries": [],
+    "genres": [
+      "Drama",
+      "Comedy",
+      "Supernatural"
+    ]
+  },
+  "1236766": {
+    "rank": 458,
+    "title": "Ghosts",
+    "ru": "Призраки",
+    "year": 2019,
+    "type": "series",
+    "kpId": "1236766",
+    "imdb": "tt8594324",
+    "group": "weird",
+    "checkedAt": "2026-10-18T20:52:47.539742+00:00",
+    "score": 8.4,
+    "votes": 34239,
+    "kp": 8.0,
+    "kpVotes": 11303,
+    "kpSource": "https://rating.kinopoisk.ru/1236766.xml",
+    "image": "assets/library-458.webp",
+    "posterSource": "https://hdrezka.asia/media/posters/ghosts-2019.webp?v=2a6bd6f4ffb7eeb7",
+    "seriesStats": {
+      "seasons": 5,
+      "episodes": 30,
+      "episodesPerSeason": 6.0,
+      "episodeMinutes": 29.4,
+      "seasonEpisodes": [
+        {
+          "season": 1,
+          "episodes": 6
+        },
+        {
+          "season": 2,
+          "episodes": 6
+        },
+        {
+          "season": 3,
+          "episodes": 6
+        },
+        {
+          "season": 4,
+          "episodes": 6
+        },
+        {
+          "season": 5,
+          "episodes": 6
+        }
+      ],
+      "ongoing": false,
+      "totalMinutes": 883,
+      "source": "https://www.tvmaze.com/shows/38241/ghosts",
+      "checkedAt": "2026-10-18T20:52:47.539742+00:00"
+    },
+    "productionCountries": [
+      "GB"
+    ],
+    "genres": [
+      "Comedy",
+      "Supernatural"
+    ]
+  },
+  "1350067": {
+    "rank": 459,
+    "title": "Ghosts",
+    "ru": "Призраки",
+    "year": 2021,
+    "type": "series",
+    "kpId": "1350067",
+    "imdb": "tt11379026",
+    "group": "weird",
+    "checkedAt": "2026-10-18T20:52:47.539742+00:00",
+    "score": 7.9,
+    "votes": 52448,
+    "kpError": "'utf-8' codec can't decode byte 0x8b in position 1: invalid start byte",
+    "image": "assets/library-459.webp",
+    "posterSource": "https://hdrezka.asia/media/posters/ghosts-2021.webp?v=d1c7f0080d3c331f",
+    "seriesStats": {
+      "seasons": 5,
+      "episodes": 94,
+      "episodesPerSeason": 18.8,
+      "episodeMinutes": 30.0,
+      "seasonEpisodes": [
+        {
+          "season": 1,
+          "episodes": 18
+        },
+        {
+          "season": 2,
+          "episodes": 22
+        },
+        {
+          "season": 3,
+          "episodes": 10
+        },
+        {
+          "season": 4,
+          "episodes": 22
+        },
+        {
+          "season": 5,
+          "episodes": 22
+        }
+      ],
+      "ongoing": true,
+      "totalMinutes": 2818,
+      "source": "https://www.tvmaze.com/shows/46573/ghosts",
+      "checkedAt": "2026-10-18T20:52:47.539742+00:00"
+    },
+    "productionCountries": [
+      "US"
+    ],
+    "genres": [
+      "Comedy",
+      "Supernatural"
+    ],
+    "kp": 8.3,
+    "kpVotes": 165187,
+    "kpSource": "https://rating.kinopoisk.ru/1350067.xml"
+  },
+  "804728": {
+    "rank": 460,
+    "title": "The Last Man on Earth",
+    "ru": "Последний человек на Земле",
+    "year": 2015,
+    "type": "series",
+    "kpId": "804728",
+    "imdb": "tt3230454",
+    "group": "weird",
+    "checkedAt": "2026-10-18T20:52:47.539742+00:00",
+    "score": 7.4,
+    "votes": 69326,
+    "kp": 6.8,
+    "kpVotes": 37226,
+    "kpSource": "https://rating.kinopoisk.ru/804728.xml",
+    "image": "assets/library-460.webp",
+    "posterSource": "https://hdrezka.asia/media/posters/the-last-man-on-earth-2015.webp?v=92a40b4554e2dd58",
+    "seriesStats": {
+      "seasons": 4,
+      "episodes": 67,
+      "episodesPerSeason": 16.75,
+      "episodeMinutes": 30.0,
+      "seasonEpisodes": [
+        {
+          "season": 1,
+          "episodes": 13
+        },
+        {
+          "season": 2,
+          "episodes": 18
+        },
+        {
+          "season": 3,
+          "episodes": 18
+        },
+        {
+          "season": 4,
+          "episodes": 18
+        }
+      ],
+      "ongoing": false,
+      "totalMinutes": 2010,
+      "source": "https://www.tvmaze.com/shows/620/the-last-man-on-earth",
+      "checkedAt": "2026-10-18T20:52:47.539742+00:00"
+    },
+    "productionCountries": [
+      "US"
+    ],
+    "genres": [
+      "Comedy",
+      "Science-Fiction"
+    ]
+  },
+  "5447300": {
+    "rank": 461,
+    "title": "The Completely Made-Up Adventures of Dick Turpin",
+    "ru": "Вымышленные приключения Дика Турпина",
+    "year": 2024,
+    "type": "series",
+    "kpId": "5447300",
+    "imdb": "tt19516036",
+    "group": "weird",
+    "checkedAt": "2026-10-18T20:52:47.539742+00:00",
+    "score": 7.0,
+    "votes": 7549,
+    "kp": 7.3,
+    "kpVotes": 1946,
+    "kpSource": "https://rating.kinopoisk.ru/5447300.xml",
+    "image": "assets/library-461.webp",
+    "posterSource": "https://hdrezka.asia/media/posters/the-completely-made-up-adventures-of-dick-turpin-2024.webp?v=26e2e6b96d7e4622",
+    "seriesStats": {
+      "seasons": 1,
+      "episodes": 7,
+      "episodesPerSeason": 7.0,
+      "episodeMinutes": 30.6,
+      "seasonEpisodes": [
+        {
+          "season": 1,
+          "episodes": 7
+        }
+      ],
+      "ongoing": true,
+      "totalMinutes": 214,
+      "source": "https://www.tvmaze.com/shows/74067/the-completely-made-up-adventures-of-dick-turpin",
+      "checkedAt": "2026-10-18T20:52:47.539742+00:00"
+    },
+    "productionCountries": [],
+    "genres": [
+      "Comedy",
+      "History"
+    ]
+  },
+  "1114279": {
+    "rank": 462,
+    "title": "The Politician",
+    "ru": "Политик",
+    "year": 2019,
+    "type": "series",
+    "kpId": "1114279",
+    "imdb": "tt7971476",
+    "group": "satire",
+    "checkedAt": "2026-10-18T20:52:47.539742+00:00",
+    "score": 7.4,
+    "votes": 26347,
+    "kp": 7.6,
+    "kpVotes": 7053,
+    "kpSource": "https://rating.kinopoisk.ru/1114279.xml",
+    "image": "assets/library-462.webp",
+    "posterSource": "https://hdrezka.asia/media/posters/the-politician-2019.webp?v=96d6cde404d31828",
+    "seriesStats": {
+      "seasons": 2,
+      "episodes": 15,
+      "episodesPerSeason": 7.5,
+      "episodeMinutes": 44.1,
+      "seasonEpisodes": [
+        {
+          "season": 1,
+          "episodes": 8
+        },
+        {
+          "season": 2,
+          "episodes": 7
+        }
+      ],
+      "ongoing": false,
+      "totalMinutes": 661,
+      "source": "https://www.tvmaze.com/shows/34784/the-politician",
+      "checkedAt": "2026-10-18T20:52:47.539742+00:00"
+    },
+    "productionCountries": [],
+    "genres": [
+      "Drama",
+      "Comedy"
+    ]
+  },
+  "577257": {
+    "rank": 463,
+    "title": "House of Lies",
+    "ru": "Обитель лжи",
+    "year": 2012,
+    "type": "series",
+    "kpId": "577257",
+    "imdb": "tt1797404",
+    "group": "satire",
+    "checkedAt": "2026-10-18T20:52:47.539742+00:00",
+    "score": 7.4,
+    "votes": 27812,
+    "kp": 7.1,
+    "kpVotes": 4655,
+    "kpSource": "https://rating.kinopoisk.ru/577257.xml",
+    "image": "assets/library-463.webp",
+    "posterSource": "https://hdrezka.asia/media/posters/house-of-lies-2012.webp?v=8ed7266331c23cbb",
+    "seriesStats": {
+      "seasons": 5,
+      "episodes": 58,
+      "episodesPerSeason": 11.6,
+      "episodeMinutes": 30.0,
+      "seasonEpisodes": [
+        {
+          "season": 1,
+          "episodes": 12
+        },
+        {
+          "season": 2,
+          "episodes": 12
+        },
+        {
+          "season": 3,
+          "episodes": 12
+        },
+        {
+          "season": 4,
+          "episodes": 12
+        },
+        {
+          "season": 5,
+          "episodes": 10
+        }
+      ],
+      "ongoing": false,
+      "totalMinutes": 1740,
+      "source": "https://www.tvmaze.com/shows/145/house-of-lies",
+      "checkedAt": "2026-10-18T20:52:47.539742+00:00"
+    },
+    "productionCountries": [
+      "US"
+    ],
+    "genres": [
+      "Drama",
+      "Comedy"
+    ]
+  },
+  "4533816": {
+    "rank": 464,
+    "title": "The Newsreader",
+    "ru": "Диктор новостей",
+    "year": 2021,
+    "type": "series",
+    "kpId": "4533816",
+    "imdb": "tt13925142",
+    "group": "dry",
+    "checkedAt": "2026-10-18T20:52:47.539742+00:00",
+    "score": 7.9,
+    "votes": 5946,
+    "kp": 7.7,
+    "kpVotes": 554,
+    "kpSource": "https://rating.kinopoisk.ru/4533816.xml",
+    "image": "assets/library-464.webp",
+    "posterSource": "https://hdrezka.asia/media/posters/the-newsreader-2021.webp?v=7e1f10ab88af8a93",
+    "seriesStats": {
+      "seasons": 3,
+      "episodes": 18,
+      "episodesPerSeason": 6.0,
+      "episodeMinutes": 54.2,
+      "seasonEpisodes": [
+        {
+          "season": 1,
+          "episodes": 6
+        },
+        {
+          "season": 2,
+          "episodes": 6
+        },
+        {
+          "season": 3,
+          "episodes": 6
+        }
+      ],
+      "ongoing": false,
+      "totalMinutes": 976,
+      "source": "https://www.tvmaze.com/shows/47585/the-newsreader",
+      "checkedAt": "2026-10-18T20:52:47.539742+00:00"
+    },
+    "productionCountries": [
+      "AU"
+    ],
+    "genres": [
+      "Drama"
+    ]
+  },
+  "5307763": {
+    "rank": 465,
+    "title": "Fired on Mars",
+    "ru": "Уволенный на Марсе",
+    "year": 2023,
+    "type": "series",
+    "kpId": "5307763",
+    "imdb": "tt27507828",
+    "group": "animated",
+    "checkedAt": "2026-10-18T20:52:47.539742+00:00",
+    "score": 6.9,
+    "votes": 2354,
+    "kp": 7.0,
+    "kpVotes": 589,
+    "kpSource": "https://rating.kinopoisk.ru/5307763.xml",
+    "image": "assets/library-465.webp",
+    "posterSource": "https://hdrezka.asia/media/posters/fired-on-mars-2023.webp?v=2f68549c2b334095",
+    "seriesStats": {
+      "seasons": 1,
+      "episodes": 8,
+      "episodesPerSeason": 8.0,
+      "episodeMinutes": 26.2,
+      "seasonEpisodes": [
+        {
+          "season": 1,
+          "episodes": 8
+        }
+      ],
+      "ongoing": false,
+      "totalMinutes": 210,
+      "source": "https://www.tvmaze.com/shows/53474/fired-on-mars",
+      "checkedAt": "2026-10-18T20:52:47.539742+00:00"
+    },
+    "productionCountries": [],
+    "genres": [
+      "Comedy",
+      "Science-Fiction"
+    ]
+  },
+  "5098077": {
+    "rank": 466,
+    "title": "Exploding Kittens",
+    "ru": "Взрывные котята",
+    "year": 2024,
+    "type": "series",
+    "kpId": "5098077",
+    "imdb": "tt19734104",
+    "group": "animated",
+    "checkedAt": "2026-10-18T20:52:47.539742+00:00",
+    "score": 6.8,
+    "votes": 6449,
+    "kp": 7.4,
+    "kpVotes": 4741,
+    "kpSource": "https://rating.kinopoisk.ru/5098077.xml",
+    "image": "assets/library-466.webp",
+    "posterSource": "https://hdrezka.asia/media/posters/exploding-kittens-2024.webp?v=01e4bf63c1028e5b",
+    "seriesStats": {
+      "seasons": 1,
+      "episodes": 9,
+      "episodesPerSeason": 9.0,
+      "episodeMinutes": 25.7,
+      "seasonEpisodes": [
+        {
+          "season": 1,
+          "episodes": 9
+        }
+      ],
+      "ongoing": false,
+      "totalMinutes": 231,
+      "source": "https://www.tvmaze.com/shows/66350/exploding-kittens",
+      "checkedAt": "2026-10-18T20:52:47.539742+00:00"
+    },
+    "productionCountries": [],
+    "genres": [
+      "Comedy",
+      "Adult"
+    ]
+  },
+  "4533457": {
+    "rank": 467,
+    "title": "Agent Elvis",
+    "ru": "Агент Элвис",
+    "year": 2023,
+    "type": "series",
+    "kpId": "4533457",
+    "imdb": "tt10814036",
+    "group": "animated",
+    "checkedAt": "2026-10-18T20:52:47.539742+00:00",
+    "score": 6.8,
+    "votes": 2991,
+    "kp": 6.2,
+    "kpVotes": 316,
+    "kpSource": "https://rating.kinopoisk.ru/4533457.xml",
+    "image": "assets/library-467.webp",
+    "posterSource": "https://hdrezka.asia/media/posters/agent-elvis-2023.webp?v=16c041d545a9da35",
+    "seriesStats": {
+      "seasons": 1,
+      "episodes": 10,
+      "episodesPerSeason": 10.0,
+      "episodeMinutes": 24.8,
+      "seasonEpisodes": [
+        {
+          "season": 1,
+          "episodes": 10
+        }
+      ],
+      "ongoing": false,
+      "totalMinutes": 248,
+      "source": "https://www.tvmaze.com/shows/43406/agent-elvis",
+      "checkedAt": "2026-10-18T20:52:47.539742+00:00"
+    },
+    "productionCountries": [],
+    "genres": [
+      "Comedy",
+      "Action",
+      "Espionage"
+    ]
+  },
+  "4977775": {
+    "rank": 468,
+    "title": "The Second Best Hospital in the Galaxy",
+    "ru": "Вторая лучшая больница в галактике",
+    "year": 2024,
+    "type": "series",
+    "kpId": "4977775",
+    "imdb": "tt11828386",
+    "group": "animated",
+    "checkedAt": "2026-10-18T20:52:47.539742+00:00",
+    "score": 6.5,
+    "votes": 2057,
+    "kp": 6.7,
+    "kpVotes": 426,
+    "kpSource": "https://rating.kinopoisk.ru/4977775.xml",
+    "image": "assets/library-468.webp",
+    "posterSource": "https://hdrezka.asia/media/posters/the-second-best-hospital-in-the-galaxy-2024.webp?v=be401293de13215b",
+    "seriesStats": {
+      "seasons": 2,
+      "episodes": 16,
+      "episodesPerSeason": 8.0,
+      "episodeMinutes": 24.8,
+      "seasonEpisodes": [
+        {
+          "season": 1,
+          "episodes": 8
+        },
+        {
+          "season": 2,
+          "episodes": 8
+        }
+      ],
+      "ongoing": true,
+      "totalMinutes": 396,
+      "source": "https://www.tvmaze.com/shows/73546/the-second-best-hospital-in-the-galaxy",
+      "checkedAt": "2026-10-18T20:52:47.539742+00:00"
+    },
+    "productionCountries": [],
+    "genres": [
+      "Comedy",
+      "Science-Fiction",
+      "Adult"
+    ]
+  },
+  "5405539": {
+    "rank": 469,
+    "title": "Carol & the End of the World",
+    "ru": "Кэрол и конец света",
+    "year": 2023,
+    "type": "series",
+    "kpId": "5405539",
+    "imdb": "tt29629770",
+    "group": "animated",
+    "checkedAt": "2026-10-18T20:52:47.539742+00:00",
+    "score": 7.2,
+    "votes": 7613,
+    "kp": 7.3,
+    "kpVotes": 1810,
+    "kpSource": "https://rating.kinopoisk.ru/5405539.xml",
+    "image": "assets/library-469.webp",
+    "posterSource": "https://hdrezka.asia/media/posters/carol-the-end-of-the-world-2023.webp?v=163d448056151cbb",
+    "seriesStats": {
+      "seasons": 1,
+      "episodes": 10,
+      "episodesPerSeason": 10.0,
+      "episodeMinutes": 28.6,
+      "seasonEpisodes": [
+        {
+          "season": 1,
+          "episodes": 10
+        }
+      ],
+      "ongoing": false,
+      "totalMinutes": 286,
+      "source": "https://www.tvmaze.com/shows/72198/carol-the-end-of-the-world",
+      "checkedAt": "2026-10-18T20:52:47.539742+00:00"
+    },
+    "productionCountries": [],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "5002282": {
+    "rank": 470,
+    "title": "Scavengers Reign",
+    "ru": "Царство падальщиков",
+    "year": 2023,
+    "type": "series",
+    "kpId": "5002282",
+    "imdb": "tt21056886",
+    "group": "animated",
+    "checkedAt": "2026-10-18T20:52:47.539742+00:00",
+    "score": 8.6,
+    "votes": 38041,
+    "kp": 8.3,
+    "kpVotes": 34255,
+    "kpSource": "https://rating.kinopoisk.ru/5002282.xml",
+    "image": "assets/library-470.webp",
+    "posterSource": "https://hdrezka.asia/media/posters/scavengers-reign-2023.webp?v=84f1250581748744",
+    "seriesStats": {
+      "seasons": 1,
+      "episodes": 12,
+      "episodesPerSeason": 12.0,
+      "episodeMinutes": 24.6,
+      "seasonEpisodes": [
+        {
+          "season": 1,
+          "episodes": 12
+        }
+      ],
+      "ongoing": false,
+      "totalMinutes": 295,
+      "source": "https://www.tvmaze.com/shows/62554/scavengers-reign",
+      "checkedAt": "2026-10-18T20:52:47.539742+00:00"
+    },
+    "productionCountries": [],
+    "genres": [
+      "Drama",
+      "Action",
+      "Science-Fiction"
+    ]
+  },
+  "1397749": {
+    "rank": 471,
+    "title": "Pantheon",
+    "ru": "Пантеон",
+    "year": 2022,
+    "type": "series",
+    "kpId": "1397749",
+    "imdb": "tt11680642",
+    "group": "animated",
+    "checkedAt": "2026-10-18T20:52:47.539742+00:00",
+    "score": 8.5,
+    "votes": 24281,
+    "kp": 8.5,
+    "kpVotes": 36834,
+    "kpSource": "https://rating.kinopoisk.ru/1397749.xml",
+    "image": "assets/library-471.webp",
+    "posterSource": "https://hdrezka.asia/media/posters/pantheon-2022.webp?v=a9cb87a9d3d8b861",
+    "seriesStats": {
+      "seasons": 2,
+      "episodes": 16,
+      "episodesPerSeason": 8.0,
+      "episodeMinutes": 41.9,
+      "seasonEpisodes": [
+        {
+          "season": 1,
+          "episodes": 8
+        },
+        {
+          "season": 2,
+          "episodes": 8
+        }
+      ],
+      "ongoing": false,
+      "totalMinutes": 670,
+      "source": "https://www.tvmaze.com/shows/46656/pantheon",
+      "checkedAt": "2026-10-18T20:52:47.539742+00:00"
+    },
+    "productionCountries": [],
+    "genres": [
+      "Drama",
+      "Science-Fiction",
+      "Thriller"
+    ]
+  },
+  "4709237": {
+    "rank": 472,
+    "title": "The Legend of Vox Machina",
+    "ru": "Легенда о Vox Machina",
+    "year": 2022,
+    "type": "series",
+    "kpId": "4709237",
+    "imdb": "tt11247158",
+    "group": "animated",
+    "checkedAt": "2026-10-18T20:52:47.539742+00:00",
+    "score": 8.4,
+    "votes": 57211,
+    "kp": 8.3,
+    "kpVotes": 26592,
+    "kpSource": "https://rating.kinopoisk.ru/4709237.xml",
+    "image": "assets/library-472.webp",
+    "posterSource": "https://hdrezka.asia/media/posters/the-legend-of-vox-machina-2022.webp?v=b080ece640883a4d",
+    "seriesStats": {
+      "seasons": 4,
+      "episodes": 48,
+      "episodesPerSeason": 12.0,
+      "episodeMinutes": 26.2,
+      "seasonEpisodes": [
+        {
+          "season": 1,
+          "episodes": 12
+        },
+        {
+          "season": 2,
+          "episodes": 12
+        },
+        {
+          "season": 3,
+          "episodes": 12
+        },
+        {
+          "season": 4,
+          "episodes": 12
+        }
+      ],
+      "ongoing": true,
+      "totalMinutes": 1258,
+      "source": "https://www.tvmaze.com/shows/44885/the-legend-of-vox-machina",
+      "checkedAt": "2026-10-18T20:52:47.539742+00:00"
+    },
+    "productionCountries": [],
+    "genres": [
+      "Comedy",
+      "Adventure",
+      "Fantasy"
+    ]
+  },
+  "1144179": {
+    "rank": 473,
+    "title": "Doom Patrol",
+    "ru": "Роковой патруль",
+    "year": 2019,
+    "type": "series",
+    "kpId": "1144179",
+    "imdb": "tt8416494",
+    "group": "weird",
+    "checkedAt": "2026-10-18T20:52:47.539742+00:00",
+    "score": 7.7,
+    "votes": 64310,
+    "kp": 7.3,
+    "kpVotes": 94293,
+    "kpSource": "https://rating.kinopoisk.ru/1144179.xml",
+    "image": "assets/library-473.webp",
+    "posterSource": "https://hdrezka.asia/media/posters/doom-patrol-2019.webp?v=aa2e03bca6460ceb",
+    "seriesStats": {
+      "seasons": 4,
+      "episodes": 46,
+      "episodesPerSeason": 11.5,
+      "episodeMinutes": 50.6,
+      "seasonEpisodes": [
+        {
+          "season": 1,
+          "episodes": 15
+        },
+        {
+          "season": 2,
+          "episodes": 9
+        },
+        {
+          "season": 3,
+          "episodes": 10
+        },
+        {
+          "season": 4,
+          "episodes": 12
+        }
+      ],
+      "ongoing": false,
+      "totalMinutes": 2326,
+      "source": "https://www.tvmaze.com/shows/36745/doom-patrol",
+      "checkedAt": "2026-10-18T20:52:47.539742+00:00"
+    },
+    "productionCountries": [],
+    "genres": [
+      "Drama",
+      "Action",
+      "Science-Fiction"
+    ]
+  },
+  "1200189": {
+    "rank": 474,
+    "title": "Resident Alien",
+    "ru": "Засланец из космоса",
+    "year": 2021,
+    "type": "series",
+    "kpId": "1200189",
+    "imdb": "tt8690918",
+    "group": "weird",
+    "checkedAt": "2026-10-18T20:52:47.539742+00:00",
+    "score": 8.0,
+    "votes": 92417,
+    "kp": 8.0,
+    "kpVotes": 476473,
+    "kpSource": "https://rating.kinopoisk.ru/1200189.xml",
+    "image": "assets/library-474.webp",
+    "posterSource": "https://hdrezka.asia/media/posters/resident-alien-2021.webp?v=c7c41512cd0b9491",
+    "seriesStats": {
+      "seasons": 4,
+      "episodes": 44,
+      "episodesPerSeason": 11.0,
+      "episodeMinutes": 60.4,
+      "seasonEpisodes": [
+        {
+          "season": 1,
+          "episodes": 10
+        },
+        {
+          "season": 2,
+          "episodes": 16
+        },
+        {
+          "season": 3,
+          "episodes": 8
+        },
+        {
+          "season": 4,
+          "episodes": 10
+        }
+      ],
+      "ongoing": false,
+      "totalMinutes": 2656,
+      "source": "https://www.tvmaze.com/shows/36947/resident-alien",
+      "checkedAt": "2026-10-18T20:52:47.539742+00:00"
+    },
+    "productionCountries": [
+      "US"
+    ],
+    "genres": [
+      "Drama",
+      "Comedy",
+      "Science-Fiction"
+    ]
+  },
+  "958578": {
+    "rank": 475,
+    "title": "Future Man",
+    "ru": "Человек будущего",
+    "year": 2017,
+    "type": "series",
+    "kpId": "958578",
+    "imdb": "tt4975856",
+    "group": "weird",
+    "checkedAt": "2026-10-18T20:52:47.539742+00:00",
+    "score": 7.6,
+    "votes": 34569,
+    "kp": 7.4,
+    "kpVotes": 35902,
+    "kpSource": "https://rating.kinopoisk.ru/958578.xml",
+    "image": "assets/library-475.webp",
+    "posterSource": "https://hdrezka.asia/media/posters/future-man-2017.webp?v=4f4eb239b41ad795",
+    "seriesStats": {
+      "seasons": 3,
+      "episodes": 34,
+      "episodesPerSeason": 11.33,
+      "episodeMinutes": 30.0,
+      "seasonEpisodes": [
+        {
+          "season": 1,
+          "episodes": 13
+        },
+        {
+          "season": 2,
+          "episodes": 13
+        },
+        {
+          "season": 3,
+          "episodes": 8
+        }
+      ],
+      "ongoing": false,
+      "totalMinutes": 1020,
+      "source": "https://www.tvmaze.com/shows/3022/future-man",
+      "checkedAt": "2026-10-18T20:52:47.539742+00:00"
+    },
+    "productionCountries": [
+      "US"
+    ],
+    "genres": [
+      "Comedy",
+      "Action",
+      "Science-Fiction"
+    ]
+  },
+  "784783": {
+    "rank": 476,
+    "title": "Happyish",
+    "ru": "Типа счастье",
+    "year": 2015,
+    "type": "series",
+    "kpId": "784783",
+    "imdb": "tt3095080",
+    "group": "dry",
+    "checkedAt": "2026-10-18T20:52:47.539742+00:00",
+    "score": 7.2,
+    "votes": 3420,
+    "kp": 7.4,
+    "kpVotes": 1875,
+    "kpSource": "https://rating.kinopoisk.ru/784783.xml",
+    "image": "assets/library-476.webp",
+    "posterSource": "https://hdrezka.asia/media/posters/happyish-2015.webp?v=b1ba366e708531b4",
+    "seriesStats": {
+      "seasons": 1,
+      "episodes": 10,
+      "episodesPerSeason": 10.0,
+      "episodeMinutes": 30.0,
+      "seasonEpisodes": [
+        {
+          "season": 1,
+          "episodes": 10
+        }
+      ],
+      "ongoing": false,
+      "totalMinutes": 300,
+      "source": "https://www.tvmaze.com/shows/1735/happyish",
+      "checkedAt": "2026-10-18T20:52:47.539742+00:00"
+    },
+    "productionCountries": [
+      "US"
+    ],
+    "genres": [
+      "Drama",
+      "Comedy"
+    ]
+  },
+  "1008790": {
+    "rank": 477,
+    "title": "Brockmire",
+    "ru": "Брокмайр",
+    "year": 2017,
+    "type": "series",
+    "kpId": "1008790",
+    "imdb": "tt5722190",
+    "group": "dry",
+    "checkedAt": "2026-10-18T20:52:47.539742+00:00",
+    "score": 7.9,
+    "votes": 7863,
+    "kp": 6.7,
+    "kpVotes": 745,
+    "kpSource": "https://rating.kinopoisk.ru/1008790.xml",
+    "image": "assets/library-477.webp",
+    "posterSource": "https://hdrezka.asia/media/posters/brockmire-2017.webp?v=afc058a6f46625e9",
+    "seriesStats": {
+      "seasons": 4,
+      "episodes": 32,
+      "episodesPerSeason": 8.0,
+      "episodeMinutes": 30.0,
+      "seasonEpisodes": [
+        {
+          "season": 1,
+          "episodes": 8
+        },
+        {
+          "season": 2,
+          "episodes": 8
+        },
+        {
+          "season": 3,
+          "episodes": 8
+        },
+        {
+          "season": 4,
+          "episodes": 8
+        }
+      ],
+      "ongoing": false,
+      "totalMinutes": 960,
+      "source": "https://www.tvmaze.com/shows/16175/brockmire",
+      "checkedAt": "2026-10-18T20:52:47.539742+00:00"
+    },
+    "productionCountries": [
+      "US"
+    ],
+    "genres": [
+      "Drama",
+      "Comedy",
+      "Sports"
+    ]
+  },
+  "1056155": {
+    "rank": 478,
+    "title": "Black Monday",
+    "ru": "Чёрный понедельник",
+    "year": 2019,
+    "type": "series",
+    "kpId": "1056155",
+    "imdb": "tt7406334",
+    "group": "satire",
+    "checkedAt": "2026-10-18T20:52:47.539742+00:00",
+    "score": 7.4,
+    "votes": 7052,
+    "kp": 7.2,
+    "kpVotes": 3775,
+    "kpSource": "https://rating.kinopoisk.ru/1056155.xml",
+    "image": "assets/library-478.webp",
+    "posterSource": "https://hdrezka.asia/media/posters/black-monday-2019.webp?v=f75c9495b6d2c66b",
+    "seriesStats": {
+      "seasons": 3,
+      "episodes": 30,
+      "episodesPerSeason": 10.0,
+      "episodeMinutes": 30.0,
+      "seasonEpisodes": [
+        {
+          "season": 1,
+          "episodes": 10
+        },
+        {
+          "season": 2,
+          "episodes": 10
+        },
+        {
+          "season": 3,
+          "episodes": 10
+        }
+      ],
+      "ongoing": false,
+      "totalMinutes": 900,
+      "source": "https://www.tvmaze.com/shows/31708/black-monday",
+      "checkedAt": "2026-10-18T20:52:47.539742+00:00"
+    },
+    "productionCountries": [
+      "US"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "6579800": {
+    "rank": 479,
+    "title": "The Studio",
+    "ru": "Киностудия",
+    "year": 2025,
+    "type": "series",
+    "kpId": "6579800",
+    "imdb": "tt23649128",
+    "group": "satire",
+    "checkedAt": "2026-10-18T20:52:47.539742+00:00",
+    "score": 8.0,
+    "votes": 71102,
+    "kp": 8.1,
+    "kpVotes": 31649,
+    "kpSource": "https://rating.kinopoisk.ru/6579800.xml",
+    "image": "assets/library-479.webp",
+    "posterSource": "https://hdrezka.asia/media/posters/the-studio-2025.webp?v=22ba225c9e98e637",
+    "seriesStats": {
+      "seasons": 1,
+      "episodes": 10,
+      "episodesPerSeason": 10.0,
+      "episodeMinutes": 30.3,
+      "seasonEpisodes": [
+        {
+          "season": 1,
+          "episodes": 10
+        }
+      ],
+      "ongoing": true,
+      "totalMinutes": 303,
+      "source": "https://www.tvmaze.com/shows/75605/the-studio",
+      "checkedAt": "2026-10-18T20:52:47.539742+00:00"
+    },
+    "productionCountries": [],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "6690250": {
+    "rank": 480,
+    "title": "Government Cheese",
+    "ru": "Правительственный сыр",
+    "year": 2025,
+    "type": "series",
+    "kpId": "6690250",
+    "imdb": "tt30428883",
+    "group": "weird",
+    "checkedAt": "2026-10-18T20:52:47.539742+00:00",
+    "score": 6.3,
+    "votes": 1730,
+    "kp": 6.1,
+    "kpVotes": 353,
+    "kpSource": "https://rating.kinopoisk.ru/6690250.xml",
+    "image": "assets/library-480.webp",
+    "posterSource": "https://hdrezka.asia/media/posters/government-cheese-2025.webp?v=da7f80e86ec11abb",
+    "seriesStats": {
+      "seasons": 1,
+      "episodes": 10,
+      "episodesPerSeason": 10.0,
+      "episodeMinutes": 30.0,
+      "seasonEpisodes": [
+        {
+          "season": 1,
+          "episodes": 10
+        }
+      ],
+      "ongoing": true,
+      "totalMinutes": 300,
+      "source": "https://www.tvmaze.com/shows/73454/government-cheese",
+      "checkedAt": "2026-10-18T20:52:47.539742+00:00"
+    },
+    "productionCountries": [],
+    "genres": [
+      "Comedy",
+      "Family"
+    ]
+  },
+  "1177507": {
+    "rank": 481,
+    "title": "Lodge 49",
+    "ru": "Ложа 49",
+    "year": 2018,
+    "type": "series",
+    "kpId": "1177507",
+    "imdb": "tt6128254",
+    "group": "weird",
+    "checkedAt": "2026-10-18T20:52:47.539742+00:00",
+    "score": 7.6,
+    "votes": 5265,
+    "kp": 7.3,
+    "kpVotes": 5964,
+    "kpSource": "https://rating.kinopoisk.ru/1177507.xml",
+    "image": "assets/library-481.webp",
+    "posterSource": "https://hdrezka.asia/media/posters/lodge-49-2018.webp?v=937fcc0e957ddd0d",
+    "seriesStats": {
+      "seasons": 2,
+      "episodes": 20,
+      "episodesPerSeason": 10.0,
+      "episodeMinutes": 60.0,
+      "seasonEpisodes": [
+        {
+          "season": 1,
+          "episodes": 10
+        },
+        {
+          "season": 2,
+          "episodes": 10
+        }
+      ],
+      "ongoing": false,
+      "totalMinutes": 1200,
+      "source": "https://www.tvmaze.com/shows/21765/lodge-49",
+      "checkedAt": "2026-10-18T20:52:47.539742+00:00"
+    },
+    "productionCountries": [
+      "US"
+    ],
+    "genres": [
+      "Drama",
+      "Comedy"
+    ]
+  },
+  "766149": {
+    "rank": 482,
+    "title": "Wayward Pines",
+    "ru": "Сосны",
+    "year": 2015,
+    "type": "series",
+    "kpId": "766149",
+    "imdb": "tt2618986",
+    "group": "weird",
+    "checkedAt": "2026-10-18T20:52:47.539742+00:00",
+    "score": 7.3,
+    "votes": 65972,
+    "kp": 6.9,
+    "kpVotes": 39843,
+    "kpSource": "https://rating.kinopoisk.ru/766149.xml",
+    "image": "assets/library-482.webp",
+    "posterSource": "https://hdrezka.asia/media/posters/wayward-pines-2015.webp?v=36ff0d994d813f09",
+    "seriesStats": {
+      "seasons": 2,
+      "episodes": 20,
+      "episodesPerSeason": 10.0,
+      "episodeMinutes": 60.0,
+      "seasonEpisodes": [
+        {
+          "season": 1,
+          "episodes": 10
+        },
+        {
+          "season": 2,
+          "episodes": 10
+        }
+      ],
+      "ongoing": false,
+      "totalMinutes": 1200,
+      "source": "https://www.tvmaze.com/shows/1179/wayward-pines",
+      "checkedAt": "2026-10-18T20:52:47.539742+00:00"
+    },
+    "productionCountries": [
+      "US"
+    ],
+    "genres": [
+      "Drama",
+      "Science-Fiction",
+      "Mystery"
+    ]
+  },
+  "1178701": {
+    "rank": 483,
+    "title": "Upright",
+    "ru": "Пианино",
+    "year": 2019,
+    "type": "series",
+    "kpId": "1178701",
+    "imdb": "tt8765446",
+    "group": "dry",
+    "checkedAt": "2026-10-18T20:52:47.539742+00:00",
+    "score": 8.4,
+    "votes": 8143,
+    "kp": 7.9,
+    "kpVotes": 6007,
+    "kpSource": "https://rating.kinopoisk.ru/1178701.xml",
+    "image": "assets/library-483.webp",
+    "posterSource": "https://hdrezka.asia/media/posters/upright-2019.webp?v=913451387bb9610d",
+    "seriesStats": {
+      "seasons": 2,
+      "episodes": 16,
+      "episodesPerSeason": 8.0,
+      "episodeMinutes": 30.0,
+      "seasonEpisodes": [
+        {
+          "season": 1,
+          "episodes": 8
+        },
+        {
+          "season": 2,
+          "episodes": 8
+        }
+      ],
+      "ongoing": false,
+      "totalMinutes": 480,
+      "source": "https://www.tvmaze.com/shows/37833/upright",
+      "checkedAt": "2026-10-18T20:52:47.539742+00:00"
+    },
+    "productionCountries": [
+      "AU"
+    ],
+    "genres": [
+      "Drama",
+      "Comedy"
+    ]
+  },
+  "1398476": {
+    "rank": 484,
+    "title": "This Is Going to Hurt",
+    "ru": "Будет больно",
+    "year": 2022,
+    "type": "series",
+    "kpId": "1398476",
+    "imdb": "tt8681148",
+    "group": "dry",
+    "checkedAt": "2026-10-18T20:52:47.539742+00:00",
+    "score": 8.3,
+    "votes": 23209,
+    "kp": 8.1,
+    "kpVotes": 122840,
+    "kpSource": "https://rating.kinopoisk.ru/1398476.xml",
+    "image": "assets/library-484.webp",
+    "posterSource": "https://hdrezka.asia/media/posters/this-is-going-to-hurt-2022.webp?v=a061457fea2ced33",
+    "seriesStats": {
+      "seasons": 1,
+      "episodes": 7,
+      "episodesPerSeason": 7.0,
+      "episodeMinutes": 45.1,
+      "seasonEpisodes": [
+        {
+          "season": 1,
+          "episodes": 7
+        }
+      ],
+      "ongoing": false,
+      "totalMinutes": 316,
+      "source": "https://www.tvmaze.com/shows/37649/this-is-going-to-hurt",
+      "checkedAt": "2026-10-18T20:52:47.539742+00:00"
+    },
+    "productionCountries": [
+      "GB"
+    ],
+    "genres": [
+      "Drama",
+      "Comedy",
+      "Medical"
+    ]
+  },
+  "4533538": {
+    "rank": 485,
+    "title": "The Cleaner",
+    "ru": "Уборщик",
+    "year": 2021,
+    "type": "series",
+    "kpId": "4533538",
+    "imdb": "tt12994356",
+    "group": "dry",
+    "checkedAt": "2026-10-18T20:52:47.539742+00:00",
+    "score": 7.1,
+    "votes": 8541,
+    "kp": 7.4,
+    "kpVotes": 47762,
+    "kpSource": "https://rating.kinopoisk.ru/4533538.xml",
+    "image": "assets/library-485.webp",
+    "posterSource": "https://hdrezka.asia/media/posters/the-cleaner-2021.webp?v=eed13c61f11c07d2",
+    "seriesStats": {
+      "seasons": 3,
+      "episodes": 18,
+      "episodesPerSeason": 6.0,
+      "episodeMinutes": 28.6,
+      "seasonEpisodes": [
+        {
+          "season": 1,
+          "episodes": 6
+        },
+        {
+          "season": 2,
+          "episodes": 6
+        },
+        {
+          "season": 3,
+          "episodes": 6
+        }
+      ],
+      "ongoing": true,
+      "totalMinutes": 515,
+      "source": "https://www.tvmaze.com/shows/49930/the-cleaner",
+      "checkedAt": "2026-10-18T20:52:47.539742+00:00"
+    },
+    "productionCountries": [
+      "GB"
+    ],
+    "genres": [
+      "Drama",
+      "Comedy",
+      "Crime"
+    ]
+  },
+  "578946": {
+    "rank": 486,
+    "title": "Lucky Louie",
+    "ru": "Счастливчик Луи",
+    "year": 2006,
+    "type": "series",
+    "kpId": "578946",
+    "imdb": "tt0460619",
+    "group": "dry",
+    "checkedAt": "2026-10-18T20:52:47.539742+00:00",
+    "score": 7.8,
+    "votes": 11159,
+    "kp": 7.5,
+    "kpVotes": 5562,
+    "kpSource": "https://rating.kinopoisk.ru/578946.xml",
+    "image": "assets/library-486.webp",
+    "posterSource": "https://hdrezka.asia/media/posters/lucky-louie-2006.webp?v=3e4d0fb92b2e085a",
+    "seriesStats": {
+      "seasons": 1,
+      "episodes": 13,
+      "episodesPerSeason": 13.0,
+      "episodeMinutes": 30.0,
+      "seasonEpisodes": [
+        {
+          "season": 1,
+          "episodes": 13
+        }
+      ],
+      "ongoing": false,
+      "totalMinutes": 390,
+      "source": "https://www.tvmaze.com/shows/2208/lucky-louie",
+      "checkedAt": "2026-10-18T20:52:47.539742+00:00"
+    },
+    "productionCountries": [
+      "US"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "512813": {
+    "rank": 487,
+    "title": "Life's Too Short",
+    "ru": "Жизнь так коротка",
+    "year": 2011,
+    "type": "series",
+    "kpId": "512813",
+    "imdb": "tt1641247",
+    "group": "awkward",
+    "checkedAt": "2026-10-18T20:52:47.539742+00:00",
+    "score": 7.5,
+    "votes": 17431,
+    "kp": 7.2,
+    "kpVotes": 1851,
+    "kpSource": "https://rating.kinopoisk.ru/512813.xml",
+    "image": "assets/library-487.webp",
+    "posterSource": "https://hdrezka.asia/media/posters/life-s-too-short-2011.webp?v=67d0bcaf7c9cf6c8",
+    "seriesStats": {
+      "seasons": 1,
+      "episodes": 7,
+      "episodesPerSeason": 7.0,
+      "episodeMinutes": 30.0,
+      "seasonEpisodes": [
+        {
+          "season": 1,
+          "episodes": 7
+        }
+      ],
+      "ongoing": false,
+      "totalMinutes": 210,
+      "source": "https://www.tvmaze.com/shows/423/lifes-too-short",
+      "checkedAt": "2026-10-18T20:52:47.539742+00:00"
+    },
+    "productionCountries": [
+      "GB"
+    ],
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "982447": {
+    "rank": 488,
+    "title": "Sick Note",
+    "ru": "По болезни",
+    "year": 2017,
+    "type": "series",
+    "kpId": "982447",
+    "imdb": "tt5770788",
+    "group": "crime",
+    "checkedAt": "2026-10-18T20:52:47.539742+00:00",
+    "score": 6.7,
+    "votes": 9627,
+    "kp": 6.7,
+    "kpVotes": 1377,
+    "kpSource": "https://rating.kinopoisk.ru/982447.xml",
+    "image": "assets/library-488.webp",
+    "posterSource": "https://hdrezka.asia/media/posters/sick-note-2017.webp?v=98b6095fd71cc69c",
+    "seriesStats": {
+      "seasons": 2,
+      "episodes": 14,
+      "episodesPerSeason": 7.0,
+      "episodeMinutes": 32.1,
+      "seasonEpisodes": [
+        {
+          "season": 1,
+          "episodes": 6
+        },
+        {
+          "season": 2,
+          "episodes": 8
+        }
+      ],
+      "ongoing": false,
+      "totalMinutes": 450,
+      "source": "https://www.tvmaze.com/shows/17833/sick-note",
+      "checkedAt": "2026-10-18T20:52:47.539742+00:00"
+    },
+    "productionCountries": [
+      "GB"
+    ],
+    "genres": [
+      "Comedy",
+      "Crime"
+    ]
+  },
+  "1008346": {
+    "rank": 489,
+    "title": "Santa Clarita Diet",
+    "ru": "Диета из Санта-Клариты",
+    "year": 2017,
+    "type": "series",
+    "kpId": "1008346",
+    "imdb": "tt5580540",
+    "group": "horror",
+    "checkedAt": "2026-10-18T20:52:47.539742+00:00",
+    "score": 7.8,
+    "votes": 84415,
+    "kp": 7.2,
+    "kpVotes": 8103,
+    "kpSource": "https://rating.kinopoisk.ru/1008346.xml",
+    "image": "assets/library-489.webp",
+    "posterSource": "https://hdrezka.asia/media/posters/santa-clarita-diet-2017.webp?v=7b85f2a7d75417f0",
+    "seriesStats": {
+      "seasons": 3,
+      "episodes": 30,
+      "episodesPerSeason": 10.0,
+      "episodeMinutes": 29.2,
+      "seasonEpisodes": [
+        {
+          "season": 1,
+          "episodes": 10
+        },
+        {
+          "season": 2,
+          "episodes": 10
+        },
+        {
+          "season": 3,
+          "episodes": 10
+        }
+      ],
+      "ongoing": false,
+      "totalMinutes": 877,
+      "source": "https://www.tvmaze.com/shows/14612/santa-clarita-diet",
+      "checkedAt": "2026-10-18T20:52:47.539742+00:00"
+    },
+    "productionCountries": [],
+    "genres": [
+      "Comedy",
+      "Horror"
+    ]
+  },
+  "93377": {
+    "rank": 490,
+    "title": "Hot Fuzz",
+    "ru": "Типа крутые легавые",
+    "year": 2007,
+    "type": "film",
+    "kpId": "93377",
+    "imdb": "tt0425112",
+    "group": "crime",
+    "checkedAt": "2026-10-18T20:52:47.539742+00:00",
+    "kp": 7.7,
+    "kpVotes": 328606,
+    "kpSource": "https://rating.kinopoisk.ru/93377.xml",
+    "image": "assets/library-490.webp",
+    "posterSource": "https://hdrezka.asia/media/posters/hot-fuzz-2007.webp?v=8732fb2358507eca",
+    "runtime": 121,
+    "score": 7.8,
+    "votes": 574202
+  }
+}

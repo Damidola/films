@@ -1,0 +1,344 @@
+{
+  "Showzen": {
+    "query": "Showzen",
+    "items": [],
+    "error": [
+      "Поиск по сайту"
+    ]
+  },
+  "Джем": {
+    "query": "Джем",
+    "items": [
+      {
+        "url": "https://hdrezka.me/films/fantasy/12445-dzhem-i-gologrammy-2015.html",
+        "title": "Джем и голограммы",
+        "info": "2015, США, Фэнтези"
+      },
+      {
+        "url": "https://hdrezka.me/cartoons/fantasy/4056-kosmicheskiy-dzhem-1996.html",
+        "title": "Космический джем",
+        "info": "1996, США, Фэнтези"
+      },
+      {
+        "url": "https://hdrezka.me/films/melodrama/21072-ves-etot-dzhem-2014.html",
+        "title": "Весь этот джем",
+        "info": "2014, Россия, Мелодрамы"
+      },
+      {
+        "url": "https://hdrezka.me/series/comedy/31666-pravednye-dzhemstouny-2019-latest.html",
+        "title": "Праведные Джемстоуны",
+        "info": "2019-2025, США, Комедии"
+      },
+      {
+        "url": "https://hdrezka.me/cartoons/fantasy/38639-kosmicheskiy-dzhem-novoe-pokolenie-2021.html",
+        "title": "Космический джем: Новое поколение",
+        "info": "2021, США, Фэнтези"
+      },
+      {
+        "url": "https://hdrezka.me/cartoons/fiction/42762-yunye-titany-vpered-kosmicheskiy-dzhem-2021.html",
+        "title": "Юные титаны, вперёд! Космический джем",
+        "info": "2021, США, Фантастика"
+      },
+      {
+        "url": "https://hdrezka.me/cartoons/adventures/70961-pochemu-dyadyushka-dzhem-prihramyvaet-1989.html",
+        "title": "Почему дядюшка Джем прихрамывает",
+        "info": "1989, СССР, Приключения"
+      },
+      {
+        "url": "https://hdrezka.me/films/documentary/76508-novoe-zvuchanie-kto-ubil-dzhem-mastera-dzheya-2018.html",
+        "title": "Новое звучание. Кто убил Джем-Мастера Джея?",
+        "info": "2018, Документальные"
+      },
+      {
+        "url": "https://hdrezka.me/films/standup/85413-dzhem-yylmaz-2024-2025.html",
+        "title": "Джем Йылмаз. 2024",
+        "info": "2025, Турция, Стендап"
+      },
+      {
+        "url": "https://hdrezka.me/films/drama/9021-drugaya-bovari-2014.html",
+        "title": "Другая Бовари / Джемма Бовери",
+        "info": "2014, Франция, Драмы"
+      },
+      {
+        "url": "https://hdrezka.me/films/comedy/15945-irlandskiy-dzhem-2006.html",
+        "title": "Ирландский джем",
+        "info": "2006, Великобритания, Комедии"
+      },
+      {
+        "url": "https://hdrezka.me/films/drama/26368-slem-dzhem-2017.html",
+        "title": "Слэм Джем",
+        "info": "2017, США, Драмы"
+      },
+      {
+        "url": "https://hdrezka.me/films/thriller/45200-devushka-v-zheltom-dzhempere-2020.html",
+        "title": "Девушка в желтом джемпере",
+        "info": "2020, Уганда, Триллеры"
+      },
+      {
+        "url": "https://hdrezka.me/films/standup/90457-vidura-bandara-radzhapaksa-dzhem-iz-derevyannogo-yabloka-2024.html",
+        "title": "Видура Бандара Раджапакса: Джем из деревянного яблока",
+        "info": "2024, Великобритания, Стендап"
+      }
+    ],
+    "error": null
+  },
+  "Утиная личность": {
+    "query": "Утиная личность",
+    "items": [
+      {
+        "url": "https://hdrezka.me/films/action/9175-osobaya-lichnost-2013.html",
+        "title": "Особая личность",
+        "info": "2013, Китай, Боевики"
+      },
+      {
+        "url": "https://hdrezka.me/films/thriller/9807-lichnost-neizvestna-2011.html",
+        "title": "Личность: неизвестна",
+        "info": "2011, Дания, Триллеры"
+      },
+      {
+        "url": "https://hdrezka.me/cartoons/fiction/16881-ya-vyshla-zamuzh-za-strannuyu-lichnost-1997.html",
+        "title": "Я вышла замуж за странную личность",
+        "info": "1997, США, Фантастика"
+      },
+      {
+        "url": "https://hdrezka.me/series/drama/25709-lichnost-ne-ustanovlena-2017.html",
+        "title": "Личность не установлена",
+        "info": "2017, Россия, Драмы"
+      },
+      {
+        "url": "https://hdrezka.me/films/drama/29576-stertaya-lichnost-2018.html",
+        "title": "Стёртая личность",
+        "info": "2018, США, Драмы"
+      },
+      {
+        "url": "https://hdrezka.me/series/drama/30889-lichnost-2018.html",
+        "title": "Личность",
+        "info": "2018 - ..., Турция, Драмы"
+      },
+      {
+        "url": "https://hdrezka.me/films/thriller/55270-snyat-blokirovku-2023.html",
+        "title": "Снять блокировку / Украденная личность",
+        "info": "2023, Корея Южная, Триллеры"
+      },
+      {
+        "url": "https://hdrezka.me/films/thriller/65195-ukradennaya-u-chirlidershi-lichnost-2019.html",
+        "title": "Украденная у чирлидерши личность",
+        "info": "2019, Канада, Триллеры"
+      },
+      {
+        "url": "https://hdrezka.me/films/comedy/70227-utinaya-ohota-2004.html",
+        "title": "Утиная охота",
+        "info": "2004, Мексика, Комедии"
+      },
+      {
+        "url": "https://hdrezka.me/films/musical/73919-svetlaya-lichnost-1989.html",
+        "title": "Светлая личность",
+        "info": "1989, СССР, Мюзиклы"
+      },
+      {
+        "url": "https://hdrezka.me/series/drama/78054-odinokaya-bitva-2024.html",
+        "title": "Одинокая битва / Утраченная личность",
+        "info": "2024, Китай, Драмы"
+      },
+      {
+        "url": "https://hdrezka.me/cartoons/horror/89957-persona-2022.html",
+        "title": "Персона / Личность",
+        "info": "2022, Корея Южная, Ужасы"
+      }
+    ],
+    "error": null
+  },
+  "Дакмен": {
+    "query": "Дакмен",
+    "items": [],
+    "error": [
+      "Поиск по сайту"
+    ]
+  },
+  "Чудо-шоу": {
+    "query": "Чудо-шоу",
+    "items": [
+      {
+        "url": "https://hdrezka.me/films/action/61451-konkursant-smertonosnoe-shou-2016.html",
+        "title": "Конкурсант. Смертоносное шоу",
+        "info": "2016, Украина, Боевики"
+      },
+      {
+        "url": "https://hdrezka.me/films/drama/100-shougelz-1995.html",
+        "title": "Шоугелз",
+        "info": "1995, Франция, Драмы"
+      },
+      {
+        "url": "https://hdrezka.me/films/drama/775-shou-trumana-1998.html",
+        "title": "Шоу Трумана",
+        "info": "1998, США, Драмы"
+      },
+      {
+        "url": "https://hdrezka.me/films/drama/806-pobeg-iz-shoushenka-1994-latest.html",
+        "title": "Побег из Шоушенка",
+        "info": "1994, США, Драмы"
+      },
+      {
+        "url": "https://hdrezka.me/cartoons/comedy/2240-shou-klivlenda-2009.html",
+        "title": "Шоу Кливленда",
+        "info": "2009-2013, США, Комедии"
+      },
+      {
+        "url": "https://hdrezka.me/series/comedy/2505-shou-70h-1998.html",
+        "title": "Шоу 70−х",
+        "info": "1998-2006, США, Комедии"
+      },
+      {
+        "url": "https://hdrezka.me/films/action/5589-shou-nachinaetsya-2002.html",
+        "title": "Шоу начинается",
+        "info": "2002, США, Боевики"
+      },
+      {
+        "url": "https://hdrezka.me/films/comedy/6636-v-shou-tolko-devushki-2004.html",
+        "title": "В шоу только девушки",
+        "info": "2004, США, Комедии"
+      },
+      {
+        "url": "https://hdrezka.me/cartoons/comedy/7852-luni-tyunz-shou-2011.html",
+        "title": "Луни Тюнз шоу",
+        "info": "2011-2013, США, Комедии"
+      },
+      {
+        "url": "https://hdrezka.me/cartoons/fiction/7883-obychnoe-shou-2010.html",
+        "title": "Обычное шоу / Обычный Мультик",
+        "info": "2010-2017, США, Фантастика"
+      },
+      {
+        "url": "https://hdrezka.me/cartoons/comedy/9327-shou-toma-i-dzherri-2014.html",
+        "title": "Шоу Тома и Джерри",
+        "info": "2014-2021, США, Комедии"
+      },
+      {
+        "url": "https://hdrezka.me/series/comedy/11074-vechernee-shou-so-stivenom-kolberom.html",
+        "title": "Вечернее шоу со Стивеном Колбером",
+        "info": "2015, США, Комедии"
+      },
+      {
+        "url": "https://hdrezka.me/series/comedy/12885-shou-benni-hilla-1969.html",
+        "title": "Шоу Бенни Хилла",
+        "info": "1969-1989, Великобритания, Комедии"
+      },
+      {
+        "url": "https://hdrezka.me/films/comedy/14046-shou-uzhasov-rokki-horrora-1975.html",
+        "title": "Шоу ужасов Рокки Хоррора",
+        "info": "1975, Великобритания, Комедии"
+      },
+      {
+        "url": "https://hdrezka.me/cartoons/comedy/14402-novye-priklyucheniya-toma-i-dzherri-1980.html",
+        "title": "Новые приключения Тома и Джерри / Том и Джерри: Комедийное шоу",
+        "info": "1980-1982, США, Комедии"
+      },
+      {
+        "url": "https://hdrezka.me/cartoons/fiction/14554-obychnoe-shou-film-2015.html",
+        "title": "Обычное шоу: Фильм / Обычный Мультик: Фильм",
+        "info": "2015, США, Фантастика"
+      },
+      {
+        "url": "https://hdrezka.me/series/comedy/14726-pip-shou-2003.html",
+        "title": "Пип шоу",
+        "info": "2003-2015, Великобритания, Комедии"
+      },
+      {
+        "url": "https://hdrezka.me/films/comedy/16056-shapito-shou-lyubov-i-druzhba-2011.html",
+        "title": "Шапито-шоу: Любовь и дружба",
+        "info": "2011, Россия, Комедии"
+      },
+      {
+        "url": "https://hdrezka.me/cartoons/comedy/20537-novoe-shou-toma-i-dzherri-1975.html",
+        "title": "Новое шоу Тома и Джерри",
+        "info": "1975-1977, США, Комедии"
+      },
+      {
+        "url": "https://hdrezka.me/films/comedy/22720-shapito-shou-uvazhenie-i-sotrudnichestvo-2011.html",
+        "title": "Шапито-шоу: Уважение и сотрудничество",
+        "info": "2011, Россия, Комедии"
+      },
+      {
+        "url": "https://hdrezka.me/animation/adventures/23967-pokemon-vulkanion-i-mehanicheskoe-chudo-film-19-2016.html",
+        "title": "Покемон: Вулканион и Механическое Чудо (фильм 19)",
+        "info": "2016, Япония, Приключения"
+      },
+      {
+        "url": "https://hdrezka.me/films/drama/25498-chudo-2017.html",
+        "title": "Чудо",
+        "info": "2017, США, Драмы"
+      },
+      {
+        "url": "https://hdrezka.me/films/drama/26606-velichayshiy-shoumen-2017.html",
+        "title": "Величайший шоумен",
+        "info": "2017, США, Драмы"
+      },
+      {
+        "url": "https://hdrezka.me/cartoons/fantasy/26989-chudo-yudo-2017.html",
+        "title": "Чудо-Юдо",
+        "info": "2017, Россия, Фэнтези"
+      },
+      {
+        "url": "https://hdrezka.me/films/comedy/28219-pobediteli-shou-2000.html",
+        "title": "Победители шоу",
+        "info": "2000, США, Комедии"
+      },
+      {
+        "url": "https://hdrezka.me/films/drama/28321-shou-mistiko-2018.html",
+        "title": "Шоу Мистико / Великий загадочный цирк",
+        "info": "2018, Бразилия, Драмы"
+      },
+      {
+        "url": "https://hdrezka.me/series/documentary/31131-shou-povarov-2019.html",
+        "title": "Шоу поваров",
+        "info": "2019-2020, США, Документальные"
+      },
+      {
+        "url": "https://hdrezka.me/films/action/31515-forsazh-hobbs-i-shou-2019.html",
+        "title": "Форсаж: Хоббс и Шоу",
+        "info": "2019, США, Боевики"
+      },
+      {
+        "url": "https://hdrezka.me/series/drama/32350-utrennee-shou-2019-latest.html",
+        "title": "Утреннее шоу",
+        "info": "2019 - ..., США, Драмы"
+      },
+      {
+        "url": "https://hdrezka.me/films/drama/34341-chudo-v-kamere-7-2019.html",
+        "title": "Чудо в камере №7",
+        "info": "2019, Турция, Драмы"
+      },
+      {
+        "url": "https://hdrezka.me/films/adventures/34975-chudo-detki-neputevye-volshebniki-2020.html",
+        "title": "Чудо-детки: Непутевые волшебники",
+        "info": "2020, Германия, Приключения"
+      },
+      {
+        "url": "https://hdrezka.me/cartoons/fiction/35956-shou-mistera-pibodi-i-shermana-2015.html",
+        "title": "Шоу мистера Пибоди и Шермана",
+        "info": "2015-2017, США, Фантастика"
+      },
+      {
+        "url": "https://hdrezka.me/show/humor/36198-shou-erika-andre-2012.html",
+        "title": "Шоу Эрика Андре",
+        "info": "2012 - ..., США, Юмористические"
+      },
+      {
+        "url": "https://hdrezka.me/films/horror/37326-dom-3-shou-uzhasov-1989.html",
+        "title": "Дом 3: Шоу ужасов",
+        "info": "1989, США, Ужасы"
+      },
+      {
+        "url": "https://hdrezka.me/cartoons/fantasy/40754-shou-patrika-stara-2021.html",
+        "title": "Шоу Патрика Стара",
+        "info": "2021 - ..., США, Фэнтези"
+      },
+      {
+        "url": "https://hdrezka.me/cartoons/action/40881-shou-snupi-2021-latest.html",
+        "title": "Шоу Снупи",
+        "info": "2021 - ..., Канада, Боевики"
+      }
+    ],
+    "error": null
+  }
+}

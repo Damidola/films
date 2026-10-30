@@ -1,0 +1,1610 @@
+{
+  "checkedAt": "2026-10-19T14:39:30.208Z",
+  "target": 200,
+  "processed": 200,
+  "withTwenty": 195,
+  "blocked": false,
+  "items": [
+    {
+      "workId": 8,
+      "title": "The Chair Company",
+      "status": "ok",
+      "count": 20,
+      "cached": true,
+      "url": "https://hdrezka.me/series/comedy/82527-mebelnaya-kompaniya-2025.html"
+    },
+    {
+      "workId": 11,
+      "title": "Bookie",
+      "status": "ok",
+      "count": 20,
+      "cached": true,
+      "url": "https://hdrezka.me/series/comedy/64466-bukmeker-2023.html"
+    },
+    {
+      "workId": 82,
+      "title": "Cheap Thrills",
+      "status": "ok",
+      "count": 20,
+      "cached": true,
+      "url": "https://hdrezka.me/films/comedy/5538-deshevyy-trepet-2012.html"
+    },
+    {
+      "workId": 95,
+      "title": "Housebound",
+      "status": "ok",
+      "count": 20,
+      "cached": true,
+      "url": "https://hdrezka.me/films/thriller/3648-privyazannye-k-domu-2014.html"
+    },
+    {
+      "workId": 98,
+      "title": "Hundreds of Beavers",
+      "status": "ok",
+      "count": 20,
+      "cached": true,
+      "url": "https://hdrezka.me/films/comedy/69862-sotni-bobrov-2022.html"
+    },
+    {
+      "workId": 102,
+      "title": "Shameless",
+      "status": "ok",
+      "count": 20,
+      "cached": true,
+      "url": "https://hdrezka.me/series/drama/1932-besstyzhie-2011-latest.html"
+    },
+    {
+      "workId": 116,
+      "title": "Boardwalk Empire",
+      "status": "ok",
+      "count": 20,
+      "cached": true,
+      "url": "https://hdrezka.me/series/drama/1817-podpolnaya-imperiya-2010.html"
+    },
+    {
+      "workId": 141,
+      "title": "Band of Brothers",
+      "status": "ok",
+      "count": 20,
+      "cached": true,
+      "url": "https://hdrezka.me/series/drama/1940-bratya-po-oruzhiyu-2001.html"
+    },
+    {
+      "workId": 147,
+      "title": "House, M.D.",
+      "status": "ok",
+      "count": 20,
+      "cached": true,
+      "url": "https://hdrezka.me/series/drama/1752-doktor-haus-2004-latest.html"
+    },
+    {
+      "workId": 148,
+      "title": "Firefly",
+      "status": "ok",
+      "count": 20,
+      "cached": true,
+      "url": "https://hdrezka.me/series/fiction/1770-svetlyachok-2002-latest.html"
+    },
+    {
+      "workId": 151,
+      "title": "The Shield",
+      "status": "ok",
+      "count": 20,
+      "cached": true,
+      "url": "https://hdrezka.me/series/thriller/11061-schit-2002.html"
+    },
+    {
+      "workId": 163,
+      "title": "Dexter",
+      "status": "ok",
+      "count": 20,
+      "cached": true,
+      "url": "https://hdrezka.me/series/thriller/1743-dekster-2006-latest.html"
+    },
+    {
+      "workId": 168,
+      "title": "The Wire",
+      "status": "ok",
+      "count": 20,
+      "cached": true,
+      "url": "https://hdrezka.me/series/thriller/1931-proslushka-2002-latest.html"
+    },
+    {
+      "workId": 169,
+      "title": "Breaking Bad",
+      "status": "ok",
+      "count": 20,
+      "cached": true,
+      "url": "https://hdrezka.me/series/thriller/646-vo-vse-tyazhkie-2008-latest.html"
+    },
+    {
+      "workId": 177,
+      "title": "Sons of Anarchy",
+      "status": "ok",
+      "count": 20,
+      "cached": true,
+      "url": "https://hdrezka.me/series/thriller/1732-syny-anarhii-2008.html"
+    },
+    {
+      "workId": 204,
+      "title": "Hannibal",
+      "status": "ok",
+      "count": 20,
+      "cached": true,
+      "url": "https://hdrezka.me/series/drama/68-gannibal-2013-latest.html"
+    },
+    {
+      "workId": 205,
+      "title": "Rick and Morty",
+      "status": "ok",
+      "count": 20,
+      "cached": true,
+      "url": "https://hdrezka.me/cartoons/comedy/2136-rik-i-morti-2013-latest.html"
+    },
+    {
+      "workId": 211,
+      "title": "The Terror",
+      "status": "ok",
+      "count": 20,
+      "cached": true,
+      "url": "https://hdrezka.me/series/drama/27297-terror-2018-latest.html"
+    },
+    {
+      "workId": 214,
+      "title": "Shôgun",
+      "status": "ok",
+      "count": 20,
+      "cached": true,
+      "url": "https://hdrezka.me/series/drama/66689-segun-2024-latest.html"
+    },
+    {
+      "workId": 215,
+      "title": "Mob City",
+      "status": "ok",
+      "count": 20,
+      "cached": true,
+      "url": "https://hdrezka.me/series/drama/10891-gorod-gangsterov-2013.html"
+    },
+    {
+      "workId": 217,
+      "title": "Fargo",
+      "status": "ok",
+      "count": 20,
+      "cached": true,
+      "url": "https://hdrezka.me/series/thriller/1668-fargo-2014.html"
+    },
+    {
+      "workId": 219,
+      "title": "Quarry",
+      "status": "ok",
+      "count": 20,
+      "cached": true,
+      "url": "https://hdrezka.me/series/drama/19157-naemnik-kuorri-2016.html"
+    },
+    {
+      "workId": 220,
+      "title": "Bosch",
+      "status": "ok",
+      "count": 20,
+      "cached": true,
+      "url": "https://hdrezka.me/series/crime/7796-bosh-2014-latest.html"
+    },
+    {
+      "workId": 223,
+      "title": "Gomorrah",
+      "status": "ok",
+      "count": 20,
+      "cached": true,
+      "url": "https://hdrezka.me/series/drama/1985-gomorra-2014.html"
+    },
+    {
+      "workId": 225,
+      "title": "Twin Peaks: The Return",
+      "status": "ok",
+      "count": 20,
+      "cached": true,
+      "url": "https://hdrezka.me/series/crime/24213-tvin-piks-2017-2017.html"
+    },
+    {
+      "workId": 234,
+      "title": "Mindhunter",
+      "status": "ok",
+      "count": 20,
+      "cached": true,
+      "url": "https://hdrezka.me/series/drama/25660-ohotnik-za-razumom-2017.html"
+    },
+    {
+      "workId": 235,
+      "title": "Dirk Gently's Holistic Detective Agency",
+      "status": "ok",
+      "count": 20,
+      "cached": true,
+      "url": "https://hdrezka.me/series/comedy/20931-detektivnoe-agentstvo-dirka-dzhentli-2016.html"
+    },
+    {
+      "workId": 236,
+      "title": "Barry",
+      "status": "ok",
+      "count": 20,
+      "cached": true,
+      "url": "https://hdrezka.me/series/drama/27296-barri-2018.html"
+    },
+    {
+      "workId": 244,
+      "title": "El Chapo",
+      "status": "ok",
+      "count": 20,
+      "cached": true,
+      "url": "https://hdrezka.me/series/drama/24867-el-chapo-2017.html"
+    },
+    {
+      "workId": 248,
+      "title": "The End of the F***ing World",
+      "status": "ok",
+      "count": 20,
+      "cached": true,
+      "url": "https://hdrezka.me/series/drama/26150-konec-ebanogo-mira-2017.html"
+    },
+    {
+      "workId": 252,
+      "title": "Invincible",
+      "status": "ok",
+      "count": 20,
+      "cached": true,
+      "url": "https://hdrezka.me/cartoons/fiction/37141-neuyazvimyy-2021-latest.html"
+    },
+    {
+      "workId": 256,
+      "title": "Chernobyl",
+      "status": "ok",
+      "count": 20,
+      "cached": true,
+      "url": "https://hdrezka.me/series/drama/30751-chernobyll-2019.html"
+    },
+    {
+      "workId": 269,
+      "title": "Black Bird",
+      "status": "ok",
+      "count": 20,
+      "cached": true,
+      "url": "https://hdrezka.me/series/thriller/49866-chernaya-ptica-2022.html"
+    },
+    {
+      "workId": 270,
+      "title": "1883",
+      "status": "ok",
+      "count": 20,
+      "cached": true,
+      "url": "https://hdrezka.me/series/drama/43995-1883-2021-latest.html"
+    },
+    {
+      "workId": 280,
+      "title": "MobLand",
+      "status": "ok",
+      "count": 20,
+      "cached": true,
+      "url": "https://hdrezka.me/series/drama/77922-gangsterlend-2025-latest.html"
+    },
+    {
+      "workId": 281,
+      "title": "Dexter: Resurrection",
+      "status": "ok",
+      "count": 20,
+      "cached": true,
+      "url": "https://hdrezka.me/series/drama/79994-dekster-voskreshenie-2025-latest.html"
+    },
+    {
+      "workId": 285,
+      "title": "Better Call Saul",
+      "status": "ok",
+      "count": 20,
+      "cached": true,
+      "url": "https://hdrezka.me/series/drama/7769-luchshe-zvonite-solu-2015-latest.html"
+    },
+    {
+      "workId": 286,
+      "title": "Severance",
+      "status": "ok",
+      "count": 20,
+      "cached": true,
+      "url": "https://hdrezka.me/series/fiction/46416-razdelenie-2022-latest.html"
+    },
+    {
+      "workId": 287,
+      "title": "Beef",
+      "status": "ok",
+      "count": 20,
+      "cached": true,
+      "url": "https://hdrezka.me/series/comedy/56294-gryznya-2023.html"
+    },
+    {
+      "workId": 288,
+      "title": "Dead to Me",
+      "status": "ok",
+      "count": 20,
+      "cached": true,
+      "url": "https://hdrezka.me/series/comedy/30755-mertv-dlya-menya-2019.html"
+    },
+    {
+      "workId": 289,
+      "title": "Living with Yourself",
+      "status": "ok",
+      "count": 20,
+      "cached": true,
+      "url": "https://hdrezka.me/series/comedy/32245-zhizn-s-samim-soboy-2019.html"
+    },
+    {
+      "workId": 291,
+      "title": "After Life",
+      "status": "ok",
+      "count": 20,
+      "cached": true,
+      "url": "https://hdrezka.me/series/comedy/30228-zhizn-posle-smerti-2019.html"
+    },
+    {
+      "workId": 297,
+      "title": "Community",
+      "status": "ok",
+      "count": 20,
+      "cached": true,
+      "url": "https://hdrezka.me/series/comedy/1812-soobschestvo-2009.html"
+    },
+    {
+      "workId": 295,
+      "title": "Veep",
+      "status": "ok",
+      "count": 20,
+      "cached": true,
+      "url": "https://hdrezka.me/series/comedy/2084-vice-prezident-2012-latest.html"
+    },
+    {
+      "workId": 298,
+      "title": "Party Down",
+      "status": "ok",
+      "count": 16,
+      "cached": true,
+      "url": "https://hdrezka.me/series/comedy/13144-mastera-vecherinok-2009.html"
+    },
+    {
+      "workId": 299,
+      "title": "Silicon Valley",
+      "status": "ok",
+      "count": 20,
+      "cached": true,
+      "url": "https://hdrezka.me/series/comedy/2040-kremnievaya-dolina-2014.html"
+    },
+    {
+      "workId": 302,
+      "title": "Detectorists",
+      "status": "ok",
+      "count": 20,
+      "cached": true,
+      "url": "https://hdrezka.me/series/comedy/7880-iskateli-sokrovisch-2014.html"
+    },
+    {
+      "workId": 303,
+      "title": "Rake",
+      "status": "ok",
+      "count": 20,
+      "cached": true,
+      "url": "https://hdrezka.me/series/drama/16347-reyk-2010.html"
+    },
+    {
+      "workId": 304,
+      "title": "The Gentlemen",
+      "status": "ok",
+      "count": 20,
+      "cached": true,
+      "url": "https://hdrezka.me/series/action/66163-dzhentlmeny-2024-latest.html"
+    },
+    {
+      "workId": 305,
+      "title": "Brassic",
+      "status": "ok",
+      "count": 20,
+      "cached": true,
+      "url": "https://hdrezka.me/series/comedy/31791-golyak-2019-latest.html"
+    },
+    {
+      "workId": 306,
+      "title": "Mr. Mercedes",
+      "status": "ok",
+      "count": 20,
+      "cached": true,
+      "url": "https://hdrezka.me/series/thriller/25421-mister-mersedes-2017.html"
+    },
+    {
+      "workId": 307,
+      "title": "Utopia",
+      "status": "ok",
+      "count": 20,
+      "cached": true,
+      "url": "https://hdrezka.me/series/thriller/1972-utopiya-2013.html"
+    },
+    {
+      "workId": 308,
+      "title": "Preacher",
+      "status": "ok",
+      "count": 20,
+      "cached": true,
+      "url": "https://hdrezka.me/series/horror/13142-propovednik-2016.html"
+    },
+    {
+      "workId": 310,
+      "title": "Curb Your Enthusiasm",
+      "status": "ok",
+      "count": 20,
+      "cached": true,
+      "url": "https://hdrezka.me/series/comedy/11954-umer-svoy-entuziazm-2000-latest.html"
+    },
+    {
+      "workId": 312,
+      "title": "Bored to Death",
+      "status": "ok",
+      "count": 20,
+      "cached": true,
+      "url": "https://hdrezka.me/series/comedy/2432-ubit-skuku-2009.html"
+    },
+    {
+      "workId": 314,
+      "title": "Kevin Can F**k Himself",
+      "status": "ok",
+      "count": 20,
+      "cached": true,
+      "url": "https://hdrezka.me/series/comedy/40175-kevin-mozhet-poyti-na-2021.html"
+    },
+    {
+      "workId": 315,
+      "title": "Atlanta",
+      "status": "ok",
+      "count": 20,
+      "cached": true,
+      "url": "https://hdrezka.me/series/drama/19159-atlanta-2016-latest.html"
+    },
+    {
+      "workId": 316,
+      "title": "You're the Worst",
+      "status": "ok",
+      "count": 20,
+      "cached": true,
+      "url": "https://hdrezka.me/series/comedy/1990-ty-voploschenie-poroka-2014.html"
+    },
+    {
+      "workId": 319,
+      "title": "The Other Two",
+      "status": "ok",
+      "count": 11,
+      "cached": true,
+      "url": "https://hdrezka.me/series/comedy/29762-drugie-dvoe-2019-latest.html"
+    },
+    {
+      "workId": 321,
+      "title": "Wellington Paranormal",
+      "status": "ok",
+      "count": 20,
+      "cached": true,
+      "url": "https://hdrezka.me/series/horror/28134-paranormalnyy-vellington-2018-latest.html"
+    },
+    {
+      "workId": 322,
+      "title": "What We Do in the Shadows",
+      "status": "ok",
+      "count": 20,
+      "cached": true,
+      "url": "https://hdrezka.me/series/comedy/30444-chem-my-zanyaty-v-teni-2019-latest.html"
+    },
+    {
+      "workId": 325,
+      "title": "Murderville",
+      "status": "ok",
+      "count": 20,
+      "cached": true,
+      "url": "https://hdrezka.me/series/comedy/46425-v-gorode-ubiystv-2022.html"
+    },
+    {
+      "workId": 327,
+      "title": "Mrs. Davis",
+      "status": "ok",
+      "count": 20,
+      "cached": true,
+      "url": "https://hdrezka.me/series/comedy/56173-missis-devis-2023.html"
+    },
+    {
+      "workId": 328,
+      "title": "Fleabag",
+      "status": "ok",
+      "count": 20,
+      "cached": true,
+      "url": "https://hdrezka.me/series/drama/18662-dryan-2016.html"
+    },
+    {
+      "workId": 329,
+      "title": "Bad Sisters",
+      "status": "ok",
+      "count": 20,
+      "cached": true,
+      "url": "https://hdrezka.me/series/comedy/50593-zagovor-sester-garvi-2022.html"
+    },
+    {
+      "workId": 330,
+      "title": "Based on a True Story",
+      "status": "ok",
+      "count": 20,
+      "cached": true,
+      "url": "https://hdrezka.me/series/comedy/57544-osnovano-na-realnyh-sobytiyah-2023.html"
+    },
+    {
+      "workId": 331,
+      "title": "Poker Face",
+      "status": "ok",
+      "count": 20,
+      "cached": true,
+      "url": "https://hdrezka.me/series/drama/54024-pokerfeys-2023-latest.html"
+    },
+    {
+      "workId": 332,
+      "title": "Bodkin",
+      "status": "ok",
+      "count": 20,
+      "cached": true,
+      "url": "https://hdrezka.me/series/comedy/70161-bodkin-2024.html"
+    },
+    {
+      "workId": 333,
+      "title": "The Brothers Sun",
+      "status": "ok",
+      "count": 20,
+      "cached": true,
+      "url": "https://hdrezka.me/series/action/65737-bratya-sun-2024.html"
+    },
+    {
+      "workId": 334,
+      "title": "Burn After Reading",
+      "status": "ok",
+      "count": 20,
+      "cached": true,
+      "url": "https://hdrezka.me/films/drama/4702-posle-prochteniya-szhech-2008.html"
+    },
+    {
+      "workId": 335,
+      "title": "The Nice Guys",
+      "status": "ok",
+      "count": 20,
+      "cached": true,
+      "url": "https://hdrezka.me/films/action/12969-slavnye-parni-2016.html"
+    },
+    {
+      "workId": 336,
+      "title": "Kiss Kiss Bang Bang",
+      "status": "ok",
+      "count": 20,
+      "cached": true,
+      "url": "https://hdrezka.me/films/action/5362-poceluy-navylet-2005.html"
+    },
+    {
+      "workId": 337,
+      "title": "Snatch",
+      "status": "ok",
+      "count": 20,
+      "cached": true,
+      "url": "https://hdrezka.me/films/crime/762-bolshoy-kush-2000-latest.html"
+    },
+    {
+      "workId": 338,
+      "title": "The Gentlemen",
+      "status": "ok",
+      "count": 20,
+      "cached": true,
+      "url": "https://hdrezka.me/films/action/33026-dzhentlmeny-2020-latest.html"
+    },
+    {
+      "workId": 339,
+      "title": "RocknRolla",
+      "status": "ok",
+      "count": 20,
+      "cached": true,
+      "url": "https://hdrezka.me/films/action/1497-rok-n-rolschik-2008-latest.html"
+    },
+    {
+      "workId": 340,
+      "title": "The Banshees of Inisherin",
+      "status": "ok",
+      "count": 20,
+      "cached": true,
+      "url": "https://hdrezka.me/films/drama/51487-banshi-inisherina-2022.html"
+    },
+    {
+      "workId": 341,
+      "title": "The Grand Budapest Hotel",
+      "status": "ok",
+      "count": 20,
+      "cached": true,
+      "url": "https://hdrezka.me/films/comedy/1278-otel-grand-budapesht-2014.html"
+    },
+    {
+      "workId": 343,
+      "title": "Three Billboards Outside Ebbing, Missouri",
+      "status": "ok",
+      "count": 20,
+      "cached": true,
+      "url": "https://hdrezka.me/films/drama/26927-tri-bilborda-na-granice-ebbinga-missuri-2017.html"
+    },
+    {
+      "workId": 346,
+      "title": "A Serious Man",
+      "status": "ok",
+      "count": 20,
+      "cached": true,
+      "url": "https://hdrezka.me/films/drama/5662-sereznyy-chelovek-2009.html"
+    },
+    {
+      "workId": 347,
+      "title": "The Ballad of Buster Scruggs",
+      "status": "ok",
+      "count": 20,
+      "cached": true,
+      "url": "https://hdrezka.me/films/drama/29101-ballada-bastera-skraggsa-2018.html"
+    },
+    {
+      "workId": 349,
+      "title": "Bad Santa",
+      "status": "ok",
+      "count": 20,
+      "cached": true,
+      "url": "https://hdrezka.me/films/drama/897-plohoy-santa-2003.html"
+    },
+    {
+      "workId": 350,
+      "title": "Super",
+      "status": "ok",
+      "count": 20,
+      "cached": true,
+      "url": "https://hdrezka.me/films/comedy/1122-super-2010.html"
+    },
+    {
+      "workId": 351,
+      "title": "Intolerable Cruelty",
+      "status": "ok",
+      "count": 20,
+      "cached": true,
+      "url": "https://hdrezka.me/films/comedy/3758-nevynosimaya-zhestokost-2003.html"
+    },
+    {
+      "workId": 352,
+      "title": "God Bless America",
+      "status": "ok",
+      "count": 20,
+      "cached": true,
+      "url": "https://hdrezka.me/films/comedy/273-bozhe-blagoslovi-ameriku-2011.html"
+    },
+    {
+      "workId": 353,
+      "title": "Hail, Caesar!",
+      "status": "ok",
+      "count": 20,
+      "cached": true,
+      "url": "https://hdrezka.me/films/drama/10804-ave-cezar-2016.html"
+    },
+    {
+      "workId": 354,
+      "title": "Defendor",
+      "status": "ok",
+      "count": 20,
+      "cached": true,
+      "url": "https://hdrezka.me/films/drama/2905-zaschitneg-2009.html"
+    },
+    {
+      "workId": 355,
+      "title": "World's Greatest Dad",
+      "status": "ok",
+      "count": 13,
+      "cached": true,
+      "url": "https://hdrezka.me/films/comedy/7256-samyy-luchshiy-papa-2009.html"
+    },
+    {
+      "workId": 356,
+      "title": "Death to Smoochy",
+      "status": "ok",
+      "count": 13,
+      "cached": true,
+      "url": "https://hdrezka.me/films/thriller/10118-ubit-smuchi-2002.html"
+    },
+    {
+      "workId": 357,
+      "title": "Shaun of the Dead",
+      "status": "ok",
+      "count": 20,
+      "cached": true,
+      "url": "https://hdrezka.me/films/horror/2567-zombi-po-imeni-shon-2004.html"
+    },
+    {
+      "workId": 358,
+      "title": "The World's End",
+      "status": "ok",
+      "count": 20,
+      "cached": true,
+      "url": "https://hdrezka.me/films/action/777-armageddec-2013.html"
+    },
+    {
+      "workId": 359,
+      "title": "Scott Pilgrim vs. the World",
+      "status": "ok",
+      "count": 20,
+      "cached": true,
+      "url": "https://hdrezka.me/films/comedy/7314-skott-piligrim-protiv-vseh-2010.html"
+    },
+    {
+      "workId": 361,
+      "title": "Ready or Not",
+      "status": "ok",
+      "count": 20,
+      "cached": true,
+      "url": "https://hdrezka.me/films/thriller/31884-ya-idu-iskat-2019.html"
+    },
+    {
+      "workId": 362,
+      "title": "The Cabin in the Woods",
+      "status": "ok",
+      "count": 20,
+      "cached": true,
+      "url": "https://hdrezka.me/films/fiction/431-hizhina-v-lesu-2012.html"
+    },
+    {
+      "workId": 363,
+      "title": "Zombieland",
+      "status": "ok",
+      "count": 20,
+      "cached": true,
+      "url": "https://hdrezka.me/films/action/4549-dobro-pozhalovat-v-zombilend-2009.html"
+    },
+    {
+      "workId": 369,
+      "title": "Bodies Bodies Bodies",
+      "status": "ok",
+      "count": 20,
+      "cached": true,
+      "url": "https://hdrezka.me/films/thriller/51998-tela-tela-tela-2022-latest.html"
+    },
+    {
+      "workId": 370,
+      "title": "Mayhem",
+      "status": "ok",
+      "count": 20,
+      "cached": true,
+      "url": "https://hdrezka.me/films/action/26365-eksperiment-ofis-2-2017.html"
+    },
+    {
+      "workId": 371,
+      "title": "American Fiction",
+      "status": "ok",
+      "count": 20,
+      "cached": true,
+      "url": "https://hdrezka.me/films/comedy/67091-amerikanskoe-chtivo-2023.html"
+    },
+    {
+      "workId": 372,
+      "title": "Sorry to Bother You",
+      "status": "ok",
+      "count": 20,
+      "cached": true,
+      "url": "https://hdrezka.me/films/comedy/28737-prostite-za-bespokoystvo-2018.html"
+    },
+    {
+      "workId": 373,
+      "title": "The Holdovers",
+      "status": "ok",
+      "count": 20,
+      "cached": true,
+      "url": "https://hdrezka.me/films/drama/64687-ostavlennye-2023.html"
+    },
+    {
+      "workId": 374,
+      "title": "Sideways",
+      "status": "ok",
+      "count": 20,
+      "cached": true,
+      "url": "https://hdrezka.me/films/comedy/2795-na-obochine-2004.html"
+    },
+    {
+      "workId": 375,
+      "title": "The Descendants",
+      "status": "ok",
+      "count": 20,
+      "cached": true,
+      "url": "https://hdrezka.me/films/drama/472-potomki-2011.html"
+    },
+    {
+      "workId": 377,
+      "title": "Jojo Rabbit",
+      "status": "ok",
+      "count": 20,
+      "cached": true,
+      "url": "https://hdrezka.me/films/comedy/32831-krolik-dzhodzho-2019.html"
+    },
+    {
+      "workId": 381,
+      "title": "Ingrid Goes West",
+      "status": "ok",
+      "count": 20,
+      "cached": true,
+      "url": "https://hdrezka.me/films/drama/27144-ingrid-edet-na-zapad-2017.html"
+    },
+    {
+      "workId": 382,
+      "title": "The Disaster Artist",
+      "status": "ok",
+      "count": 20,
+      "cached": true,
+      "url": "https://hdrezka.me/films/comedy/26678-gore-tvorec-2017-latest.html"
+    },
+    {
+      "workId": 384,
+      "title": "Good Time",
+      "status": "ok",
+      "count": 20,
+      "cached": true,
+      "url": "https://hdrezka.me/films/thriller/25831-horoshee-vremya-2017.html"
+    },
+    {
+      "workId": 385,
+      "title": "The Killing of a Sacred Deer",
+      "status": "ok",
+      "count": 20,
+      "cached": true,
+      "url": "https://hdrezka.me/films/drama/27167-ubiystvo-svyaschennogo-olenya-2017.html"
+    },
+    {
+      "workId": 386,
+      "title": "The Double",
+      "status": "ok",
+      "count": 20,
+      "cached": true,
+      "url": "https://hdrezka.me/films/thriller/1594-dvoynik-2013.html"
+    },
+    {
+      "workId": 387,
+      "title": "Swiss Army Man",
+      "status": "ok",
+      "count": 20,
+      "cached": true,
+      "url": "https://hdrezka.me/films/fantasy/13217-perochinnyy-chelovek-2016.html"
+    },
+    {
+      "workId": 388,
+      "title": "Enemy",
+      "status": "ok",
+      "count": 20,
+      "cached": true,
+      "url": "https://hdrezka.me/films/thriller/1835-vrag-2013.html"
+    },
+    {
+      "workId": 389,
+      "title": "Game Night",
+      "status": "ok",
+      "count": 20,
+      "cached": true,
+      "url": "https://hdrezka.me/films/comedy/27326-nochnye-igry-2018.html"
+    },
+    {
+      "workId": 390,
+      "title": "Palm Springs",
+      "status": "ok",
+      "count": 20,
+      "cached": true,
+      "url": "https://hdrezka.me/films/comedy/34979-palm-springs-2020.html"
+    },
+    {
+      "workId": 391,
+      "title": "The Kid Detective",
+      "status": "ok",
+      "count": 20,
+      "cached": true,
+      "url": "https://hdrezka.me/films/drama/36035-malysh-detektiv-2020.html"
+    },
+    {
+      "workId": 392,
+      "title": "Vengeance",
+      "status": "ok",
+      "count": 20,
+      "cached": true,
+      "url": "https://hdrezka.me/films/comedy/50925-mest-2022.html"
+    },
+    {
+      "workId": 394,
+      "title": "Confess, Fletch",
+      "status": "ok",
+      "count": 20,
+      "cached": true,
+      "url": "https://hdrezka.me/films/comedy/51742-soznavaytes-fletch-2022.html"
+    },
+    {
+      "workId": 395,
+      "title": "BoJack Horseman",
+      "status": "ok",
+      "count": 20,
+      "cached": true,
+      "url": "https://hdrezka.me/cartoons/comedy/2001-kon-bodzhek-2014.html"
+    },
+    {
+      "workId": 396,
+      "title": "Archer",
+      "status": "ok",
+      "count": 20,
+      "cached": true,
+      "url": "https://hdrezka.me/cartoons/action/2094-archer-2009.html"
+    },
+    {
+      "workId": 397,
+      "title": "Inside Job",
+      "status": "ok",
+      "count": 20,
+      "cached": true,
+      "url": "https://hdrezka.me/cartoons/fiction/42592-korporaciya-zagovor-2021.html"
+    },
+    {
+      "workId": 398,
+      "title": "Solar Opposites",
+      "status": "ok",
+      "count": 20,
+      "cached": true,
+      "url": "https://hdrezka.me/cartoons/fiction/33948-obratnaya-storona-zemli-2020-latest.html"
+    },
+    {
+      "workId": 400,
+      "title": "F Is for Family",
+      "status": "ok",
+      "count": 20,
+      "cached": true,
+      "url": "https://hdrezka.me/cartoons/comedy/13342-s-znachit-semya-2015.html"
+    },
+    {
+      "workId": 403,
+      "title": "Hit-Monkey",
+      "status": "ok",
+      "count": 20,
+      "cached": true,
+      "url": "https://hdrezka.me/cartoons/fiction/43460-hit-manki-2021.html"
+    },
+    {
+      "workId": 404,
+      "title": "Harley Quinn",
+      "status": "ok",
+      "count": 20,
+      "cached": true,
+      "url": "https://hdrezka.me/cartoons/fiction/32692-harley-quinn-2019.html"
+    },
+    {
+      "workId": 412,
+      "title": "Mary and Max",
+      "status": "ok",
+      "count": 20,
+      "cached": true,
+      "url": "https://hdrezka.me/cartoons/drama/4158-meri-i-maks-2009.html"
+    },
+    {
+      "workId": 428,
+      "title": "The Dictator",
+      "status": "ok",
+      "count": 20,
+      "cached": true,
+      "url": "https://hdrezka.me/films/comedy/534-diktator-2012.html"
+    },
+    {
+      "workId": 429,
+      "title": "The Brink",
+      "status": "ok",
+      "count": 20,
+      "cached": true,
+      "url": "https://hdrezka.me/series/comedy/10821-na-grani-2015.html"
+    },
+    {
+      "workId": 430,
+      "title": "The Franchise",
+      "status": "ok",
+      "count": 20,
+      "cached": true,
+      "url": "https://hdrezka.me/series/comedy/73596-franshiza-2024-latest.html"
+    },
+    {
+      "workId": 431,
+      "title": "Avenue 5",
+      "status": "ok",
+      "count": 20,
+      "cached": true,
+      "url": "https://hdrezka.me/series/comedy/32689-avenyu-5-2020.html"
+    },
+    {
+      "workId": 434,
+      "title": "A.P. Bio",
+      "status": "ok",
+      "count": 20,
+      "cached": true,
+      "url": "https://hdrezka.me/series/comedy/26901-kurs-biologii-2018.html"
+    },
+    {
+      "workId": 435,
+      "title": "Documentary Now!",
+      "status": "ok",
+      "count": 20,
+      "cached": true,
+      "url": "https://hdrezka.me/series/comedy/14530-dokumentalistika-segodnya-2015.html"
+    },
+    {
+      "workId": 436,
+      "title": "Portlandia",
+      "status": "ok",
+      "count": 20,
+      "cached": true,
+      "url": "https://hdrezka.me/series/comedy/2014-portlandiya-2011.html"
+    },
+    {
+      "workId": 438,
+      "title": "The Outlaws",
+      "status": "ok",
+      "count": 20,
+      "cached": true,
+      "url": "https://hdrezka.me/series/comedy/43306-narushiteli-2021.html"
+    },
+    {
+      "workId": 437,
+      "title": "Killing It",
+      "status": "ok",
+      "count": 20,
+      "cached": true,
+      "url": "https://hdrezka.me/series/comedy/49660-v-udare-2022.html"
+    },
+    {
+      "workId": 439,
+      "title": "No Activity",
+      "status": "ok",
+      "count": 20,
+      "cached": true,
+      "url": "https://hdrezka.me/series/comedy/26173-nichego-ne-proishodit-2017.html"
+    },
+    {
+      "workId": 440,
+      "title": "Perpetual Grace, LTD",
+      "status": "ok",
+      "count": 20,
+      "cached": true,
+      "url": "https://hdrezka.me/series/drama/31006-predpriyatie-bozhiy-dar-2019.html"
+    },
+    {
+      "workId": 442,
+      "title": "Obituary",
+      "status": "ok",
+      "count": 20,
+      "cached": true,
+      "url": "https://hdrezka.me/series/comedy/62113-nekrolog-2023.html"
+    },
+    {
+      "workId": 441,
+      "title": "Deadloch",
+      "status": "ok",
+      "count": 20,
+      "cached": true,
+      "url": "https://hdrezka.me/series/detective/57882-dedlok-2023.html"
+    },
+    {
+      "workId": 443,
+      "title": "Boat Story",
+      "status": "ok",
+      "count": 20,
+      "cached": true,
+      "url": "https://hdrezka.me/series/thriller/64297-istoriya-s-lodkoy-2023.html"
+    },
+    {
+      "workId": 444,
+      "title": "Jett",
+      "status": "ok",
+      "count": 20,
+      "cached": true,
+      "url": "https://hdrezka.me/series/thriller/31119-dzhett-2019.html"
+    },
+    {
+      "workId": 445,
+      "title": "Reprisal",
+      "status": "ok",
+      "count": 20,
+      "cached": true,
+      "url": "https://hdrezka.me/series/drama/32691-rasprava-2019.html"
+    },
+    {
+      "workId": 446,
+      "title": "Gangs of London",
+      "status": "ok",
+      "count": 20,
+      "cached": true,
+      "url": "https://hdrezka.me/series/drama/34048-bandy-londona-2020.html"
+    },
+    {
+      "workId": 447,
+      "title": "Kin",
+      "status": "ok",
+      "count": 20,
+      "cached": true,
+      "url": "https://hdrezka.me/series/drama/41827-rodnya-2021.html"
+    },
+    {
+      "workId": 448,
+      "title": "Love/Hate",
+      "status": "ok",
+      "count": 20,
+      "cached": true,
+      "url": "https://hdrezka.me/series/drama/9295-lyubov-2010.html"
+    },
+    {
+      "workId": 450,
+      "title": "Animal Kingdom",
+      "status": "ok",
+      "count": 20,
+      "cached": true,
+      "url": "https://hdrezka.me/series/drama/14434-carstvo-zhivotnyh-2016.html"
+    },
+    {
+      "workId": 449,
+      "title": "Sneaky Pete",
+      "status": "ok",
+      "count": 20,
+      "cached": true,
+      "url": "https://hdrezka.me/series/drama/11996-podlyy-pit-2015.html"
+    },
+    {
+      "workId": 451,
+      "title": "Good Behavior",
+      "status": "ok",
+      "count": 20,
+      "cached": true,
+      "url": "https://hdrezka.me/series/thriller/21840-horoshee-povedenie-2016.html"
+    },
+    {
+      "workId": 452,
+      "title": "Bad Monkey",
+      "status": "ok",
+      "count": 20,
+      "cached": true,
+      "url": "https://hdrezka.me/series/comedy/72580-plohaya-obezyana-2024.html"
+    },
+    {
+      "workId": 453,
+      "title": "The Baby",
+      "status": "ok",
+      "count": 20,
+      "cached": true,
+      "url": "https://hdrezka.me/series/comedy/48832-malysh-2022.html"
+    },
+    {
+      "workId": 454,
+      "title": "Wolf Like Me",
+      "status": "ok",
+      "count": 20,
+      "cached": true,
+      "url": "https://hdrezka.me/series/fantasy/45792-volk-kak-ya-2021.html"
+    },
+    {
+      "workId": 455,
+      "title": "Shining Vale",
+      "status": "ok",
+      "count": 20,
+      "cached": true,
+      "url": "https://hdrezka.me/series/comedy/47173-siyayuschaya-dolina-2022.html"
+    },
+    {
+      "workId": 457,
+      "title": "Truth Seekers",
+      "status": "ok",
+      "count": 20,
+      "cached": true,
+      "url": "https://hdrezka.me/series/comedy/35797-iskateli-pravdy-2020.html"
+    },
+    {
+      "workId": 462,
+      "title": "The Politician",
+      "status": "ok",
+      "count": 20,
+      "cached": true,
+      "url": "https://hdrezka.me/series/comedy/32127-politik-2019.html"
+    },
+    {
+      "workId": 463,
+      "title": "House of Lies",
+      "status": "ok",
+      "count": 20,
+      "cached": true,
+      "url": "https://hdrezka.me/series/drama/1906-obitel-lzhi-2012.html"
+    },
+    {
+      "workId": 465,
+      "title": "Fired on Mars",
+      "status": "ok",
+      "count": 20,
+      "cached": true,
+      "url": "https://hdrezka.me/cartoons/fiction/57879-uvolen-na-marse-2023.html"
+    },
+    {
+      "workId": 468,
+      "title": "The Second Best Hospital in the Galaxy",
+      "status": "ok",
+      "count": 20,
+      "cached": true,
+      "url": "https://hdrezka.me/cartoons/fiction/66798-vtoroy-luchshiy-gospital-v-galaktike-2024-latest.html"
+    },
+    {
+      "workId": 469,
+      "title": "Carol & the End of the World",
+      "status": "ok",
+      "count": 20,
+      "cached": true,
+      "url": "https://hdrezka.me/cartoons/comedy/65179-kerol-i-konec-sveta-2023.html"
+    },
+    {
+      "workId": 470,
+      "title": "Scavengers Reign",
+      "status": "ok",
+      "count": 20,
+      "cached": true,
+      "url": "https://hdrezka.me/cartoons/fiction/62211-carstvo-padalschikov-2023.html"
+    },
+    {
+      "workId": 471,
+      "title": "Pantheon",
+      "status": "ok",
+      "count": 20,
+      "cached": true,
+      "url": "https://hdrezka.me/cartoons/fiction/51292-panteon-2022-latest.html"
+    },
+    {
+      "workId": 472,
+      "title": "The Legend of Vox Machina",
+      "status": "ok",
+      "count": 20,
+      "cached": true,
+      "url": "https://hdrezka.me/cartoons/fantasy/45897-the-legenda-o-vox-machina-2022-latest.html"
+    },
+    {
+      "workId": 473,
+      "title": "Doom Patrol",
+      "status": "ok",
+      "count": 20,
+      "cached": true,
+      "url": "https://hdrezka.me/series/drama/29976-rokovoy-patrul-2019-latest.html"
+    },
+    {
+      "workId": 474,
+      "title": "Resident Alien",
+      "status": "ok",
+      "count": 20,
+      "cached": true,
+      "url": "https://hdrezka.me/series/fiction/36705-zaslanec-iz-kosmosa-2021-latest.html"
+    },
+    {
+      "workId": 475,
+      "title": "Future Man",
+      "status": "ok",
+      "count": 20,
+      "cached": true,
+      "url": "https://hdrezka.me/series/fiction/26101-chelovek-buduschego-2017-latest.html"
+    },
+    {
+      "workId": 476,
+      "title": "Happyish",
+      "status": "ok",
+      "count": 16,
+      "cached": true,
+      "url": "https://hdrezka.me/series/drama/8148-tipa-schaste-2015.html"
+    },
+    {
+      "workId": 477,
+      "title": "Brockmire",
+      "status": "ok",
+      "count": 20,
+      "cached": true,
+      "url": "https://hdrezka.me/series/comedy/24324-brokmayr-2017.html"
+    },
+    {
+      "workId": 478,
+      "title": "Black Monday",
+      "status": "ok",
+      "count": 20,
+      "cached": true,
+      "url": "https://hdrezka.me/series/comedy/29534-chernyy-ponedelnik-2019.html"
+    },
+    {
+      "workId": 479,
+      "title": "The Studio",
+      "status": "ok",
+      "count": 20,
+      "cached": true,
+      "url": "https://hdrezka.me/series/comedy/75387-kinostudiya-2025-latest.html"
+    },
+    {
+      "workId": 481,
+      "title": "Lodge 49",
+      "status": "ok",
+      "count": 20,
+      "cached": true,
+      "url": "https://hdrezka.me/series/comedy/28282-lozha-49-2018-latest.html"
+    },
+    {
+      "workId": 482,
+      "title": "Wayward Pines",
+      "status": "ok",
+      "count": 20,
+      "cached": true,
+      "url": "https://hdrezka.me/series/fiction/8141-sosny-2015.html"
+    },
+    {
+      "workId": 483,
+      "title": "Upright",
+      "status": "ok",
+      "count": 20,
+      "cached": true,
+      "url": "https://hdrezka.me/series/comedy/32847-pianino-2019.html"
+    },
+    {
+      "workId": 484,
+      "title": "This Is Going to Hurt",
+      "status": "ok",
+      "count": 20,
+      "cached": true,
+      "url": "https://hdrezka.me/series/drama/46626-budet-bolno-2022.html"
+    },
+    {
+      "workId": 489,
+      "title": "Santa Clarita Diet",
+      "status": "ok",
+      "count": 20,
+      "cached": true,
+      "url": "https://hdrezka.me/series/horror/23402-dieta-iz-santa-klarity-2017.html"
+    },
+    {
+      "workId": 490,
+      "title": "Hot Fuzz",
+      "status": "ok",
+      "count": 20,
+      "cached": true,
+      "url": "https://hdrezka.me/films/action/7316-tipa-krutye-legavye-2007.html"
+    },
+    {
+      "workId": 491,
+      "title": "Domina",
+      "status": "ok",
+      "count": 20,
+      "cached": true,
+      "url": "https://hdrezka.me/series/drama/39132-domina-2021-latest.html"
+    },
+    {
+      "workId": 492,
+      "title": "The Tudors",
+      "status": "ok",
+      "count": 20,
+      "cached": true,
+      "url": "https://hdrezka.me/series/drama/11262-tyudory-2007-latest.html"
+    },
+    {
+      "workId": 493,
+      "title": "Borgia",
+      "status": "ok",
+      "count": 20,
+      "cached": true,
+      "url": "https://hdrezka.me/series/drama/13237-bordzhia-2011.html"
+    },
+    {
+      "workId": 494,
+      "title": "Versailles",
+      "status": "ok",
+      "count": 20,
+      "cached": true,
+      "url": "https://hdrezka.me/series/drama/12088-versal-2015.html"
+    },
+    {
+      "workId": 497,
+      "title": "The White Queen",
+      "status": "ok",
+      "count": 20,
+      "cached": true,
+      "url": "https://hdrezka.me/series/drama/1818-belaya-koroleva-2013.html"
+    },
+    {
+      "workId": 499,
+      "title": "Succession",
+      "status": "ok",
+      "count": 20,
+      "cached": true,
+      "url": "https://hdrezka.me/series/drama/27870-nasledniki-2018-latest.html"
+    },
+    {
+      "workId": 500,
+      "title": "Yellowstone",
+      "status": "ok",
+      "count": 20,
+      "cached": true,
+      "url": "https://hdrezka.me/series/drama/27920-yelloustoun-2018-latest.html"
+    },
+    {
+      "workId": 502,
+      "title": "Mayor of Kingstown",
+      "status": "ok",
+      "count": 20,
+      "cached": true,
+      "url": "https://hdrezka.me/series/drama/42070-mer-kingstauna-2021-latest.html"
+    },
+    {
+      "workId": 503,
+      "title": "Landman",
+      "status": "ok",
+      "count": 20,
+      "cached": true,
+      "url": "https://hdrezka.me/series/drama/74986-lendmen-2024-latest.html"
+    },
+    {
+      "workId": 507,
+      "title": "Magic City",
+      "status": "ok",
+      "count": 20,
+      "cached": true,
+      "url": "https://hdrezka.me/series/drama/11027-gorod-mechty-2012.html"
+    },
+    {
+      "workId": 508,
+      "title": "McMafia",
+      "status": "ok",
+      "count": 20,
+      "cached": true,
+      "url": "https://hdrezka.me/series/thriller/26582-makmafiya-2018.html"
+    },
+    {
+      "workId": 509,
+      "title": "Tin Star",
+      "status": "ok",
+      "count": 20,
+      "cached": true,
+      "url": "https://hdrezka.me/series/drama/25630-stalnaya-zvezda-2017-latest.html"
+    },
+    {
+      "workId": 510,
+      "title": "Fortitude",
+      "status": "ok",
+      "count": 20,
+      "cached": true,
+      "url": "https://hdrezka.me/series/drama/7772-fortityud-2015.html"
+    },
+    {
+      "workId": 516,
+      "title": "White House Plumbers",
+      "status": "ok",
+      "count": 20,
+      "cached": true,
+      "url": "https://hdrezka.me/series/drama/56336-santehniki-belogo-doma-2023.html"
+    },
+    {
+      "workId": 514,
+      "title": "Love & Death",
+      "status": "ok",
+      "count": 20,
+      "cached": true,
+      "url": "https://hdrezka.me/series/thriller/55462-lyubov-i-smert-2023.html"
+    },
+    {
+      "workId": 517,
+      "title": "Landscapers",
+      "status": "ok",
+      "count": 20,
+      "cached": true,
+      "url": "https://hdrezka.me/series/drama/44449-sadovody-2021.html"
+    },
+    {
+      "workId": 518,
+      "title": "Dead Ringers",
+      "status": "ok",
+      "count": 20,
+      "cached": true,
+      "url": "https://hdrezka.me/series/thriller/56292-svyazannye-nasmert-2023.html"
+    },
+    {
+      "workId": 523,
+      "title": "Strange Angel",
+      "status": "ok",
+      "count": 20,
+      "cached": true,
+      "url": "https://hdrezka.me/series/drama/27909-strannyy-angel-2018.html"
+    },
+    {
+      "workId": 524,
+      "title": "Ray Donovan",
+      "status": "ok",
+      "count": 20,
+      "cached": true,
+      "url": "https://hdrezka.me/series/drama/1986-rey-donovan-2013.html"
+    },
+    {
+      "workId": 525,
+      "title": "Godfather of Harlem",
+      "status": "ok",
+      "count": 20,
+      "cached": true,
+      "url": "https://hdrezka.me/series/drama/32136-krestnyy-otec-garlema-2019-latest.html"
+    },
+    {
+      "workId": 527,
+      "title": "Filth",
+      "status": "ok",
+      "count": 20,
+      "cached": true,
+      "url": "https://hdrezka.me/films/crime/939-gryaz-2013.html"
+    },
+    {
+      "workId": 528,
+      "title": "The Wolf of Wall Street",
+      "status": "ok",
+      "count": 20,
+      "cached": true,
+      "url": "https://hdrezka.me/films/drama/1176-volk-s-uoll-strit-2013.html"
+    },
+    {
+      "workId": 529,
+      "title": "The Big Short",
+      "status": "ok",
+      "count": 20,
+      "cached": true,
+      "url": "https://hdrezka.me/films/drama/11522-igra-na-ponizhenie-2015.html"
+    },
+    {
+      "workId": 530,
+      "title": "Killer Joe",
+      "status": "ok",
+      "count": 20,
+      "cached": true,
+      "url": "https://hdrezka.me/films/drama/568-killer-dzho-2011.html"
+    },
+    {
+      "workId": 533,
+      "title": "Trance",
+      "status": "ok",
+      "count": 20,
+      "cached": true,
+      "url": "https://hdrezka.me/films/thriller/265-trans-2013.html"
+    },
+    {
+      "workId": 534,
+      "title": "The Favourite",
+      "status": "ok",
+      "count": 20,
+      "cached": true,
+      "url": "https://hdrezka.me/films/drama/29669-favoritka-2018.html"
+    },
+    {
+      "workId": 535,
+      "title": "Kinds of Kindness",
+      "status": "ok",
+      "count": 20,
+      "cached": true,
+      "url": "https://hdrezka.me/films/drama/68794-vidy-dobroty-2024.html"
+    },
+    {
+      "workId": 536,
+      "title": "Babylon",
+      "status": "ok",
+      "count": 20,
+      "cached": true,
+      "url": "https://hdrezka.me/films/drama/53968-vavilon-2022.html"
+    },
+    {
+      "workId": 537,
+      "title": "Triangle of Sadness",
+      "status": "ok",
+      "count": 20,
+      "cached": true,
+      "url": "https://hdrezka.me/films/comedy/52696-treugolnik-pechali-2022.html"
+    },
+    {
+      "workId": 539,
+      "title": "Ex Machina",
+      "status": "ok",
+      "count": 20,
+      "url": "https://hdrezka.me/films/fiction/9310-iz-mashiny-2015.html",
+      "basis": "reviewed-original-title-year-variant",
+      "allAvailable": false
+    }
+  ]
+}

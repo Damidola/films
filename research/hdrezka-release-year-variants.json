@@ -1,0 +1,43 @@
+[
+  {
+    "workId": 362,
+    "title": "The Cabin in the Woods",
+    "kpId": "419209",
+    "url": "https://hdrezka.me/films/fiction/431-hizhina-v-lesu-2012.html",
+    "basis": "reviewed-original-title-year-variant",
+    "matchedTitle": "The Cabin in the Woods",
+    "matchedYear": 2011,
+    "sourceYear": 2012,
+    "sourceHost": "hdrezka.me",
+    "imdb": "tt1259521",
+    "identityNote": "Unique exact original and Russian titles in the public HDrezka autocomplete, matching work type; source labels the release one year differently."
+  },
+  {
+    "workId": 454,
+    "title": "Wolf Like Me",
+    "kpId": "4438484",
+    "url": "https://hdrezka.me/series/fantasy/45792-volk-kak-ya-2021.html",
+    "basis": "reviewed-original-title-year-variant",
+    "matchedTitle": "Wolf Like Me",
+    "matchedYear": 2022,
+    "sourceYear": 2021,
+    "sourceHost": "hdrezka.me",
+    "imdb": "tt14452228",
+    "identityNote": "Unique exact original and Russian titles in the public HDrezka autocomplete, matching work type; source labels the release one year differently."
+  },
+  {
+    "workId": 539,
+    "title": "Ex Machina",
+    "kpId": "197532",
+    "url": "https://hdrezka.me/films/fiction/9310-iz-mashiny-2015.html",
+    "basis": "reviewed-original-title-year-variant",
+    "matchedTitle": "Ex Machina",
+    "matchedYear": 2014,
+    "sourceYear": 2015,
+    "matchText": "Из машины (Ex Machina, 2015)",
+    "sourceHost": "hdrezka.me",
+    "checkedAt": "2026-10-19T14:40:00Z",
+    "imdb": "tt0470752",
+    "identityNote": "Public autocomplete returns unique exact original and translated titles, film type. The source uses the 2015 theatrical release; canonical metadata uses the 2014 premiere."
+  }
+]

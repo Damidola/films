@@ -1,0 +1,82 @@
+{
+  "videoId": "Ix61iFpceM4",
+  "videoTitle": "Deadwood (2004 - 2006) HBO Series trailer",
+  "videoChannel": "spyroreviews",
+  "videoUrl": "https://www.youtube.com/watch?v=Ix61iFpceM4",
+  "fetchedAt": "2026-10-16T18:55:29+00:00",
+  "source": "https://www.youtube-nocookie.com/youtubei/v1/next",
+  "sourceType": "youtube-direct",
+  "order": "top",
+  "status": "ok",
+  "total": 20,
+  "comments": [
+    {
+      "id": "Ugyu9oFiL9RcQQlnztZ4AaABAg",
+      "author": "@Serhan4155",
+      "authorChannelId": "UCjnBwpjFp8lLDeJxcCXLe2Q",
+      "authorAvatar": "https://yt3.ggpht.com/RZnxcj4jWJVN-Pq6IwFyfzwuP_wKNCDX2qGPq8_o3JK07OY-VyTuqKGDTudidYQ_FIKh5P861A=s88-c-k-c0x00ffffff-no-rj",
+      "text": "Although it is slow-paced, it is an engrossing series, you lose track of time.",
+      "likes": 23,
+      "publishedText": "2 years ago",
+      "owner": false,
+      "pinned": false,
+      "url": "https://www.youtube.com/watch?v=Ix61iFpceM4&lc=Ugyu9oFiL9RcQQlnztZ4AaABAg"
+    },
+    {
+      "id": "UgwzYyrLQpolp2aNaSF4AaABAg",
+      "author": "@uzzwalmaharjan8441",
+      "authorChannelId": "UC6Zw-9HSB3Nmpczhf_k7hEg",
+      "authorAvatar": "https://yt3.ggpht.com/ytc/AIdro_kR3RnxDTwzKrXIMM_8rIb7Mnt21by3e6l1AtkX1Esg5w=s88-c-k-c0x00ffffff-no-rj",
+      "text": "Same",
+      "likes": 0,
+      "publishedText": "1 month ago",
+      "owner": false,
+      "pinned": false,
+      "url": "https://www.youtube.com/watch?v=Ix61iFpceM4&lc=UgwzYyrLQpolp2aNaSF4AaABAg"
+    },
+    {
+      "id": "Ugxacoq0XYq4bmgfAgt4AaABAg",
+      "author": "@Egybest99",
+      "authorChannelId": "UCQYFtPoVqh7GmsE3iyZjf0w",
+      "authorAvatar": "https://yt3.ggpht.com/S27dz4OucKxW75fOhta3oBMy33AG0zVpE53gTBah7yoDGSQhtLPa5sIhKkIJHcLdguzwMNZUG9k=s88-c-k-c0x00ffffff-no-rj",
+      "text": "Is it worth watching?",
+      "likes": 0,
+      "publishedText": "1 month ago",
+      "owner": false,
+      "pinned": false,
+      "url": "https://www.youtube.com/watch?v=Ix61iFpceM4&lc=Ugxacoq0XYq4bmgfAgt4AaABAg"
+    },
+    {
+      "id": "UgzwIEHW34nE9QNfX3N4AaABAg",
+      "author": "@Spectator182",
+      "authorChannelId": "UCK8f56MTRSzxDmPVfAzOMhw",
+      "authorAvatar": "https://yt3.ggpht.com/WKxa1Zgp7AlOgT-aa0NANT-EVa_ysjIlYsi0T_r-vvTkSsbhHwXw23Ouh5xyZuUyA0NOud-TRQ=s88-c-k-c0x00ffffff-no-rj",
+      "text": "Chat Gpt brings me here😮",
+      "likes": 39,
+      "publishedText": "1 year ago",
+      "owner": false,
+      "pinned": false,
+      "url": "https://www.youtube.com/watch?v=Ix61iFpceM4&lc=UgzwIEHW34nE9QNfX3N4AaABAg"
+    },
+    {
+      "id": "UgzObk5UeafhdD1hmGh4AaABAg",
+      "author": "@hasmirsiddique4159",
+      "authorChannelId": "UCkwv0vpbEfFKdttk0zuW3KQ",
+      "authorAvatar": "https://yt3.ggpht.com/ytc/AIdro_nMU3Spy8k56cX2gLJ5QVgatWv5ujvXRxoSc2eshXdjtA=s88-c-k-c0x00ffffff-no-rj",
+      "text": "Where can i watch this show?",
+      "likes": 0,
+      "publishedText": "1 year ago",
+      "owner": false,
+      "pinned": false,
+      "url": "https://www.youtube.com/watch?v=Ix61iFpceM4&lc=UgzObk5UeafhdD1hmGh4AaABAg"
+    }
+  ],
+  "evidence": {
+    "initialSha256": "9a4f163ba76d083e87ea756d6f3de943d293b4758653478a022d5a07dab67cfa",
+    "continuationSha256": "17a6f109d63236bdbff6ced14bbb416d31a3dd1d5ef968aa670a9b74ec3446ff",
+    "requests": 2,
+    "cookies": false,
+    "authentication": false,
+    "datePrecision": "YouTube returns relative publishedTime; no exact timestamp is invented."
+  }
+}

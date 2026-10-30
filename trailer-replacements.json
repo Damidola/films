@@ -1,0 +1,50 @@
+{
+  "Corporate": {
+    "videoId": "W93PtrgGM0M",
+    "url": "https://www.youtube.com/watch?v=W93PtrgGM0M",
+    "label": "Официальный трейлер · финальный сезон",
+    "channel": "Comedy Central",
+    "vertical": false,
+    "duration": 60
+  },
+  "Monkey Dust": {
+    "videoId": "YPkKEttKIQU",
+    "url": "https://www.youtube.com/watch?v=YPkKEttKIQU",
+    "label": "Сцена «Голос пилота» · BBC Studios",
+    "channel": "BBC Studios",
+    "vertical": false,
+    "duration": 141
+  },
+  "Jam": {
+    "videoId": "rYFQZFL0yoo",
+    "url": "https://www.youtube.com/watch?v=rYFQZFL0yoo",
+    "label": "Скетч «Thick People»",
+    "channel": "Babylon303",
+    "vertical": false,
+    "duration": 189
+  },
+  "Wonder Showzen": {
+    "videoId": "gWaUeTP8IfI",
+    "url": "https://www.youtube.com/watch?v=gWaUeTP8IfI",
+    "label": "Сцена · Clarence Interview 2",
+    "channel": "huh",
+    "vertical": false,
+    "duration": 276
+  },
+  "Brickleberry": {
+    "videoId": "5RPOQyavuyU",
+    "url": "https://www.youtube.com/watch?v=5RPOQyavuyU",
+    "label": "Официальная сцена · Trailer Park",
+    "channel": "Animated",
+    "vertical": false,
+    "duration": 93
+  },
+  "Smiling Friends": {
+    "videoId": "gEEg_L-1Wm0",
+    "url": "https://www.youtube.com/watch?v=gEEg_L-1Wm0",
+    "label": "Официальное превью · сезон 1",
+    "channel": "Adult Swim",
+    "vertical": false,
+    "duration": 77
+  }
+}

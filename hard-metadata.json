@@ -1,0 +1,92 @@
+{
+  "Brickleberry": {
+    "name": "Brickleberry",
+    "premiered": "2012-09-25",
+    "ended": "2015-04-14",
+    "imdb": "tt2022713",
+    "image": "assets/hard-0.jpg",
+    "source": "https://www.tvmaze.com/shows/277/brickleberry",
+    "runtime": 30
+  },
+  "Paradise PD": {
+    "name": "Paradise PD",
+    "premiered": "2018-08-31",
+    "ended": "2022-12-16",
+    "imdb": "tt8235236",
+    "image": "assets/hard-1.jpg",
+    "source": "https://www.tvmaze.com/shows/35820/paradise-pd",
+    "runtime": 27
+  },
+  "Superjail!": {
+    "name": "Superjail!",
+    "premiered": "2007-05-13",
+    "ended": "2014-07-20",
+    "imdb": "tt1031283",
+    "image": "assets/hard-2.jpg",
+    "source": "https://www.tvmaze.com/shows/1959/superjail",
+    "runtime": 15
+  },
+  "Duckman": {
+    "name": "Duckman: Private Dick/Family Man",
+    "premiered": "1994-03-05",
+    "ended": "1997-09-06",
+    "imdb": "tt0108755",
+    "image": "assets/hard-3.jpg",
+    "source": "https://www.tvmaze.com/shows/414/duckman-private-dickfamily-man",
+    "runtime": 30
+  },
+  "Mr. Pickles": {
+    "name": "Mr. Pickles",
+    "premiered": "2013-08-26",
+    "ended": "2019-11-17",
+    "imdb": "tt2950342",
+    "image": "assets/hard-4.jpg",
+    "source": "https://www.tvmaze.com/shows/4358/mr-pickles",
+    "runtime": 15
+  },
+  "The Shivering Truth": {
+    "name": "The Shivering Truth",
+    "premiered": "2018-05-14",
+    "ended": "2020-06-15",
+    "imdb": "tt6905458",
+    "image": "assets/hard-5.jpg",
+    "source": "https://www.tvmaze.com/shows/36755/the-shivering-truth",
+    "runtime": 11
+  },
+  "Moral Orel": {
+    "name": "Moral Orel",
+    "premiered": "2005-12-12",
+    "ended": "2008-11-26",
+    "imdb": "tt0476922",
+    "image": "assets/hard-6.jpg",
+    "source": "https://www.tvmaze.com/shows/1960/moral-orel",
+    "runtime": 15
+  },
+  "Wonder Showzen": {
+    "name": "Wonder Showzen",
+    "premiered": "2005-03-11",
+    "ended": "2006-05-19",
+    "imdb": "tt0450357",
+    "image": "assets/hard-7.jpg",
+    "source": "https://www.tvmaze.com/shows/6245/wonder-showzen",
+    "runtime": 30
+  },
+  "Jam": {
+    "name": "Jam",
+    "premiered": "2000-03-23",
+    "ended": "2000-04-27",
+    "imdb": "tt0240273",
+    "image": "assets/hard-8.jpg",
+    "source": "https://www.tvmaze.com/shows/11004/jam",
+    "runtime": 25
+  },
+  "Happy Tree Friends": {
+    "name": "Happy Tree Friends",
+    "premiered": "1999-12-24",
+    "ended": "2023-09-28",
+    "imdb": "tt0770762",
+    "image": "assets/hard-9.jpg",
+    "source": "https://www.tvmaze.com/shows/2555/happy-tree-friends",
+    "runtime": 12
+  }
+}

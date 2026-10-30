@@ -1,0 +1,1282 @@
+[
+  {
+    "videoId": "vO4oCrpDX04",
+    "checkedAt": "2026-10-16T15:09:46+00:00",
+    "metadataSource": "https://www.youtube-nocookie.com/youtubei/v1/player",
+    "title": "The Life & Times Of Tim: Season 2 Clip - Jazz Club (HBO)",
+    "channel": "HBO",
+    "channelId": "UCVTQuK2CaWaTgSsoNkn5AiQ",
+    "duration": "114",
+    "private": false,
+    "familySafe": true,
+    "embed": {
+      "iframeUrl": "https://www.youtube.com/embed/vO4oCrpDX04",
+      "width": 1280,
+      "height": 720
+    },
+    "availableCountries": [
+      "US"
+    ],
+    "uaAllowed": false,
+    "ruAllowed": false,
+    "status": {
+      "status": "UNPLAYABLE",
+      "reason": "Video unavailable",
+      "errorScreen": {
+        "playerErrorMessageRenderer": {
+          "subreason": {
+            "simpleText": "The page needs to be reloaded."
+          },
+          "reason": {
+            "runs": [
+              {
+                "text": "The page needs to be reloaded."
+              }
+            ]
+          },
+          "proceedButton": {
+            "buttonRenderer": {
+              "style": "STYLE_PRIMARY",
+              "size": "SIZE_DEFAULT",
+              "isDisabled": false,
+              "text": {
+                "runs": [
+                  {
+                    "text": "Reload"
+                  }
+                ]
+              },
+              "trackingParams": "CAQQ8FsiEwjvxqzw6L6XAxUsdBIBHZIWKR4=",
+              "command": {
+                "clickTrackingParams": "CAQQ8FsiEwjvxqzw6L6XAxUsdBIBHZIWKR7KAQSja6Nf",
+                "signalAction": {
+                  "signal": "RELOAD_PAGE"
+                }
+              }
+            }
+          },
+          "thumbnail": {
+            "thumbnails": [
+              {
+                "url": "//s.ytimg.com/yts/img/meh7-vflGevej7.png",
+                "width": 140,
+                "height": 100
+              }
+            ]
+          },
+          "icon": {
+            "iconType": "ERROR_OUTLINE"
+          }
+        }
+      },
+      "skip": {
+        "playabilityErrorSkipConfig": {
+          "skipOnPlayabilityError": false
+        }
+      },
+      "contextParams": "Q0FFU0FnZ0M="
+    },
+    "metadataOnly": true,
+    "playbackNote": "HTTP metadata response only. Session WEB client requests reload; no claim that actual iframe playback succeeded."
+  },
+  {
+    "videoId": "3_qLKACRGdc",
+    "checkedAt": "2026-10-16T15:09:46+00:00",
+    "metadataSource": "https://www.youtube-nocookie.com/youtubei/v1/player",
+    "title": "The Life & Times Of Tim: Season 2 Clip - News Headline (HBO)",
+    "channel": "HBO",
+    "channelId": "UCVTQuK2CaWaTgSsoNkn5AiQ",
+    "duration": "77",
+    "private": false,
+    "familySafe": true,
+    "embed": {
+      "iframeUrl": "https://www.youtube.com/embed/3_qLKACRGdc",
+      "width": 1280,
+      "height": 720
+    },
+    "availableCountries": [
+      "US"
+    ],
+    "uaAllowed": false,
+    "ruAllowed": false,
+    "status": {
+      "status": "UNPLAYABLE",
+      "reason": "Video unavailable",
+      "errorScreen": {
+        "playerErrorMessageRenderer": {
+          "subreason": {
+            "simpleText": "The page needs to be reloaded."
+          },
+          "reason": {
+            "runs": [
+              {
+                "text": "The page needs to be reloaded."
+              }
+            ]
+          },
+          "proceedButton": {
+            "buttonRenderer": {
+              "style": "STYLE_PRIMARY",
+              "size": "SIZE_DEFAULT",
+              "isDisabled": false,
+              "text": {
+                "runs": [
+                  {
+                    "text": "Reload"
+                  }
+                ]
+              },
+              "trackingParams": "CAQQ8FsiEwjYyrDw6L6XAxV9GbMFHURALgs=",
+              "command": {
+                "clickTrackingParams": "CAQQ8FsiEwjYyrDw6L6XAxV9GbMFHURALgvKAQTw-g06",
+                "signalAction": {
+                  "signal": "RELOAD_PAGE"
+                }
+              }
+            }
+          },
+          "thumbnail": {
+            "thumbnails": [
+              {
+                "url": "//s.ytimg.com/yts/img/meh7-vflGevej7.png",
+                "width": 140,
+                "height": 100
+              }
+            ]
+          },
+          "icon": {
+            "iconType": "ERROR_OUTLINE"
+          }
+        }
+      },
+      "skip": {
+        "playabilityErrorSkipConfig": {
+          "skipOnPlayabilityError": false
+        }
+      },
+      "contextParams": "Q0FFU0FnZ0M="
+    },
+    "metadataOnly": true,
+    "playbackNote": "HTTP metadata response only. Session WEB client requests reload; no claim that actual iframe playback succeeded."
+  },
+  {
+    "videoId": "o-1T_hj-0uA",
+    "checkedAt": "2026-10-16T15:09:46+00:00",
+    "metadataSource": "https://www.youtube-nocookie.com/youtubei/v1/player",
+    "title": "The Life & Times Of Tim: Amy Character Spot (HBO)",
+    "channel": "HBO",
+    "channelId": "UCVTQuK2CaWaTgSsoNkn5AiQ",
+    "duration": "17",
+    "private": false,
+    "familySafe": true,
+    "embed": {
+      "iframeUrl": "https://www.youtube.com/embed/o-1T_hj-0uA",
+      "width": 640,
+      "height": 360
+    },
+    "availableCountries": [
+      "US"
+    ],
+    "uaAllowed": false,
+    "ruAllowed": false,
+    "status": {
+      "status": "UNPLAYABLE",
+      "reason": "Video unavailable",
+      "errorScreen": {
+        "playerErrorMessageRenderer": {
+          "subreason": {
+            "simpleText": "The page needs to be reloaded."
+          },
+          "reason": {
+            "runs": [
+              {
+                "text": "The page needs to be reloaded."
+              }
+            ]
+          },
+          "proceedButton": {
+            "buttonRenderer": {
+              "style": "STYLE_PRIMARY",
+              "size": "SIZE_DEFAULT",
+              "isDisabled": false,
+              "text": {
+                "runs": [
+                  {
+                    "text": "Reload"
+                  }
+                ]
+              },
+              "trackingParams": "CAQQ8FsiEwjA0a7w6L6XAxXaHrMFHaSLKmI=",
+              "command": {
+                "clickTrackingParams": "CAQQ8FsiEwjA0a7w6L6XAxXaHrMFHaSLKmLKAQRUHLfo",
+                "signalAction": {
+                  "signal": "RELOAD_PAGE"
+                }
+              }
+            }
+          },
+          "thumbnail": {
+            "thumbnails": [
+              {
+                "url": "//s.ytimg.com/yts/img/meh7-vflGevej7.png",
+                "width": 140,
+                "height": 100
+              }
+            ]
+          },
+          "icon": {
+            "iconType": "ERROR_OUTLINE"
+          }
+        }
+      },
+      "skip": {
+        "playabilityErrorSkipConfig": {
+          "skipOnPlayabilityError": false
+        }
+      },
+      "contextParams": "Q0FFU0FnZ0M="
+    },
+    "metadataOnly": true,
+    "playbackNote": "HTTP metadata response only. Session WEB client requests reload; no claim that actual iframe playback succeeded."
+  },
+  {
+    "videoId": "UehiYgMcEOI",
+    "checkedAt": "2026-10-16T15:09:46+00:00",
+    "metadataSource": "https://www.youtube-nocookie.com/youtubei/v1/player",
+    "title": "The Life & Times Of Tim Season 3: Episode 30 Preview",
+    "channel": "HBO",
+    "channelId": "UCVTQuK2CaWaTgSsoNkn5AiQ",
+    "duration": "32",
+    "private": false,
+    "familySafe": true,
+    "embed": {
+      "iframeUrl": "https://www.youtube.com/embed/UehiYgMcEOI",
+      "width": 1280,
+      "height": 720
+    },
+    "availableCountries": [
+      "US"
+    ],
+    "uaAllowed": false,
+    "ruAllowed": false,
+    "status": {
+      "status": "UNPLAYABLE",
+      "reason": "Video unavailable",
+      "errorScreen": {
+        "playerErrorMessageRenderer": {
+          "subreason": {
+            "simpleText": "The page needs to be reloaded."
+          },
+          "reason": {
+            "runs": [
+              {
+                "text": "The page needs to be reloaded."
+              }
+            ]
+          },
+          "proceedButton": {
+            "buttonRenderer": {
+              "style": "STYLE_PRIMARY",
+              "size": "SIZE_DEFAULT",
+              "isDisabled": false,
+              "text": {
+                "runs": [
+                  {
+                    "text": "Reload"
+                  }
+                ]
+              },
+              "trackingParams": "CAQQ8FsiEwiKz63w6L6XAxV-cRIBHdPHKAI=",
+              "command": {
+                "clickTrackingParams": "CAQQ8FsiEwiKz63w6L6XAxV-cRIBHdPHKALKAQSG_EkA",
+                "signalAction": {
+                  "signal": "RELOAD_PAGE"
+                }
+              }
+            }
+          },
+          "thumbnail": {
+            "thumbnails": [
+              {
+                "url": "//s.ytimg.com/yts/img/meh7-vflGevej7.png",
+                "width": 140,
+                "height": 100
+              }
+            ]
+          },
+          "icon": {
+            "iconType": "ERROR_OUTLINE"
+          }
+        }
+      },
+      "skip": {
+        "playabilityErrorSkipConfig": {
+          "skipOnPlayabilityError": false
+        }
+      },
+      "contextParams": "Q0FFU0FnZ0M="
+    },
+    "metadataOnly": true,
+    "playbackNote": "HTTP metadata response only. Session WEB client requests reload; no claim that actual iframe playback succeeded."
+  },
+  {
+    "videoId": "CIVWL_DDAIk",
+    "checkedAt": "2026-10-16T15:09:46+00:00",
+    "metadataSource": "https://www.youtube-nocookie.com/youtubei/v1/player",
+    "title": "The Life & Times Of Tim: Season 2 Behind The Scenes Featurette (HBO)",
+    "channel": "HBO",
+    "channelId": "UCVTQuK2CaWaTgSsoNkn5AiQ",
+    "duration": "92",
+    "private": false,
+    "familySafe": true,
+    "embed": {
+      "iframeUrl": "https://www.youtube.com/embed/CIVWL_DDAIk",
+      "width": 640,
+      "height": 360
+    },
+    "availableCountries": [
+      "US"
+    ],
+    "uaAllowed": false,
+    "ruAllowed": false,
+    "status": {
+      "status": "UNPLAYABLE",
+      "reason": "Video unavailable",
+      "errorScreen": {
+        "playerErrorMessageRenderer": {
+          "subreason": {
+            "simpleText": "The page needs to be reloaded."
+          },
+          "reason": {
+            "runs": [
+              {
+                "text": "The page needs to be reloaded."
+              }
+            ]
+          },
+          "proceedButton": {
+            "buttonRenderer": {
+              "style": "STYLE_PRIMARY",
+              "size": "SIZE_DEFAULT",
+              "isDisabled": false,
+              "text": {
+                "runs": [
+                  {
+                    "text": "Reload"
+                  }
+                ]
+              },
+              "trackingParams": "CAQQ8FsiEwil5Kzw6L6XAxWCxhYJHRW9L44=",
+              "command": {
+                "clickTrackingParams": "CAQQ8FsiEwil5Kzw6L6XAxWCxhYJHRW9L47KAQRRpW8D",
+                "signalAction": {
+                  "signal": "RELOAD_PAGE"
+                }
+              }
+            }
+          },
+          "thumbnail": {
+            "thumbnails": [
+              {
+                "url": "//s.ytimg.com/yts/img/meh7-vflGevej7.png",
+                "width": 140,
+                "height": 100
+              }
+            ]
+          },
+          "icon": {
+            "iconType": "ERROR_OUTLINE"
+          }
+        }
+      },
+      "skip": {
+        "playabilityErrorSkipConfig": {
+          "skipOnPlayabilityError": false
+        }
+      },
+      "contextParams": "Q0FFU0FnZ0M="
+    },
+    "metadataOnly": true,
+    "playbackNote": "HTTP metadata response only. Session WEB client requests reload; no claim that actual iframe playback succeeded."
+  },
+  {
+    "videoId": "FYUfoOhi7W4",
+    "checkedAt": "2026-10-16T15:09:46+00:00",
+    "metadataSource": "https://www.youtube-nocookie.com/youtubei/v1/player",
+    "title": "The Life & Times of Tim: The Bachelor Party  Invitation (HBO)",
+    "channel": "HBO",
+    "channelId": "UCVTQuK2CaWaTgSsoNkn5AiQ",
+    "duration": "68",
+    "private": false,
+    "familySafe": true,
+    "embed": {
+      "iframeUrl": "https://www.youtube.com/embed/FYUfoOhi7W4",
+      "width": 480,
+      "height": 360
+    },
+    "availableCountries": [
+      "US"
+    ],
+    "uaAllowed": false,
+    "ruAllowed": false,
+    "status": {
+      "status": "UNPLAYABLE",
+      "reason": "Video unavailable",
+      "errorScreen": {
+        "playerErrorMessageRenderer": {
+          "subreason": {
+            "simpleText": "The page needs to be reloaded."
+          },
+          "reason": {
+            "runs": [
+              {
+                "text": "The page needs to be reloaded."
+              }
+            ]
+          },
+          "proceedButton": {
+            "buttonRenderer": {
+              "style": "STYLE_PRIMARY",
+              "size": "SIZE_DEFAULT",
+              "isDisabled": false,
+              "text": {
+                "runs": [
+                  {
+                    "text": "Reload"
+                  }
+                ]
+              },
+              "trackingParams": "CAQQ8FsiEwi8krbw6L6XAxWQlsIBHVtWAqM=",
+              "command": {
+                "clickTrackingParams": "CAQQ8FsiEwi8krbw6L6XAxWQlsIBHVtWAqPKAQQhcdCJ",
+                "signalAction": {
+                  "signal": "RELOAD_PAGE"
+                }
+              }
+            }
+          },
+          "thumbnail": {
+            "thumbnails": [
+              {
+                "url": "//s.ytimg.com/yts/img/meh7-vflGevej7.png",
+                "width": 140,
+                "height": 100
+              }
+            ]
+          },
+          "icon": {
+            "iconType": "ERROR_OUTLINE"
+          }
+        }
+      },
+      "skip": {
+        "playabilityErrorSkipConfig": {
+          "skipOnPlayabilityError": false
+        }
+      },
+      "contextParams": "Q0FFU0FnZ0M="
+    },
+    "metadataOnly": true,
+    "playbackNote": "HTTP metadata response only. Session WEB client requests reload; no claim that actual iframe playback succeeded."
+  },
+  {
+    "videoId": "2ynsQfJrgDI",
+    "checkedAt": "2026-10-16T15:09:47+00:00",
+    "metadataSource": "https://www.youtube-nocookie.com/youtubei/v1/player",
+    "title": "The Life & Times Of Tim: Season 2 Clip - Apartment Fire (HBO)",
+    "channel": "HBO",
+    "channelId": "UCVTQuK2CaWaTgSsoNkn5AiQ",
+    "duration": "90",
+    "private": false,
+    "familySafe": true,
+    "embed": {
+      "iframeUrl": "https://www.youtube.com/embed/2ynsQfJrgDI",
+      "width": 1280,
+      "height": 720
+    },
+    "availableCountries": [
+      "US"
+    ],
+    "uaAllowed": false,
+    "ruAllowed": false,
+    "status": {
+      "status": "UNPLAYABLE",
+      "reason": "Video unavailable",
+      "errorScreen": {
+        "playerErrorMessageRenderer": {
+          "subreason": {
+            "simpleText": "The page needs to be reloaded."
+          },
+          "reason": {
+            "runs": [
+              {
+                "text": "The page needs to be reloaded."
+              }
+            ]
+          },
+          "proceedButton": {
+            "buttonRenderer": {
+              "style": "STYLE_PRIMARY",
+              "size": "SIZE_DEFAULT",
+              "isDisabled": false,
+              "text": {
+                "runs": [
+                  {
+                    "text": "Reload"
+                  }
+                ]
+              },
+              "trackingParams": "CAQQ8FsiEwjc8rjw6L6XAxXlhAoIHSALDGY=",
+              "command": {
+                "clickTrackingParams": "CAQQ8FsiEwjc8rjw6L6XAxXlhAoIHSALDGbKAQSoeesk",
+                "signalAction": {
+                  "signal": "RELOAD_PAGE"
+                }
+              }
+            }
+          },
+          "thumbnail": {
+            "thumbnails": [
+              {
+                "url": "//s.ytimg.com/yts/img/meh7-vflGevej7.png",
+                "width": 140,
+                "height": 100
+              }
+            ]
+          },
+          "icon": {
+            "iconType": "ERROR_OUTLINE"
+          }
+        }
+      },
+      "skip": {
+        "playabilityErrorSkipConfig": {
+          "skipOnPlayabilityError": false
+        }
+      },
+      "contextParams": "Q0FFU0FnZ0M="
+    },
+    "metadataOnly": true,
+    "playbackNote": "HTTP metadata response only. Session WEB client requests reload; no claim that actual iframe playback succeeded."
+  },
+  {
+    "videoId": "I6mIVf9pcWk",
+    "checkedAt": "2026-10-16T15:09:46+00:00",
+    "metadataSource": "https://www.youtube-nocookie.com/youtubei/v1/player",
+    "title": "The Life & Times Of Tim: Season 2 Clip - The Robber (HBO)",
+    "channel": "HBO",
+    "channelId": "UCVTQuK2CaWaTgSsoNkn5AiQ",
+    "duration": "81",
+    "private": false,
+    "familySafe": true,
+    "embed": {
+      "iframeUrl": "https://www.youtube.com/embed/I6mIVf9pcWk",
+      "width": 1280,
+      "height": 720
+    },
+    "availableCountries": [
+      "US"
+    ],
+    "uaAllowed": false,
+    "ruAllowed": false,
+    "status": {
+      "status": "UNPLAYABLE",
+      "reason": "Video unavailable",
+      "errorScreen": {
+        "playerErrorMessageRenderer": {
+          "subreason": {
+            "simpleText": "The page needs to be reloaded."
+          },
+          "reason": {
+            "runs": [
+              {
+                "text": "The page needs to be reloaded."
+              }
+            ]
+          },
+          "proceedButton": {
+            "buttonRenderer": {
+              "style": "STYLE_PRIMARY",
+              "size": "SIZE_DEFAULT",
+              "isDisabled": false,
+              "text": {
+                "runs": [
+                  {
+                    "text": "Reload"
+                  }
+                ]
+              },
+              "trackingParams": "CAQQ8FsiEwjQ3bfw6L6XAxUAmsIBHZIXHuc=",
+              "command": {
+                "clickTrackingParams": "CAQQ8FsiEwjQ3bfw6L6XAxUAmsIBHZIXHufKAQSKCwQf",
+                "signalAction": {
+                  "signal": "RELOAD_PAGE"
+                }
+              }
+            }
+          },
+          "thumbnail": {
+            "thumbnails": [
+              {
+                "url": "//s.ytimg.com/yts/img/meh7-vflGevej7.png",
+                "width": 140,
+                "height": 100
+              }
+            ]
+          },
+          "icon": {
+            "iconType": "ERROR_OUTLINE"
+          }
+        }
+      },
+      "skip": {
+        "playabilityErrorSkipConfig": {
+          "skipOnPlayabilityError": false
+        }
+      },
+      "contextParams": "Q0FFU0FnZ0M="
+    },
+    "metadataOnly": true,
+    "playbackNote": "HTTP metadata response only. Session WEB client requests reload; no claim that actual iframe playback succeeded."
+  },
+  {
+    "videoId": "OAqxuMmshC8",
+    "checkedAt": "2026-10-16T15:09:46+00:00",
+    "metadataSource": "https://www.youtube-nocookie.com/youtubei/v1/player",
+    "title": "The Life & Times Of Tim Season 3: Episode 26 Preview",
+    "channel": "HBO",
+    "channelId": "UCVTQuK2CaWaTgSsoNkn5AiQ",
+    "duration": "32",
+    "private": false,
+    "familySafe": true,
+    "embed": {
+      "iframeUrl": "https://www.youtube.com/embed/OAqxuMmshC8",
+      "width": 1280,
+      "height": 720
+    },
+    "availableCountries": [
+      "US"
+    ],
+    "uaAllowed": false,
+    "ruAllowed": false,
+    "status": {
+      "status": "UNPLAYABLE",
+      "reason": "Video unavailable",
+      "errorScreen": {
+        "playerErrorMessageRenderer": {
+          "subreason": {
+            "simpleText": "The page needs to be reloaded."
+          },
+          "reason": {
+            "runs": [
+              {
+                "text": "The page needs to be reloaded."
+              }
+            ]
+          },
+          "proceedButton": {
+            "buttonRenderer": {
+              "style": "STYLE_PRIMARY",
+              "size": "SIZE_DEFAULT",
+              "isDisabled": false,
+              "text": {
+                "runs": [
+                  {
+                    "text": "Reload"
+                  }
+                ]
+              },
+              "trackingParams": "CAQQ8FsiEwi7ybnw6L6XAxXKxRYJHc9dEFg=",
+              "command": {
+                "clickTrackingParams": "CAQQ8FsiEwi7ybnw6L6XAxXKxRYJHc9dEFjKAQQ3hY9U",
+                "signalAction": {
+                  "signal": "RELOAD_PAGE"
+                }
+              }
+            }
+          },
+          "thumbnail": {
+            "thumbnails": [
+              {
+                "url": "//s.ytimg.com/yts/img/meh7-vflGevej7.png",
+                "width": 140,
+                "height": 100
+              }
+            ]
+          },
+          "icon": {
+            "iconType": "ERROR_OUTLINE"
+          }
+        }
+      },
+      "skip": {
+        "playabilityErrorSkipConfig": {
+          "skipOnPlayabilityError": false
+        }
+      },
+      "contextParams": "Q0FFU0FnZ0M="
+    },
+    "metadataOnly": true,
+    "playbackNote": "HTTP metadata response only. Session WEB client requests reload; no claim that actual iframe playback succeeded."
+  },
+  {
+    "videoId": "TS5D1Z6H744",
+    "checkedAt": "2026-10-16T15:09:47+00:00",
+    "metadataSource": "https://www.youtube-nocookie.com/youtubei/v1/player",
+    "title": "The Life & Times Of Tim: Rodney Character Spot (HBO)",
+    "channel": "HBO",
+    "channelId": "UCVTQuK2CaWaTgSsoNkn5AiQ",
+    "duration": "17",
+    "private": false,
+    "familySafe": true,
+    "embed": {
+      "iframeUrl": "https://www.youtube.com/embed/TS5D1Z6H744",
+      "width": 640,
+      "height": 360
+    },
+    "availableCountries": [
+      "US"
+    ],
+    "uaAllowed": false,
+    "ruAllowed": false,
+    "status": {
+      "status": "UNPLAYABLE",
+      "reason": "Video unavailable",
+      "errorScreen": {
+        "playerErrorMessageRenderer": {
+          "subreason": {
+            "simpleText": "The page needs to be reloaded."
+          },
+          "reason": {
+            "runs": [
+              {
+                "text": "The page needs to be reloaded."
+              }
+            ]
+          },
+          "proceedButton": {
+            "buttonRenderer": {
+              "style": "STYLE_PRIMARY",
+              "size": "SIZE_DEFAULT",
+              "isDisabled": false,
+              "text": {
+                "runs": [
+                  {
+                    "text": "Reload"
+                  }
+                ]
+              },
+              "trackingParams": "CAQQ8FsiEwiHxb_w6L6XAxWWMbMFHZbNAaM=",
+              "command": {
+                "clickTrackingParams": "CAQQ8FsiEwiHxb_w6L6XAxWWMbMFHZbNAaPKAQTeW1eD",
+                "signalAction": {
+                  "signal": "RELOAD_PAGE"
+                }
+              }
+            }
+          },
+          "thumbnail": {
+            "thumbnails": [
+              {
+                "url": "//s.ytimg.com/yts/img/meh7-vflGevej7.png",
+                "width": 140,
+                "height": 100
+              }
+            ]
+          },
+          "icon": {
+            "iconType": "ERROR_OUTLINE"
+          }
+        }
+      },
+      "skip": {
+        "playabilityErrorSkipConfig": {
+          "skipOnPlayabilityError": false
+        }
+      },
+      "contextParams": "Q0FFU0FnZ0M="
+    },
+    "metadataOnly": true,
+    "playbackNote": "HTTP metadata response only. Session WEB client requests reload; no claim that actual iframe playback succeeded."
+  },
+  {
+    "videoId": "ytphZ4amUzI",
+    "checkedAt": "2026-10-16T15:09:47+00:00",
+    "metadataSource": "https://www.youtube-nocookie.com/youtubei/v1/player",
+    "title": "The Life & Times Of Tim: Season 2 Recap",
+    "channel": "HBO",
+    "channelId": "UCVTQuK2CaWaTgSsoNkn5AiQ",
+    "duration": "87",
+    "private": false,
+    "familySafe": true,
+    "embed": {
+      "iframeUrl": "https://www.youtube.com/embed/ytphZ4amUzI",
+      "width": 1280,
+      "height": 720
+    },
+    "availableCountries": [
+      "US"
+    ],
+    "uaAllowed": false,
+    "ruAllowed": false,
+    "status": {
+      "status": "UNPLAYABLE",
+      "reason": "Video unavailable",
+      "errorScreen": {
+        "playerErrorMessageRenderer": {
+          "subreason": {
+            "simpleText": "The page needs to be reloaded."
+          },
+          "reason": {
+            "runs": [
+              {
+                "text": "The page needs to be reloaded."
+              }
+            ]
+          },
+          "proceedButton": {
+            "buttonRenderer": {
+              "style": "STYLE_PRIMARY",
+              "size": "SIZE_DEFAULT",
+              "isDisabled": false,
+              "text": {
+                "runs": [
+                  {
+                    "text": "Reload"
+                  }
+                ]
+              },
+              "trackingParams": "CAQQ8FsiEwjKrcPw6L6XAxUGqzUBHb9HLaQ=",
+              "command": {
+                "clickTrackingParams": "CAQQ8FsiEwjKrcPw6L6XAxUGqzUBHb9HLaTKAQSNrsXS",
+                "signalAction": {
+                  "signal": "RELOAD_PAGE"
+                }
+              }
+            }
+          },
+          "thumbnail": {
+            "thumbnails": [
+              {
+                "url": "//s.ytimg.com/yts/img/meh7-vflGevej7.png",
+                "width": 140,
+                "height": 100
+              }
+            ]
+          },
+          "icon": {
+            "iconType": "ERROR_OUTLINE"
+          }
+        }
+      },
+      "skip": {
+        "playabilityErrorSkipConfig": {
+          "skipOnPlayabilityError": false
+        }
+      },
+      "contextParams": "Q0FFU0FnZ0M="
+    },
+    "metadataOnly": true,
+    "playbackNote": "HTTP metadata response only. Session WEB client requests reload; no claim that actual iframe playback succeeded."
+  },
+  {
+    "videoId": "5GRtzKd5rjg",
+    "checkedAt": "2026-10-16T15:09:47+00:00",
+    "metadataSource": "https://www.youtube-nocookie.com/youtubei/v1/player",
+    "title": "The Life & Times Of Tim: Season 2 \"Heroism: De-Motivational\" Tease (HBO)",
+    "channel": "HBO",
+    "channelId": "UCVTQuK2CaWaTgSsoNkn5AiQ",
+    "duration": "22",
+    "private": false,
+    "familySafe": true,
+    "embed": {
+      "iframeUrl": "https://www.youtube.com/embed/5GRtzKd5rjg",
+      "width": 640,
+      "height": 360
+    },
+    "availableCountries": [
+      "US"
+    ],
+    "uaAllowed": false,
+    "ruAllowed": false,
+    "status": {
+      "status": "UNPLAYABLE",
+      "reason": "Video unavailable",
+      "errorScreen": {
+        "playerErrorMessageRenderer": {
+          "subreason": {
+            "simpleText": "The page needs to be reloaded."
+          },
+          "reason": {
+            "runs": [
+              {
+                "text": "The page needs to be reloaded."
+              }
+            ]
+          },
+          "proceedButton": {
+            "buttonRenderer": {
+              "style": "STYLE_PRIMARY",
+              "size": "SIZE_DEFAULT",
+              "isDisabled": false,
+              "text": {
+                "runs": [
+                  {
+                    "text": "Reload"
+                  }
+                ]
+              },
+              "trackingParams": "CAQQ8FsiEwja0sPw6L6XAxV6nAoIHTkxDqI=",
+              "command": {
+                "clickTrackingParams": "CAQQ8FsiEwja0sPw6L6XAxV6nAoIHTkxDqLKAQRvvVTy",
+                "signalAction": {
+                  "signal": "RELOAD_PAGE"
+                }
+              }
+            }
+          },
+          "thumbnail": {
+            "thumbnails": [
+              {
+                "url": "//s.ytimg.com/yts/img/meh7-vflGevej7.png",
+                "width": 140,
+                "height": 100
+              }
+            ]
+          },
+          "icon": {
+            "iconType": "ERROR_OUTLINE"
+          }
+        }
+      },
+      "skip": {
+        "playabilityErrorSkipConfig": {
+          "skipOnPlayabilityError": false
+        }
+      },
+      "contextParams": "Q0FFU0FnZ0M="
+    },
+    "metadataOnly": true,
+    "playbackNote": "HTTP metadata response only. Session WEB client requests reload; no claim that actual iframe playback succeeded."
+  },
+  {
+    "videoId": "IqbLPdbEfk4",
+    "checkedAt": "2026-10-16T15:09:47+00:00",
+    "metadataSource": "https://www.youtube-nocookie.com/youtubei/v1/player",
+    "title": "The Life & Times Of Tim: Season 2 \"Ambition: De-Motivational\" Tease (HBO)",
+    "channel": "HBO",
+    "channelId": "UCVTQuK2CaWaTgSsoNkn5AiQ",
+    "duration": "17",
+    "private": false,
+    "familySafe": true,
+    "embed": {
+      "iframeUrl": "https://www.youtube.com/embed/IqbLPdbEfk4",
+      "width": 640,
+      "height": 360
+    },
+    "availableCountries": [
+      "US"
+    ],
+    "uaAllowed": false,
+    "ruAllowed": false,
+    "status": {
+      "status": "UNPLAYABLE",
+      "reason": "Video unavailable",
+      "errorScreen": {
+        "playerErrorMessageRenderer": {
+          "subreason": {
+            "simpleText": "The page needs to be reloaded."
+          },
+          "reason": {
+            "runs": [
+              {
+                "text": "The page needs to be reloaded."
+              }
+            ]
+          },
+          "proceedButton": {
+            "buttonRenderer": {
+              "style": "STYLE_PRIMARY",
+              "size": "SIZE_DEFAULT",
+              "isDisabled": false,
+              "text": {
+                "runs": [
+                  {
+                    "text": "Reload"
+                  }
+                ]
+              },
+              "trackingParams": "CAQQ8FsiEwj6m8Pw6L6XAxVquMIBHQqGJKk=",
+              "command": {
+                "clickTrackingParams": "CAQQ8FsiEwj6m8Pw6L6XAxVquMIBHQqGJKnKAQSbdTwo",
+                "signalAction": {
+                  "signal": "RELOAD_PAGE"
+                }
+              }
+            }
+          },
+          "thumbnail": {
+            "thumbnails": [
+              {
+                "url": "//s.ytimg.com/yts/img/meh7-vflGevej7.png",
+                "width": 140,
+                "height": 100
+              }
+            ]
+          },
+          "icon": {
+            "iconType": "ERROR_OUTLINE"
+          }
+        }
+      },
+      "skip": {
+        "playabilityErrorSkipConfig": {
+          "skipOnPlayabilityError": false
+        }
+      },
+      "contextParams": "Q0FFU0FnZ0M="
+    },
+    "metadataOnly": true,
+    "playbackNote": "HTTP metadata response only. Session WEB client requests reload; no claim that actual iframe playback succeeded."
+  },
+  {
+    "videoId": "s037ZxpFW5o",
+    "checkedAt": "2026-10-16T15:09:47+00:00",
+    "metadataSource": "https://www.youtube-nocookie.com/youtubei/v1/player",
+    "title": "The Life & Times Of Tim: Season 2 Clip - Subway Platform",
+    "channel": "HBO",
+    "channelId": "UCVTQuK2CaWaTgSsoNkn5AiQ",
+    "duration": "76",
+    "private": false,
+    "familySafe": true,
+    "embed": {
+      "iframeUrl": "https://www.youtube.com/embed/s037ZxpFW5o",
+      "width": 1280,
+      "height": 720
+    },
+    "availableCountries": [
+      "US"
+    ],
+    "uaAllowed": false,
+    "ruAllowed": false,
+    "status": {
+      "status": "UNPLAYABLE",
+      "reason": "Video unavailable",
+      "errorScreen": {
+        "playerErrorMessageRenderer": {
+          "subreason": {
+            "simpleText": "The page needs to be reloaded."
+          },
+          "reason": {
+            "runs": [
+              {
+                "text": "The page needs to be reloaded."
+              }
+            ]
+          },
+          "proceedButton": {
+            "buttonRenderer": {
+              "style": "STYLE_PRIMARY",
+              "size": "SIZE_DEFAULT",
+              "isDisabled": false,
+              "text": {
+                "runs": [
+                  {
+                    "text": "Reload"
+                  }
+                ]
+              },
+              "trackingParams": "CAQQ8FsiEwj0wMjw6L6XAxVBE7MFHQllIGA=",
+              "command": {
+                "clickTrackingParams": "CAQQ8FsiEwj0wMjw6L6XAxVBE7MFHQllIGDKAQQ6N2BO",
+                "signalAction": {
+                  "signal": "RELOAD_PAGE"
+                }
+              }
+            }
+          },
+          "thumbnail": {
+            "thumbnails": [
+              {
+                "url": "//s.ytimg.com/yts/img/meh7-vflGevej7.png",
+                "width": 140,
+                "height": 100
+              }
+            ]
+          },
+          "icon": {
+            "iconType": "ERROR_OUTLINE"
+          }
+        }
+      },
+      "skip": {
+        "playabilityErrorSkipConfig": {
+          "skipOnPlayabilityError": false
+        }
+      },
+      "contextParams": "Q0FFU0FnZ0M="
+    },
+    "metadataOnly": true,
+    "playbackNote": "HTTP metadata response only. Session WEB client requests reload; no claim that actual iframe playback succeeded."
+  },
+  {
+    "videoId": "taBpI_M8yqQ",
+    "checkedAt": "2026-10-16T15:09:47+00:00",
+    "metadataSource": "https://www.youtube-nocookie.com/youtubei/v1/player",
+    "title": "The Life & Times Of Tim: Season 2 Clip - Calling In Sick (HBO)",
+    "channel": "HBO",
+    "channelId": "UCVTQuK2CaWaTgSsoNkn5AiQ",
+    "duration": "84",
+    "private": false,
+    "familySafe": true,
+    "embed": {
+      "iframeUrl": "https://www.youtube.com/embed/taBpI_M8yqQ",
+      "width": 1280,
+      "height": 720
+    },
+    "availableCountries": [
+      "US"
+    ],
+    "uaAllowed": false,
+    "ruAllowed": false,
+    "status": {
+      "status": "UNPLAYABLE",
+      "reason": "Video unavailable",
+      "errorScreen": {
+        "playerErrorMessageRenderer": {
+          "subreason": {
+            "simpleText": "The page needs to be reloaded."
+          },
+          "reason": {
+            "runs": [
+              {
+                "text": "The page needs to be reloaded."
+              }
+            ]
+          },
+          "proceedButton": {
+            "buttonRenderer": {
+              "style": "STYLE_PRIMARY",
+              "size": "SIZE_DEFAULT",
+              "isDisabled": false,
+              "text": {
+                "runs": [
+                  {
+                    "text": "Reload"
+                  }
+                ]
+              },
+              "trackingParams": "CAQQ8FsiEwi24crw6L6XAxWEIjUKHYrLIQo=",
+              "command": {
+                "clickTrackingParams": "CAQQ8FsiEwi24crw6L6XAxWEIjUKHYrLIQrKAQQbadIv",
+                "signalAction": {
+                  "signal": "RELOAD_PAGE"
+                }
+              }
+            }
+          },
+          "thumbnail": {
+            "thumbnails": [
+              {
+                "url": "//s.ytimg.com/yts/img/meh7-vflGevej7.png",
+                "width": 140,
+                "height": 100
+              }
+            ]
+          },
+          "icon": {
+            "iconType": "ERROR_OUTLINE"
+          }
+        }
+      },
+      "skip": {
+        "playabilityErrorSkipConfig": {
+          "skipOnPlayabilityError": false
+        }
+      },
+      "contextParams": "Q0FFU0FnZ0M="
+    },
+    "metadataOnly": true,
+    "playbackNote": "HTTP metadata response only. Session WEB client requests reload; no claim that actual iframe playback succeeded."
+  },
+  {
+    "videoId": "Cbzfxj5JrJg",
+    "checkedAt": "2026-10-16T15:09:47+00:00",
+    "metadataSource": "https://www.youtube-nocookie.com/youtubei/v1/player",
+    "title": "The Life & Times Of Tim: Season 2 \"Teamwork: De-Motivational\" Tease (HBO)",
+    "channel": "HBO",
+    "channelId": "UCVTQuK2CaWaTgSsoNkn5AiQ",
+    "duration": "22",
+    "private": false,
+    "familySafe": true,
+    "embed": {
+      "iframeUrl": "https://www.youtube.com/embed/Cbzfxj5JrJg",
+      "width": 640,
+      "height": 360
+    },
+    "availableCountries": [
+      "US"
+    ],
+    "uaAllowed": false,
+    "ruAllowed": false,
+    "status": {
+      "status": "UNPLAYABLE",
+      "reason": "Video unavailable",
+      "errorScreen": {
+        "playerErrorMessageRenderer": {
+          "subreason": {
+            "simpleText": "The page needs to be reloaded."
+          },
+          "reason": {
+            "runs": [
+              {
+                "text": "The page needs to be reloaded."
+              }
+            ]
+          },
+          "proceedButton": {
+            "buttonRenderer": {
+              "style": "STYLE_PRIMARY",
+              "size": "SIZE_DEFAULT",
+              "isDisabled": false,
+              "text": {
+                "runs": [
+                  {
+                    "text": "Reload"
+                  }
+                ]
+              },
+              "trackingParams": "CAQQ8FsiEwiR2c3w6L6XAxWOa14DHY0fEVg=",
+              "command": {
+                "clickTrackingParams": "CAQQ8FsiEwiR2c3w6L6XAxWOa14DHY0fEVjKAQTLdT28",
+                "signalAction": {
+                  "signal": "RELOAD_PAGE"
+                }
+              }
+            }
+          },
+          "thumbnail": {
+            "thumbnails": [
+              {
+                "url": "//s.ytimg.com/yts/img/meh7-vflGevej7.png",
+                "width": 140,
+                "height": 100
+              }
+            ]
+          },
+          "icon": {
+            "iconType": "ERROR_OUTLINE"
+          }
+        }
+      },
+      "skip": {
+        "playabilityErrorSkipConfig": {
+          "skipOnPlayabilityError": false
+        }
+      },
+      "contextParams": "Q0FFU0FnZ0M="
+    },
+    "metadataOnly": true,
+    "playbackNote": "HTTP metadata response only. Session WEB client requests reload; no claim that actual iframe playback succeeded."
+  }
+]

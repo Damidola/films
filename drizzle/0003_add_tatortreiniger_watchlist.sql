@@ -1,0 +1,2 @@
+-- Explicit owner request: save Der Tatortreiniger to the planning list.
+INSERT INTO `taste_feedback` (`user_id`,`work_id`,`title`,`decision`,`watched`,`good`,`updated_at`,`bookmarked_at`) VALUES ('single-user',608,'Чистильщик','like',NULL,0,1792592309266,1792592309266) ON CONFLICT (`user_id`,`work_id`) DO UPDATE SET `decision`='like', `watched`=NULL, `good`=0, `updated_at`=excluded.updated_at, `bookmarked_at`=excluded.bookmarked_at WHERE excluded.updated_at > taste_feedback.updated_at;

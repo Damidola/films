@@ -1,0 +1,811 @@
+{
+  "schemaVersion": 1,
+  "entries": [
+    {
+      "work": {
+        "rank": 608,
+        "title": "Der Tatortreiniger",
+        "ru": "Чистильщик",
+        "year": 2011,
+        "type": "series",
+        "kind": "Сериал",
+        "imdb": "tt2147995",
+        "kpurl": "https://www.kinopoisk.ru/series/1008217/",
+        "kp": 7.5,
+        "score": 8.5,
+        "kpRaw": 7.473,
+        "kpSource": "https://rating.kinopoisk.ru/1008217.xml",
+        "scoreSource": "https://rating.kinopoisk.ru/1008217.xml",
+        "kpVerifiedAt": "2026-10-21T14:18:29.266799+00:00",
+        "rezka": "https://hdrezka.me/series/comedy/22960-chistilschik-2012.html",
+        "kinogo": "https://uakinogo.io/serialy/41894-chistilschik.html",
+        "image": "assets/library-608.webp",
+        "productionCountries": [
+          "DE"
+        ],
+        "runtime": 28,
+        "seriesStats": {
+          "seasons": 7,
+          "episodes": 31,
+          "episodesPerSeason": 4.43,
+          "episodeMinutes": 28.39,
+          "seasonEpisodes": [
+            {
+              "season": 1,
+              "episodes": 4
+            },
+            {
+              "season": 2,
+              "episodes": 5
+            },
+            {
+              "season": 3,
+              "episodes": 4
+            },
+            {
+              "season": 4,
+              "episodes": 5
+            },
+            {
+              "season": 5,
+              "episodes": 6
+            },
+            {
+              "season": 6,
+              "episodes": 3
+            },
+            {
+              "season": 7,
+              "episodes": 4
+            }
+          ],
+          "totalMinutes": 880,
+          "ongoing": false,
+          "source": "https://www.tvmaze.com/shows/5613/der-tatortreiniger",
+          "checkedAt": "2026-10-21T14:18:29.266799+00:00"
+        },
+        "trailer": {
+          "videoId": "03VSyV0iFSU",
+          "url": "https://www.youtube.com/watch?v=03VSyV0iFSU",
+          "title": "Crime Scene Cleaner - Season 1 Trailer",
+          "channel": "MHz Choice",
+          "kind": "trailer",
+          "duration": 54,
+          "language": "de",
+          "subtitles": "en",
+          "note": "Немецкий оригинал · английские субтитры",
+          "languageBasis": "MHz Choice official English-subtitled release trailer",
+          "maxHeight": 1080,
+          "verifiedAt": "2026-10-21T14:15:36.512671+00:00",
+          "availability": {
+            "embed": true,
+            "regions": [
+              "UA"
+            ],
+            "checkedAt": "2026-10-21T14:15:36.512671+00:00",
+            "source": "YouTube public player metadata"
+          }
+        },
+        "trailerAlternates": [
+          {
+            "videoId": "LJjHBivx9sg",
+            "url": "https://www.youtube.com/watch?v=LJjHBivx9sg",
+            "title": "Crime Scene Cleaner - Season 2 Trailer",
+            "channel": "MHz Choice",
+            "kind": "trailer",
+            "duration": 58,
+            "language": "de",
+            "subtitles": "en",
+            "note": "Немецкий оригинал · английские субтитры",
+            "languageBasis": "MHz Choice official English-subtitled release trailer",
+            "maxHeight": 1080,
+            "verifiedAt": "2026-10-21T14:15:36.512671+00:00",
+            "availability": {
+              "embed": true,
+              "regions": [
+                "UA"
+              ],
+              "checkedAt": "2026-10-21T14:15:36.512671+00:00",
+              "source": "YouTube public player metadata"
+            }
+          }
+        ],
+        "tags": [
+          "Чёрный юмор",
+          "Сухой юмор",
+          "Диалоги",
+          "Абсурд",
+          "Сатира",
+          "Камерная история",
+          "Криминал"
+        ],
+        "syn": "Гамбургский уборщик Хайко «Шотти» Шотте приезжает на места преступлений, когда полиция уже закончила работу. Пока он отмывает кровь и приводит помещение в порядок, рядом оказываются родственники погибших, случайные знакомые и очень странные хозяева. Обычная рабочая смена превращается в спор о морали, отношениях, религии или человеческой глупости. Почти каждая серия — самостоятельная история, в которой мрачная обстановка сталкивается с приземлённым здравым смыслом Шотти.",
+        "editorialWhy": "Здесь смерть и бытовой абсурд постоянно соседствуют с сухими шутками. Юмор вырастает из разговоров, нелепых убеждений и лицемерия собеседников Шотти; главный герой отвечает на это прямотой и очень земной логикой.",
+        "caveat": "Камерный и разговорный сериал: значительно меньше экшена, чем в «Кровавом четверге».",
+        "candidatePool": true,
+        "addedFrom": "user-request-tatortreiniger",
+        "source": "https://www.tvmaze.com/shows/5613/der-tatortreiniger"
+      },
+      "providers": {
+        "kinogo": {
+          "url": "https://uakinogo.io/serialy/41894-chistilschik.html",
+          "basis": "original-title-year-player",
+          "matchedOriginalTitle": "Der Tatortreiniger",
+          "matchedTitle": "Чистильщик (1-7 сезон)",
+          "matchedYear": "2011",
+          "schemaType": "TVEpisode",
+          "pageHasPlayer": true,
+          "checkedAt": "2026-10-21T14:18:29.266799+00:00"
+        }
+      },
+      "reviewSource": {
+        "workId": 608,
+        "title": "Der Tatortreiniger",
+        "kpId": "1008217",
+        "url": "https://hdrezka.me/series/comedy/22960-chistilschik-2012.html",
+        "basis": "reviewed-original-title-year-variant",
+        "sourceHost": "hdrezka.me",
+        "matchedTitle": "Der Tatortreiniger",
+        "matchedYear": 2011,
+        "sourceYear": 2012,
+        "checkedAt": "2026-10-21T14:18:29.266799+00:00"
+      },
+      "reviews": {
+        "schemaVersion": 1,
+        "workId": 608,
+        "provider": "hdrezka",
+        "status": "ok",
+        "comments": [
+          {
+            "id": "5841921",
+            "depth": 0,
+            "parentId": null,
+            "replyTo": null,
+            "author": "Kurantey",
+            "text": "Последние серии просто говеное днище",
+            "publishedText": "19 апреля 2026 15:07",
+            "likes": 1,
+            "spoiler": false,
+            "url": "https://hdrezka.me/series/comedy/22960-chistilschik-2012.html#comment-id-5841921"
+          },
+          {
+            "id": "5880660",
+            "depth": 1,
+            "parentId": "5841921",
+            "replyTo": "Kurantey",
+            "author": "имхо хохо",
+            "text": "Они просто стали более экспериментально-концептуальными. Да, они могут показаться слишком смелыми, артхаусными, но от того они не стали хуже.\nВ них есть глубина, сатира и непредвзятость. 1 серия 8 сезона просто шедевр. ШЕДЕВР. Сюжет написан просто гениально: все ружья и рифмы выстреливают, все детали сходятся. Очень сильное и честное раскрытие и исследование темы.\nМногим не нравится последняя серия, но, на мой взгляд, она вполне хороша. Тема сложная, но важная, и, по-моему, она раскрыта великолепно.",
+            "publishedText": "12 мая 2026 04:20",
+            "likes": 1,
+            "spoiler": false,
+            "url": "https://hdrezka.me/series/comedy/22960-chistilschik-2012.html#comment-id-5880660"
+          },
+          {
+            "id": "5836324",
+            "depth": 0,
+            "parentId": null,
+            "replyTo": null,
+            "author": "LolaBegi",
+            "text": "Сериалу 9/10. Один бал минус за последнюю серию",
+            "publishedText": "16 апреля 2026 14:13",
+            "likes": 0,
+            "spoiler": false,
+            "url": "https://hdrezka.me/series/comedy/22960-chistilschik-2012.html#comment-id-5836324"
+          },
+          {
+            "id": "5803415",
+            "depth": 0,
+            "parentId": null,
+            "replyTo": null,
+            "author": "имхо хохо",
+            "text": "Один из лучших сериалов, что мне доводилось видеть.\n\nВпечатляющая режиссура и работа со сценарием: превосходно выверенная и просчитанная форма, рифмы и акценты - при этом всё очень живое и работает на историю. Баланс между юмором, трагизмом и философией, а также темп повествования - восхитительны.\n\nКаждый эпизод ненавязчиво и не однобоко исследует разные темы, делая это глубоко, но при этом уважая обе точки зрения. Каждая серия говорит о разном: об одиночестве, смелости, балансе, наследии, призвании, искусстве, стремлении к прекрасному, непредвзятости, о жизни и многом другом. Темы универсальны, но при этом очень актуальны для каждого.\n\nСимволизм в этом сериале - вообще на каком-то другом уровне. Например, в эпизоде, где спойлер\nШотти застрял в холодильнике, и его спасает мальчуган, по сути они спасают друг друга\n.\n\nПерсонажи очень проработаны и вычурны, но при этом настолько естественные и знакомые, что им всё время абсолютно веришь. Замечательная игра актёров.\n\nВизуал - шикарный: кинематографичный, но абсолютно правдоподобный и реалистичный. Локации выглядят естественно, но при этом выразительно, фактурно и немного экзотично за счёт немецкой специфики.\n\nИ при всём этом сериал ещё и очень смешной. Комедия занимает очень важное место - и её столько, сколько нужно, без вреда всему остальному. Это не ситком, но зато качество шуток лучше.\n\n10/10\nвау",
+            "publishedText": "29 марта 2026 13:39",
+            "likes": 1,
+            "spoiler": true,
+            "url": "https://hdrezka.me/series/comedy/22960-chistilschik-2012.html#comment-id-5803415"
+          },
+          {
+            "id": "5799294",
+            "depth": 0,
+            "parentId": null,
+            "replyTo": null,
+            "author": "чсо",
+            "text": "1 серия 4 сезона - шедевр",
+            "publishedText": "27 марта 2026 08:04",
+            "likes": 0,
+            "spoiler": false,
+            "url": "https://hdrezka.me/series/comedy/22960-chistilschik-2012.html#comment-id-5799294"
+          },
+          {
+            "id": "5799283",
+            "depth": 0,
+            "parentId": null,
+            "replyTo": null,
+            "author": "имхо хохо",
+            "text": "Шедевральная режиссура. Сценаристы - тоже гении",
+            "publishedText": "27 марта 2026 07:49",
+            "likes": 0,
+            "spoiler": false,
+            "url": "https://hdrezka.me/series/comedy/22960-chistilschik-2012.html#comment-id-5799283"
+          },
+          {
+            "id": "5788790",
+            "depth": 0,
+            "parentId": null,
+            "replyTo": null,
+            "author": "имхо хохо",
+            "text": "вот это находка",
+            "publishedText": "21 марта 2026 05:09",
+            "likes": 1,
+            "spoiler": false,
+            "url": "https://hdrezka.me/series/comedy/22960-chistilschik-2012.html#comment-id-5788790"
+          },
+          {
+            "id": "5676644",
+            "depth": 0,
+            "parentId": null,
+            "replyTo": null,
+            "author": "Bill_the_Butcher",
+            "text": "Спасибо за оригинальную озвучку!",
+            "publishedText": "20 января 2026 00:40",
+            "likes": 3,
+            "spoiler": false,
+            "url": "https://hdrezka.me/series/comedy/22960-chistilschik-2012.html#comment-id-5676644"
+          },
+          {
+            "id": "5490078",
+            "depth": 0,
+            "parentId": null,
+            "replyTo": null,
+            "author": "Ahmedsoy",
+            "text": "Пожалуйста, добавьте оригинальную озвучку с субами",
+            "publishedText": "20 октября 2025 09:16",
+            "likes": 1,
+            "spoiler": false,
+            "url": "https://hdrezka.me/series/comedy/22960-chistilschik-2012.html#comment-id-5490078"
+          },
+          {
+            "id": "5441820",
+            "depth": 0,
+            "parentId": null,
+            "replyTo": null,
+            "author": "tanix3",
+            "text": "спасибо Уриху за наводку",
+            "publishedText": "25 сентября 2025 10:37",
+            "likes": 1,
+            "spoiler": false,
+            "url": "https://hdrezka.me/series/comedy/22960-chistilschik-2012.html#comment-id-5441820"
+          },
+          {
+            "id": "5428821",
+            "depth": 0,
+            "parentId": null,
+            "replyTo": null,
+            "author": "Tinkea",
+            "text": "Немецкая скуф-версия Гослинга :D\nОтличный сериал",
+            "publishedText": "18 сентября 2025 17:48",
+            "likes": 1,
+            "spoiler": false,
+            "url": "https://hdrezka.me/series/comedy/22960-chistilschik-2012.html#comment-id-5428821"
+          },
+          {
+            "id": "5252965",
+            "depth": 0,
+            "parentId": null,
+            "replyTo": null,
+            "author": "Руан",
+            "text": "Цікаво і смішно.",
+            "publishedText": "22 июня 2025 05:46",
+            "likes": 0,
+            "spoiler": false,
+            "url": "https://hdrezka.me/series/comedy/22960-chistilschik-2012.html#comment-id-5252965"
+          },
+          {
+            "id": "5092092",
+            "depth": 0,
+            "parentId": null,
+            "replyTo": null,
+            "author": "Hans_Mirrli",
+            "text": "Добавьте пожалуйста оригинальную озвучку с субтитрами!",
+            "publishedText": "31 марта 2025 18:26",
+            "likes": 8,
+            "spoiler": false,
+            "url": "https://hdrezka.me/series/comedy/22960-chistilschik-2012.html#comment-id-5092092"
+          },
+          {
+            "id": "4966124",
+            "depth": 0,
+            "parentId": null,
+            "replyTo": null,
+            "author": "Zibert",
+            "text": "Посмотрел две серии, и не совсем понял, в чём этот сериал лучше нового. Или это как обычно, приверженцы \"раньше была трава зеленее\" или всем просто нравится более приземленнная версия нового чистильщика.\nМне лично пока нравится больше новый сериал, хоть и юмор главного героя не к месту вообще в многих случаях, в любом случае, даже по первых сериях разница в этих двух сериалах слишком ощутима, чтоб ставить их под одну полку.",
+            "publishedText": "31 января 2025 16:00",
+            "likes": 2,
+            "spoiler": false,
+            "url": "https://hdrezka.me/series/comedy/22960-chistilschik-2012.html#comment-id-4966124"
+          },
+          {
+            "id": "5007717",
+            "depth": 1,
+            "parentId": "4966124",
+            "replyTo": "Zibert",
+            "author": "Djdjjjddjdjdjjjdjdj",
+            "text": "Подрастешь пересмотришь. Британский переснятый шлак можно натянуть на троечку. И то после шквала критики немного лучше отсняли.",
+            "publishedText": "20 февраля 2025 03:46",
+            "likes": 0,
+            "spoiler": false,
+            "url": "https://hdrezka.me/series/comedy/22960-chistilschik-2012.html#comment-id-5007717"
+          },
+          {
+            "id": "5123053",
+            "depth": 1,
+            "parentId": "4966124",
+            "replyTo": "Zibert",
+            "author": "Max Rad",
+            "text": "посмотрел две серии того ремейка и больше не смог - говнище.\nмне кажется что ремеки созданы для того чтобы люди узнавали оригинал и смотрели хорошие фильмы\nя не знал про оригинал до ремейка и смотрю вторую серию и смешно прям со всего)\nнаверное тебе лет 12 потому не понимаешь нормальный взрослый юмор или физически возраст у тебя 30 а моральный 15",
+            "publishedText": "14 апреля 2025 23:13",
+            "likes": 0,
+            "spoiler": false,
+            "url": "https://hdrezka.me/series/comedy/22960-chistilschik-2012.html#comment-id-5123053"
+          },
+          {
+            "id": "4965767",
+            "depth": 0,
+            "parentId": null,
+            "replyTo": null,
+            "author": "simposon",
+            "text": "добавите оригинальную озвучку",
+            "publishedText": "31 января 2025 11:41",
+            "likes": 2,
+            "spoiler": false,
+            "url": "https://hdrezka.me/series/comedy/22960-chistilschik-2012.html#comment-id-4965767"
+          },
+          {
+            "id": "4254384",
+            "depth": 0,
+            "parentId": null,
+            "replyTo": null,
+            "author": "Chipulya",
+            "text": "спойлер\nЯ понимаю это комедия но конец могли бы объяснить или показать сценой, а так ничего не понятно, то ли умер типо то ли просто показали что это конец сериала.",
+            "publishedText": "6 февраля 2024 08:17",
+            "likes": 1,
+            "spoiler": true,
+            "url": "https://hdrezka.me/series/comedy/22960-chistilschik-2012.html#comment-id-4254384"
+          },
+          {
+            "id": "5009871",
+            "depth": 1,
+            "parentId": "4254384",
+            "replyTo": "Chipulya",
+            "author": "Digiry",
+            "text": "Всё объяснили ещё когда Хайко сидел в фойе и смотрел телевизор, слушайте репортаж после новостей о тюленев зоопарке.",
+            "publishedText": "21 февраля 2025 04:39",
+            "likes": 0,
+            "spoiler": false,
+            "url": "https://hdrezka.me/series/comedy/22960-chistilschik-2012.html#comment-id-5009871"
+          },
+          {
+            "id": "4218031",
+            "depth": 0,
+            "parentId": null,
+            "replyTo": null,
+            "author": "Nbnjd123",
+            "text": "Конец просто говно",
+            "publishedText": "18 января 2024 10:53",
+            "likes": 1,
+            "spoiler": false,
+            "url": "https://hdrezka.me/series/comedy/22960-chistilschik-2012.html#comment-id-4218031"
+          }
+        ],
+        "total": null,
+        "order": "page",
+        "fetchedAt": "2026-10-21T14:18:30.681Z",
+        "source": {
+          "name": "HDrezka",
+          "host": "hdrezka.me",
+          "url": "https://hdrezka.me/series/comedy/22960-chistilschik-2012.html"
+        },
+        "allAvailable": false
+      },
+      "planned": true
+    },
+    {
+      "work": {
+        "rank": 609,
+        "title": "The Twilight Zone",
+        "ru": "Сумеречная зона",
+        "type": "series",
+        "kind": "Сериал",
+        "year": 1959,
+        "imdb": "tt0052520",
+        "kpurl": "https://www.kinopoisk.ru/series/229159/",
+        "score": 9,
+        "kp": 8.3,
+        "kpRaw": 8.311,
+        "kpSource": "https://rating.kinopoisk.ru/229159.xml",
+        "scoreSource": "https://rating.kinopoisk.ru/229159.xml",
+        "kpVerifiedAt": "2026-10-21T14:27:15.541082+00:00",
+        "rezka": "https://hdrezka.me/series/horror/17090-sumerechnaya-zona-1959.html",
+        "kinogo": "https://uakinogo.io/serialy/36691-sumerechnaja-zona.html",
+        "image": "assets/library-609.webp",
+        "runtime": 33,
+        "seriesStats": {
+          "seasons": 5,
+          "episodes": 156,
+          "episodesPerSeason": 31.2,
+          "episodeMinutes": 33.46,
+          "seasonEpisodes": [
+            {
+              "season": 1,
+              "episodes": 36
+            },
+            {
+              "season": 2,
+              "episodes": 29
+            },
+            {
+              "season": 3,
+              "episodes": 37
+            },
+            {
+              "season": 4,
+              "episodes": 18
+            },
+            {
+              "season": 5,
+              "episodes": 36
+            }
+          ],
+          "totalMinutes": 5220,
+          "ongoing": false,
+          "source": "https://www.tvmaze.com/shows/787/the-twilight-zone",
+          "checkedAt": "2026-10-21T14:27:15.541082+00:00"
+        },
+        "productionCountries": [
+          "US"
+        ],
+        "trailer": {
+          "videoId": "zGQdYDru3B8",
+          "url": "https://www.youtube.com/watch?v=zGQdYDru3B8",
+          "title": "CBS - The Twilight Zone Promo - 1959",
+          "channel": "Sloan's TV Airchive",
+          "kind": "series-promo",
+          "duration": 69,
+          "language": "en",
+          "languageBasis": "Archival CBS promo for Rod Serling original black-and-white series",
+          "note": "Архивный проморолик оригинального сериала 1959 года",
+          "maxHeight": 480,
+          "verifiedAt": "2026-10-21T14:26:12.295712+00:00",
+          "availability": {
+            "embed": true,
+            "regions": [
+              "UA"
+            ],
+            "checkedAt": "2026-10-21T14:26:12.295712+00:00",
+            "source": "YouTube public player metadata"
+          }
+        },
+        "trailerAlternates": [
+          {
+            "videoId": "5tROD5Bko_E",
+            "url": "https://www.youtube.com/watch?v=5tROD5Bko_E",
+            "title": "1960s   Twilight Zone Promo",
+            "channel": "raoul duke",
+            "kind": "series-promo",
+            "duration": 63,
+            "language": "en",
+            "languageBasis": "Archival CBS promo for Rod Serling original black-and-white series",
+            "note": "Архивный проморолик оригинального сериала 1959 года",
+            "maxHeight": 360,
+            "verifiedAt": "2026-10-21T14:26:12.295712+00:00",
+            "availability": {
+              "embed": true,
+              "regions": [
+                "UA"
+              ],
+              "checkedAt": "2026-10-21T14:26:12.295712+00:00",
+              "source": "YouTube public player metadata"
+            }
+          }
+        ],
+        "syn": "Оригинальная чёрно-белая антология Рода Серлинга, выходившая с 1959 по 1964 год. В каждой серии — новые герои и самостоятельная история: обычная жизненная ситуация постепенно выходит за пределы привычного мира. Фантастика, мистика и психологический триллер помогают говорить о страхах, предрассудках, одиночестве и человеческой жадности. Часто смысл происходящего переворачивается в последней сцене. Серии можно смотреть по отдельности.",
+        "tags": [
+          "Антология",
+          "Фантастика",
+          "Мистика",
+          "Ирония",
+          "Сатира",
+          "Повороты сюжета",
+          "Психологический триллер"
+        ],
+        "editorialWhy": "Самостоятельные истории с мрачной иронией, моральными ловушками и неожиданной развязкой. Фантастическая ситуация здесь часто служит способом высмеять человеческую глупость или показать изнанку привычного поведения.",
+        "caveat": "Это оригинал 1959 года: чёрно-белая съёмка и неторопливая подача. В карточке — исторический проморолик CBS, а не трейлер современного перезапуска.",
+        "candidatePool": true,
+        "addedFrom": "user-request-twilight-zone-1959",
+        "source": "https://www.tvmaze.com/shows/787/the-twilight-zone"
+      },
+      "providers": {
+        "kinogo": {
+          "url": "https://uakinogo.io/serialy/36691-sumerechnaja-zona.html",
+          "basis": "original-title-year-player",
+          "matchedOriginalTitle": "The Twilight Zone",
+          "matchedTitle": "Сумеречная зона (1-5 сезон)",
+          "matchedYear": "1959",
+          "schemaType": "TVEpisode",
+          "pageHasPlayer": true,
+          "checkedAt": "2026-10-21T14:27:15.541082+00:00"
+        }
+      },
+      "reviewSource": {
+        "workId": 609,
+        "title": "The Twilight Zone",
+        "kpId": "229159",
+        "url": "https://hdrezka.me/series/horror/17090-sumerechnaya-zona-1959.html",
+        "basis": "exact-original-title-year",
+        "sourceHost": "hdrezka.me",
+        "matchedTitle": "The Twilight Zone",
+        "matchedYear": 1959,
+        "sourceYear": 1959,
+        "checkedAt": "2026-10-21T14:27:15.541082+00:00"
+      },
+      "reviews": {
+        "schemaVersion": 1,
+        "workId": 609,
+        "provider": "hdrezka",
+        "status": "ok",
+        "comments": [
+          {
+            "id": "6100953",
+            "depth": 0,
+            "parentId": null,
+            "replyTo": null,
+            "author": "Darkyelf",
+            "text": "Клевая штука.\nИ сразу забавный факт - в 3 серии 1 сезона (буквально вначале) на фоне вестерновского пейзажа играет музыка песни про Стеньку Разина )",
+            "publishedText": "26 сентября 2026 21:34",
+            "likes": 1,
+            "spoiler": false,
+            "url": "https://hdrezka.me/series/horror/17090-sumerechnaya-zona-1959.html#comment-id-6100953"
+          },
+          {
+            "id": "6030810",
+            "depth": 0,
+            "parentId": null,
+            "replyTo": null,
+            "author": "Тамалак",
+            "text": "Большое спасибо за выложенные сабы! Надеюсь что остальные 3 сезона тоже кто то переведёт.",
+            "publishedText": "11 августа 2026 12:16",
+            "likes": 1,
+            "spoiler": false,
+            "url": "https://hdrezka.me/series/horror/17090-sumerechnaya-zona-1959.html#comment-id-6030810"
+          },
+          {
+            "id": "5967409",
+            "depth": 0,
+            "parentId": null,
+            "replyTo": null,
+            "author": "ton4ik-pon4ik",
+            "text": "9 серия 2 сезона.очень полезна для просмотра нипричемышам \"это не мы,нас заставили\"",
+            "publishedText": "3 июля 2026 17:17",
+            "likes": 0,
+            "spoiler": false,
+            "url": "https://hdrezka.me/series/horror/17090-sumerechnaya-zona-1959.html#comment-id-5967409"
+          },
+          {
+            "id": "6016552",
+            "depth": 1,
+            "parentId": "5967409",
+            "replyTo": "ton4ik-pon4ik",
+            "author": "Sunny",
+            "text": "Те, кого Вы называете \"непричёмышами\" - это прогрессивная ветвь человеческой цивилизации, способная мыслить и развиваться, которая просто молча ждёт, когда слабоумные и отважные представители вечновоюющих кланов истребят друг друга, подарив разумным представителям человечества возможность спокойно создавать будущее для себя и следующих поколений.\nИначе не будет никого, способного восстановить руины цивилизации, оставленные безмозглыми стадами воинственных гиббонов, послушно исполняющих волю своих предводителей.",
+            "publishedText": "2 августа 2026 18:52",
+            "likes": 3,
+            "spoiler": false,
+            "url": "https://hdrezka.me/series/horror/17090-sumerechnaya-zona-1959.html#comment-id-6016552"
+          },
+          {
+            "id": "6045699",
+            "depth": 2,
+            "parentId": "6016552",
+            "replyTo": "Sunny",
+            "author": "КритическоеДеление",
+            "text": "шо то бигмак, шо это бигмак и оба они такие вонючие что их только дети и жрут.. долой рационализм в массы!",
+            "publishedText": "21 августа 2026 18:18",
+            "likes": 0,
+            "spoiler": false,
+            "url": "https://hdrezka.me/series/horror/17090-sumerechnaya-zona-1959.html#comment-id-6045699"
+          },
+          {
+            "id": "5922648",
+            "depth": 0,
+            "parentId": null,
+            "replyTo": null,
+            "author": "Тамалак",
+            "text": "Как же плохо что нет субтитров. И потому что нормальную озвучку вроде той где ребята на украинском стараются озвучивать ( пусть и с немалым количеством русизмов, но опустим этот момент) и потому что оригинальная речь звучащая там, во сто крат воспринималась бы лучше любой озвучки, и уж тем более это было бы лучше той одноголосой блевотины, где автор совершенно не старается передавать интонации - просто сухо читает текст.",
+            "publishedText": "4 июня 2026 21:23",
+            "likes": 1,
+            "spoiler": false,
+            "url": "https://hdrezka.me/series/horror/17090-sumerechnaya-zona-1959.html#comment-id-5922648"
+          },
+          {
+            "id": "5924058",
+            "depth": 1,
+            "parentId": "5922648",
+            "replyTo": "Тамалак",
+            "author": "Крейг",
+            "text": "Так завантажте на rarqb всі 5 сезонів і кайфуйте від оригінальної доріжки в чому проблема, в снобізмі і вільному часі для коментів?",
+            "publishedText": "5 июня 2026 20:40",
+            "likes": 0,
+            "spoiler": false,
+            "url": "https://hdrezka.me/series/horror/17090-sumerechnaya-zona-1959.html#comment-id-5924058"
+          },
+          {
+            "id": "6002550",
+            "depth": 2,
+            "parentId": "5924058",
+            "replyTo": "Крейг",
+            "author": "greenface",
+            "text": "Что за rarqb? Не гуглится.",
+            "publishedText": "25 июля 2026 10:28",
+            "likes": 0,
+            "spoiler": false,
+            "url": "https://hdrezka.me/series/horror/17090-sumerechnaya-zona-1959.html#comment-id-6002550"
+          },
+          {
+            "id": "5921044",
+            "depth": 0,
+            "parentId": null,
+            "replyTo": null,
+            "author": "Карий",
+            "text": "2 сезон українською повністю готовий",
+            "publishedText": "3 июня 2026 22:27",
+            "likes": 3,
+            "spoiler": false,
+            "url": "https://hdrezka.me/series/horror/17090-sumerechnaya-zona-1959.html#comment-id-5921044"
+          },
+          {
+            "id": "6052179",
+            "depth": 1,
+            "parentId": "5921044",
+            "replyTo": "Карий",
+            "author": "Skillet575",
+            "text": "тепер чекаємо на 3й",
+            "publishedText": "26 августа 2026 00:13",
+            "likes": 1,
+            "spoiler": false,
+            "url": "https://hdrezka.me/series/horror/17090-sumerechnaya-zona-1959.html#comment-id-6052179"
+          },
+          {
+            "id": "5760783",
+            "depth": 0,
+            "parentId": null,
+            "replyTo": null,
+            "author": "Dimas201",
+            "text": "переводчик в своём стиле... Гамлет и Гораччо... видимо школа прошла мимо него далеко.",
+            "publishedText": "6 марта 2026 00:36",
+            "likes": 2,
+            "spoiler": false,
+            "url": "https://hdrezka.me/series/horror/17090-sumerechnaya-zona-1959.html#comment-id-5760783"
+          },
+          {
+            "id": "5727203",
+            "depth": 0,
+            "parentId": null,
+            "replyTo": null,
+            "author": "Skillet575",
+            "text": "Админы спасибо что озвучиваете на украинском второй сезон,надеюсь вы не остановитесь,это действительно важный сериал в истории который породил множество современных фильмов и сериалов!Пареньку с торрента (fiendover) который озвучил весь сериал конечно респект но мне все нехватало женского голоса для персонажей",
+            "publishedText": "15 февраля 2026 19:17",
+            "likes": 1,
+            "spoiler": false,
+            "url": "https://hdrezka.me/series/horror/17090-sumerechnaya-zona-1959.html#comment-id-5727203"
+          },
+          {
+            "id": "5756694",
+            "depth": 1,
+            "parentId": "5727203",
+            "replyTo": "Skillet575",
+            "author": "Карий",
+            "text": "Адміни викладають, а озвучення робить студія \"Кінота\".",
+            "publishedText": "3 марта 2026 13:04",
+            "likes": 2,
+            "spoiler": false,
+            "url": "https://hdrezka.me/series/horror/17090-sumerechnaya-zona-1959.html#comment-id-5756694"
+          },
+          {
+            "id": "5647469",
+            "depth": 0,
+            "parentId": null,
+            "replyTo": null,
+            "author": "Alvarez Alvarez",
+            "text": "Ах, администрация, если бы можно было добавить оригинальную аудиодорожку ..",
+            "publishedText": "5 января 2026 01:53",
+            "likes": 11,
+            "spoiler": false,
+            "url": "https://hdrezka.me/series/horror/17090-sumerechnaya-zona-1959.html#comment-id-5647469"
+          },
+          {
+            "id": "5641294",
+            "depth": 0,
+            "parentId": null,
+            "replyTo": null,
+            "author": "reser",
+            "text": "Действительно легенда!\nСколько великих режисеров начинало свой путь в этом проекте..",
+            "publishedText": "2 января 2026 11:50",
+            "likes": 2,
+            "spoiler": false,
+            "url": "https://hdrezka.me/series/horror/17090-sumerechnaya-zona-1959.html#comment-id-5641294"
+          },
+          {
+            "id": "5587479",
+            "depth": 0,
+            "parentId": null,
+            "replyTo": null,
+            "author": "CHPS",
+            "text": "Маленькие шедевры. Легенда. Неужели нельзя было никому нормально озвучить сериал, качественно ?? Сколько раритета, помимо сюжета - машины, люди, здания той эпохи",
+            "publishedText": "7 декабря 2025 17:13",
+            "likes": 15,
+            "spoiler": false,
+            "url": "https://hdrezka.me/series/horror/17090-sumerechnaya-zona-1959.html#comment-id-5587479"
+          },
+          {
+            "id": "5494521",
+            "depth": 0,
+            "parentId": null,
+            "replyTo": null,
+            "author": "Skillet575",
+            "text": "Можно узнать а как часто озвучивают серии на украинском? и планируете ли все сезоны озвучить?",
+            "publishedText": "22 октября 2025 21:21",
+            "likes": 1,
+            "spoiler": false,
+            "url": "https://hdrezka.me/series/horror/17090-sumerechnaya-zona-1959.html#comment-id-5494521"
+          },
+          {
+            "id": "5494536",
+            "depth": 1,
+            "parentId": "5494521",
+            "replyTo": "Skillet575",
+            "author": "Администрация",
+            "text": "Все сезоны озвучивать не планируем. Серии от нашей студии обычно добавляются по мере готовности озвучки, информации о работе других релиз-групп у нас нет.",
+            "publishedText": "22 октября 2025 21:27",
+            "likes": 2,
+            "spoiler": false,
+            "url": "https://hdrezka.me/series/horror/17090-sumerechnaya-zona-1959.html#comment-id-5494536"
+          },
+          {
+            "id": "5499115",
+            "depth": 2,
+            "parentId": "5494536",
+            "replyTo": "Администрация",
+            "author": "Skillet575",
+            "text": "Это легендарный сериал,хотелось бы умереть посмотрев все сезоны в украинской озвучке))",
+            "publishedText": "25 октября 2025 14:04",
+            "likes": 3,
+            "spoiler": false,
+            "url": "https://hdrezka.me/series/horror/17090-sumerechnaya-zona-1959.html#comment-id-5499115"
+          },
+          {
+            "id": "5531951",
+            "depth": 3,
+            "parentId": "5499115",
+            "replyTo": "Skillet575",
+            "author": "Тамалак",
+            "text": "Наскрльуо мне известно, этот сериал озвучен на украинском лишь включительно по 2 сезон 4 серию. Нигде не находил дальше.",
+            "publishedText": "10 ноября 2025 15:42",
+            "likes": 1,
+            "spoiler": false,
+            "url": "https://hdrezka.me/series/horror/17090-sumerechnaya-zona-1959.html#comment-id-5531951"
+          }
+        ],
+        "total": null,
+        "order": "page",
+        "fetchedAt": "2026-10-21T14:27:17.142Z",
+        "source": {
+          "name": "HDrezka",
+          "host": "hdrezka.me",
+          "url": "https://hdrezka.me/series/horror/17090-sumerechnaya-zona-1959.html"
+        },
+        "allAvailable": false
+      },
+      "planned": true
+    }
+  ]
+}

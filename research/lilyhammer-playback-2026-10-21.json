@@ -1,0 +1,44 @@
+[
+  {
+    "videoId": "RknOi6nUD4o",
+    "url": "https://www.youtube.com/watch?v=RknOi6nUD4o",
+    "title": "Lilyhammer 2012 Trailer",
+    "channel": "Vodu Trailers",
+    "kind": "trailer",
+    "duration": 166,
+    "language": "en",
+    "languageBasis": "English automatic speech transcript",
+    "maxHeight": 720,
+    "verifiedAt": "2026-10-21T10:32:32.643856+00:00",
+    "availability": {
+      "embed": true,
+      "regions": [
+        "UA",
+        "RU"
+      ],
+      "checkedAt": "2026-10-21T10:32:32.643856+00:00",
+      "source": "YouTube public player metadata"
+    }
+  },
+  {
+    "videoId": "W4B3gAkb1fg",
+    "url": "https://www.youtube.com/watch?v=W4B3gAkb1fg",
+    "title": "Lilyhammer - Season 2 | Official Trailer [HD] | Netflix",
+    "channel": "Netflix",
+    "kind": "trailer",
+    "duration": 107,
+    "language": "en",
+    "languageBasis": "English captions or original-language publisher trailer",
+    "maxHeight": 1080,
+    "verifiedAt": "2026-10-21T10:32:32.643856+00:00",
+    "availability": {
+      "embed": true,
+      "regions": [
+        "UA",
+        "RU"
+      ],
+      "checkedAt": "2026-10-21T10:32:32.643856+00:00",
+      "source": "YouTube public player metadata"
+    }
+  }
+]

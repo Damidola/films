@@ -1,0 +1,41 @@
+{
+  "version": "7",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "6",
+      "when": 1792337141235,
+      "tag": "0000_strong_cerise",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "6",
+      "when": 1792521835816,
+      "tag": "0001_worthless_mojo",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "6",
+      "when": 1792579958415,
+      "tag": "0002_restore_defendor_watchlist",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "6",
+      "when": 1792592309266,
+      "tag": "0003_add_tatortreiniger_watchlist",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "6",
+      "when": 1792592835541,
+      "tag": "0004_add_twilight_zone1959_watchlist",
+      "breakpoints": true
+    }
+  ]
+}

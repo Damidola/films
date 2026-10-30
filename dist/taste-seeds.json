@@ -1,0 +1,257 @@
+[
+  {
+    "id": "seed-nathan",
+    "title": "Nathan for You",
+    "ru": "Нэйтан спешит на помощь",
+    "tags": [
+      "Как у Nathan",
+      "Неловкость",
+      "Документалка",
+      "Эксперимент"
+    ],
+    "type": "series",
+    "source": "https://www.tvmaze.com/shows/3136/nathan-for-you",
+    "note": "Ты уже смотрел, понравилось",
+    "tvmazeId": 3136,
+    "year": 2013,
+    "image": "assets/taste-nathan.webp",
+    "rank": 425
+  },
+  {
+    "id": "seed-review",
+    "title": "Review",
+    "ru": "Обзор",
+    "tags": [
+      "Дискомфорт",
+      "Абсурд",
+      "Сатира",
+      "Чернуха"
+    ],
+    "type": "series",
+    "source": "https://www.tvmaze.com/shows/1443/review",
+    "note": "Ты уже смотрел, понравилось",
+    "tvmazeId": 1443,
+    "year": 2014,
+    "image": "assets/taste-review.webp",
+    "rank": 426
+  },
+  {
+    "id": "seed-loudermilk",
+    "title": "Loudermilk",
+    "ru": "Лаудермилк",
+    "tags": [
+      "Цинизм",
+      "Диалоги",
+      "Сухой юмор"
+    ],
+    "type": "series",
+    "source": "https://www.tvmaze.com/shows/19355/loudermilk",
+    "note": "Ты уже смотрел, понравилось",
+    "tvmazeId": 19355,
+    "year": 2017,
+    "image": "assets/library-416.webp",
+    "rank": 416,
+    "imdb": "tt5957766"
+  },
+  {
+    "id": "seed-rehearsal",
+    "title": "The Rehearsal",
+    "ru": "Репетиция",
+    "tags": [
+      "Как у Nathan",
+      "Неловкость",
+      "Эксперимент",
+      "Мета"
+    ],
+    "type": "series",
+    "source": "https://www.tvmaze.com/shows/56116/the-rehearsal",
+    "note": "Ты уже смотрел, понравилось",
+    "tvmazeId": 56116,
+    "year": 2022,
+    "image": "assets/library-418.webp",
+    "rank": 418,
+    "imdb": "tt10802170"
+  },
+  {
+    "id": "seed-inbetween",
+    "title": "Mr Inbetween",
+    "ru": "Посредник",
+    "tags": [
+      "Криминал",
+      "Чёрный юмор",
+      "Сухой юмор"
+    ],
+    "type": "series",
+    "source": "https://www.tvmaze.com/shows/34268/mr-inbetween",
+    "note": "Ты уже смотрел, понравилось",
+    "tvmazeId": 34268,
+    "year": 2018,
+    "image": "assets/library-253.webp",
+    "rank": 253,
+    "imdb": "tt7472896"
+  },
+  {
+    "id": "seed-inside9",
+    "title": "Inside No. 9",
+    "ru": "Внутри девятого номера",
+    "tags": [
+      "Британское",
+      "Антология",
+      "Повороты",
+      "Чёрный юмор"
+    ],
+    "type": "series",
+    "source": "https://www.tvmaze.com/shows/374/inside-no-9",
+    "note": "Ты уже смотрел, понравилось",
+    "tvmazeId": 374,
+    "year": 2014,
+    "image": "assets/library-417.webp",
+    "rank": 417,
+    "imdb": "tt2674806"
+  },
+  {
+    "id": "seed-drawn",
+    "title": "Drawn Together",
+    "ru": "Мультреалити",
+    "tags": [
+      "Мульт",
+      "Табу",
+      "Пошлость",
+      "Без тормозов"
+    ],
+    "type": "series",
+    "source": "https://www.tvmaze.com/shows/1518/drawn-together",
+    "note": "Ты уже смотрел, понравилось",
+    "tvmazeId": 1518,
+    "year": 2004,
+    "image": "assets/taste-drawn.webp",
+    "rank": 427
+  },
+  {
+    "id": "seed-family",
+    "title": "Family Guy",
+    "ru": "Гриффины",
+    "tags": [
+      "Мульт",
+      "Сатира",
+      "Грубый юмор"
+    ],
+    "type": "series",
+    "source": "https://www.tvmaze.com/shows/84/family-guy",
+    "note": "Ты уже смотрел, понравилось",
+    "tvmazeId": 84,
+    "year": 1999,
+    "image": "assets/library-419.webp",
+    "rank": 419,
+    "imdb": "tt0182576"
+  },
+  {
+    "id": "seed-gary",
+    "title": "Gary and His Demons",
+    "ru": "Гэри и его демоны",
+    "tags": [
+      "Мульт",
+      "Цинизм",
+      "Чернуха"
+    ],
+    "type": "series",
+    "source": "https://www.tvmaze.com/shows/36906/gary-and-his-demons",
+    "note": "Ты уже смотрел, понравилось",
+    "tvmazeId": 36906,
+    "year": 2018,
+    "image": "assets/library-421.webp",
+    "rank": 421,
+    "imdb": "tt8421152"
+  },
+  {
+    "id": "seed-vermin",
+    "title": "Vermin",
+    "ru": "Паразиты",
+    "tags": [
+      "Мульт",
+      "Грубый юмор",
+      "Беспредел"
+    ],
+    "type": "series",
+    "source": "https://www.tvmaze.com/shows/41357/vermin",
+    "note": "Ты уже смотрел, понравилось",
+    "tvmazeId": 41357,
+    "year": 2018,
+    "image": "assets/library-420.webp",
+    "rank": 420,
+    "imdb": "tt8292872"
+  },
+  {
+    "id": "seed-borat",
+    "title": "Borat",
+    "ru": "Борат",
+    "tags": [
+      "Провокация",
+      "Мокьюментари",
+      "Табу"
+    ],
+    "type": "film",
+    "source": "https://www.imdb.com/title/tt0443453/",
+    "note": "Ты уже смотрел, понравилось",
+    "year": 2006,
+    "rank": 422,
+    "imdb": "tt0443453",
+    "image": "assets/library-422.webp"
+  },
+  {
+    "id": "seed-tucker",
+    "title": "Tucker & Dale vs. Evil",
+    "ru": "Убойные каникулы",
+    "tags": [
+      "Кровавый фарс",
+      "Хоррор",
+      "Фарс"
+    ],
+    "type": "film",
+    "source": "https://www.imdb.com/title/tt1465522/",
+    "note": "Ты уже смотрел, понравилось",
+    "year": 2010,
+    "rank": 423,
+    "imdb": "tt1465522",
+    "image": "assets/library-423.webp"
+  },
+  {
+    "id": "seed-1114",
+    "title": "11:14",
+    "ru": "11:14",
+    "tags": [
+      "Хитрый сюжет",
+      "Повороты",
+      "Криминал",
+      "Чёрный юмор"
+    ],
+    "type": "film",
+    "source": "https://www.imdb.com/title/tt0331811/",
+    "note": "Ты уже смотрел, понравилось",
+    "year": 2003,
+    "rank": 424,
+    "imdb": "tt0331811",
+    "image": "assets/library-424.webp"
+  },
+  {
+    "id": "seed-thursday",
+    "rank": 540,
+    "title": "Thursday",
+    "ru": "Кровавый четверг",
+    "year": 1998,
+    "type": "film",
+    "imdb": "tt0124901",
+    "tags": [
+      "Криминальная комедия",
+      "Чёрный юмор",
+      "Кровавый фарс",
+      "Абсурд",
+      "Диалоги",
+      "Цинизм"
+    ],
+    "image": "assets/library-540.webp",
+    "tasteWeight": 10,
+    "note": "По прямому указанию пользователя: идеальная чёрная комедия, главный ориентир для дальнейших рекомендаций.",
+    "source": "https://www.kinopoisk.ru/film/15641/"
+  }
+]

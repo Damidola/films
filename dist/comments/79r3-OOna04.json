@@ -1,0 +1,46 @@
+{
+  "videoId": "79r3-OOna04",
+  "videoTitle": "Masters of Sex seizoen 1 - trailer",
+  "videoChannel": "HBO Nederland (HBO NL)",
+  "videoUrl": "https://www.youtube.com/watch?v=79r3-OOna04",
+  "fetchedAt": "2026-10-16T18:55:31+00:00",
+  "source": "https://www.youtube-nocookie.com/youtubei/v1/next",
+  "sourceType": "youtube-direct",
+  "order": "top",
+  "status": "ok",
+  "total": 2,
+  "comments": [
+    {
+      "id": "UgwGLS4VOW5hukdPY1N4AaABAg",
+      "author": "@usernamesnotneeded",
+      "authorChannelId": "UC2w-bUiuI16g4rSsjvK7MeQ",
+      "authorAvatar": "https://yt3.ggpht.com/CR8WYHkHM1ghJhGp1rdr3ZxYG_Qsg6mPIYbWVVcq8iTd8V9MgC4GatR7-74aVcw18IlHjokhEQ=s88-c-k-c0x00ffffff-no-rj",
+      "text": "I wish this was on hulu",
+      "likes": 0,
+      "publishedText": "2 months ago",
+      "owner": false,
+      "pinned": false,
+      "url": "https://www.youtube.com/watch?v=79r3-OOna04&lc=UgwGLS4VOW5hukdPY1N4AaABAg"
+    },
+    {
+      "id": "UgzKj29zqdi-4XKKVi54AaABAg",
+      "author": "@coke8045",
+      "authorChannelId": "UCzqYmrpkofEAS6Ej5CJaF7g",
+      "authorAvatar": "https://yt3.ggpht.com/ytc/AIdro_mUDuuPKdA_IMDDBRAXXJyitB70vDLuKFrc6vaQ0x3sRA=s88-c-k-c0x00ffffff-no-rj",
+      "text": "Rare show",
+      "likes": 0,
+      "publishedText": "11 days ago",
+      "owner": false,
+      "pinned": false,
+      "url": "https://www.youtube.com/watch?v=79r3-OOna04&lc=UgzKj29zqdi-4XKKVi54AaABAg"
+    }
+  ],
+  "evidence": {
+    "initialSha256": "2a73d5aceb621dfbece0dc91fb74e035e4bde13e270789e5f85a83c8d88f3009",
+    "continuationSha256": "f7aa784f4dc054246bb082776600ad61d9e1fe14626d2042402b1085cc62b184",
+    "requests": 2,
+    "cookies": false,
+    "authentication": false,
+    "datePrecision": "YouTube returns relative publishedTime; no exact timestamp is invented."
+  }
+}

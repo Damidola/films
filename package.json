@@ -1,0 +1,22 @@
+{
+  "name": "dark-comedy-guide",
+  "version": "1.0.0",
+  "private": true,
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "dev": "node --use-env-proxy scripts/dev-server.mjs",
+    "build": "node scripts/build-worker.mjs",
+    "add:title": "node scripts/add-title.mjs",
+    "test": "node --test tests/state.test.js tests/personalization.test.cjs tests/comments-api.test.mjs tests/reviews.test.mjs tests/worker-route.test.mjs tests/profile.test.mjs",
+    "test:browser": "node tests/playback.cjs && node tests/library-ui.cjs && node tests/reviews-ui.cjs && node tests/papich-trailers-ui.cjs && node tests/mobile-layout.cjs && node tests/rejected-ui.cjs && node tests/profile-ui.cjs",
+    "db:generate": "drizzle-kit generate --config=drizzle.config.cjs"
+  },
+  "devDependencies": {
+    "drizzle-kit": "0.31.8",
+    "drizzle-orm": "0.44.7",
+    "esbuild": "0.25.12",
+    "prettier": "3.6.2"
+  }
+}
