@@ -2,7 +2,7 @@
 
 Фильмы, сериалы, трейлеры и личные коллекции.
 
-Сайт: https://dark-comedy-guide.nutmegmoth1.chatgpt.site
+Сайт: https://damidola.github.io/films/
 
 ## Запуск
 
@@ -25,4 +25,4 @@ npm run build
 
 Новые ручные добавления: `content/manual-additions.json`. Архитектура — `ARCHITECTURE.md`, порядок работы — `START_HERE.md`.
 
-GitHub хранит исходники. Автопубликация в текущий Sites-хостинг из GitHub пока не настроена.
+GitHub Pages автоматически публикует main из корня репозитория. Основное приложение открывается в dist/. Предыдущий Sites-хостинг больше не используется.

@@ -15,3 +15,7 @@ User preference: finish small changes quickly; keep progress and final replies s
 Site: https://dark-comedy-guide.nutmegmoth1.chatgpt.site
 Project: appgprj_6ad134993d388191a64c79119f6561de
 Source: https://github.com/Damidola/films.git
+
+## Current hosting: GitHub Pages only
+
+User explicitly stopped ChatGPT Sites publishing. Push changes only to Damidola/films main; GitHub Pages publishes from main /(root). Never create credentials, save versions, or deploy to ChatGPT Sites. Site URL: https://damidola.github.io/films/ . Root index opens dist/. Keep dist/library.json and the catalog/feed/favorites/good HTML copies current. Previous profile export is a local backup, not a public repository asset.
