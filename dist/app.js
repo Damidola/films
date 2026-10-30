@@ -1842,6 +1842,7 @@ async function init() {
     navigate(route(), false);
   };
   ProfileSync.mount(cloudProfile);
+  await ProfileRecovery.restore(cloudProfile);
   await cloudProfile.start(initialProfile);
   setInterval(() => { if (!document.hidden) cloudProfile.ready ? cloudProfile.pull() : (ProfileSync.config() && cloudProfile.start()); }, 15000);
   window.addEventListener("focus", () => { if (ProfileSync.config()) cloudProfile.ready ? cloudProfile.pull() : cloudProfile.start(); });
